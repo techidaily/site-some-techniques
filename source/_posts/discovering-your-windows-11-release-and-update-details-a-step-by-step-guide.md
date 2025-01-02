@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide"
-date: 2024-12-20T21:14:05.618Z
-updated: 2024-12-24T20:12:08.044Z
+date: 2024-12-31T19:10:16.333Z
+updated: 2025-01-02T00:47:12.573Z
 tags:
   - desktop
 categories:
@@ -11,21 +11,25 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 ## Discovering Your Windows 11 Release & Update Details: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Do Build Versions Mean?](https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-success-channel-ideas-to-spark-momentum/)
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
 
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
@@ -93,15 +93,17 @@ thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-cutting-edge-tv-selection-top-10-in-hdtvs/"><u>[Updated] Cutting-Edge TV Selection – Top 10 in HDTVs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fading-audio-dynamics-a-logic-pro-approach/"><u>2024 Approved Fading Audio Dynamics A Logic Pro Approach</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-fast-and-reliable-the-best-pinterest-video-downloads-ranked/"><u>2024 Approved Free, Fast & Reliable The Best Pinterest Video Downloads Ranked</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-dull-to-dynamic-top-11-techniques-for-enhanced-hues/"><u>2024 Approved From Dull to Dynamic Top 11 Techniques for Enhanced Hues</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/capture-attention-with-perfectly-cropped-instagram-ready-videos/"><u>Capture Attention with Perfectly Cropped, Instagram-Ready Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/first-row-fun-beyond-the-game-top-alternatives-for-2024/"><u>First Row Fun Beyond the Game Top Alternatives for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/harmony-rides-with-dj-shani-and-jason-jones-spinning-records-this-thursday-join-us-on-djntv/"><u>Harmony Rides with DJ Shani and Jason Jones Spinning Records This Thursday – Join Us on #DJNTV!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-8-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 8 to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/recovering-from-a-mistaken-tiktok-reload/"><u>Recovering From a Mistaken TikTok Reload</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/432356-9781775567349-the-silence/"><u>The Silence | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frontiers-in-virtuality-industry-analysis/"><u>[New] Frontiers in Virtuality Industry Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-find-tiktok-background-video-some-templates/"><u>[New] How to Find TikTok Background Video Some Templates</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-proficient-techniques-securely-embedding-a-url-in-tiktok-profiles/"><u>[New] In 2024, Proficient Techniques Securely Embedding a URL in TikTok Profiles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-boosting-revenue-through-effective-facebook-video-marketing/"><u>[Updated] 2024 Approved Boosting Revenue Through Effective Facebook Video Marketing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fasttrackpodcastlive-your-straightforward-guide-to-livestreaming-success/"><u>[Updated] FastTrackPodcastLive Your Straightforward Guide to Livestreaming Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-globe-spin-technology-in-lenses-versus-depth-perception-tech/"><u>2024 Approved Globe-Spin Technology in Lenses versus Depth Perception Tech</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726027028103-iso/"><u>高効率でISO画像を動画に変換するテクニック</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-faux-pas-ensuring-the-quality-of-ios-bots/"><u>Avoid Faux Pas: Ensuring the Quality of iOS Bots</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-steam-stats-tracking-gametime-and-accumulated-rewards/"><u>Dissecting Steam Stats: Tracking Gametime & Accumulated Rewards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero5-black-meets-hero5-session-a-visual-verdict/"><u>In 2024, Hero5 Black Meets Hero5 Session – A Visual Verdict</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-perfecting-mp4-files-with-srt-a-modern-methodology/"><u>In 2024, Perfecting MP4 Files with SRT - A Modern Methodology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions for Starting Google Chrome From Terminal on Windows 11
-date: 2024-12-17T20:44:51.872Z
-updated: 2024-12-24T16:03:08.461Z
+date: 2024-12-25T22:06:58.840Z
+updated: 2025-01-01T21:38:41.084Z
 tags:
   - deals
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Open Chrome as Administrator](https://facebook-videos.techidaily.com/new-twitter-video-series-breakdown-area-format-duration-for-2024/)
 * [Open Chrome in Incognito Mode](https://extra-support.techidaily.com/in-2024-sierras-cloud-essentials-drives-full-access-guide/)
 * [Open Chrome Straight to a Specific Website](https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
     
 ![The "start chrome" command in a Command Prompt window open in Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-21.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Chrome will now open. You can also do the same thing from the "Run" window.
 
  Open Run by typing "Run" in the Windows 10 search bar and selecting the "Run" application. You can also press Windows+R to open a Run window. 
@@ -53,7 +53,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The web browser will now open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Open Chrome as Administrator
@@ -66,11 +66,11 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Launching Chrome as an admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-running-as-admin.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll now be running Chrome as an administrator.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Open Chrome in Incognito Mode
 
@@ -80,13 +80,25 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Start Google Chrome with the /incognito flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-opening-chrome-in-incognito-mode.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To do this from the Run program, enter this command instead:
 
 `chrome /incognito` 
 
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Chrome will now open in incognito mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Open Chrome Straight to a Specific Website
 
@@ -106,29 +118,17 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Combining incognito with a specific website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-incog-specific-site.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can achieve the same goal using Run by using this command:
 
 `chrome www.howtogeek.com` 
 
 ![Opening Chrome to a specific website using a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-run-howtogeek.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or, to open the site in incognito mode, use:
 
 `chrome /incognito www.howtogeek.com` 
 
 ![Opening Chrome to a specific website in incognito mode using a Run box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-run-chrome-incog-to-specific-site.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In general, you can combine most of the arguments you can pass to Chrome in the Command Prompt. You're not just limited to the incognito flag or a specific website.
 
@@ -147,24 +147,18 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-analog-to-digital-safeguarding-older-photographic-memories/"><u>[New] From Analog to Digital Safeguarding Older Photographic Memories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-illusions-realized-what-is-augmented-reality/"><u>[New] Illusions Realized What Is Augmented Reality?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-utilizing-skys-bounty-to-brighten-indoors-for-2024/"><u>[New] Utilizing Sky's Bounty to Brighten Indoors for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flawless-pixel-processor-windowsmac/"><u>[Updated] Flawless Pixel Processor (Windows/Mac)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-how-to-delete-youtube-comments-effortlessly-in-2024/"><u>[Updated] How to Delete YouTube Comments Effortlessly, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovate-personalized-digital-chuckle-comedy/"><u>[Updated] Innovate Personalized Digital Chuckle Comedy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-the-basics-of-telegram-marketing-strategies/"><u>2024 Approved Grasping the Basics of Telegram Marketing Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gratuitous-sound-solutions-years-best-lut-downloads/"><u>2024 Approved Gratuitous Sound Solutions - Year's Best LUT Downloads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-kinemaster-focus-mastery-a-filmmakers-guide-to-sharper-images/"><u>2024 Approved Kinemaster Focus Mastery A Filmmaker's Guide to Sharper Images</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-perfecting-the-art-of-twitter-broadcasts/"><u>2024 Approved Perfecting the Art of Twitter Broadcasts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-influencers-roadmap-instagram-edition/"><u>2024 Approved The Influencer's Roadmap Instagram Edition</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-videos-how-to-use-picture-in-picture-in-final-cut-pro-for-2024/"><u>Elevate Your Videos How to Use Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/elite-picks-advanced-webcam-stands-for-2024/"><u>Elite Picks Advanced Webcam Stands for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enhance-visibility-a-comprehensive-guide-to-video-tagging/"><u>Enhance Visibility A Comprehensive Guide to Video Tagging</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-top-quintessential-4k-hd-gear-list-for-2024/"><u>Exclusive Top Quintessential 4K HD Gear List for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finding-the-perfect-date-tracker-10-best-androidios-apps/"><u>In 2024, Finding the Perfect Date Tracker 10 Best Android/iOS Apps</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-13-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 13</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-achieve-stunning-gopro-time-lapse/"><u>In 2024, Innovative Approaches to Achieve Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-gopro-video-editing-on-mac-made-easy-for-2024/"><u>Updated Unleash Your Creativity GoPro Video Editing on Mac Made Easy for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-focus-and-frame-essential-iphone-tools-for-cropping-photos/"><u>[New] Focus & Frame Essential iPhone Tools for Cropping Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-capture-the-crash-expert-surfer-cameras-review/"><u>[Updated] Capture the Crash - Expert Surfer Cameras Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-download-on-the-fly-best-free-tools-for-pinterest-vids-online/"><u>[Updated] Download on the Fly Best Free Tools for Pinterest Vids Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-future-frames-the-years-top-cinematographic-innovations-2024/"><u>[Updated] Future Frames The Year's Top Cinematographic Innovations - 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fixing-the-freeze-youtube-streaming-in-firefox/"><u>2024 Approved Fixing the Freeze YouTube Streaming in Firefox</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-best-live-stream-tools-for-gamers/"><u>2024 Approved Unveiling Best Live-Stream Tools for Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-insights-into-the-world-of-google-photos-for-2024/"><u>Expert Insights Into the World of Google Photos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-and-fun-gaming-hits-pick-the-best-for-phone-adventure/"><u>Fast & Fun Gaming Hits: Pick the Best for Phone Adventure</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fb-activity-preview-insight-or-intrusion-whats-safer/"><u>In 2024, FB Activity Preview Insight or Intrusion – What's Safer?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/maximizing-game-replays-in-roblox-with-macos-tips/"><u>Maximizing Game Replays in Roblox with macOS Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-2024s-top-wi-fi-repeaters-for-ultimate-internet-range-extension/"><u>Navigating 2024'S Top Wi-Fi Repeaters for Ultimate Internet Range Extension</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oppo-a59-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo A59 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Poco F5 5G | Dr.fone</u></a></li>
 </ul></div>
 

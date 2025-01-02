@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-12-21T21:56:35.182Z
-updated: 2024-12-24T20:05:02.968Z
+date: 2024-12-29T21:47:15.667Z
+updated: 2025-01-02T06:47:36.234Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,6 +27,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Or did it? When they cd into the target directory, the file isn’t there. And of course, because mv moves the file from the original directory, it’s not there either. It’s starting to look like the file has been lost in the ether. This is usually the point where the frustrated user reaches out for help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Part Slash Plays in the mv Command
 
  Let’s say you’re moving a file to a different directory. You’re going to keep the same filename. In theory, this makes things easy because you don’t need to specify a target filename on the command line. By default, mv uses the original filename.
@@ -46,7 +46,7 @@ ls ~/Downloads/src
 ![Moving a file with the mv command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s nice and simple, and everything works as expected. If we look into our target directory, we find the moved file, and we get on with the rest of our work.
@@ -54,7 +54,7 @@ ls ~/Downloads/src
 ![A moved file in its new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But let's say our Linux newcomer isn’t using [tab completion](https://desktop-recording.techidaily.com/new-2024-approved-an-impartial-appraisal-the-power-of-recordcast/). They're typing the directory paths by hand. If they misspell the name of the final directory, we get a very different behavior.
@@ -62,10 +62,6 @@ ls ~/Downloads/src
 mv ~/Downloads/src/important-file.dat ~/Documents/backpu
 
 ![Trying to use the mv command with a typo in the final directory name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  They’ve made a typo with the target directory name, but mv exits silently back to the command prompt. On the face of it, it looks like the file move worked.
 
@@ -77,6 +73,10 @@ ls ~/Documents/backup/
     
 ![Using ls to look for the file in the original and new directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The original and target directories are both empty. Where did the file go?
 
  Bash tries to find a directory called backpu, but can't find one. It concludes you want to rename your moved file to backpu. You’ll find a file called backpu one directory level higher than your target directory.
@@ -84,10 +84,6 @@ ls ~/Documents/backup/
 ls -l ~/Documents
 
 ![The location of the missing and misspelled file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To fix this, you can move your file to where it should have gone, and specify its proper name on the command line.
 
@@ -102,6 +98,10 @@ ls ~/Documents/backup
 mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 ![The trailing slash on the mv command line flags errors with the final directory name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The trailing slash explicitly tells Bash that this is a directory name, not a filename. Because Bash can’t find the misspelled directory, it reports the error to you and doesn’t move anything.
 
@@ -130,14 +130,21 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-hot.techidaily.com/por-que-tu-ubicacion-no-se-muestra-en-windows/"><u>¿Por Qué Tu Ubicación No Se Muestra en Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-aspect-ratios-for-stunning-video-outputs/"><u>[New] Explore Aspect Ratios for Stunning Video Outputs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-clarity-to-excellence-benqs-bl2711u-professional-4k-monitor-assessment/"><u>[New] From Clarity to Excellence BenQ’s BL2711U Professional 4K Monitor Assessment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-global-knowquiz-leaders-top-11-gk-channels-2024/"><u>[Updated] Global KNOWQuiz Leaders - Top 11 GK Channels, 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-two-in-one-device-review-unpacking-the-lenovo-chromebook-duet/"><u>Budget-Friendly Two-in-One Device Review: Unpacking the Lenovo Chromebook Duet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finns-fiscal-flow-income-insights-from-youtube-icon-for-2024/"><u>Finn's Fiscal Flow Income Insights From YouTube Icon for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-audio-treasures-for-video-crafting/"><u>In 2024, Ultimate Audio Treasures for Video Crafting</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-world-of-no-cost-picture-frame-movies/"><u>In 2024, Unlocking the World of No-Cost Picture Frame Movies</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/tecnicas-expertas-para-la-copia-de-seguridad-del-disco-y-transicion-a-un-ssd-con-uefi-en-windows-7810/"><u>Técnicas Expertas Para La Copia De Seguridad Del Disco Y Transición a Un SSD Con UEFI en Windows 7/8/10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fifteen-methods-to-reset-a-twitch-stream-in-real-time/"><u>[New] Fifteen Methods to Reset a Twitch Stream in Real-Time</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-framework-for-visual-storytelling/"><u>[New] Framework for Visual Storytelling</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitterize-your-tiktok-posts/"><u>[New] Twitterize Your TikTok Posts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevating-your-look-expert-tutorials-for-everyone-for-2024/"><u>[Updated] Elevating Your Look Expert Tutorials for Everyone for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-revisiting-historical-facebook-posts-mobilelaptop-for-2024/"><u>[Updated] The Art of Revisiting Historical Facebook Posts (Mobile/Laptop) for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-video-virtuosity-expertly-attaching-audio-to-youtube-videos-for-2024/"><u>[Updated] Video Virtuosity Expertly Attaching Audio to YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-filmmaking-mastering-imovie-audio/"><u>2024 Approved Harmonious Filmmaking Mastering iMovie Audio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-get-gratis-safe-vlc-media-player-on-mac-os-x-devices/"><u>2024 Approved How to Get Gratis, Safe VLC Media Player on Mac OS X Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-iphone-macro-photography-tips-and-tricks-for-2024/"><u>Expert iPhone Macro Photography Tips and Tricks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-lens-masterful-techniques-to-enhance-iphone-images-for-2024/"><u>Harnessing the Lens Masterful Techniques to Enhance iPhone Images for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nubia-red-magic-9-proplus-lock-screen-password-by-drfone-android/"><u>How To Change Nubia Red Magic 9 Pro+ Lock Screen Password?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-def-phones-with-vlogging-extras/"><u>In 2024, High-Def Phones with Vlogging Extras</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-quell-the-quake-techniques-to-smooth-out-gopro-footage/"><u>In 2024, Quell the Quake Techniques to Smooth Out GoPro Footage</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-downloading-and-updating-the-scansnap-driver-with-ease/"><u>Quick-Guide: Downloading and Updating the ScanSnap Driver with Ease!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-s18-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo S18</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y02T? | Dr.fone</u></a></li>
 </ul></div>
 

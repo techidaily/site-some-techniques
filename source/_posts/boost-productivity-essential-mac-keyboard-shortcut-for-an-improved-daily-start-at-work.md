@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2024-12-23T16:58:14.397Z
-updated: 2024-12-24T20:31:16.553Z
+date: 2024-12-27T05:59:41.956Z
+updated: 2025-01-02T00:32:40.733Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ## Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,17 +90,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-grandest-directors-reveals/"><u>[New] Grandest Directors' Reveals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-post-twitter-videos-on-snapchat-for-2024/"><u>[New] How to Post Twitter Videos on Snapchat for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-infuse-photo-radiance-distortion-in-adobe-cs/"><u>[New] Infuse Photo Radiance Distortion in Adobe CS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture-for-2024/"><u>[New] Revolutionize Your Laptop Experience Innovative Methods for Screen Capture for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-examining-facebooks-hidden-activity-knowledge-is-power/"><u>[Updated] Examining Facebook’s Hidden Activity Knowledge Is Power</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-a-seamless-google-podcast-upload-experience/"><u>[Updated] Expert Tips for a Seamless Google Podcast Upload Experience</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-download-facebook-videos-on-windows-and-mac/"><u>[Updated] How to Download Facebook Videos on Windows and Mac</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-immersive-commerce-environments-design/"><u>[Updated] In 2024, Immersive Commerce Environments Design</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/a-new-eras-masters-unveiling-the-best-6-in-nft-creation-for-2024/"><u>A New Era's Masters Unveiling the Best 6 in NFT Creation for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-cameras-for-high-stakes-athletics-for-2024/"><u>Innovative Cameras for High-Stakes Athletics for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/is-it-possible-to-navigate-a-flippingbook-pdf-in-reverse-order-similar-to-arabic-text-reading/"><u>Is It Possible to Navigate a FlippingBook PDF in Reverse Order Similar to Arabic Text Reading?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721948965426-navigate-with-intelligence-use-bings-advanced-ai-search-on-both-andriod-phones-and-iphones/"><u>Navigate with Intelligence: Use Bing’s Advanced AI Search on Both Andriod Phones and iPhones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-find-your-favorite-general-knowledge-quiz-channel-of-the-year-24/"><u>[New] Find Your Favorite General Knowledge Quiz Channel of the Year, '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-on-google-podcast-upload/"><u>[New] Guide on Google Podcast Upload</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-guide-to-youtubes-latest-income-strategies/"><u>[New] In 2024, Guide to YouTube's Latest Income Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-spectrum-an-intensive-feature-by-feature-comparison-for-2024/"><u>GoPro Spectrum An Intensive Feature-By-Feature Comparison for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-edge-40-neo-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Edge 40 Neo Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr/"><u>In 2024, Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-a-flash-streamlined-techniques-for-cutting-images-online-for-2024/"><u>In a Flash Streamlined Techniques for Cutting Images Online for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/master-fast-sharing-youtube-playlists-made-simple/"><u>Master Fast Sharing YouTube Playlists Made Simple</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/scarica-e-converti-dpx-file-su-internet-gratuito-con-i-servizi-di-moveavi/"><u>Scarica E Converti DPX File Su Internet Gratuito Con I Servizi Di MoveAVI</u></a></li>
 </ul></div>
 

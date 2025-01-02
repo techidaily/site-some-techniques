@@ -1,7 +1,7 @@
 ---
 title: "July 3Rd Edition: Solving #388 on New York Times Connection Puzzles"
-date: 2024-12-17T19:02:48.154Z
-updated: 2024-12-24T17:01:08.386Z
+date: 2024-12-29T22:12:10.960Z
+updated: 2025-01-02T06:28:43.428Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 ---
 
 ## July 3Rd Edition: Solving #388 on New York Times Connection Puzzles
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -43,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 ![July 3's Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/july-3-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 ![July 3 Connections words sorted into groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/july-3-connections-filled.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Develop, as Ideas (Yellow):** 
@@ -78,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
  Curveball, Party, Tantrum, Wrench 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
  That left curveball, party, trantrum, and wrench. These were a bit harder to puzzle out, but knowing they were in the Purple group helped a bit, since it tends to be less literal. I muttered the words out loud, which was enough to help me connect that they're all things that can be _figuratively_ thrown. Though, a curveball and a wrench can be thrown physically, too. 
 
  The Purple group was "Things You can Throw in Metaphors." 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -127,18 +127,17 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-storytellers-sanctum-summit-selections/"><u>[New] 2024 Approved Storytellers Sanctum – Summit Selections</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-effective-methods-share-twitch-stream-on-facebook-for-2024/"><u>[Updated] Effective Methods | Share Twitch Stream on Facebook for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-becoming-a-master-of-instagrams-video-dialogue-dynamics/"><u>2024 Approved Becoming a Master of Instagram's Video Dialogue Dynamics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-realme-narzo-60x-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Realme Narzo 60x 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fuse-rhythms-into-powerpoint-layouts-for-2024/"><u>Fuse Rhythms Into PowerPoint Layouts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/holographic-horizons-reimagined-movies-for-2024/"><u>Holographic Horizons Reimagined Movies for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immerse-in-visual-creation-best-3d-model-and-rendering-tools-reviewed-for-2024/"><u>Immerse in Visual Creation Best 3D Model & Rendering Tools Reviewed for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-htc-frp-bypass-by-drfone-android/"><u>In 2024, About HTC FRP Bypass</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-8-premium-websites-for-3d-text-psdfiles/"><u>In 2024, Explore 8 Premium Websites for 3D Text PSDFiles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-speech-to-text-your-all-inclusive-gdoc-training-guide/"><u>In 2024, From Speech to Text Your All-Inclusive GDoc Training Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-frontier-gadgets-galore-top-10-vr-accessories/"><u>In 2024, Frontier Gadgets Galore Top 10 VR Accessories</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-in-the-ring-of-creatives-evaluating-own-and-adversary-arts/"><u>[New] 2024 Approved In the Ring of Creatives Evaluating Own and Adversary Arts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-innovative-color-grading-integrating-free-lut-resources/"><u>[New] 2024 Approved Innovative Color Grading Integrating FREE LUT Resources</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-guide-embedding-dates-into-photographs/"><u>[Updated] Quick Guide Embedding Dates Into Photographs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extraordinary-assessment-and-alternative-choices/"><u>2024 Approved Extraordinary Assessment & Alternative Choices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hymn-based-ringtone-options-for-every-believer/"><u>2024 Approved Hymn-Based Ringtone Options for Every Believer</u></a></li>
+<li><a href="https://win-community.techidaily.com/diy-bootable-windows-server-2022-drive-with-this-simple-tutorial/"><u>DIY Bootable Windows Server 2022 Drive with This Simple Tutorial!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-deciphering-whatsapp-talk-mechanics/"><u>In 2024, Deciphering WhatsApp Talk Mechanics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-garage-gratuitous-tools-to-tickle-your-brain/"><u>In 2024, Giggle Garage Gratuitous Tools to Tickle Your Brain</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-switch-windows-11-to-auto-hdr-mode/"><u>In 2024, How to Switch Windows 11 To Auto HDR Mode</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incremental-sound-dampening-strategy/"><u>In 2024, Incremental Sound Dampening Strategy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/legal-ways-to-listen-to-music-online-for-free-top-15-destinations/"><u>Legal Ways to Listen to Music Online for Free – Top 15 Destinations</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-vivo-g2-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Vivo G2</u></a></li>
 </ul></div>
 

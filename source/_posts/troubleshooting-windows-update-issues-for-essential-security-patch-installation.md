@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows Update Issues for Essential Security Patch Installation
-date: 2024-12-19T21:34:31.299Z
-updated: 2024-12-24T17:29:36.282Z
+date: 2024-12-28T04:47:02.827Z
+updated: 2025-01-01T16:36:13.766Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Troubleshooting Windows Update Issues for Essential Security Patch Installation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,16 +31,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Update Now' highlighted on the Windows Update Assistant site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-download-windows-update-assistant.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the downloaded tool file, install the updates displayed in the tool, and [restart your PC](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/).
 
  In the future, you can update your system from Settings > Update & Security > Windows Update as usual without encountering the above error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  2\. Clear Your Windows Update Cache
 
@@ -56,10 +52,6 @@ services.msc
 
 !['Stop' highlighted for the 'Windows Update' service on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-stop-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, open the Run dialog box again, enter the following in the field, and press Enter:
 
 C:\Windows\SoftwareDistribution\
@@ -72,10 +64,6 @@ C:\Windows\SoftwareDistribution\
 
  To now update your PC, head into Settings > Update & Security > Windows Update and find and install the available updates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3\. Use the Windows Update Troubleshooter
 
  If your issue persists, something else may be wrong with Windows Update. In this case, use your PC’s built-in Windows Update troubleshooter to automatically find and fix issues with your updates. Only a little interaction is required from your end.
@@ -86,6 +74,10 @@ C:\Windows\SoftwareDistribution\
 
  Wait for the tool to detect and resolve your update problems. This can take anywhere from a few seconds to a few minutes, then restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Fix Windows’ Corrupted System Files
 
  If Windows’ core files are corrupted, that can cause your various system features to malfunction, including Windows Update. In this case, use your PC’s built-in SFC (System File Checker) tool to [find and repair all the damaged system files on your computer](https://some-guidance.techidaily.com/twirl-forge-instruments-for-2024/).
@@ -94,6 +86,10 @@ C:\Windows\SoftwareDistribution\
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the "User Account Control" prompt, choose "Yes".
 
  On the Command Prompt window, type the following command and press Enter. This will download the files needed to fix your corrupted files.
@@ -101,6 +97,10 @@ C:\Windows\SoftwareDistribution\
 DISM.exe /Online /Cleanup-image /Restorehealth
 
 ![The DISM command on a Command Prompt window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-run-dism-command-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next up, run the following command to begin finding and fixing your system’s damaged files:
 
@@ -127,19 +127,21 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-implementing-visual-learning-strategies-in-classrooms/"><u>[New] Implementing Visual Learning Strategies in Classrooms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incorporating-keywords-for-seo/"><u>[New] Incorporating Keywords for SEO</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-improving-frame-rate-in-warped-web-videos/"><u>[Updated] Improving Frame Rate in Warped Web Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-understanding-googles-ar-sticker-innovation/"><u>[Updated] In 2024, Understanding Google's AR Sticker Innovation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-video-edits-leveraging-kinemasters-techniques/"><u>[Updated] Innovative Video Edits Leveraging Kinemaster's Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-boosting-facebook-video-performance/"><u>2024 Approved Boosting Facebook Video Performance</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unlock-the-full-potential-of-group-video-conferencing-on-your-android-device-zoom/"><u>2024 Approved Unlock the Full Potential of Group Video Conferencing on Your Android Device (Zoom)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-innovative-neural-network-alternatives-eclipsing-chatgpts-mobile-version/"><u>8 Innovative Neural Network Alternatives Eclipsing ChatGPT's Mobile Version</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-advantages-of-mechanical-switches-in-pcs/"><u>Exploring the Advantages of Mechanical Switches in PCs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-everything-you-need-to-know-about-3d-lut-creator/"><u>In 2024, Everything You Need to Know About 3D LUT Creator</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-c55-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme C55 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 6 Plus?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pick-the-finest-format-converter-for-audio-files-in-wv-compare-mp3-flac-wav-and-more/"><u>Pick the Finest Format Converter for Audio Files in WV: Compare MP3, FLAC, WAV & More!</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/tutorial-how-to-stream-movies-and-show-via-usb-on-hisense-smart-tvs/"><u>Tutorial: How to Stream Movies and Show via USB on Hisense Smart TVs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-and-yi-clash-a-new-look-at-action-cams-best-version/"><u>[New] GoPro & Yi Clash A New Look at Action Cams' Best Version</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highlights-from-the-lg-bp350-monitor-user-experience-review/"><u>[New] Highlights From the LG BP350 Monitor User Experience Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-tune-travelers-guide-transferring-playlists-with-precision-for-2024/"><u>[New] Tune Traveler's Guide Transferring Playlists with Precision for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-pathway-to-viral-stardom-explained/"><u>[Updated] Facebook's Pathway to Viral Stardom Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-writing-enthralling-videography-content/"><u>[Updated] Guide to Writing Enthralling Videography Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-preferred-applications-vtubers-sonic-transformation-journey/"><u>2024 Approved Guide to Preferred Applications Vtuber's Sonic Transformation Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-film-viewing-with-iphone-tricks/"><u>2024 Approved Innovating Film Viewing with iPhone Tricks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-prowess-the-ultimate-list-of-powerful-hashtags/"><u>2024 Approved Instagram Prowess The Ultimate List of Powerful Hashtags</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-metaversal-journey-versus-omniverse-quest/"><u>2024 Approved Metaversal Journey Versus Omniverse Quest</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unraveling-friends-pixels-speed-up-searches/"><u>2024 Approved Unraveling Friends' Pixels Speed Up Searches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-correcting-windows-11s-zoom-failures/"><u>Deciphering and Correcting Windows 11'S Zoom Failures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-possibilities-of-360-degree-fisheye-images-for-2024/"><u>Exploring the Possibilities of 360-Degree Fisheye Images for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-of-security-insights-into-tomorrows-cyber-threat-landscape/"><u>Future of Security: Insights Into Tomorrow's Cyber Threat Landscape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-monochrome-to-multicolor-grading-journey/"><u>In 2024, From Monochrome to Multicolor Grading Journey</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719329062784-overcoming-full-screen-capture-annoyances-with-these-4-strategies/"><u>Overcoming Full-Screen Capture Annoyances with These 4 Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-android-cloud-saving-tools-for-2024/"><u>Top Android Cloud Saving Tools for 2024</u></a></li>
 </ul></div>
 

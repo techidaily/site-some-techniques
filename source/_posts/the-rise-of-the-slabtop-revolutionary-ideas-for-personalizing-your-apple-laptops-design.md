@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the SLABTOP: Revolutionary Ideas for Personalizing Your Apple Laptop's Design"
-date: 2024-12-17T19:32:54.186Z
-updated: 2024-12-24T16:49:09.348Z
+date: 2024-12-30T18:23:49.303Z
+updated: 2025-01-02T05:49:32.143Z
 tags:
   - desktop
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  Ever wanted to return to a simpler time, when your computer was fully housed within your keyboard? Maybe it's time to give your laptop a haircut and live like it's 1982 again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is a Slabtop?
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  This slab contains pretty much everything you need for a computer to run, including the motherboard, processor, RAM, and GPU. There's also a battery inside, a keyboard and trackpad on top, and connectivity via built-in ports. All you're missing is the display and webcam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Bother With a Headless Laptop?
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
 ![CalDigit USB-C Gen2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/caldigit-usb-c-gen2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #####  CalDigit USB-C Gen2 Dock
 
 CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you to run two 4K displays at 30Hz or mirror dual 4K displays at 60Hz.
@@ -60,6 +56,10 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Rather than dragging the dead weight of a cracked display around with you, turn that laptop into a project and remove the screen entirely. You'll be amazed how freeing a laptop can feel once you've taken the weighty display away. It's also pretty much essential if you hope to use it at a desk or near a display that's around head height.
 
  Slabtops are portable and self-contained. They can be stored easily on a desk or in a drawer, and you can carry them around with relative ease. It's also something you might enjoy leaning into, as a sort-of nerdy flex. You'll need to perform surgery on your laptop to remove the display, so it could be a fun project if you're that way inclined.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add Your Own Display
 
@@ -76,7 +76,7 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
  Your other option is to create a headless machine simply to save space (and potentially cut down on energy usage). This is great for use as a server that you can keep in a cupboard or under your desk, and you can easily move closer to a display if you need to. Install [a remote access tool like TeamViewer or TigerVNC](https://win-blog.techidaily.com/essential-fixes-for-pc-ps5-and-xbox-users-experiencing-diablo-4-game-crashes/) and you might never need to connect a display again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Make Your Own Slabtop
@@ -90,7 +90,7 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 [iFixit](https://www.ifixit.com) is a great resource for this. This resource has screen replacement guides (like [this one for a 2021 MacBook Pro 16-inch](https://www.ifixit.com/Guide/MacBook+Pro+16-Inch+2021+Screen+Replacement/150595)) that you can follow, plus there are video repair guides on the internet for all kinds of laptops. Your ultimate goal should be a clean headless laptop, free of unsightly ribbon cables.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Things to Consider Before Going Headless
@@ -122,17 +122,22 @@ CalDigit USB-C Gen2 Dock includes an HDMI 2.0b and DisplayPort 1.4, allowing you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-infusing-videos-with-apple-harmonies/"><u>[New] Infusing Videos with Apple Harmonies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unlock-creative-potential-top-methods-for-green-screen-filming-for-2024/"><u>[Updated] Unlock Creative Potential Top Methods for Green Screen Filming for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-windows-file-access-error-expert-solutions-and-tips/"><u>Dealing with 'Windows File Access Error': Expert Solutions and Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-methods-for-incorporating-links-into-tiktok-bios-for-2024/"><u>Expert Methods for Incorporating Links Into TikTok Bios for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flipping-photo-lightness-for-an-alternate-look-for-2024/"><u>Flipping Photo Lightness for an Alternate Look for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-future-in-your-hands-choosing-a-premium-360-camera-today/"><u>In 2024, Future in Your Hands Choosing a Premium 360 Camera Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-innovations-a-side-by-side-exploration/"><u>In 2024, GoPro Innovations A Side-by-Side Exploration</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-superior-internet-audio-devices-reviewed-and-ranked-2023/"><u>In 2024, Superior Internet Audio Devices Reviewed & Ranked 2023</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfecting-soundtracks-with-imovie-tools-for-2024/"><u>Perfecting Soundtracks with iMovie Tools for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-moving-your-favorite-app-from-one-ipad-to-the-next/"><u>Step-by-Step Guide: Moving Your Favorite App From One iPad to the Next</u></a></li>
-<li><a href="https://windows11.techidaily.com/time-travel-tech-windows-7-product-key-for-11-activation/"><u>Time-Travel Tech: Windows 7 Product Key for 11 Activation</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-scanner-no-longer-offline/"><u>Windows 11: Scanner No Longer Offline</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-pro-vs-gopro-hero4-platinum/"><u>[New] GoPro Hero5 Pro Vs GoPro Hero4 Platinum</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-sculpting-textual-space-with-ais-powerful-features/"><u>[New] In 2024, Sculpting Textual Space with AI's Powerful Features</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-is-paying-monthly-for-youtubes-unlimited-access-a-good-deal/"><u>[Updated] 2024 Approved Is Paying Monthly for YouTube's Unlimited Access a Good Deal?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-fps-the-ultimate-speedy-extension-guide/"><u>[Updated] Fast-Track FPS The Ultimate Speedy Extension Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fusing-imagery-montage-mastery-essentials/"><u>[Updated] Fusing Imagery Montage Mastery Essentials</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-top-5-methods-capturing-facebook-stories-on-devices/"><u>[Updated] Top 5 Methods Capturing Facebook Stories on Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-spots-for-youtube-video-promotion/"><u>2024 Approved Foremost Spots for YouTube Video Promotion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-google-vs-others-a-comparison-in-ar-stickers/"><u>2024 Approved Google Vs. Others A Comparison in AR Stickers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-g29-racing-wheel-drivers-and-software-compatible-with-windows-11-10-and-7/"><u>Download Logitech G29 Racing Wheel Drivers & Software: Compatible with Windows 11, 10, and 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/freeze-frame-like-a-pro-easy-steps-to-amazing-slow-mo-videos-on-android-for-2024/"><u>Freeze Frame Like a Pro Easy Steps to Amazing Slow Mo Videos on Android for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v27-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo V27 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-edge-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-frameworks-premium-webcams-for-your-podcasts/"><u>In 2024, Flawless Frameworks Premium Webcams for Your Podcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-change-your-voice-in-free-fire-game-free-solution-included/"><u>In 2024, How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-portrait-perfection-the-best-video-editing-apps-for-ios-and-android/"><u>New Portrait Perfection The Best Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-videography-at-your-fingertips-phones-with-top-tier-image-stabilization-for-2024/"><u>Precision Videography at Your Fingertips Phones with Top-Tier Image Stabilization for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/revitalize-blurry-footage-a-guide-to-sharpening-videos-in-adobe-premiere-pro/"><u>Revitalize Blurry Footage: A Guide to Sharpening Videos in Adobe Premiere Pro</u></a></li>
 </ul></div>
 

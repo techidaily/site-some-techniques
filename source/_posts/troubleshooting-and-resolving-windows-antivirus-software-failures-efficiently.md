@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Resolving Window's Antivirus Software Failures Efficiently
-date: 2024-12-21T19:09:50.250Z
-updated: 2024-12-24T21:55:02.353Z
+date: 2024-12-26T05:42:57.323Z
+updated: 2025-01-02T02:59:55.824Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Troubleshooting & Resolving Window's Antivirus Software Failures Efficiently
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,7 +27,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Repair the Corrupt System Files](https://visual-screen-recording.techidaily.com/updated-in-2024-the-zen-of-zoom-talk-top-strategies-for-smooth-virtual-dialogue/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,10 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Experiencing issues with the Windows Security app? Is it not opening, displaying a black screen, or showing an error like "Windows Security Center service is turned off?" These problems can stem from a faulty Windows update, infection, and corrupted files. Here are a few ways to fix it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  1\. Perform Some Preliminary Checks
 
  To begin, perform some quick checks to rule out temporary issues. Close the unresponsive Windows Security app and restart your device. Then, uninstall recently installed software, downloaded files, or any recently added items. If the issue remains unresolved, check for any potential hijackers installed on your system.
@@ -46,19 +46,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking the Signature details of a process in the Windows Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/checking-the-signature-details-of-a-process-in-the-windows-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The process is likely genuine if the signature belongs to a well-known company, like Microsoft or Google. whose products you use. If the signer information is missing or associated with an unfamiliar company, you need to investigate further. So, right-click on the process and select "Open File Location."
 
 ![Opening the file location of a process from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-opening-the-file-location-of-a-process-in-task-manager.jpg) 
 
  If the process is associated with an unfamiliar app you don't recall installing, proceed to delete that app from your device. If you want to dig deeper, you can also search online for more information about the process and its authenticity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  2\. Repair and Reset the Windows Security App
 
@@ -76,10 +68,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Opening the advanced settings of the Windows security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-opening-the-advanced-settings-of-the-windows-security-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll down and click on "Repair." Allow the repair process to complete, close the Settings app, and reopen Windows Security. If the issue persists, return to the same settings page, click "Reset," and then confirm by clicking "Reset" again in the popup.
 
 ![Repairing and resetting the Windows security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-repairing-and-resetting-the-windows-security-app.jpg) 
@@ -93,12 +81,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Checking for the available updates in the Settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/checking-for-the-available-updates-in-settings-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows will then search for any available updates, download them, and proceed to install them.
 
 ![Windows downloading and installing an update.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/windows-downloading-and-installing-an-update.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In some cases, you may need to restart your device to install updates.
 
@@ -123,7 +115,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Uninstalling a recently installed update in the settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-uninstalling-a-recently-installed-update-in-the-settings-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  5\. Ensure Your Device Isn't Infected
@@ -132,27 +128,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If Windows Security is not working due to an infection, the security scan will detect and remove it. If the security scan reveals your system is malware-free, proceed to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Ensure the Security Centre Service Isn't Disabled
 
  If you encounter an error such as "Windows Security Center service is turned off" when opening the Windows Security app, this service could be disabled. To check, type "Services" in Windows Search and open the "Services" app. In the right pane, locate the "Security Center" service, right-click on it, and open "Properties."
 
 ![Opening the properties of a service form the services app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-opening-the-properties-of-a-service-form-the-services-app-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the service is disabled, click on the "Start" button and select "Automatic (Delayed Start)" from the dropdown menu next to "Startup Type."
 
 ![Changing the properties of a service in the services app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-changing-the-properties-of-a-service-in-the-services-app-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If these options are grayed out, restart this service in [Registry Editor](https://facebook-record-videos.techidaily.com/new-economical-mic-options-for-youtube-vloggers-for-2024/). Type "Registry" in Windows Search and open the "Registry Editor." Then, navigate to Computer > HKEY\_LOCAL\_MACHINE > SYSTEM > CurrentControlSet > Services > wscsvc. Click on the "Start" key, and if the "Value Data" field is currently set to "4", change it to "2".
 
 ![Changing the data value of a key in registry editor on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-changing-the-data-value-of-a-key-in-registry-editor-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  7\. Temporarily Disable or Delete Third-Party Antivirus Software
 
@@ -161,6 +157,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If it does, then your antivirus app is likely the cause of the problem. In that case, you can keep it disabled, as Windows Defender is a reliable built-in antivirus solution, and in most cases, there's no real need for additional third-party software.
 
  If you prefer using a third-party security suite for additional security, consider switching to a different antivirus program that doesn't interfere with the Windows Security app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Repair the Corrupt System Files
 
@@ -195,19 +195,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-integrated-systems-approach-for-film-recording-on-diverse-computers/"><u>[New] 2024 Approved Integrated Systems Approach for Film Recording on Diverse Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-use-android-phones-in-watching-vr-or-360-videos/"><u>[New] How to Use Android Phones in Watching VR or 360 Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-google-image-mastery-rapid-and-remarkable-mosaics-created/"><u>[Updated] Google Image Mastery Rapid & Remarkable Mosaics Created</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-mechanized-sky-dwellers-classes/"><u>[Updated] Mechanized Sky-Dwellers' Classes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-strategies-for-high-quality-gopro-4k-footage-editing/"><u>2024 Approved Expert Strategies for High-Quality GoPro 4K Footage Editing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/efficient-strategies-for-instagram-to-mp3-transformation/"><u>Efficient Strategies for Instagram to Mp3 Transformation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-free-online-conversion-of-swf-files-into-editable-gif-images-with-movavis-service/"><u>How to Free Online Conversion of SWF Files Into Editable GIF Images with Movavi's Service</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ghoul-gags-generator/"><u>In 2024, Ghoul Gags Generator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-walkthrough-for-proficient-use-of-green-screen-in-kinemaster-for-2024/"><u>In-Depth Walkthrough for Proficient Use of Green Screen in Kinemaster for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infuse-audiovisual-experience-in-ppt-for-2024/"><u>Infuse Audiovisual Experience in PPT for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-life-with-toms-hardware-advice/"><u>Mastering Your Digital Life with Tom's Hardware Advice</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-animated-design-kits/"><u>Premium Animated Design Kits</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-social-media-whizs-playbook-analyzing-user-behavior-with-insta-insights/"><u>The Social Media Whiz's Playbook Analyzing User Behavior with Insta Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y200-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y200 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-flat-to-fierce-transformative-color-workflows/"><u>[New] From Flat to Fierce Transformative Color Workflows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-mematic-for-efficient-note-taking/"><u>[New] Harness Mematic for Efficient Note-Taking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-haste-in-video-supercharge-facebook-videos-with-proxies-and-tools/"><u>[New] Haste in Video Supercharge Facebook Videos with Proxies and Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-simplify-your-life-with-time-lapsing-on-samsung-gear/"><u>[New] Simplify Your Life with Time-Lapsing on Samsung Gear</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-step-by-step-guide-to-hilarious-memes/"><u>[Updated] 2024 Approved Step-by-Step Guide to Hilarious Memes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-stroke-of-genius-best-10-creative-sketch-software-for-mac-free/"><u>[Updated] In 2024, Stroke of Genius Best 10 Creative Sketch Software for Mac (Free)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-or-paid-top-8-ios-film-watching-apps-reviewed/"><u>2024 Approved Free or Paid? Top 8 iOS Film-Watching Apps Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-h501x4-fpv-quadcopter-unveiled-review-breakdown/"><u>2024 Approved H501X4 FPV Quadcopter Unveiled - Review Breakdown</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-samsung-galaxy-s8-setting-new-standards-for-4k-video/"><u>2024 Approved Samsung Galaxy S8 Setting New Standards for 4K Video</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-razr-40-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Razr 40 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-login-problems-caused-by-user-profile-service-error-in-windows-11/"><u>Fixing Login Problems Caused by User Profile Service Error in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-scrolling-through-youtube-comment-threads-for-2024/"><u>Guide to Scrolling Through YouTube Comment Threads for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-review-is-aurora-revolutionary/"><u>In 2024, In-Depth Review Is Aurora Revolutionary?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>In 2024, Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/tips-and-tricks-for-locating-recent-videos-youve-liked/"><u>Tips & Tricks for Locating Recent Videos You've Liked</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-identity-management-solutions-of-2022-expert-reviews-and-comparisons/"><u>Top-Rated Identity Management Solutions of 2022: Expert Reviews & Comparisons</u></a></li>
 </ul></div>
 

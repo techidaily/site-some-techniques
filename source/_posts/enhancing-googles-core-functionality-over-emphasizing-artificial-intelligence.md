@@ -1,7 +1,7 @@
 ---
 title: Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
-date: 2024-12-19T20:46:46.125Z
-updated: 2024-12-24T19:22:00.939Z
+date: 2024-12-29T05:55:38.921Z
+updated: 2025-01-01T17:22:02.711Z
 tags:
   - mobile
 categories:
@@ -11,24 +11,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Google Goes All In on Generative AI](https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-spark-10c-drfone-by-drfone-virtual-android/)
 * [Google Is Still Seeing What Sticks](https://win-answers.techidaily.com/resolve-path-of-exile-lag-issues-a-step-by-step-guide/)
 * [Consumers Need a Focus on Data Security More Than Gimmicks](https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-c33-2023-drfone-by-drfone-virtual-android/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg)  
 Justin Duino / How-To Geek  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Google introduced new AI features but focused more on hype than substance and practicality.
 * Gemini is Google's new generative model taking over as the default assistant on Android phones.
@@ -47,7 +43,7 @@ Google
  In order to exceed those limits, “we've completely rebuilt the entire system experience around our Gemini models,” he continued. “The new Gemini system can go beyond understanding your words to understanding your intent and communicate more naturally.”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Goes All In on Generative AI
@@ -57,7 +53,7 @@ Google
 ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -72,6 +68,10 @@ Justin Duino / How-To Geek
 
 ![The on-stage Add Me demo at MBG 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/add-me.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Google
 
  You could also just ask a passerby to snap a quick photo of you as people have been doing since the advent of cameras or use one of those new-fangled “tripods” that holds your camera at the appropriate height and orientation and can remotely click the shutter. At the same time, you stand with the rest of your group. Given how resource-intensive just [running basic queries using AI is compared to conventional searches](https://www.brusselstimes.com/1042696/chatgpt-consumes-25-times-more-energy-than-google), I don’t understand how Google can justify developing a feature that solves what problem exactly—interacting with other people in public? Carrying a selfie stick? It's an interesting feature idea, to be sure, and a good showcase of AI's image manipulation powers, but I find it difficult to believe that "getting everybody into the group shot" is a pressing, real-world issue among many of Google's users.
@@ -84,13 +84,13 @@ Google
 
 ![Made by Google sign at Google I/O](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52887793038_f152af5f6d_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Screenshots bears more than a passing resemblance to the defunct [Microsoft Recall feature](https://learn.microsoft.com/en-us/windows/ai/apis/recall) that was recently [shut down amid personal data privacy outcries](https://venturebeat.com/ai/microsofts-recall-feature-will-now-be-opt-in-and-double-encrypted-after-privacy-outcry/) by users—though, unlike Recall, it only ingests images taken directly by the user and can be manually toggled. Call Notes users will have to give Google real-time access to their phone calls in order for the feature to work. This opens up yet another source of your personal data that can (and likely will at some point) be leaked online. It’s not like the AI industry [has a particularly stellar track record](https://www.infosecurity-magazine.com/blogs/accidental-data-exposure-gen-ai/) for [maintaining data security](https://www.spiceworks.com/tech/artificial-intelligence/news/chatgpt-leaks-sensitive-user-data-openai-suspects-hack/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Consumers Need a Focus on Data Security More Than Gimmicks
 
@@ -113,24 +113,18 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-review-of-camstudio-capturing-features/"><u>[New] 2024 Approved The Ultimate Review of CamStudio Capturing Features</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unfreezing-frozen-obs-stream-input/"><u>[New] 2024 Approved Unfreezing Frozen OBS Stream Input</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/iverse-vlogging-content-suggestions/"><u>[New] Diverse Vlogging Content Suggestions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-virtual-reality-archivists-handbook-for-game-recordings/"><u>[New] In 2024, The Virtual Reality Archivist's Handbook for Game Recordings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-a-melodic-guide-navigating-copyright-with-instagram/"><u>[Updated] A Melodic Guide Navigating Copyright with Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-initiate-impact-a-strategic-blueprint-for-setting-up-a-tech-reviews-channel/"><u>[Updated] Initiate Impact A Strategic Blueprint for Setting Up a Tech Reviews Channel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-top-8-accessories-for-vr-games/"><u>[Updated] Innovative Top 8 Accessories for VR Games</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-boundaries-in-video-content-creation-within-limit/"><u>2024 Approved Breaking Boundaries in Video Content Creation (Within Limit)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ghostly-replay-techniques-for-editors/"><u>2024 Approved Ghostly Replay Techniques for Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-echoes-to-silence-audacitys-technique-guide/"><u>2024 Approved Hidden Echoes to Silence Audacity's Technique Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-live-broadcasts-your-step-by-step-guide-to-discord-streaming/"><u>2024 Approved Mastering Live Broadcasts Your Step-by-Step Guide to Discord Streaming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/android-phone-no-call-functionality-follow-these-steps-to-fix-it/"><u>Android Phone No Call Functionality? Follow These Steps to Fix It</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/efficient-methods-for-reviving-damaged-vids/"><u>Efficient Methods for Reviving Damaged Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funimate-for-android-gamers-unlocking-the-apk-secret-for-2024/"><u>Funimate for Android Gamers - Unlocking the APK Secret for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fusionvisualizer-ipadplusmacmedia-combining-tool-for-2024/"><u>FusionVisualizer IPad+MacMedia Combining Tool for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-to-grips-with-final-cut-pro-step-by-step-tutorial/"><u>In 2024, Get to Grips with Final Cut Pro – Step by Step Tutorial</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guiding-you-to-untainted-stock-visuals/"><u>In 2024, Guiding You to Untainted Stock Visuals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-your-reality-essential-vr-peripherals-guide/"><u>In 2024, Innovating Your Reality Essential VR Peripherals Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/simple-guide-to-removing-unnecessary-applications-on-your-pc-yl-computing-tips/"><u>Simple Guide to Removing Unnecessary Applications on Your PC - YL Computing Tips</u></a></li>
+<li><a href="https://win-latest.techidaily.com/no-te-desesperes-si-tu-disco-duro-parece-estar-vacio-conoce-las-razones-y-resoluciones-efectivas-para-su-problema/"><u>¡No Te Desesperes Si Tu Disco Duro Parece Estar Vacío! Conoce Las Razones Y Resoluciones Efectivas Para Su Problema.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-premium-free-lut-options-a-guide-to-quality-tools/"><u>[New] Exploring Premium-Free LUT Options A Guide to Quality Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-avi-viewer-mobile-and-desktop-edition/"><u>[New] Ideal AVI Viewer Mobile & Desktop Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-live-and-learn-twitter-video-chronicles-of-23/"><u>[Updated] Live and Learn Twitter Video Chronicles of '23</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-life-into-collage-a-photogenic-approach/"><u>2024 Approved Infusing Life Into Collage A Photogenic Approach</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-leading-tools-to-uncover-trending-tags-on-fb-twt-and-ig-sites/"><u>2024 Approved Leading Tools to Uncover Trending Tags on FB, Twt & IG Sites</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-writing-workflow-with-these-8-powerful-ai-resources/"><u>Boost Your Writing Workflow with These 8 Powerful AI Resources</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-13-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 13</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-fidelity-avi-player-for-portable-and-stationary-use/"><u>In 2024, High-Fidelity AVI Player for Portable & Stationary Use</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-maximizing-tweet-control-15-premier-unfollow-utilities/"><u>In 2024, Maximizing Tweet Control 15 Premier Unfollow Utilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-colorists-companion-top-11-tools-for-hue-harmony/"><u>In 2024, The Colorist's Companion Top 11 Tools for Hue Harmony</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-professional-grade-photo-printers-expert-reviews-by-zdnet/"><u>Top 5 Professional-Grade Photo Printers : Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unexpected-lockout-recover-or-change-a-forgotten-ipad-passwordpasscode-easily/"><u>Unexpected Lockout: Recover or Change a Forgotten iPad Password/Passcode Easily</u></a></li>
 </ul></div>
 

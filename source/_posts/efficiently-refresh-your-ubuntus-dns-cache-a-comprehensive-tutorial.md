@@ -1,7 +1,7 @@
 ---
 title: Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
-date: 2024-12-22T21:11:47.548Z
-updated: 2024-12-24T17:17:35.881Z
+date: 2024-12-29T00:49:36.478Z
+updated: 2025-01-01T23:02:07.041Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is DNS Caching?](https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-x-without-itunes-drfone-by-drfone-ios/)
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Flushing the DNS Cache on Ubuntu](https://vimeo-videos.techidaily.com/updated-in-2024-the-complete-guide-to-earnings-via-vimeo-ads/)
 * [Don’t Forget Your Browser's Cache](https://youtube-tips.techidaily.com/ed-2024-approved-brightening-up-your-youtube-pixels/)
 * [Remember to Flush Your DNS Cache](https://some-knowledge.techidaily.com/new-full-exploration-of-picsarts-new-features/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -59,10 +67,6 @@ systemctl is-active systemd-resolved
 
 ![Checking whether the resolved daemon is running on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-14.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The response will either be “active” or “inactive.”
 
  To verify that flushing the buffers actually does something, we can take a peek at the number of entries in the cache. We’ll check again, once we’ve flushed the buffers. This time, we’re using the resolvectl command to manipulate systemd-resolved directly.
@@ -72,7 +76,7 @@ resolvectl statistics
 ![Checking the size of the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-15.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Because this is a fresh installation of Ubuntu, there are relatively few entries in the cache. Regardless, when we flush the DNS buffers we expect to see that number drop to zero.
@@ -81,25 +85,25 @@ resolvectl flush-caches
 
 ![Flushing the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-14.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We’re silently returned to the command line. No output means everything went well. Let’s see what our cache size is now.
 
 resolvectl statistics
 
 ![Verifying the DNS cache is empty on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-13.png) 
 
- Our cache size is zero, just as we predicted.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Our cache size is zero, just as we predicted.
 
 ##  Don’t Forget Your Browser's Cache
 
  Your internet browsers have their own caches. If you’re flushing your DNS buffers to try to remove a problem, make a point of doing the same for your browsers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Flushing the DNS Cache in Firefox
 
@@ -108,6 +112,10 @@ resolvectl statistics
 about:networking
 
 ![Selecting the DNS option in the Firefox sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the "DNS" entry in the sidebar.
 
@@ -125,15 +133,7 @@ chrome://net-internals/#dns
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-10.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the “Clear Host Cache” button. There’s no visible feedback to let you know anything has actually happened, but behind the scenes it has. Google Chrome’s DNS cache has been emptied.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Remember to Flush Your DNS Cache
 
@@ -156,24 +156,20 @@ chrome://net-internals/#dns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-find-the-best-online-subtitle-converters-for-no-cost/"><u>[New] Find the Best Online Subtitle Converters for No Cost</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harness-ai-to-generate-prime-video-titles/"><u>[New] Harness AI to Generate Prime Video Titles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hide-your-identity-share-your-life-instagram-live-secrets/"><u>[New] Hide Your Identity, Share Your Life - Instagram Live Secrets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-timekeeping-tools-without-a-price/"><u>[Updated] Expert Timekeeping Tools Without a Price</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gigglegallery-log-in-and-make-magic-videos/"><u>[Updated] GiggleGallery Log In and Make Magic Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-harness-iphones-full-potential-for-landscapes/"><u>[Updated] How to Harness iPhone's Full Potential for Landscapes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immerse-in-world-heritage-through-vr/"><u>[Updated] Immerse in World Heritage Through VR</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/clogs-and-backups/"><u>Clogs And Backups:</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-the-power-of-game-mode-in-apples-macos-sonoma-platform/"><u>Discovering the Power of Game Mode in Apple's macOS Sonoma Platform</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/easy-diy-method-for-uploading-your-old-vhs-videos-onto-a-dvd-using-your-computer/"><u>Easy DIY Method for Uploading Your Old VHS Videos Onto a DVD Using Your Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fabricate-jocular-images-share-via-giphy/"><u>In 2024, Fabricate Jocular Images, Share via Giphy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-first-rate-6-software-for-visual-text-conversion/"><u>In 2024, First-Rate 6 Software for Visual Text Conversion</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>In 2024, Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-microsoft-surface-pro-7-enhanced-efficiency-and-familiar-features/"><u>In-Depth Look at the Microsoft Surface Pro 7: Enhanced Efficiency and Familiar Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/theoretical-exploration-rethinking-the-analogy-between-the-internet-and-traditional-libraries/"><u>Theoretical Exploration: Rethinking the Analogy Between the Internet and Traditional Libraries</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-messy-scripts-microsoft-onenotes-new-handwriting-smoothing-feature/"><u>Transform Messy Scripts: Microsoft OneNote's New Handwriting Smoothing Feature</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-interactions-top-9-incentives-that-make-chatgpt-plus-a-must-have-upgrade/"><u>Transform Your Interactions: Top 9 Incentives That Make ChatGPT Plus a Must-Have Upgrade!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ultimate-walkthrough-bring-back-life-to-iphone-models-15141312-with-a-simple-icloud-backup-recovery/"><u>Ultimate Walkthrough: Bring Back Life to iPhone Models (15/14/13/12) with a Simple iCloud Backup Recovery</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/44k344kn44ki5qmf6io95aplusplus5bplusc44gu54sh5paz44km44kn44ow44kr44ov44ks57ch5y2y44gr44kq44oz44op44kk44oz44gn5asj5oplusb44gz44klic0g44oi44o044kh44ot/"><u>シェア機能対応の無料ウェブカフを簡単にオンラインで変換する - モヴァビ</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-winters-chill-and-your-videos-selecting-heated-backdrops/"><u>[New] 2024 Approved Winter's Chill & Your Videos Selecting Heated Backdrops</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-film-lovers-ultimate-selection-of-stop-motion-works/"><u>[New] Film Lovers' Ultimate Selection of Stop-Motion Works</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-prime-audio-festivals-online-for-2024/"><u>[New] Prime Audio Festivals Online for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pushing-perception-analyzing-the-dreamcolors-z32x-4k/"><u>[New] Pushing Perception Analyzing the DreamColor's Z32X 4K</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-augment-slides-with-sonic-enhancements-for-2024/"><u>[Updated] Augment Slides with Sonic Enhancements for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-and-outshine-cheapest-cloud-plans-for-every-need-2024/"><u>[Updated] Explore & Outshine Cheapest Cloud Plans for Every Need, 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-android-potential-for-stunning-time-lapse-videos/"><u>[Updated] Harnessing Android Potential for Stunning Time-Lapse Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-sharpfocusx7-size-your-photography-right/"><u>[Updated] In 2024, SharpFocusX7 Size Your Photography Right</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-narratives-distributed-among-8-movie-segments/"><u>2024 Approved Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-sound-to-sight-choosing-between-audio-and-video-media-for-2024/"><u>From Sound to Sight Choosing Between Audio and Video Media for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-financial-forecast-the-price-of-filming-melodies-visually/"><u>In 2024, Financial Forecast The Price of Filming Melodies Visually</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-v27-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo V27</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-block-spotifys-predicted-podcast-selections/"><u>In 2024, How to Block Spotify's Predicted Podcast Selections</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-105-classic-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia 105 Classic FRP Bypass</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-8-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 8 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
 

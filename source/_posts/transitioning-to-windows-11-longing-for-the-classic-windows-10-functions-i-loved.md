@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved"
-date: 2024-12-23T18:03:15.696Z
-updated: 2024-12-24T18:01:08.538Z
+date: 2024-12-29T23:36:42.685Z
+updated: 2025-01-01T17:05:05.257Z
 tags:
   - deals
 categories:
@@ -17,19 +17,11 @@ I switched to Windows 11 recently, and it has been an interesting experience. Be
 
 ![Laptop with some windows 11 screens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/laptop-with-some-windows-11-screens.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lucas Gouveia / How-To Geek
 
  I'm someone who appreciates the simplicity of a freshly installed operating system (unless it's Linux, [which gets better the longer you use it](https://program-issues.techidaily.com/solved-forza-horizon-4-crash-on-pc/)). After prompting from other members of the How-To-Geek writing team, I eventually bit the bullet and dove into the deep end.
 
  I will say that the upgrade was completely painless. It was quite different from my previous installation scenarios, although I figure if I ever had to reinstall the operating system, the from-scratch installation is probably more complicated than the upgrade. After about twenty minutes of downloading and updating files, the machine rebooted, and I was immediately into Windows 11\. And that's where things started to go downhill.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Enabling TPM 2.0
 
@@ -47,6 +39,10 @@ Benj Edwards / How-To Geek
 
 ![Taskbar Personalization Menu (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/taskbar-personalization-menu-light.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ever since the problem that was the Windows 8 Start Tiles, I've appreciated the Start Menu a lot more. Immediately as I got into the operating system, I was greeted by a familiar Start Menu, only it wasn't as familiar as I'd hoped. By default, Windows 11 center-aligns your Start Menu on a new installation.
 
  It wasn't so bad, since all one had to do to fix the "problem" was right-click on the taskbar and [change the setting from center aligned to left aligned](https://twitter-videos.techidaily.com/updated-in-2024-twitters-new-era-of-videography-aspect-ratios-mandatory/). It was a cosmetic change, although I'm not sure why Microsoft decided to default the Start button to center-aligned when all the previous iterations of Windows were left-aligned. But I digress—this one annoyed me, but it wasn't a functional issue.
@@ -56,7 +52,7 @@ Benj Edwards / How-To Geek
  Probably the worst change Windows 11 made was to make it impossible to throw the Taskbar anywhere on the screen. In Windows 10, if I wanted a Taskbar hanging from the top of the screen, I could do that. In Windows 11, [that's just not possible](https://www.windowscentral.com/microsoft-explains-why-you-cant-move-windows-11-taskbar), and you have to live with the Taskbar on the bottom. If you're not used to that, or want to change it, Microsoft says tough cookies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Truncated Context Menus Hurt Usability
@@ -69,13 +65,13 @@ Benj Edwards / How-To Geek
 
  Back in Windows 10, when you right-clicked a file, you got a simple drop-down menu that outlined _all_ your potential options. It was a context menu that actually gave you context. The new Windows 11 context menu hides context from the user, making it seem like they tried to please everyone and ended up pleasing no one. Luckily, there are [ways to restore the old context menu system in Windows 11](https://fox-boxes.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences-for-2024/), so it's not a dealbreaker.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Sorting Options Are All Wonky
 
 ![Sort By Options (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sort-by-options-light.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As a power user, I like sorting my stuff in a particular way. Sometimes, I like seeing thumbnails (if it's images), sometimes I like seeing details if I want to determine which file is the largest and needs to be deleted. Back in Windows 10, it was such an easy thing to arrange your icons by date, or size. Now, Windows 11 has made it more unintuitive for users to sort their files.
 
@@ -83,17 +79,21 @@ Benj Edwards / How-To Geek
 
  Windows 11 has shifted its file arrangement system from something that almost anyone can use to something that even the most skilled power users have a hard time wrapping their heads around. On the bright side, once you set up a sorting schedule for a particular folder, it keeps that sorting. There are small wins here and there, at least.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The "Action Center" Is No More
 
 ![No Action Center (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/no-action-center-light.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Most Windows 10 users like myself have gotten used to the Action Center. Not only is it a good way to keep track of notifications from important applications, [but it is highly customizable](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). Windows 11 says we no longer need an Action Center and has tossed it out.
 
  Now, instead of easily being able to get to sound settings and wireless networks at a single click, we have to right-click and then open a new settings menu. What's worse, tablet users are going to have a really hard time getting to their settings now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  It's Not A Bad Operating System But...
 
@@ -120,22 +120,22 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-creating-professional-level-xbox-screen-recordings/"><u>[Updated] 2024 Approved Creating Professional-Level Xbox Screen Recordings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-sound-compilation-premium-download-locales/"><u>[Updated] Ideal Sound Compilation Premium Download Locales</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-crack-the-code-of-content-top-6-youtuber-personality-tests-revealed/"><u>[Updated] In 2024, Crack the Code of Content Top 6 YouTuber Personality Tests Revealed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ps-color-enhancement-simplified-approaches-for-2024/"><u>[Updated] PS Color Enhancement Simplified Approaches for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-cutting-edge-6-tools-for-video-language-shift/"><u>2024 Approved Cutting-Edge 6 Tools for Video Language Shift</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-versatile-tools-for-amateurs-and-professionals-in-ar/"><u>2024 Approved Free, Versatile Tools for Amateurs & Professionals in AR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-spectrum-physical-action-review/"><u>2024 Approved Full Spectrum Physical Action Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-export-iphone-images-as-pdf-from-jpeg-and-png-files/"><u>2024 Approved How to Export iPhone Images as PDF From JPEG & PNG Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/excels-efficacy-in-numeric-crunching-exceeds-chatbot-capabilities/"><u>Excel's Efficacy in Numeric Crunching Exceeds Chatbot Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-windows-10-preparing-your-pc-for-the-upgrade-for-2024/"><u>From Windows 10 Preparing Your PC for the Upgrade for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them-for-2024/"><u>GoPro Versus Polaroid Editing Faces Vs. Cameras That Shoot Them for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giroptics-virtual-sphere-breakdown/"><u>In 2024, Giroptic's Virtual Sphere Breakdown</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-cameras-for-circular-coverage-for-2024/"><u>Innovative Cameras for Circular Coverage for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/migrate-your-data-seamlessly-moving-files-from-old-hp-pcs-to-new-ones-using-windows-11/"><u>Migrate Your Data Seamlessly: Moving Files From Old HP PCs to New Ones Using Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-preventing-fifa-21-from-starting-up/"><u>Resolved: Issues Preventing FIFA 21 From Starting Up</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210655572-9781454939054-zodiac-signs-gemini/"><u>Zodiac Signs: Gemini | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-samsungs-picture-editor-features-and-drawbacks/"><u>[New] 2024 Approved Unveiling Samsung's Picture Editor Features & Drawbacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-monotonous-to-magical-techniques-for-animate-text-in-insta-stories/"><u>[New] From Monotonous to Magical Techniques for Animate Text in Insta Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-color-grading-power-with-central-luts/"><u>[New] Harnessing Color Grading Power with Central Luts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-launching-joining-and-scheduling-zoom-calls-made-simple-for-android-users/"><u>[Updated] Launching, Joining, and Scheduling Zoom Calls Made Simple for Android Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-webcapture-pro-live-chat-videos-for-2024/"><u>[Updated] WebCapture Pro Live Chat Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-worlds-best-5-streaming-videography-tools-for-2024/"><u>[Updated] World's Best 5 Streaming Videography Tools for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-comprehensive-guide-to-fixing-the-voice-chat-glitch-in-among-us-on-windows-1011/"><u>A Comprehensive Guide to Fixing the Voice Chat Glitch in Among Us on Windows 10/11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-the-thrill-of-kinemaster-and-rank-10-online-alternatives-alike-for-2024/"><u>Experience the Thrill of KineMaster and Rank 10 Online Alternatives Alike for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-huawei-p10s-network-performance-and-coverage-for-2024/"><u>Exploring Huawei P10's Network Performance & Coverage for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-scrutiny-the-dji-inspire-1-experience-for-2024/"><u>Full Scrutiny The DJI Inspire 1 Experience for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/groundbreaking-insights-into-asmr-recordings-for-2024/"><u>Groundbreaking Insights Into ASMR Recordings for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-magix-media-pack/"><u>In 2024, Exploring MAGIX Media Pack</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-eye-catching-graphic-principles-for-podcast-titles/"><u>In 2024, Eye-Catching Graphic Principles for Podcast Titles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-sky-to-screen-advanced-methods-in-drone-video-editing/"><u>In 2024, From Sky to Screen Advanced Methods in Drone Video Editing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-in-depth-analysis-of-inshots-features-and-rankings/"><u>In 2024, In-Depth Analysis of InShot's Features and Rankings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ate-and-captivate-top-10-video-response-examples-for-2024/"><u>Innovate and Captivate Top 10 Video Response Examples for 2024</u></a></li>
 </ul></div>
 

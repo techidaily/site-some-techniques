@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2024-12-20T17:31:32.051Z
-updated: 2024-12-24T18:20:11.985Z
+date: 2024-12-29T02:49:38.411Z
+updated: 2025-01-01T19:15:05.388Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 While I am a Linux daily driver, and I do sprinkle the terminal with commands now and then, I'm by no means a hacker. That didn't stop me from looking the part, though, since it turns out several simple commands (and a whole app) exist to make you look like a star in a florid cyberthriller. Here they are and how to run them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  neofetch 
@@ -22,7 +22,7 @@ While I am a Linux daily driver, and I do sprinkle the terminal with commands no
 ![neofetch command output on an Ubuntu operating system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-14_16h38_17.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Starting simple, neofetch is perfect for when you want to send your friends a screenshot of your sweet new Linux desktop with a terminal open to make it look like you know how to use it. You simply run the command and some stats about your system will be printed next to a big [ASCII art](https://en.wikipedia.org/wiki/ASCII%5Fart) version of your distro's logo. If you've ever checked out r/UnixPorn, you'll recognize it as one of the more popular outputs to have printed in an open terminal.
@@ -42,7 +42,7 @@ sudo pacman -S neofetch
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  cmatrix 
@@ -70,7 +70,7 @@ cmatrix
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  genact 
@@ -110,7 +110,7 @@ sudo pacman -S hollywood
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
@@ -140,19 +140,16 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-apowersoft-free-software-review-for-techies/"><u>[New] Apowersoft Free Software Review for Techies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-websites-directory-personalized-ringtone-source/"><u>[New] Expert Websites Directory Personalized Ringtone Source</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-immersive-worlds-shaping-future-cinematic-experiences/"><u>[New] Immersive Worlds Shaping Future Cinematic Experiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmony-hearts-the-ideal-playlist-for-a-life-changing-kiss/"><u>[Updated] Harmony Hearts The Ideal Playlist for a Life-Changing Kiss</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-unlocking-color-richness-the-role-of-look-up-tables-in-adobe-photos/"><u>2024 Approved Unlocking Color Richness The Role of Look-Up Tables in Adobe Photos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ancient-aesthetics-public-domain-pieces/"><u>Ancient Aesthetics Public Domain Pieces</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-issues-with-youtube-shorts-thumbnails-for-2024/"><u>Common Issues with YouTube Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertly-tailored-shots-with-10-initial-free-customizable-lut-packages-for-2024/"><u>Expertly Tailored Shots with 10 Initial Free, Customizable LUT Packages for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-on-achieving-fluidity-in-inshot-cuts/"><u>In 2024, Expert Tips on Achieving Fluidity in Inshot Cuts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-examination-hero4-black-innovation/"><u>In 2024, In-Depth Examination Hero4 Black Innovation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-s24-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy S24? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-duo-for-creativity-and-productivity-how-an-ipad-plus-macbook-changes-everything/"><u>The Ultimate Duo for Creativity & Productivity: How An iPad + MacBook Changes Everything</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>[New] Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-handheld-gyro-stabilization-upgrade/"><u>[New] Handheld Gyro Stabilization Upgrade</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-slomo-recording-app-evaluation-future-outlook/"><u>[Updated] Full SloMo Recording App Evaluation - Future Outlook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-extended-audio-bliss-with-the-new-preorderable-bose-soundlink-max-at-just-399-featuring-a-robust-20-hour-battery-details-inside-techspot/"><u>Experience Extended Audio Bliss with the New Preorderable Bose SoundLink Max at Just $399, Featuring a Robust 20-Hour Battery – Details Inside | TechSpot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-nba-live-streams-15-ways-to-watch-the-action/"><u>In 2024, Free NBA Live Streams 15 Ways to Watch the Action</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-reno-10-pro-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Oppo Reno 10 Pro 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-humor-highway-tailored-joke-routes-for-each-occasion/"><u>In 2024, Humor Highway Tailored Joke Routes for Each Occasion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000797941-insightful-analysis-the-it-takes-two-project-has-been-successfully-launched/"><u>Insightful Analysis: The 'It Takes Two' Project Has Been Successfully Launched!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-ascendancy-five-drives-of-gpts-escalation/"><u>Revolutionary Ascendancy: Five Drives of GPT's Escalation</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers in Windows 11 & 10 & 7</u></a></li>
 </ul></div>
 

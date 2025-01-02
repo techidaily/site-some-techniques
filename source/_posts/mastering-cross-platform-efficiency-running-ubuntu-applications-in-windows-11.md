@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11"
-date: 2024-12-20T16:37:59.340Z
-updated: 2024-12-24T21:26:24.929Z
+date: 2024-12-30T05:01:43.674Z
+updated: 2025-01-01T23:14:46.233Z
 tags:
   - deals
 categories:
@@ -11,20 +11,12 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ## Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Install WSL2 Kernel, activate Virtual Machine Platform, and make sure you have Admin rights before getting Ubuntu on Windows 11.
 * Enable Windows Subsystem for Linux, then download and install Ubuntu for WSL via Microsoft Store to run Linux apps on Windows 11.
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
 
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Installing Ubuntu
 
  Ubuntu for WSL is available for Windows 11 via the Microsoft Store, enabling the installation of Ubuntu on your system to run Linux apps within Windows 11.
@@ -70,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -79,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
@@ -93,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  Upon selecting "Linux," a folder named "Ubuntu-22.04" will appear. Right-click this folder and choose "Pin to Quick access." This action allows you to effortlessly access your Ubuntu files from Windows.
 
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
@@ -117,7 +109,11 @@ sudo apt upgrade
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
@@ -143,7 +139,7 @@ nohup program_name & disown
  Alternatively, applications can be started from the Windows 11 start menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Integration with Windows 11
@@ -151,6 +147,10 @@ nohup program_name & disown
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
 
@@ -179,22 +179,19 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-echoes-of-music-in-video-landscapes/"><u>[New] Echoes of Music in Video Landscapes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-elegant-architecture-top-6-sleek-mc-houses/"><u>[New] Elegant Architecture Top 6 Sleek MC Houses</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frontier-of-film-virtual-realities-in-theaters/"><u>[New] Frontier of Film Virtual Realities in Theaters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gadgets-that-shine-in-travel-videography/"><u>[New] Gadgets That Shine in Travel Videography</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-gopro-camera-showdown-for-2024/"><u>[Updated] The Ultimate GoPro Camera Showdown for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-finest-18-wireless-camcorders-today/"><u>2024 Approved Explore the Finest 18 Wireless Camcorders Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-look-up-tables-luts-for-professionals/"><u>2024 Approved Harness the Power of Look-Up Tables (LUTs) for Professionals</u></a></li>
-<li><a href="https://fox-info.techidaily.com/effortlessly-track-beats-with-our-speedy-free-analysis-software/"><u>Effortlessly Track Beats with Our Speedy, Free Analysis Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-convert-your-content-to-stellar-hd-with-top-tools/"><u>In 2024, Expertly Convert Your Content to Stellar HD with Top Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-comparison-the-finest-streaming-tv-platforms/"><u>In 2024, In-Depth Comparison The Finest Streaming TV Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-ideas-in-immersive-realms-30plus-quotes-to-motivate-you/"><u>In 2024, Innovative Ideas in Immersive Realms 30+ Quotes to Motivate You</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-concealed-aspects-understanding-the-unique-stories-of-followers/"><u>In 2024, The Concealed Aspects Understanding the Unique Stories of Followers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-y02t-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo Y02T Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-strategies-for-altering-pubg-speech-for-2024/"><u>Innovative Strategies for Altering PUBG Speech for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/soaring-strengths-top-10-industrial-drones/"><u>Soaring Strengths Top 10 Industrial Drones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-the-mystery-writing-hooks-for-vlogger-scripts/"><u>Unveiling the Mystery Writing Hooks for Vlogger Scripts</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androids-ultimate-capture-secrets-revealed/"><u>[New] Android's Ultimate Capture Secrets Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-deciphering-meaning-in-youtube-snippets/"><u>[New] Expert Techniques for Deciphering Meaning in YouTube Snippets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-length-video-view-remove-youtube-preview/"><u>[New] Full-Length Video View Remove YouTube Preview</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-ensure-flawless-playback-how-to-set-youtube-video-size-right/"><u>[Updated] 2024 Approved Ensure Flawless Playback How to Set YouTube Video Size Right</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-explore-top-5-non-samsung-360-cameras-today/"><u>[Updated] Explore Top 5 Non-Samsung 360 Cameras Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exporting-frames-as-images-in-windows-10-photos-viewer/"><u>[Updated] Exporting Frames as Images in Windows 10 Photos Viewer</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-pre-recorded-yoga-on-youtube-for-2024/"><u>[Updated] The Ultimate Guide to Pre-Recorded Yoga on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-shorts-monetization-how-to-make-money-on-youtube-shorts/"><u>[Updated] YouTube Shorts Monetization How to Make Money on YouTube Shorts?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-masterchefs-visual-guide-filming-kitchen-escapades/"><u>2024 Approved MasterChef's Visual Guide Filming Kitchen Escapades</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flawless-image-reader-with-quick-access-for-2024/"><u>Flawless Image Reader with Quick Access for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-9-online-platforms-featuring-advanced-3d-typography/"><u>In 2024, Explore the Best 9 Online Platforms Featuring Advanced 3D Typography</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Infinix Hot 40? | Dr.fone</u></a></li>
 </ul></div>
 

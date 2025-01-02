@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Experience Unchained  Reviewing the Panasonic HX-A1\""
-date: 2024-07-26T15:49:36.113Z
-updated: 2024-07-27T15:49:36.113Z
+date: 2025-01-01T03:02:10.289Z
+updated: 2025-01-02T05:15:38.744Z
 tags: 
   - screen-recording
   - ai video
@@ -39,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -103,10 +104,142 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+## Features
+
+#### **1. Video and photo quality**
+
+ The 2.6mm F2.8 lens and 1/3-inch MOS sensor does a pretty notable job in recording 1080p Full HD video at 30 fps or 720p if you want 60 fps. Absence of 4K resolution and high competition really needed to deliver top-notch video quality. A1 complements very well with contrasts in brightness and its tender picture quality softens the detail a little. The point to be kept in mind is that Slow motion video recording is only available in the non-HD 480p resolution. It also allows you to continuously take 2.7-megapixel snapshots at a set interval. So its video and photo quality can be termed as decent!
+
+#### **2. Night-Version**
+
+ Not most of the action cameras in this range offer such a high quality feature of night mode. This means you can now fulfil your adventurous dreams of exploring caves and filming wildlife in the peek darkness. IR Filter and external Infrared light source makes it possible to make pictures and video lively. Addition of Night Vision IR lens is simply fantastic. This 0 Lux Night Mode helps to see in dark without compromising with picture quality. So now you are ready to shoot in total darkness.
+
+ Lookring for action camera with the ability to shoot under low light conditions? [Check Olympus TG Tracker](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### **3. Battery and charging:**
+
+ A small 480mAh battery is input in this device to keep it light in weight. However, that means that it can handle about 70-90 minutes of continuous HD video recording. The point worth noting fortunately is that it gets charged quickly. Also it uses micro-USB standard which means it is chargeable with the help of power-bank as well as solar panel. So battery is little disappointing but its extendable battery can double the shooting length.
+
+#### **4. Twin-Camera capture Capacity:**
+
+ Panasonic HX-A1 can be linked up with a Wi-Fi enabled Panasonic camcorder, thanks to its twin camera capability. This dual angle recording with Wireless twin camera allows you to record simultaneously and what you get as a result is a picture which exceeds the definition of nicest! The digital recording improves the quality and liveliness of videos and images.
+
+#### **5. Resistant capacity:**
+
+ The resistant capacity of this device evident that it is designed to endure extreme outdoor conditions of any adventure you put yourself through. SFDW is its formula! Shock, freeze, dust and water proof ability makes it out of the box. The A1 is IP68 compliant, which means it has a capacity down to a depth of 1.5 metres (5 feet) of water and completely dustproof. It's also rated to survive drops of up to 1.5 metres and is freeze-proof to -10 degrees Celsius or 14 degrees Fahrenheit, so now you don’t need to cancel your plans due to extreme weather conditions. .
+
+#### **6. Image APP**
+
+ A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
+
+## Conclusion
+
+ The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
+
+ Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Action camera market is benefitted because it gives the freedom to take all sorts of approaches when it comes to execution. There are undisputed leaders present in this segment but their product and price doesn’t fulfil the needs of each and every buyer. More choices always put pressure on leaders and consequently make the product better for the ultimate buyer! Panasonic has proved it yet again with its HX-A1 [Wearable Action Camera](https://tools.techidaily.com/wondershare/filmora/download/).
+
+**You may also like:** [Polaroid XS 100 Review >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ With an unconventional cylindrical design, this digital camcorder is ready to make you fall for it. Panasonic has always tried to add versatility to their product and this focus has helped to win the hearts of its fans! HX-A1 Wearable Action Camera, as its name suggests, helps to mount it to any ideal spot. Its elongated torch-like shape helps in mounting it to your helmet, board or any other piece of mountain gear. You can attach it to your bag, hat or backpack or just put it like a headband! The twin mount helps in clicking in dark situations especially where you need an IR flashlight. Its 0 lux night vision mode allows IR flashlight to be mounted in addition to A1\. The camera allows to film in 1080p at 30fps, 720p at 60fps and 480p at 240fps. Available at a very affordable price of $101.95, A1 is certainly compatible to exceed your expectations. Let us unfold aspects of this A1 camera in this post.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Design and Usability
+
+![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
+
+## Specification
+
+| Review Price                | $101.95 (Amazon)                                                                             |
+| --------------------------- | -------------------------------------------------------------------------------------------- |
+| Image sensor                | 1/3-inch BSI CMOS with 3.54Mpixels                                                           |
+| Lens                        | F2.8 120-150 angles                                                                          |
+| Weight                      | 45g                                                                                          |
+| Dimensions                  | 84x26x26 cm                                                                                  |
+| Battery                     | Built-in 480 mAh (3.7V) (Lating upto 70-90 minutes of continuous video recording)            |
+| Memory                      | Micro SD, upto 128GB                                                                         |
+| Video mode                  | 1080P@30fps 720P@ 60/30fps 480P@30fps                                                        |
+| Recording format            | .MP4 H2.64 JPEG                                                                              |
+| Resistance                  | Shockproof 1.5 m / 5 ft; Freezeproof -10°C / -14°F Dustproof IP68 compliant(IEC 60529)       |
+| Intermitting recording      | 5 sec, 10 sec, 30 sec, 60sec                                                                 |
+| Slow-motion recording modes | 1280x720 60fps/30fps                                                                         |
+| Features                    | Tripod and multi-option mounts included; Built-in WiFi and USB sharing; Wind Cut; Night Mode |
+| Connectivity                | Wi-Fi Micro-B USB                                                                            |
+
+| **Pros**                                                                                                                                                               | **Cons**                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| WiFi control via iOS and Android apps, makes it easy and possible to view, control and copy videos and still images wirelessly                                         | Many settings only available via Image App and thus there is no real time connectivity                 |
+| Waterproof, dustproof, shockproof and freeze proof. No additional housing or case needed to take it underwater as a replacement glass cover for lens is also included. | Not compatible for 4K shooting                                                                         |
+| Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
+| Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Accessories in the box
+
+ The box obviously contains one of the best products from Panasonic which is the camera but also has little surprising accessories which will alleviate your shooting experience.
+
+* Camera & Second Lens
+* Night IR lens
+* Multi-Mount
+* Tripod Mount
+
+**Availability of Second Lens:** Option of swapping out the main lens with second lens to enable visibility in pitch dark blackness is quite applaud-able.
+
+**Night IR Lens:** Its Night IR lens lets you adventure beyond black. The Infra-Red lens can be used with your IR flashlight for recording in 0 Lux night vision mode. This means that action doesn’t stop when the sun goes down. If you are the one who is willing to record after dark for that extra dimension then this night vision mode will prove to be ideal for camping, night hiking, caving adventures and filming nocturnal wildlife. Even though it requires purchase of compatible IR flashlight, it brings out the best in pictures.
+
+ A range of mounts are available but A1 comes packaged with only Multi and Tripod mounts. Using Multi-mount, you can mount A1 to any ideal spot. As mentioned earlier that it can be curvy or any flat surface. The mounts have a hoop which secures it firmly. Tripod Mount helps in opening up more possibilities of mounting.
+
+#### Other Optional Accessories
+
+ The rest of the Panasonic accessories have to be purchased separately as they can help in escalating the usefulness of this device.
+
+#### Extended battery
+
+ By adding weight of just 1.7 ounces to this 45g device, the extended battery of 750mAh adds upto 2.X more recording time which is worth investing! Also this lightweight and waterproof extra battery can be charged easily via micro USB.
+
+#### Twin Mount
+
+ It holds both IR flashlight and camera for recording in dark conditions. It improves the recording experience in dark and also holds two cameras positioned in opposite directions for simultaneous front and rear recording.
+
+#### Handlebar Mount
+
+ Suction cup and Handlebar mount helps in using the action camera while driving, boating, biking and kayaking as they securely mount on bike, ATV, motorcycle and other handlebars.
+
+#### Wind jammer and strap adapter
+
+ Wind jammer and strap adapter can be other accessories which you can buy. Wind jammer help in making the audio clearer during windy conditions and strap adapter helps in connecting the camera to the floatation strap, neck strap or key ring. This pretty device is very catchy to the eyes, after all!
+
+[Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
 ## Features
 
 #### **1. Video and photo quality**
@@ -136,26 +269,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
 
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -174,14 +296,8 @@ Follow @Max Wales
 
  With an unconventional cylindrical design, this digital camcorder is ready to make you fall for it. Panasonic has always tried to add versatility to their product and this focus has helped to win the hearts of its fans! HX-A1 Wearable Action Camera, as its name suggests, helps to mount it to any ideal spot. Its elongated torch-like shape helps in mounting it to your helmet, board or any other piece of mountain gear. You can attach it to your bag, hat or backpack or just put it like a headband! The twin mount helps in clicking in dark situations especially where you need an IR flashlight. Its 0 lux night vision mode allows IR flashlight to be mounted in addition to A1\. The camera allows to film in 1080p at 30fps, 720p at 60fps and 480p at 240fps. Available at a very affordable price of $101.95, A1 is certainly compatible to exceed your expectations. Let us unfold aspects of this A1 camera in this post.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Design and Usability
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
@@ -282,9 +398,6 @@ Follow @Max Wales
 
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -303,9 +416,6 @@ Follow @Max Wales
 
  With an unconventional cylindrical design, this digital camcorder is ready to make you fall for it. Panasonic has always tried to add versatility to their product and this focus has helped to win the hearts of its fans! HX-A1 Wearable Action Camera, as its name suggests, helps to mount it to any ideal spot. Its elongated torch-like shape helps in mounting it to your helmet, board or any other piece of mountain gear. You can attach it to your bag, hat or backpack or just put it like a headband! The twin mount helps in clicking in dark situations especially where you need an IR flashlight. Its 0 lux night vision mode allows IR flashlight to be mounted in addition to A1\. The camera allows to film in 1080p at 30fps, 720p at 60fps and 480p at 240fps. Available at a very affordable price of $101.95, A1 is certainly compatible to exceed your expectations. Let us unfold aspects of this A1 camera in this post.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design and Usability
 
 ![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
@@ -338,8 +448,9 @@ Follow @Max Wales
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Accessories in the box
 
  The box obviously contains one of the best products from Panasonic which is the camera but also has little surprising accessories which will alleviate your shooting experience.
@@ -378,9 +489,9 @@ Follow @Max Wales
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Features
 
 #### **1. Video and photo quality**
@@ -417,147 +528,9 @@ Follow @Max Wales
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Action camera market is benefitted because it gives the freedom to take all sorts of approaches when it comes to execution. There are undisputed leaders present in this segment but their product and price doesn’t fulfil the needs of each and every buyer. More choices always put pressure on leaders and consequently make the product better for the ultimate buyer! Panasonic has proved it yet again with its HX-A1 [Wearable Action Camera](https://tools.techidaily.com/wondershare/filmora/download/).
-
-**You may also like:** [Polaroid XS 100 Review >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
- With an unconventional cylindrical design, this digital camcorder is ready to make you fall for it. Panasonic has always tried to add versatility to their product and this focus has helped to win the hearts of its fans! HX-A1 Wearable Action Camera, as its name suggests, helps to mount it to any ideal spot. Its elongated torch-like shape helps in mounting it to your helmet, board or any other piece of mountain gear. You can attach it to your bag, hat or backpack or just put it like a headband! The twin mount helps in clicking in dark situations especially where you need an IR flashlight. Its 0 lux night vision mode allows IR flashlight to be mounted in addition to A1\. The camera allows to film in 1080p at 30fps, 720p at 60fps and 480p at 240fps. Available at a very affordable price of $101.95, A1 is certainly compatible to exceed your expectations. Let us unfold aspects of this A1 camera in this post.
-
-## Design and Usability
-
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
-
- The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
-
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
-## Specification
-
-| Review Price                | $101.95 (Amazon)                                                                             |
-| --------------------------- | -------------------------------------------------------------------------------------------- |
-| Image sensor                | 1/3-inch BSI CMOS with 3.54Mpixels                                                           |
-| Lens                        | F2.8 120-150 angles                                                                          |
-| Weight                      | 45g                                                                                          |
-| Dimensions                  | 84x26x26 cm                                                                                  |
-| Battery                     | Built-in 480 mAh (3.7V) (Lating upto 70-90 minutes of continuous video recording)            |
-| Memory                      | Micro SD, upto 128GB                                                                         |
-| Video mode                  | 1080P@30fps 720P@ 60/30fps 480P@30fps                                                        |
-| Recording format            | .MP4 H2.64 JPEG                                                                              |
-| Resistance                  | Shockproof 1.5 m / 5 ft; Freezeproof -10°C / -14°F Dustproof IP68 compliant(IEC 60529)       |
-| Intermitting recording      | 5 sec, 10 sec, 30 sec, 60sec                                                                 |
-| Slow-motion recording modes | 1280x720 60fps/30fps                                                                         |
-| Features                    | Tripod and multi-option mounts included; Built-in WiFi and USB sharing; Wind Cut; Night Mode |
-| Connectivity                | Wi-Fi Micro-B USB                                                                            |
-
-| **Pros**                                                                                                                                                               | **Cons**                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| WiFi control via iOS and Android apps, makes it easy and possible to view, control and copy videos and still images wirelessly                                         | Many settings only available via Image App and thus there is no real time connectivity                 |
-| Waterproof, dustproof, shockproof and freeze proof. No additional housing or case needed to take it underwater as a replacement glass cover for lens is also included. | Not compatible for 4K shooting                                                                         |
-| Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
-| Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
-## Accessories in the box
-
- The box obviously contains one of the best products from Panasonic which is the camera but also has little surprising accessories which will alleviate your shooting experience.
-
-* Camera & Second Lens
-* Night IR lens
-* Multi-Mount
-* Tripod Mount
-
-**Availability of Second Lens:** Option of swapping out the main lens with second lens to enable visibility in pitch dark blackness is quite applaud-able.
-
-**Night IR Lens:** Its Night IR lens lets you adventure beyond black. The Infra-Red lens can be used with your IR flashlight for recording in 0 Lux night vision mode. This means that action doesn’t stop when the sun goes down. If you are the one who is willing to record after dark for that extra dimension then this night vision mode will prove to be ideal for camping, night hiking, caving adventures and filming nocturnal wildlife. Even though it requires purchase of compatible IR flashlight, it brings out the best in pictures.
-
- A range of mounts are available but A1 comes packaged with only Multi and Tripod mounts. Using Multi-mount, you can mount A1 to any ideal spot. As mentioned earlier that it can be curvy or any flat surface. The mounts have a hoop which secures it firmly. Tripod Mount helps in opening up more possibilities of mounting.
-
-#### Other Optional Accessories
-
- The rest of the Panasonic accessories have to be purchased separately as they can help in escalating the usefulness of this device.
-
-#### Extended battery
-
- By adding weight of just 1.7 ounces to this 45g device, the extended battery of 750mAh adds upto 2.X more recording time which is worth investing! Also this lightweight and waterproof extra battery can be charged easily via micro USB.
-
-#### Twin Mount
-
- It holds both IR flashlight and camera for recording in dark conditions. It improves the recording experience in dark and also holds two cameras positioned in opposite directions for simultaneous front and rear recording.
-
-#### Handlebar Mount
-
- Suction cup and Handlebar mount helps in using the action camera while driving, boating, biking and kayaking as they securely mount on bike, ATV, motorcycle and other handlebars.
-
-#### Wind jammer and strap adapter
-
- Wind jammer and strap adapter can be other accessories which you can buy. Wind jammer help in making the audio clearer during windy conditions and strap adapter helps in connecting the camera to the floatation strap, neck strap or key ring. This pretty device is very catchy to the eyes, after all!
-
-[Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Features
-
-#### **1. Video and photo quality**
-
- The 2.6mm F2.8 lens and 1/3-inch MOS sensor does a pretty notable job in recording 1080p Full HD video at 30 fps or 720p if you want 60 fps. Absence of 4K resolution and high competition really needed to deliver top-notch video quality. A1 complements very well with contrasts in brightness and its tender picture quality softens the detail a little. The point to be kept in mind is that Slow motion video recording is only available in the non-HD 480p resolution. It also allows you to continuously take 2.7-megapixel snapshots at a set interval. So its video and photo quality can be termed as decent!
-
-#### **2. Night-Version**
-
- Not most of the action cameras in this range offer such a high quality feature of night mode. This means you can now fulfil your adventurous dreams of exploring caves and filming wildlife in the peek darkness. IR Filter and external Infrared light source makes it possible to make pictures and video lively. Addition of Night Vision IR lens is simply fantastic. This 0 Lux Night Mode helps to see in dark without compromising with picture quality. So now you are ready to shoot in total darkness.
-
- Lookring for action camera with the ability to shoot under low light conditions? [Check Olympus TG Tracker](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### **3. Battery and charging:**
-
- A small 480mAh battery is input in this device to keep it light in weight. However, that means that it can handle about 70-90 minutes of continuous HD video recording. The point worth noting fortunately is that it gets charged quickly. Also it uses micro-USB standard which means it is chargeable with the help of power-bank as well as solar panel. So battery is little disappointing but its extendable battery can double the shooting length.
-
-#### **4. Twin-Camera capture Capacity:**
-
- Panasonic HX-A1 can be linked up with a Wi-Fi enabled Panasonic camcorder, thanks to its twin camera capability. This dual angle recording with Wireless twin camera allows you to record simultaneously and what you get as a result is a picture which exceeds the definition of nicest! The digital recording improves the quality and liveliness of videos and images.
-
-#### **5. Resistant capacity:**
-
- The resistant capacity of this device evident that it is designed to endure extreme outdoor conditions of any adventure you put yourself through. SFDW is its formula! Shock, freeze, dust and water proof ability makes it out of the box. The A1 is IP68 compliant, which means it has a capacity down to a depth of 1.5 metres (5 feet) of water and completely dustproof. It's also rated to survive drops of up to 1.5 metres and is freeze-proof to -10 degrees Celsius or 14 degrees Fahrenheit, so now you don’t need to cancel your plans due to extreme weather conditions. .
-
-#### **6. Image APP**
-
- A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
-
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
-## Conclusion
-
- The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
-
- Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
 
@@ -587,7 +560,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-cyberlinks-screen-recorder-an-expert-evaluation-for-2024/"><u>[New] Cyberlink's Screen Recorder An Expert Evaluation for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-premium-audio-modification-solutions-magically-effective/"><u>[New] In 2024, Premium Audio Modification Solutions Magically Effective</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cultivate-creativity-10plus-channel-driven-video-suggestions-for-2024/"><u>[Updated] Cultivate Creativity 10+ Channel-Driven Video Suggestions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-the-ideal-soundtrack-for-unboxing-content/"><u>[Updated] Finding the Ideal Soundtrack for Unboxing Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero4-black-vs-drift-ghost-s-which-one-is-better/"><u>[Updated] GoPro Hero4 Black VS Drift Ghost-S Which One Is Better?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-iphones-power-for-dynamic-range-shots/"><u>[Updated] Harnessing iPhone's Power for Dynamic Range Shots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-zooms-video-features-on-youtube-platform/"><u>[Updated] Harnessing the Power of Zoom's Video Features on YouTube Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-brightening-up-your-online-videos/"><u>[Updated] In 2024, Brightening Up Your Online Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-initial-steps-in-vlogging-essential-hardwaresoftware/"><u>[Updated] Initial Steps in Vlogging Essential Hardware/Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-the-art-of-purchasing-drones-insider-advice-for-2024/"><u>[Updated] Mastering the Art of Purchasing Drones Insider Advice for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-the-world-in-hd-with-yis-4k-camera-for-2024/"><u>Capturing the World in HD with YI's 4K Camera for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-fix-a-blanket-graphics-failure-tips-and-solutions-from-yl-computing/"><u>How to Fix a Blanket Graphics Failure: Tips & Solutions From YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-find-x7-ultra-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-audio-file-transformation-from-srt-to-xmlssattml/"><u>In 2024, Expertise in Audio File Transformation From SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-movement-analysis-2023/"><u>In 2024, Extensive Movement Analysis 2023</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-pro-max-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Pro Max Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-editions-windowed-film-editing-software-for-2024/"><u>Innovative Editions Windowed Film Editing Software for 2024</u></a></li>
+</ul></div>
 

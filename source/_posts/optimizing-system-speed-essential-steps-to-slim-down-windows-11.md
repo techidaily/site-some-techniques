@@ -1,7 +1,7 @@
 ---
 title: "Optimizing System Speed: Essential Steps to Slim Down Windows 11"
-date: 2024-12-18T18:17:19.669Z
-updated: 2024-12-24T20:30:07.208Z
+date: 2024-12-27T08:17:32.386Z
+updated: 2025-01-01T16:21:53.768Z
 tags:
   - desktop
 categories:
@@ -37,19 +37,23 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  However, if you want to check out some of these tools (at your own risk), [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil "https://github.com/ChrisTitusTech/winutil") and [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) both offer the ability to add and remove both pre-installed apps and Windows components, as well as make other Windows 11 tweaks. If you're using these kinds of system tweaking tools, you should [back up your data](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/) before you make any changes, just in case they break something.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Uninstalling BloatWare From the Settings App
 
  The first place you can remove bloatware is from the Windows Settings app. Open the Start menu and search for **Settings** then open the app. From here, click on the Apps menu item in the sidebar, and then select Installed Apps from the menu to the right.
 
 ![debloat1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/debloat1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Brad Morton / How-To Geek
 
  Scroll through the list of installed apps and decide whether you wish to keep each one. If you decide an app is "bloat", uninstall it by clicking on the dots to reveal the button to uninstall.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Disabling Startup Apps
 
@@ -57,15 +61,7 @@ Brad Morton / How-To Geek
 
 ![debloat2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/debloat2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Brad Morton / How-To Geek
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Disabling Optional Windows Features
 
@@ -82,12 +78,16 @@ Brad Morton / How-To Geek
 
  You can also remove Copilot in Windows (Microsoft's new, intrusive AI companion) and disable the Widgets menu from the task bar inSettings > Personalization > Taskbar. You can also disable content suggestions and other cloud search features in Settings > Privacy & security > Search Permissions to improve search responsiveness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Clearing Out Temporary Files
 
  If you are running low on disk space, you can adjust the settings to automatically remove temporary files. From Settings > System > Storage, you can enable Storage Sense which will automatically clear temporary files as needed, and view Windows' cleanup recommendations for large unused apps or files you could potentially remove. You can also [manually delete your cached/temporary files](https://facebook-videos.techidaily.com/in-2024-the-path-to-success-integrating-past-recordings-in-real-time-on-social-media/) if you want to make sure it has been done recently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What About Removing Preinstalled Antivirus Software?
@@ -115,22 +115,17 @@ Brad Morton / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-tech-savvy-ways-to-record-mac-lectures/"><u>[New] 2024 Approved Tech-Savvy Ways to Record Mac Lectures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-experts-picks-the-best-10-photography-lenses/"><u>[New] Expert's Picks The Best 10 Photography Lenses</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-stills-to-movement-mastery-with-polaroids-latest-tech/"><u>[New] From Stills to Movement Mastery with Polaroid's Latest Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-immersive-experiences-the-metaverse-explored-through-6-models/"><u>[New] Immersive Experiences The Metaverse Explored Through 6 Models</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-tactics-for-youtube-success-in-25-ways/"><u>[New] In 2024, Essential Tactics for YouTube Success in 25 Ways</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-navigating-revenue-sharing-on-youtubes-trending-content/"><u>[New] Navigating Revenue Sharing on YouTube's Trending Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-art-of-cinematic-dying-in-pro-for-2024/"><u>[New] The Art of Cinematic Dying in Pro for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exciting-vr-technologies-shaping-gaming/"><u>[Updated] Exciting VR Technologies Shaping Gaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-lut-sets-unlocked-dji-mini-air-2-in-the-spotlight/"><u>[Updated] Free LUT Sets Unlocked - DJI Mini, Air 2 in the Spotlight</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevate-your-editing-with-blend-mode-innovations/"><u>[Updated] In 2024, Elevate Your Editing with Blend Mode Innovations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-extract-and-convert-twitter-videos-hosted-on-youtube-to-mp3s/"><u>2024 Approved How to Extract and Convert Twitter Videos Hosted on YouTube to MP3s</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enthusiast-revamps-faulty-lenovo-laptop-elevates-experience-with-premium-titanium-shell-and-clickity-click-mechanical-keys/"><u>Enthusiast Revamps Faulty Lenovo Laptop, Elevates Experience with Premium Titanium Shell & Clickity-Click Mechanical Keys</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-14-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi 14 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>In 2024, Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-garmin-virb-ultra-30-your-companion-for-outdoor-capture/"><u>In 2024, Garmin VIRB Ultra 30 – Your Companion for Outdoor Capture</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-transform-low-res-videos-into-stunning-hd-with-these-software/"><u>Updated Transform Low-Res Videos Into Stunning HD with These Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experience-advanced-note-organization-on-mematic/"><u>[New] Experience Advanced Note Organization on Mematic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-review-of-powerdirector-apps-latest-edition-2024/"><u>[New] Expert Review of PowerDirector App's Latest Edition - 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-in-visual-communication-a-guide-to-gif-creation/"><u>[New] Expertise in Visual Communication A Guide to GIF Creation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-exploring-the-skies-with-top-10-beginner-drones/"><u>2024 Approved Exploring the Skies with Top 10 Beginner Drones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-tracking-your-followers-departure/"><u>2024 Approved Instagram Tracking Your Followers' Departure</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-navigating-video-production-a-compreran-guide-to-screencasting/"><u>2024 Approved Navigating Video Production A Compreran Guide to Screencasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/groups-of-flying-robots-for-2024/"><u>Groups of Flying Robots for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-play-40c-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Play 40C Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-seamless-gaming-top-5-high-res-display-with-hdmi-21/"><u>In 2024, Seamless Gaming Top 5 High-Res Display with HDMI 2.1</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-throughput-your-videos-8-top-android-apps/"><u>In 2024, Throughput Your Videos 8 Top Android Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smartwatch-shopping-guide-the-key-factors-you-shouldnt-ignore/"><u>Smartwatch Shopping Guide: The Key Factors You Shouldn't Ignore</u></a></li>
 </ul></div>
 

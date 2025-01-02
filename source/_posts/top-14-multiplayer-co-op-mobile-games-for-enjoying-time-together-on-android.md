@@ -1,7 +1,7 @@
 ---
 title: Top 14 Multiplayer Co-Op Mobile Games for Enjoying Time Together on Android
-date: 2024-12-19T16:07:19.545Z
-updated: 2024-12-24T19:10:47.314Z
+date: 2024-12-28T08:31:45.504Z
+updated: 2025-01-01T23:46:40.558Z
 tags:
   - mobile
 categories:
@@ -30,23 +30,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Have you ever spent a casual afternoon in stitches because one of your friends kept setting off all the traps? If yes, you know how much fun co-op gaming can be. Alas, Android games that aren't PvP games are hard to come by, so I've curated a list of games that are an absolute blast to play with friends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 [Otherworld Legends](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en%5FUS) 
 
 _Otherworld Legends_ is my favorite roguelite Android game of all time. It's great to play alone or with up to three other players. The game features several procedurally-generated dungeons with a boss fight at the end of each level, and in the end, you get to the main boss. Like in other similar games, the enemies' health and damage scales with the number of players.
 
  When you die or defeat the final boss, you're taken back to the main hub called the "Living Room," where a rich cast of playable characters and NPCs greets you. Each hero has multiple spells that completely change your playstyle, allowing you and your friends to come up with unique builds and hero combos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 [Minecraft](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en%5FUS) 
 
 _Minecraft_ is probably the most versatile game you can play with friends, as it's a sandbox where only your creativity is the limit. It features both online and offline multiplayer; you can even play it cross-platform, as long as it's the _Bedrock_ and not the _Java Edition_. While offline is fine if you play it with a family member, I strongly recommend finding or [hosting your own server](https://docs.mcsmanager.com/setup%5Fbedrock%5Fedition.html) so that your friends and you can play independently as well. It also has a default high player limit of 20, which can be increased in server settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 [Gunfire Reborn](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.duoyihk.m2m1&hl=en%5FUS) 
 
@@ -56,6 +52,10 @@ _Minecraft_ is probably the most versatile game you can play with friends, as it
 
 _PewPew Live_ is a chaotic top-down shooter with support for LAN co-op and five different game modes. Its twin-joystick controls and colorful vector graphics make the game look deceptively simple; it requires a fast reaction time, as you have to dodge spheres and projectiles while destroying these spheres simultaneously.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 [Sky: Children of the Light](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en%5FUS) 
 
 _Sky: Children of the Light_ is the most relaxing multiplayer puzzle adventure game you've ever seen. It's one of the few games with 100% cross-platform co-op, meaning you can play it with friends on PC or consoles as well. You spend a lot of time just exploring the world, so it's a perfect game to play while discussing unrelated topics with your friends.
@@ -63,6 +63,10 @@ _Sky: Children of the Light_ is the most relaxing multiplayer puzzle adventure g
 ## 6 [Soul Knight](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter) 
 
 _Soul Knight_ is another roguelite game made by the same developer, ChillyRoom, as Otherworld Legends. Although these two games have the same pixel art style and share the same core mechanics, they're still distinct games with different feelings, gameplay, characters, enemies, and spells. There's also the [_Soul Knight Prequel_](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel) once you're done with the original game. Just like Otherworlds Legends, you can play co-op with up to three other players.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7 [Bloons TD 6](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd6&hl=en%5FUS) 
 
@@ -77,7 +81,7 @@ _Bloons TD 6_ is one of the best tower defense games on Android, so it's great t
 _Keep Talking & Nobody Explodes_ is a bonafide in-person-only party game where you have to defuse a bomb before the timer goes off. The catch is that your friends are the ones with the manual, which is purposefully complicated to navigate. The bomb contains up to 11 modules that you have to disarm. The only downside is the relatively steep price tag, but you only need one copy, as the defusal manual is in PDF format and [available online](https://bombmanual.com/) for free.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10 [Pepelo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.Tafusoft.Pepelo&hl=en) 
@@ -88,21 +92,17 @@ _Pepelo_ is a 3D puzzle platformer that you can play alone or with friends. The 
 
 _Maximus 2_ is an old-school beat-em-up brawler that doesn't take itself too seriously. The game supports co-op with up to four players, but the coolest part is that you can all play on a single device if you have Bluetooth controllers. You progress through different levels, fight bosses, and you heal and revive your teammates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 12 [Northgard](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.playdigious.northgard) 
 
  Good strategy games on Android are rare, and multiplayer ones are even rarer. So, I'm glad to say that _Northgard_ fits the description perfectly. You build settlements, assign workers, manage resources while trying to survive the harsh Northgard winter, and combat enemies. The game supports up to six players, and you can play with or against them, so it's perfect if you want to play 2v2 or 3v3 with friends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 13 [TMNT: Shredder's Revenge](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.netflix.NGP.TMNTShreddersRevenge&hl=en) 
 
  Here we have another 2D beat-em-up side-scroller, but this time, it's a childhood franchise we all love and cherish—_Teenage Mutant Ninja Turtles_. _TMNT: Shredder's Revenge_ supports six-player cross-platform co-op; you can play as one of the four iconic turtles, but there are a few other characters as well, like Splinter and April. By the way, you can heal your friends by [high-fiving](https://screenrant.com/tmnt-shredders-revenge-how-to-heal-teammates-guide/) them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 14 [Storiado](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.beakbyte.storiado) 
 
@@ -127,22 +127,16 @@ _Storiado_ is a fun new party game where you and your friends create stories abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leading-vr-gear-for-drone-operators/"><u>[New] Leading VR Gear for Drone Operators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expertly-evaluating-webcam-technology-for-professionals/"><u>[Updated] 2024 Approved Expertly Evaluating WebCam Technology for Professionals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-face-fluidity-masterclass-perfecting-the-art-of-motion-blur-via-picsart/"><u>[Updated] Face Fluidity Masterclass Perfecting the Art of Motion Blur via Picsart</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-futures-best-cameras-in-visual-storytelling-2024-edition/"><u>[Updated] Future's Best Cameras in Visual Storytelling, 2024 Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-decoding-vsdcs-technology-against-top-screen-recorder-competitors/"><u>[Updated] In 2024, Decoding VSDC's Technology Against Top Screen Recorder Competitors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-access-to-the-finest-ae-templates-all-free/"><u>2024 Approved Exclusive Access to The Finest AE Templates, All-Free</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-landscape-of-music-and-intellectual-property-on-insta/"><u>2024 Approved Exploring the Landscape of Music & Intellectual Property on Insta</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-feathered-flamenco-flyers/"><u>2024 Approved Feathered Flamenco Flyers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-imagepurityplus-professional-photo-editing-suite/"><u>2024 Approved ImagePurityPlus Professional Photo Editing Suite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-imovie-soundscapes-enrich-your-visual-symphony/"><u>2024 Approved IMovie Soundscapes Enrich Your Visual Symphony</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-of-the-best-8-cameras-for-top-streaming-experience-for-2024/"><u>Best of the Best 8 Cameras for Top Streaming Experience for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boosting-vfx-efficiency-with-free-lut-downloads/"><u>Boosting VFX Efficiency with FREE LUT Downloads</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-dough-spectrum-black-oled-gaming-display-27-masterpiece/"><u>Expert Analysis of the Dough Spectrum Black OLED Gaming Display - 27 Masterpiece</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-the-best-17-image-editing-utilities/"><u>In 2024, Guide to the Best 17 Image Editing Utilities</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-complete-blueprint-for-iphone-photo-arrangement-in-ordered-algebras-and-icloud/"><u>In 2024, The Complete Blueprint for iPhone Photo Arrangement in Ordered Algebras and iCloud</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-recommendations-the-finest-fee-free-streamers-and-tools/"><u>[New] Expert Recommendations The Finest, Fee-Free Streamers and Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-visibility-features-mastering-snapchats-star/"><u>[New] High-Visibility Features Mastering Snapchat's Star</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-soundsnatcher-recorder-software-overview/"><u>[Updated] 2024 Approved SoundSnatcher Recorder Software Overview</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-film-experience-selecting-best-gopro-gear/"><u>[Updated] First Film Experience Selecting Best GoPro Gear</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-how-to-turn-your-smartphone-into-a-virtual-reality-vr-headset/"><u>[Updated] In 2024, How to Turn Your Smartphone Into a Virtual Reality (VR) Headset</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-referencing-gpt-3-in-academic-writing/"><u>Effective Strategies for Referencing GPT-3 in Academic Writing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-dimness-to-dazzle-a-guide-to-merging-in-lightroom-for-2024/"><u>From Dimness to Dazzle A Guide to Merging in Lightroom for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-possibilities-with-dual-screen-watching-on-netflix/"><u>In 2024, Explore the Possibilities with Dual-Screen Watching on Netflix</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/la-double-voie-de-synchronisation-expliquee-significations-theoriques-et-utilisations-concretes/"><u>La Double-Voie De Synchronisation Expliquée : Significations Théoriques Et Utilisations Concrètes</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/steps-to-access-free-dawn-weaver-dog-agility-lessons-video-guide/"><u>Steps to Access Free Dawn Weaver Dog Agility Lessons: Video Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-diamond-cut-engagement-ring-choices-beyond-traditional-al-alternative/"><u>Top Rated Diamond Cut Engagement Ring Choices : Beyond Traditional Al Alternative</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset"
-date: 2024-12-20T17:02:15.055Z
-updated: 2024-12-24T21:43:56.698Z
+date: 2024-12-27T03:37:28.464Z
+updated: 2025-01-01T19:25:10.634Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 ---
 
 ## Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  The way to perform the reset is different on MacBooks and desktops, as well as models with the T2 Security Chip. On Macs with Apple Silicon, there is no dedicated system management controller. All the functions of the SMC are built into the main chip.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Reset the SMC on an Apple Silicon Mac
@@ -51,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  Click the Apple menu in the top left corner of your screen, then either select "Restart," or choose "Shut Down" and hit the power button once it is done. The Apple Silicon equivalent of an SMC reset will happen automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Reset the SMC on an Intel Mac with a T2 Security Chip
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 ![The key combination to reset the SMC on a MacBook with the T2 chip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-a-macbook-with-the-t2-chip.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -76,6 +72,10 @@ Hannah Stryker / How-To Geek
 
  On desktop Macs with the T2 chip, it's far simpler. Just shut the Mac down and unplug the power cord. After 15 seconds, plug the power cord back in, wait another five seconds, and then power on your Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Reset the SMC on Older Intel Macs
 
  On older Intel MacBooks from earlier than 2018, you reset the SMC by using a different combination of key presses. Start by shutting down the Mac.
@@ -83,7 +83,7 @@ Hannah Stryker / How-To Geek
 ![The key combination to reset the SMC on an older Intel MacBook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-an-older-intel-macbook.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -118,20 +118,18 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-initiate-insight-an-entryway-guide-to-online-product-critique-channels/"><u>[New] Initiate Insight An Entryway Guide to Online Product Critique Channels</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-capture-the-thrill-choosing-superior-cam-accessories-for-2024/"><u>[Updated] Capture the Thrill Choosing Superior Cam Accessories for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-design-a-gif-joke-giphy-magic-for-2024/"><u>[Updated] Design a Gif Joke Giphy Magic for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hdr-camera-mastery-essential-buying-tips/"><u>[Updated] HDR Camera Mastery Essential Buying Tips</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-how-to-edit-the-length-of-a-video-on-youtube/"><u>[Updated] How to Edit the Length of a Video on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-avoiding-invisibility-strategies-for-effective-use-of-youtubes-featured-channels/"><u>[Updated] In 2024, Avoiding Invisibility Strategies for Effective Use of Youtube's Featured Channels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-favorite-tunes-androids-top-6-music-vids/"><u>2024 Approved Find Your Favorite Tunes Android's Top 6 Music Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flip-the-script-design-your-own-video-finale-for-free/"><u>2024 Approved Flip the Script Design Your Own Video Finale for Free</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-quickshot-flipslow-mpeg/"><u>2024 Approved QuickShot FlipSlow MPEG</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/first-row-leisure-10-alternatives-to-sports-for-2024/"><u>First Row Leisure 10 Alternatives to Sports for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fuse-fast-edits-for-stunning-windows-photos-for-2024/"><u>Fuse Fast Edits for Stunning Windows Photos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gigglesgateway-leading-online-portals-for-chuckling-calls-for-2024/"><u>GigglesGateway Leading Online Portals for Chuckling Calls for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-real-time-streaming-excellence-instagram-and-obs-unite/"><u>In 2024, Real-Time Streaming Excellence Instagram and OBS Unite</u></a></li>
-<li><a href="https://techtrends.techidaily.com/m4-mac-mini-breaking-down-rumors-on-price-release-window-and-technical-specifications/"><u>M4 Mac Mini: Breaking Down Rumors on Price, Release Window & Technical Specifications</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/reimagining-the-role-of-titles-in-after-effects-media/"><u>Reimagining the Role of Titles in After Effects Media</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-pedal-to-the-metal-mastering-crossfade-techniques/"><u>[New] 2024 Approved Pedal to the Metal Mastering Crossfade Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-getting-started-with-itunes-podcasts-on-ios-devices/"><u>[New] Getting Started with iTunes Podcasts on iOS Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gold-standard-groups-peak-podcasts-from-googloud/"><u>[New] Gold Standard Groups Peak Podcasts From GooGloud</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-identifying-relevant-metaphors-and-analogies/"><u>[New] Identifying Relevant Metaphors and Analogies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-tips-designing-immersive-educational-videos-for-online-learning/"><u>[Updated] In 2024, Cutting-Edge Tips Designing Immersive Educational Videos for Online Learning</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-maximize-your-fb-watching-with-top-firefox-addons-and-downloaders/"><u>[Updated] In 2024, Maximize Your FB Watching with Top Firefox Addons and Downloaders</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-quick-camouflage-blurring-faces-on-demand/"><u>[Updated] Quick Camouflage Blurring Faces on Demand</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-excellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>2024 Approved Excellent Video & Picture Capture for iPhones & Androids Here</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrate-effortlessly-prime-ios-design-software/"><u>2024 Approved Illustrate Effortlessly Prime iOS Design Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggles-and-grins-topical-humor-guides-for-everyone-for-2024/"><u>Giggles and Grins Topical Humor Guides for Everyone for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/google-ar-stickers-innovation-and-comparison-to-other-offerings-for-2024/"><u>Google AR Stickers Innovation and Comparison to Other Offerings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infiltrating-hidden-user-communications-on-yt-platforms-for-2024/"><u>Infiltrating Hidden User Communications on YT Platforms for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-evolution-of-excellence-lg-bp550/"><u>The Evolution of Excellence - LG BP550</u></a></li>
 </ul></div>
 

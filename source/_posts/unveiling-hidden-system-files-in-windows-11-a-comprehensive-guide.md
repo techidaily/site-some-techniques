@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden System Files in Windows 11: A Comprehensive Guide"
-date: 2024-12-20T16:27:47.132Z
-updated: 2024-12-24T19:26:54.097Z
+date: 2024-12-29T00:46:35.783Z
+updated: 2025-01-01T17:45:16.273Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 * [How to Show Protected Operating System Files in Windows 11](https://screen-recording.techidaily.com/updated-cost-effective-pc-video-archive-tools/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,17 +35,21 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![On Windows 11, click the File Explorer icon in the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/win11_file_explorer_taskbar.jpg) 
 
- Once you have File Explorer open, you can proceed with the next step.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once you have File Explorer open, you can proceed with the next step.
 
 ##  How to Show Hidden Files on Windows 11 the Easy Way
 
  To show hidden files on recent versions of Windows 11, you can simply click the View button on the File Explorer toolbar and then select Show -> Hidden items from the menu.
 
 ![show hidden files on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/Screenshot-2022-12-22-at-2.06.44-PM.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll immediately be able to start seeing regular hidden files this way. You won't, however, be able to see protected operating system files. To see those, keep reading below.
 
@@ -55,21 +59,21 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![Click the three-dot menu icon in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/click-the-three-dot-menu-icon-then-click-options.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the "Folder Options" window that opens, click the "View" tab. In the "Advanced Settings" list, locate the "Hidden Files and Folders" option. Using the radio buttons, select "Show hidden files, folders, and drives." Then click "OK" or "Apply" at the bottom of the window.
 
 ![Click the "View" tab, then select "Show Hidden Files and folders."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/go-to-view-tba.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hidden files and folders will instantly become visible in File Explorer and on your desktop. When you see them, their icons will have a slightly translucent or faded appearance.
 
 ![A hidden folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hidden-folder.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to hide them again later, use "Options" in File Explorer to open Folder Options again, click "View," select "Don't show hidden files, folders, or drives," and click "OK."
 
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  In the Folder Options window, click the "View" tab, then scroll down in the "Advanced Settings" list and uncheck "Hide protected operating system files (Recommended)."
 
 ![Unhide protected system files on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hide-protected-files.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As soon as you click the check box, a new dialog window will open that warns you about the dangers of revealing protected operating system files.
 
@@ -112,21 +112,22 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-elevate-your-profile-instagram-voice-alteration-guide/"><u>[New] Elevate Your Profile Instagram Voice Alteration Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-video-testimonials-shape-perception-and-trust/"><u>[New] How Video Testimonials Shape Perception and Trust</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-implementing-gradual-intensity-boost-in-audio-projects/"><u>[New] Implementing Gradual Intensity Boost in Audio Projects</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-from-graphics-to-emojis-turning-gifs-into-stickers-on-telegram-and-more-for-2024/"><u>[Updated] From Graphics to Emojis Turning GIFs Into Stickers on Telegram & More for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-youtube-music-reactions-years-top-ten-showcase-for-2024/"><u>[Updated] YouTube Music Reactions Year's Top Ten Showcase for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>2024 Approved Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-filmcrafters-compendium-unpacked-qanda/"><u>2024 Approved FilmCrafters' Compendium Unpacked Q&A</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/choosing-your-next-iphone-an-in-depth-analysis-of-iphone-15s-variants-regular-plus-pro-pro-max-by-tech-experts-at-zdnet/"><u>Choosing Your Next iPhone: An In-Depth Analysis of iPhone 15'S Variants (Regular, Plus, Pro, Pro Max) by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/elevate-your-productivity-with-stardock-desktopgpt-the-advanced-alternative-to-ai-power-user-assistants/"><u>Elevate Your Productivity with Stardock DesktopGPT: The Advanced Alternative to AI Power User Assistants</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/galaxy-s8-review-a-new-era-for-superior-smartphones-for-2024/"><u>Galaxy S8 Review - A New Era for Superior Smartphones for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-future-of-games-analyzing-htc-vive-vs-oculus-rift-and-ps-vr/"><u>In 2024, Future of Games Analyzing HTC Vive vs Oculus Rift & PS VR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-grasping-fcp-obtain-it-at-no-cost/"><u>In 2024, Grasping FCP Obtain It at No Cost</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-vector-art-our-picks-for-top-10-tools-in-industry/"><u>Mastering Vector Art Our Picks for Top 10 Tools in Industry</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-and-simple-methods-to-overcome-the-disk-write-error-on-steam/"><u>Quick & Simple Methods to Overcome the 'Disk Write Error' On Steam</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-acoustic-excellence-of-iphone-16-pros-sound-mixing-capabilities-discoveries-on-zdnet/"><u>Unveiling the Acoustic Excellence of iPhone 16 Pro's Sound Mixing Capabilities | Discoveries on ZDNET</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-various-video-recording-devices/"><u>[New] Guide to Various Video Recording Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-approach-to-enhance-mp4s-with-srt/"><u>[New] Innovative Approach to Enhance MP4s with SRT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-lens-masterful-techniques-to-enhance-iphone-images/"><u>[Updated] Harnessing the Lens Masterful Techniques to Enhance iPhone Images</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-dreaming-in-color-the-revolutionary-hp-monitor-z32x/"><u>[Updated] In 2024, Dreaming in Color The Revolutionary HP Monitor, Z32X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-your-tiktok-storytelling-with-effects/"><u>[Updated] Innovate Your TikTok Storytelling with Effects</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-global-perspective-your-favorite-travel-youtubers/"><u>2024 Approved A Global Perspective Your Favorite Travel Youtubers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extracting-youtube-srt-step-by-step-strategies-for-successful-download/"><u>2024 Approved Extracting YouTube SRT Step-by-Step Strategies for Successful Download</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highlighted-top-5-minimalist-action-camera-picks/"><u>2024 Approved Highlighted Top 5 Minimalist Action Camera Picks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-revolutionize-viewing-with-these-6-ultimate-youtube-shorts-downloader-apps/"><u>2024 Approved Revolutionize Viewing with These 6 Ultimate YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cities-skylines-second-edition-fixes-for-pc-stability-issues/"><u>Cities: Skylines Second Edition - Fixes for PC Stability Issues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-spanish-verb-patterns-and-usage/"><u>Essential Spanish Verb Patterns & Usage</u></a></li>
+<li><a href="https://facebook.techidaily.com/future-of-tech-under-scrutiny-a-look-at-us-antitrust-developments/"><u>Future of Tech Under Scrutiny: A Look at U.S. Antitrust Developments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmony-in-chat-blending-music-into-status/"><u>In 2024, Harmony in Chat Blending Music Into Status</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-travel/"><u>In 2024, How To Record a Podcast on iPhone or iPad (Best for Interviews & Travel)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-dialogue-with-humans-critical-for-machines-knowledge-expansion/"><u>Is Dialogue With Humans Critical for Machine's Knowledge Expansion?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/key-techniques-to-optimize-igtv-video-dimensions/"><u>Key Techniques to Optimize IGTV Video Dimensions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-advanced-virtual-camera-features/"><u>Live Streaming with ManyCam: Advanced Virtual Camera Features</u></a></li>
 </ul></div>
 

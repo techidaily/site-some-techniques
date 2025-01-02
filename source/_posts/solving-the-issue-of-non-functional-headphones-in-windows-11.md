@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Non-Functional Headphones in Windows 11
-date: 2024-12-17T20:26:57.999Z
-updated: 2024-12-24T21:47:03.409Z
+date: 2024-12-31T20:56:59.963Z
+updated: 2025-01-02T07:20:19.694Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Solving the Issue of Non-Functional Headphones in Windows 11
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Update Your Audio Drivers](https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-effective-virtual-meetings-with-zoom-win10/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -53,15 +49,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Unmuting the volume in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-unmuting-the-volume-in-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Check for Hardware Issues
 
  If the volume isn't muted, ensure your headphones aren't faulty. To check that, simply unplug your headphones from your device and plug them into another computer or your smartphone. If your headphones also don't work on other devices, they're probably faulty. So, either have them inspected by a technician or replace them.
 
  However, if your headphones work fine elsewhere, the issue is device-specific. So, keep applying the remaining fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Rule Out Bluetooth Interference (for Bluetooth Headphones)
 
@@ -71,10 +67,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Additionally, [troubleshoot Bluetooth issues on Windows](https://desktop-recording.techidaily.com/2024-approved-top-5-best-ps3-emulator-for-pc/) to rule out the problem being your Bluetooth connection as a whole, rather than your headphones.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  5\. Check for App-Specific Issues
 
  If your headphones don't work in a particular app, check if they work in other apps installed on your device. If they do, the issue might be specific to that app. So, ensure the volume isn't muted in that app, your headphones are set as default, and go through other settings that could cause the problem.
@@ -82,7 +74,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If your headphones don't work in any application or throughout the operating system, then the issue is more widespread.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Set Your Headphones as the Default Output Device
@@ -93,16 +85,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the more sound settings from the settings app on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-the-more-sound-settings-from-the-settings-app-on-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Sound window, go to the "Playback" tab. If a different device is selected as default here, right-click on your headphones and select "Set as Default Device."
 
 ![Selecting the headphones as default in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-selecting-the-headphones-as-default-in-sound-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Disable Exclusive Mode and Audio Enhancements
@@ -117,6 +105,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Disabling exclusive mode and audio enhacements in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-disabling-exclusive-mode-and-audio-enhacements-in-sound-settings-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Run the Audio Troubleshooter
 
  The Windows audio troubleshooter automatically scans for and fixes audio issues. If the above solutions are ineffective, this troubleshooter might do the job. To run the troubleshooter, right-click the Start button and choose "Settings." Then, navigate to the "System" tab and go to Troubleshoot > Other trouble-shooters.
@@ -127,6 +119,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Running the audio diagnostic from the get help app on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-running-the-audio-diagnostic-from-the-get-help-app-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Update Your Audio Drivers
 
  Outdated audio drivers can also cause difficulties with audio input and output devices. To rule out this possibility, [install the latest drivers](https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-13c-5g-phone-frp-lock-by-drfone-android/). Visit the manufacturer's website of your headphones or device and download the latest audio and Bluetooth drivers available. If the drivers are in an executable file format, simply run the files to install them.
@@ -134,6 +130,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  For drivers requiring manual installation, use Device Manager. Right-click on the Start button and open "Device Manager." In Device Manager, expand the "Sound, video, and game controllers" category, right-click on your audio device, and select "Update driver."
 
 ![Updating the sound driver in Windows Device Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-updating-the-sound-driver-in-windows-device-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Browse my computer for drivers," locate the downloaded files, and follow the on-screen instructions. Repeat these steps to update Bluetooth drivers.
 
@@ -156,21 +156,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-guided-pathway-for-large-file-exchange-in-apple-ecosystem/"><u>[New] Guided Pathway for Large File Exchange in Apple Ecosystem</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-quality-video-music-services/"><u>[New] High-Quality Video Music Services</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unraveling-free-filter-treasures-through-instagrams-advanced-searches/"><u>[New] Unraveling Free Filter Treasures Through Instagram’s Advanced Searches</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-unable-to-launch-game-please-verify-your-game-data/"><u>[SOLVED] Unable to Launch Game, Please Verify Your Game Data</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-fuzzy-frames-to-sharpness-the-v22-journey/"><u>[Updated] From Fuzzy Frames to Sharpness - The V2.2 Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-pixel-ringtone-treasures-online/"><u>2024 Approved Finding Pixel Ringtone Treasures Online</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-decade-of-user-experience-mondly/"><u>A Decade of User Experience - Mondly</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/detecting-and-avoiding-counterfeit-android-programs-insights-by-malwarefox/"><u>Detecting and Avoiding Counterfeit Android Programs: Insights by MalwareFox</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-expert-crafting-top-tier-reddit-posts-for-2024/"><u>From Novice to Expert Crafting Top-Tier Reddit Posts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-get-started-windows-11-sound-capture-for-2024/"><u>How to Get Started Windows 11 Sound Capture for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-v29-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo V29 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experts-pick-essential-plugins-to-elevate-your-ae-projects/"><u>In 2024, Expert's Pick Essential Plugins to Elevate Your AE Projects</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/link-sounds-to-visual-elements-in-ppt/"><u>Link Sounds to Visual Elements in PPT</u></a></li>
-<li><a href="https://article-helps.techidaily.com/pureearaudioextractors-latest-evolution/"><u>PureEarAudioExtractor's Latest Evolution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-32-no-cost-backup-solutions-expertly-rated-and-analyzed/"><u>Top 32 No-Cost Backup Solutions - Expertly Rated & Analyzed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-artificial-intelligence-chrome-tools-that-supercharge-productivity/"><u>Top 8 Artificial Intelligence Chrome Tools That Supercharge Productivity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-resolution-blu-ray-delight-top-3d-player-selections/"><u>[New] High-Resolution Blu-Ray Delight Top 3D Player Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-imovie-cropping-query-the-hidden-logic-behind-it/"><u>[New] IMovie Cropping Query The Hidden Logic Behind It</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ecrets-of-asmr-success-with-top-recorder-mics/"><u>[New] Secrets of ASMR Success with Top Recorder Mics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlined-recording-of-powerpoint-slides-via-webcam/"><u>[Updated] In 2024, Streamlined Recording of PowerPoint Slides via Webcam</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-pixel-perfection-for-those-just-starting-out/"><u>[Updated] Pixel Perfection for Those Just Starting Out</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-gopro-hero5-sessions/"><u>2024 Approved Exploring the GoPro Hero5 Sessions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-practices-in-setting-up-your-playstation-4s-webcam-location/"><u>Best Practices in Setting Up Your PlayStation 4'S Webcam Location</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-music-tools-for-pcs/"><u>In 2024, Exclusive Music Tools for PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-got-ringtone-leading-online-retailers/"><u>In 2024, Find Your GoT Ringtone - Leading Online Retailers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-editors-beat-pairing-visual-sequences-with-musical-tempo-using-adobe-premiere-pro-for-2024/"><u>New The Editors Beat Pairing Visual Sequences with Musical Tempo Using Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-perfect-blend-of-speed-and-affordability-an-in-depth-review-of-google-pixel-4a-5g/"><u>The Perfect Blend of Speed and Affordability - An In-Depth Review of Google Pixel 4a (5G)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-mini-tablets-of-2024-in-depth-comparison-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Mini Tablets of 2024 - In-Depth Comparison & Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://win-latest.techidaily.com/uncovering-unique-content-a-guide-to-locating-fresh-materials-using-flipbuilders-tools/"><u>Uncovering Unique Content: A Guide to Locating Fresh Materials Using FlipBuilder's Tools</u></a></li>
 </ul></div>
 

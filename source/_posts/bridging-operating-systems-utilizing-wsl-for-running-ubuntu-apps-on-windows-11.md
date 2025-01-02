@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: Utilizing WSL for Running Ubuntu Apps on Windows 11"
-date: 2024-12-18T21:14:33.119Z
-updated: 2024-12-24T20:38:39.749Z
+date: 2024-12-26T18:58:46.081Z
+updated: 2025-01-01T19:21:24.558Z
 tags:
   - desktop
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 ## Bridging Operating Systems: Utilizing WSL for Running Ubuntu Apps on Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Install WSL2 Kernel, activate Virtual Machine Platform, and make sure you have Admin rights before getting Ubuntu on Windows 11.
 * Enable Windows Subsystem for Linux, then download and install Ubuntu for WSL via Microsoft Store to run Linux apps on Windows 11.
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
 
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Requirements Before You Begin
 
  Before you can start using Ubuntu on your Windows 11 system, a few requirements must be met to ensure a smooth process. During my testing, WSL wouldn't work until I installed the latest WSL2 Kernel package installed on Windows 11\. If you're having issues with WSL running on Windows 11 like I did, install this kernel package. It will ensure that WSL v2 operating systems run correctly. You can download and install the EXE file [directly from Microsoft](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package).
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  In addition to the WSL2 Kernel EXE package, you'll need to enable the "Virtual Machine Platform" feature in the "Windows Features" area of Windows 11\. WSL runs with the help of virtualization, and this feature is a requirement to get the most out of Ubuntu in Windows 11.
 
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Enabling Windows Subsystem for Linux (WSL)
 
@@ -70,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -80,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 cd /mnt/c
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Update your Ubuntu WSL app
 
  It is good practice to update your Ubuntu WSL app from time to time, otherwise programs will stop working. Here's how to do it on Windows 11.
@@ -115,6 +115,10 @@ sudo apt update
 sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
 
@@ -138,10 +142,6 @@ nohup program_name & disown
 
  Alternatively, applications can be started from the Windows 11 start menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Integration with Windows 11
 
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
@@ -149,7 +149,7 @@ nohup program_name & disown
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
@@ -179,18 +179,18 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-drone-vr-integration-guide/"><u>[New] 2024 Approved Ultimate Drone-VR Integration Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-resolving-poor-image-quality-on-facebook-live-feeds-for-2024/"><u>[New] Resolving Poor Image Quality on Facebook Live Feeds for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-standard-to-supreme-mastering-sdr-to-hdr-video-upgrade/"><u>[Updated] From Standard to Supreme Mastering SDR-to-HDR Video Upgrade</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-end-drones-get-yours-now/"><u>[Updated] High-End Drones Get Yours Now</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-exclusive-exploration-superior-vr-games-on-google-cardboard/"><u>[Updated] In 2024, Exclusive Exploration Superior VR Games on Google Cardboard</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-instantly-post-photosvideos-to-twitter-skipping-retweets-for-2024/"><u>[Updated] Instantly Post Photos/Videos to Twitter, Skipping Retweets for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-universe-of-gesture-technology/"><u>2024 Approved Exploring the Universe of Gesture Technology</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-smart-strategies-for-securely-saving-movie-moments-across-gadgets/"><u>2024 Approved Smart Strategies for Securely Saving Movie Moments Across Gadgets</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/barnes-and-nobles-biggest-e-reader-yet-a-comprehensive-look-at-the-nook-glowlight-plus/"><u>Barnes & Noble's Biggest E-Reader Yet: A Comprehensive Look at the Nook GlowLight Plus</u></a></li>
-<li><a href="https://fox-http.techidaily.com/budgeting-outlay-the-expense-of-rendering-songs-visually/"><u>Budgeting Outlay The Expense of Rendering Songs Visually</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-present-vr-innovations-for-2024/"><u>Exploring Present VR Innovations for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/sci-fis-virtual-quest-the-best-movies-to-discover-alien-universes/"><u>Sci-Fi's Virtual Quest The Best Movies to Discover Alien Universes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trailblazing-truth-in-an-age-of-ai-imaginary-reality/"><u>Trailblazing Truth in an Age of AI Imaginary Reality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extensive-review-the-360-degree-capture-of-samsung/"><u>[New] Extensive Review The 360-Degree Capture of Samsung</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-digitize-your-old-photos-and-turn-them-into-impressive-videos/"><u>[New] How to Digitize Your Old Photos and Turn Them Into Impressive Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertly-curated-list-of-top-6-head-mounted-cameras-for-action-seekers/"><u>[Updated] Expertly Curated List of Top 6 Head-Mounted Cameras for Action Seekers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funnyframe-generator/"><u>[Updated] FunnyFrame Generator</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-comprehensive-explanation-of-googles-automatic-transcription-technology/"><u>[Updated] In 2024, Comprehensive Explanation of Google's Automatic Transcription Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-analysis-on-slomo-video-softwares-performance-for-2024/"><u>Expert Analysis on SloMo Video Software's Performance for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-a-deep-dive-into-hardware-by-tomsphere/"><u>Exploring Advanced Tech: A Deep Dive Into Hardware by TomSphere</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-join-the-leading-online-yoga-studios-today/"><u>In 2024, Join the Leading Online Yoga Studios Today</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-m54-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy M54 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-access.techidaily.com/insta-wonders-top-9-habits-of-influencers-and-stars-for-2024/"><u>Insta Wonders Top 9 Habits of Influencers and Stars for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-triumph-expert-tips-for-reinitializing-windows-11-apps/"><u>Tech Triumph: Expert Tips for Reinitializing Windows 11 Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/nsv-mp3-movavi/"><u>오픈 소스 무료 NSV 파일을 MP3로 전환하는 방법 - Movavi</u></a></li>
 </ul></div>
 

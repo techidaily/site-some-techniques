@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer"
-date: 2024-12-20T16:13:43.539Z
-updated: 2024-12-24T19:08:51.892Z
+date: 2024-12-29T20:08:46.562Z
+updated: 2025-01-02T07:29:55.755Z
 tags:
   - desktop
 categories:
@@ -11,15 +11,15 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 ## Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Find All Your Photos Manually](https://facebook-videos.techidaily.com/from-chats-to-files-the-methodical-approach-to-downloading-fb-video-for-2024/)
 * [A Better Way: Let Windows Search Find All Your Photos](https://article-helps.techidaily.com/2024-approved-windowsmacos-execute-and-enjoy-srt-files/)
 * [Use a Third-Party App](https://screen-capture.techidaily.com/updated-in-2024-obs-alternatives-reviewed-by-experienced-broadcinas/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
  Have you ever [transferred some pictures to your PC](https://hardware-tips.techidaily.com/master-your-gadgets-with-innovative-solutions-from-toms-hardware-experts/) and then forget where you stored them? Or, maybe you've got a few storage hard drives and don't want to search them manually? Here's a simple way to get Windows to search for all your photos on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Find All Your Photos Manually
@@ -49,20 +49,20 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also search a particular hard drive or folder. For this example, we're going to search our C: drive.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, click the search box at the top right of the window. Doing so will display the otherwise hidden "Search" tab at the top. Switch to that tap, click the "Kind" button, and then select "Pictures" from the drop-down menu.
 
 ![/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That inserts the following operator into the search box. If you prefer, you can also type it there yourself to get the same results.
@@ -87,6 +87,10 @@ kind:=picture
 
 ![Click the "Scan" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-scan-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once it is done you'll see a colorful array of blocks at the bottom that represent the files and folders on your PC. Click the filter button at the top, enter **\*.** followed by an image file format, then click "Apply Filter." If you wanted to find every PNG file, for example, you'd enter **\*.png** into the filter field. If you wanted to find JPEGs, you'd enter **\*.jpeg** into the filter field instead.
 
  The asterisk (\*) is used as a wildcard character. In our case, it tells WizTree: "Look for a file with _any_ name that ends in a specific file format."
@@ -96,10 +100,6 @@ kind:=picture
  The colored blocks at the bottom will now only represent image files (in our case PNGs). You can click on them one by one, or open entire folders.
 
 ![Individual PNG files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-individual-files.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  PNGs and JPEGs aren't the only image formats, though. Here are some common ones you might want to look for:
 
@@ -129,20 +129,19 @@ kind:=picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-freeaudvault-review-unveiling-the-full-potential-of-2024/"><u>[New] FreeAudVault Review Unveiling the Full Potential of 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-mozillas-split-screen-technique-in-firefox/"><u>[Updated] Exploring Mozilla's Split Screen Technique in Firefox</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-haptic-feedback-in-e-commerce-trials/"><u>[Updated] Haptic Feedback in E-Commerce Trials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmony-in-chat-blending-music-into-status/"><u>[Updated] Harmony in Chat Blending Music Into Status</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-get-liked-faster-on-tinder-clever-bio-tricks-that-work/"><u>2024 Approved Get Liked Faster on Tinder Clever Bio Tricks That Work</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gratuitous-gems-of-humor-your-guide-to-free-memes/"><u>2024 Approved Gratuitous Gems of Humor – Your Guide to FREE Memes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bluestacks-keeping-you-down-solve-the-problem-with-this-easy-5-step-fix/"><u>BlueStacks Keeping You Down? Solve the Problem with This Easy 5-Step Fix</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/breaking-the-monotony-infusing-novelty-in-ppt-voiceovers/"><u>Breaking the Monotony Infusing Novelty in PPT Voiceovers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/extend-your-apple-watchs-battery-with-these-simple-adjustments-discover-the-ultimate-guide-to-power-saving-tips/"><u>Extend Your Apple Watch's Battery with These Simple Adjustments: Discover the Ultimate Guide to Power Saving Tips!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gold-standard-of-livestream-performances-for-2024/"><u>Gold Standard of Livestream Performances for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic-5-lite-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor Magic 5 Lite to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mpe-wav-movavi/"><u>MPE-WAV를 무료로 바꾸기: Movavi의 웹 인터페이스에서 광범위한 오디오 변환</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-airfare-by-half-unlock-savings-of-2000plus-through-the-exclusive-dollar-flight-club-revealed-on-zdnet/"><u>Slash Your Airfare by Half: Unlock Savings of $2,000+ Through the Exclusive Dollar Flight Club - Revealed on ZDNET</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-8-leading-pc-manufacturers-a-comprehensive-guide/"><u>Top 8 Leading PC Manufacturers : A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-is-nvidia-control-panel-inaccessible-on-win11/"><u>Why Is Nvidia Control Panel Inaccessible on Win11?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-expertise-essential-techniques/"><u>[New] GoPro Expertise Essential Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-hearts-interacting-with-a-diverse-subscriber-base/"><u>[New] Harmonizing Hearts Interacting with a Diverse Subscriber Base</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-your-space-naturally-interior-wise/"><u>[New] Illuminating Your Space Naturally, Interior-Wise</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-5-essential-gameplay-cams-for-live-streamers/"><u>[New] In 2024, Top 5 Essential Gameplay Cams for Live Streamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-capturing-youtube-videos-subtitles-in-srt-format/"><u>[New] The Ultimate Guide to Capturing YouTube Videos' Subtitles in SRT Format</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-nifty-steps-to-generate-timely-captions-and-text-for-fb-video-uploads/"><u>[Updated] 2024 Approved Nifty Steps to Generate Timely Captions and Text for FB Video Uploads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-fcp-strategies-and-tactics-exposed/"><u>[Updated] Free FCP Strategies and Tactics Exposed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-viral-videos-creating-engaging-memes-for-fbinsta/"><u>[Updated] In 2024, Mastering Viral Videos Creating Engaging Memes for FB/Insta</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-popular-imagery-origins-decoded/"><u>[Updated] Popular Imagery Origins Decoded</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-6-best-free-apps-to-compress-videos-on-android/"><u>2024 Approved 6 Best Free Apps to Compress Videos on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-bright-to-deep-premiere-pro-magic/"><u>2024 Approved From Bright to Deep Premiere Pro Magic</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-the-buffering-reduction-in-overwatch-enhance-your-gaming-experience/"><u>How Does the Buffering Reduction in Overwatch Enhance Your Gaming Experience?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-dive-into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers/"><u>In 2024, Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/taking-a-deep-dive-into-innovative-landscaping-how-i-found-the-robot-mowers-tesla-cybertruck-exceeded-my-anticipations-cutting-edge-reviews-at-zdnet/"><u>Taking a Deep Dive Into Innovative Landscaping: How I Found the Robot Mowers' Tesla Cybertruck Exceeded My Anticipations | Cutting-Edge Reviews at ZDNET</u></a></li>
 </ul></div>
 

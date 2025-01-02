@@ -1,7 +1,7 @@
 ---
 title: Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques
-date: 2024-12-22T19:40:12.631Z
-updated: 2024-12-24T17:26:52.027Z
+date: 2024-12-27T02:03:53.432Z
+updated: 2025-01-02T00:28:48.433Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -29,15 +37,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
 
@@ -57,10 +57,6 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Rename Files in a Folder With an Increasing Number
 
  If you want to add an increasing number, such as 1, 2, 3, and so on, to your files in a specific folder, follow these steps.
@@ -72,11 +68,7 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -89,6 +81,10 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -96,6 +92,10 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -118,18 +118,24 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/1716069570698-updated-2024-approved-immerse-in-pc-game-moments-capture-perfectly/"><u>[Updated] 2024 Approved Immerse in PC Game Moments - Capture Perfectly!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fb-link-downloader-bundle-access-to-8-free-online-solutions/"><u>[Updated] FB Link Downloader Bundle Access to 8 Free, Online Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-getting-started-with-windows-10-sound-recording/"><u>[Updated] Getting Started with Windows 10 Sound Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-capture-slow-motion-videos-with-gopro-hero-10/"><u>[Updated] How to Capture Slow Motion Videos with GoPro Hero 10?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-list-best-video-making-for-ios-android-users/"><u>[Updated] The Ultimate List Best Video-Making For iOS, Android Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-simple-curvature-alteration-in-pics/"><u>2024 Approved Guide to Simple Curvature Alteration in Pics</u></a></li>
-<li><a href="https://driver-download.techidaily.com/confusion-may-result-from-metabolic-disturbances-infections-toxic-ingestions-or-increased-intracranial-pressure/"><u>Confusion May Result From Metabolic Disturbances, Infections, Toxic Ingestions, or Increased Intracranial Pressure</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/faithful-melodies-how-to-install-christian-chimes-for-2024/"><u>Faithful Melodies How to Install Christian Chimes for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204209796-haitian/"><u>Haitian:</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-vortex-constructor-set/"><u>In 2024, Vortex Constructor Set</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-connection-issues-a-comprehensive-guide-to-pairing-your-airpods-with-windows-11-updated/"><u>Resolving Connection Issues: A Comprehensive Guide to Pairing Your AirPods with Windows 11 (Updated )</u></a></li>
-<li><a href="https://discover-able.techidaily.com/setting-up-your-standard-account-preferences-a-guide-through-windows-control-panel-powered-by-yl-computing/"><u>Setting Up Your Standard Account Preferences: A Guide Through Windows Control Panel - Powered by YL Computing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-10-best-music-video-hits-on-social-media-platform-for-2024/"><u>[New] 10 Best Music Video Hits on Social Media Platform for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-picks-for-drone-pilots-vr-eyewear/"><u>[New] Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-calm-to-captivating-techniques-for-motion-blur-mastery/"><u>[New] From Calm to Captivating Techniques for Motion Blur Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-noise-to-symphony-imovie-audio-edition/"><u>[New] From Noise to Symphony IMovie Audio Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-for-fisheye-sphere-capture/"><u>[New] Innovative Techniques for Fisheye Sphere Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-versatile-intro-editing-app-for-your-device-repertoire/"><u>[Updated] 2024 Approved Versatile Intro Editing App for Your Device Repertoire</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tune-your-digital-discussions-zooming-upwards/"><u>[Updated] Fine-Tune Your Digital Discussions Zooming Upwards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-review-of-the-latest-powerdirector-app-24/"><u>[Updated] Full Review of the Latest PowerDirector App - '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-selection-8-must-have-image-packs-for-laptops/"><u>[Updated] Ideal Selection 8 Must-Have Image Packs for Laptops</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>[Updated] Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/avvio-della-versione-aggiornata-encoder-software-e-hardware-per-il-formato-video-av1-ora-accessibili/"><u>Avvio Della Versione Aggiornata: Encoder Software E Hardware per Il Formato Video AV1 Ora Accessibili!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/creating-stunning-slow-motion-videos-on-android-a-step-by-step-guide-with-movavi-clips/"><u>Creating Stunning Slow-Motion Videos on Android: A Step-by-Step Guide with Movavi Clips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-perfect-our-top-10-photo-lenses-list-for-2024/"><u>Frame Perfect Our Top 10 Photo Lenses List for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nubia-red-magic-8s-proplus-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nubia Red Magic 8S Pro+ Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-newbie-to-zoom-whiz-in-no-time/"><u>In 2024, From Newbie to Zoom Whiz in No Time</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pioneering-seven-water-resilient-camera-brands/"><u>Pioneering Seven Water-Resilient Camera Brands</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-article-below-will-show-you-some-of-the-best-apps-to-convert-a-video-to-a-live-photo-and-how-to-set-up-live-photos-as-wallpaper-on-iphone/"><u>The Article Below Will Show You some of the Best Apps to Convert a Video to a Live Photo, and How to Set up Live Photos as Wallpaper on iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-physxloaderdll-quick-solutions/"><u>Troubleshooting the 'Missing PhysXLoader.dll': Quick Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-latest-how-do-the-new-airpods-pro-and-max-compare-key-features-explored/"><u>Unveiling Apple's Latest: How Do the New AirPods Pro and Max Compare? Key Features Explored</u></a></li>
 </ul></div>
 

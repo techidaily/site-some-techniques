@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12"
-date: 2024-12-18T22:19:28.759Z
-updated: 2024-12-24T20:19:33.541Z
+date: 2024-12-27T08:21:24.024Z
+updated: 2025-01-01T19:29:29.308Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ## Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
  It feels like Windows 11 was just released yesterday, but there is good reason to believe Windows 12 will be released in 2024 or 2025\. Here are some things we'd love to see included in Windows 12.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Finish the Settings App and Remove Control Panel
 
  The modern Settings app has been present in Windows since the days of Windows 8, but it still doesn’t contain everything that Control Panel does.
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ![The legacy Control Panel in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_47.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Expand Phone Link's Usefulness
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
  We’re not likely to ever see that ease of use and depth of integration. However, while we’re wishing, we’d like to see all the features Phone Link supports (like screen mirroring) available on all Android devices, not just a select few Samsung phones.
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Universal Noise Cancellation Built-in
 
@@ -71,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Andrew Heinzman / How-To Geek
@@ -82,6 +74,10 @@ Andrew Heinzman / How-To Geek
 
  In the interim, [Wallpaper Engine](https://www.wallpaperengine.io/en) or [Lively](https://apps.microsoft.com/detail/9ntm2qc6qws7) are great, low-cost ways to get your animated background fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Useful Widgets
 
  Microsoft has made several attempts at implementing widgets in Windows over the years, and none of them have been particularly successful. One—Gadgets in Windows Vista and 7—quite famously [introduced security vulnerabilities](https://learn.microsoft.com/en-us/security-updates/SecurityAdvisories/2013/2719662?redirectedfrom=MSDN).
@@ -91,6 +87,10 @@ Andrew Heinzman / How-To Geek
  Widgets cannot be pinned to the desktop, where you might be able to get information from them in a glance; you must click the icon on the taskbar. Once you do, only 1/3 of the available space is dedicated to your actual widgets—the rest is a truckload of content that Microsoft thinks you might find interesting. You can _sort of_ curate what is displayed, but it is still incredibly cluttered and visually way too busy.
 
 ![The widgets on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h16_21.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
 
@@ -105,7 +105,7 @@ Andrew Heinzman / How-To Geek
  We’ve been living with cluttered right-click menus for decades. A native tool would be a small but fantastic addition to Windows 12.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Favorites List on the Emoji Picker
@@ -115,10 +115,6 @@ Andrew Heinzman / How-To Geek
  As it stands now, the Emoji picker displays several tabs that lets you pick between emojis, emoticons, GIFs, symbols, and a recents tab.
 
 ![The Emoji picker on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h15_16.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It would be great to have the option to build a favorites tab that opens by default. It would be even better if the favorites tab let you assign a key to each favorited item for faster access, much like [how the Power User Menu works](https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/).
 
@@ -137,6 +133,10 @@ Andrew Heinzman / How-To Geek
  It also lacks basic functionality that other game distribution platforms support, like the ability to limit your bandwidth within the actual app, among others. You shouldn’t need to fiddle around in the Windows Settings app to achieve something basic like that.
 
  The Xbox app needs some TLC from Microsoft to reach its maximum potential. Hopefully we’ll see that with Windows 12 (or sooner!)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Better Device Backup Options in Windows Backup
 
@@ -182,18 +182,22 @@ Andrew Heinzman / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastering-professional-camera-spin-360-edition-2023/"><u>[New] 2024 Approved Mastering Professional Camera Spin 360° Edition, 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-20plus-funny-memes-of-virtual-universes/"><u>[New] Exploring 20+ Funny Memes of Virtual Universes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>[New] From HD to Breathtaking EIZO's Newest 4K Display</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-newsmaker-crafting-viral-memes-in-9gag/"><u>[New] From Novice to Newsmaker Crafting Viral Memes in 9GAG</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-players-picks-unveiling-our-top-10-adventure-classics-for-2024/"><u>[New] Players' Picks Unveiling Our Top 10 Adventure Classics for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/rivia-trek-exploring-yts-fascinating-figures-and-infographics/"><u>[New] Trivia Trek Exploring YT's Fascinating Figures and Infographics</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-examining-updates-the-2023-samsung-bd-j5900/"><u>[Updated] Examining Updates The 2023 Samsung BD-J5900</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-shoot-to-screen-mastering-360-degree-video-edits-using-premiere-pro/"><u>[Updated] From Shoot to Screen Mastering 360-Degree Video Edits Using Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-res-videos-2024s-finest-camcorders-ranked/"><u>[Updated] High-Res Videos 2024'S Finest Camcorders Ranked</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-most-effective-web-subtitle-editors/"><u>[Updated] Unveiling the Most Effective Web Subtitle Editors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-elevating-your-smartphone-photography-with-an-apple-tabletphone/"><u>Expert Tips: Elevating Your Smartphone Photography with an Apple Tablet/Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-first-steps-in-av1-coders/"><u>In 2024, First Steps in AV1 Coders</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-facebook-papers-arent-as-damning-as-they-seem-heres-why/"><u>The Facebook Papers Aren't as Damning as They Seem. Here's Why</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-adobe-audition-101-the-art-of-fading-on/"><u>[New] In 2024, Adobe Audition 101 The Art of Fading On</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-mastering-money-making-the-ultimate-13-beginners-guide-to-reddit/"><u>[New] In 2024, Mastering Money-Making The Ultimate 13 Beginner's Guide to Reddit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-with-imagination-pro-tiktok-edits-revealed/"><u>[New] Innovating with Imagination Pro TikTok Edits Revealed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-lush-backdrops-a-treasure-chest-of-free-templates-for-cinematographers-for-2024/"><u>[New] Lush Backdrops A Treasure Chest of Free Templates for Cinematographers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-enhance-visibility-11-must-know-youtube-video-seo-tactics/"><u>[Updated] 2024 Approved Enhance Visibility 11 Must-Know YouTube Video SEO Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guidelines-for-accurate-dating-of-digital-pictures/"><u>[Updated] Guidelines for Accurate Dating of Digital Pictures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hands-on-guide-making-instagram-collages-a-breeze/"><u>[Updated] Hands-On Guide Making Instagram Collages a Breeze</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-premier-silent-sound-converters/"><u>[Updated] In 2024, Premier Silent Sound Converters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-your-creative-journey-blending-photography-and-videos-through-pixiz/"><u>2024 Approved Ignite Your Creative Journey Blending Photography & Videos Through Pixiz</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-instantaneous-viewership-metering/"><u>2024 Approved Instantaneous Viewership Metering</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-ios-slideshow-software-from-x-to-ios13/"><u>Best iOS Slideshow Software From X to IOS13</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-list-digital-dominators-in-av-production-for-2024/"><u>Exclusive List Digital Dominators in AV Production for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-conversion-of-nsv-formats-with-movavi/"><u>Free Online Conversion of NSV Formats with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-eye-catching-narrative-starter-gadget/"><u>In 2024, Eye-Catching Narrative Starter Gadget</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hand-tracked-futures-visionary-technologies/"><u>In 2024, Hand-Tracked Futures Visionary Technologies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-individual-differences/"><u>In 2024, Individual Differences</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unveiling-the-simplest-tone-adjustments-in-pubg/"><u>In 2024, Unveiling the Simplest Tone Adjustments in PUBG</u></a></li>
 </ul></div>
 

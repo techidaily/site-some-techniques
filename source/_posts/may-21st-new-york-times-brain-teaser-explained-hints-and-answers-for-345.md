@@ -1,7 +1,7 @@
 ---
 title: "May 21St New York Times Brain Teaser Explained: Hints and Answers for #345"
-date: 2024-12-22T19:16:39.720Z
-updated: 2024-12-24T18:20:34.472Z
+date: 2024-12-28T02:19:01.831Z
+updated: 2025-01-02T04:14:03.415Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 ---
 
 ## May 21St New York Times Brain Teaser Explained: Hints and Answers for #345
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Connections?
@@ -45,9 +41,17 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 * **Blue:** Equipment for a game you often play in a bar.
 * **Purple:** A social media company and a laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Are Today's Connections Groups?
 
 ![May 21st's words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
 
@@ -56,13 +60,13 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 * **Blue:** Billiards Equipment
 * **Purple:** \_\_\_Book (That's Not a Book)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Today's NYT Connections Answers
 
 ![May 21st Connections groups and words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections-filled.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Smidgen (Yellow):** 
 
@@ -81,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
  Face, Mac, Match, Pocket
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -95,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
  The next group I spotted was Purple. Purple often hinges on missing or added words, so I started blindly attaching words to them to see if anything jumped out. Face immediately made me think Facebook, which seemed like a strong lead. Book also fits with Mac, Match, and Pocket. The group name was "\_\_\_\_book(That's Not a Book)." 
 
  That left buy, deal, steal, and value in the Green group, which was "Bargain." 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -128,17 +128,16 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-ez-grabbers-potential-with-this-user-friendly-tutorial/"><u>[New] In 2024, Unlocking EZ Grabber's Potential with This User-Friendly Tutorial</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-angle-alchemists-guide-to-transforming-your-videos-youtube-edition/"><u>[New] The Angle Alchemist's Guide to Transforming Your Videos (YouTube Edition)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-eyecapture-facebook-content-saves/"><u>[Updated] 2024 Approved EyeCapture Facebook Content Saves</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-deciphering-highlighted-discussion-threads-for-2024/"><u>[Updated] Deciphering Highlighted Discussion Threads for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-picshots-magic-for-quick-photo-cohesion/"><u>[Updated] Explore Picshot’s Magic for Quick Photo Cohesion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-long-is-a-video-at-20-megabits/"><u>[Updated] How Long Is a Video at 20 Megabits?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-12-mini-how-to-unlock-a-disabled-iphone-12-mini-drfone-by-drfone-ios/"><u>Disabled iPhone 12 mini How to Unlock a Disabled iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-safaris-picture-and-window-sharing-feature-for-2024/"><u>Expert Tips for Safari's Picture and Window Sharing Feature for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/frame-your-vision-leading-lines-for-dynamic-iphone-photos-for-2024/"><u>Frame Your Vision Leading Lines for Dynamic iPhone Photos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-craftsmits-and-cinematography-precision-in-aspect-ratios/"><u>In 2024, Craftsmits and Cinematography Precision in Aspect Ratios</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-venues-expanding-youtube-visibility/"><u>In 2024, Foremost Venues Expanding YouTube Visibility</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-8t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 8T Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-cinema-boosted-list-of-the-best-15-luts/"><u>[New] GoPro Cinema Boosted List of the Best 15 LUTs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-making-sounds-count-windows-10-audio-guide/"><u>[Updated] 2024 Approved Making Sounds Count Windows 10 Audio Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-selected-8-filters-for-virtual-showcases/"><u>2024 Approved Expertly Selected 8 Filters for Virtual Showcases</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-basic-to-win11-bold-how-to-enhance-your-pcs-capabilities/"><u>2024 Approved From Basic to Win11 Bold How to Enhance Your PC's Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expand-your-video-editing-experience-no-inshot-required/"><u>In 2024, Expand Your Video Editing Experience No Inshot Required</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tuning-zoom-visuals-top-techniques/"><u>In 2024, Fine-Tuning Zoom Visuals Top Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-lava-yuva-2-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Lava Yuva 2 Pro FRP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/responsible-caretaking-integrating-gpt-into-therapy/"><u>Responsible Caretaking: Integrating GPT Into Therapy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-workflow-why-the-latest-windows-outlook-matters/"><u>Revolutionize Your Workflow: Why the Latest Windows' Outlook Matters</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-instructions-on-how-to-download-videos-for-free-from-tube8/"><u>Step-by-Step Instructions on How to Download Videos for Free From Tube8</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-electronic-insights-and-expertise-navigating-hardware-choices/"><u>Tom’s Electronic Insights & Expertise – Navigating Hardware Choices</u></a></li>
 </ul></div>
 

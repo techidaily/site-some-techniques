@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2024-12-22T20:57:49.115Z
-updated: 2024-12-24T20:11:16.503Z
+date: 2024-12-29T00:31:04.232Z
+updated: 2025-01-01T19:33:14.329Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ## Troubleshooting Guide: Resolving Discord Windows Mic Issues
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  As a basic fix, restart your computer and see if that makes the mic working again. If it doesn't, use the troubleshooting tips below. Make sure to launch Discord and see if the mic works after each method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Run Discord as an Admin
 
  Discord may be unable to use the microphone because it doesn't have permission to use system resources. This usually happens when you aren’t running the app as an admin. [Launch the app with administrative privileges](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/) to resolve the problem.
@@ -37,11 +33,11 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select "Yes" in the User Account Control prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Test Your Mic in Another App and Give Discord Microphone Access
 
@@ -57,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Microphone Access' and 'Let Apps Access Your Microphone' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-enable-mic-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On Windows 10, navigate to Settings > Privacy > Microphone. On the right pane, select "Change" and turn on the toggle. On the same page, enable both "Allow Apps to Access Your Microphone" and "Allow Desktop Apps to Access Your Microphone" options.
 
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Select the Correct Mic in Discord
 
@@ -77,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Disable QoS High Packet Priority in Discord
 
  Discord’s [QoS](https://digital-screen-recording.techidaily.com/updated-in-2024-nine-powerful-microphone-capture-options-decoded/) High Packet Priority feature tells your router the app’s internet packets are high priority. This feature sometimes clashes with the app configuration. Turn it off and see if that resolves your mic problem.
@@ -89,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Reset Discord's Voice Settings
 
  If the issue persists, your last option is to reset Discord’s voice settings. This clears the current mic configuration, possibly resolving the problem.
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  Open Discord and navigate to the User Settings page (the gear icon in the bottom-left). Select "Voice & Video" in the left sidebar, then scroll down in the right pane and choose "Reset Voice Settings."
 
 !['Voice & Video' and 'Reset Voice Settings' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-reset-voice-settings-discord.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the open prompt, select "Okay."
 
@@ -122,18 +122,24 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hero-session-x-vs-polaroid-cube-the-ultimate-editing-showdown/"><u>[New] Hero Session X Vs. Polaroid Cube The Ultimate Editing Showdown</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-crafted-clicks-guide-to-software-and-sites-for-superior-photo-framing/"><u>[New] In 2024, Crafted Clicks Guide to Software & Sites for Superior Photo Framing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-socialsnatcher-grab-and-save-twitter-vids-in-a-flash-for-2024/"><u>[New] SocialSnatcher Grab and Save Twitter Vids in a Flash for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-who-are-you-unraveling-youtuber-personalities-in-6-quizzes/"><u>[Updated] 2024 Approved Who Are You? Unraveling YouTuber Personalities in 6 Quizzes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-iconic-iphone-meme-creations/"><u>[Updated] Iconic iPhone Meme Creations</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-add-transitions-in-kinemaster/"><u>2024 Approved Add Transitions in Kinemaster</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-budget-friendly-ultra-panoramic-video-cameras/"><u>2024 Approved Budget-Friendly Ultra-Panoramic Video Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-holistic-motion-analysis-2023/"><u>2024 Approved Holistic Motion Analysis 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminate-ideas-a-guide-to-8-premier-iphone-drawing-apps/"><u>2024 Approved Illuminate Ideas A Guide to 8 Premier iPhone Drawing Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726224628410-voc-movavi/"><u>無料網路VOC錄音服務 - Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tune-your-videos-mood-with-custom-sound-design/"><u>In 2024, Fine-Tune Your Video's Mood with Custom Sound Design</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-sweating-to-top-exercromise-anthems-and-rhythms/"><u>In 2024, Get Sweating to Top Exercromise Anthems and Rhythms</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/yl-softwares-sparkling-cloud-themed-graphics-backgrounds-and-imagery-for-your-screen/"><u>YL Software's Sparkling Cloud Themed Graphics: Backgrounds and Imagery for Your Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-iphone-techniques-for-stunning-scenery-shots/"><u>[New] Expert iPhone Techniques for Stunning Scenery Shots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-streamlining-your-win11-zoom-sessions/"><u>[New] From Novice to Pro Streamlining Your Win11 Zoom Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frugal-cloud-cradle-for-copious-file-collection/"><u>[New] Frugal Cloud Cradle for Copious File Collection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-artists-toolbox-essential-video-tips-for-musicians-on-youtube-for-2024/"><u>[New] The Artist's Toolbox Essential Video Tips for Musicians on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-interactive-achievements-the-click-based-reward/"><u>[Updated] 2024 Approved Interactive Achievements The Click-Based Reward</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-quickvision-w11-simple-desktop-capture-tool/"><u>[Updated] 2024 Approved QuickVision W11 Simple Desktop Capture Tool</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-boosting-gopro-power-endurance-tips-and-tricks-for-2024/"><u>[Updated] Boosting GoPro Power Endurance Tips & Tricks for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-digging-into-sharex-assessment-and-choices-for-2024/"><u>[Updated] Digging Into ShareX Assessment & Choices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-frosty-yet-warm-choosing-the-best-winter-backdrops-for-2024/"><u>[Updated] Frosty Yet Warm Choosing the Best Winter Backdrops for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-kick-start-your-digital-broadcast-today/"><u>[Updated] How to Kick-Start Your Digital Broadcast Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>[Updated] Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fueling-audience-interaction-crafting-intriguing-fb-giving-announcements/"><u>2024 Approved Fueling Audience Interaction Crafting Intriguing FB Giving Announcements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-initiating-live-video-sharing-complete-walkthrough/"><u>2024 Approved Initiating Live Video Sharing Complete Walkthrough</u></a></li>
+<li><a href="https://blog-min.techidaily.com/bypassing-dvd-encryption-for-easy-transfer-of-movies-to-different-players/"><u>Bypassing DVD Encryption for Easy Transfer of Movies to Different Players</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-5-engaging-book-promo-videos-for-2024/"><u>Exploring 5 Engaging Book Promo Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fix-red-eyes-quickly-in-photos-on-ios-without-cost-for-2024/"><u>Fix Red Eyes Quickly in Photos on iOS Without Cost for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mpow-bluetooth-drivers-update-available-free-download-for-windows-users-on-10-8-and-7-systems/"><u>MPOW Bluetooth Drivers Update Available: Free Download for Windows Users on 10, 8, and 7 Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revitalizing-urban-development-challenges-how-to-get-your-skyfortress-game-running/"><u>Revitalizing Urban Development Challenges: How to Get Your SkyFortress Game Running</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-linking-your-chromebook-with-shared-network-drives/"><u>Step-by-Step Guide: Linking Your Chromebook with Shared Network Drives</u></a></li>
 </ul></div>
 

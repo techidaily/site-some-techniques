@@ -1,7 +1,7 @@
 ---
 title: July 26Th Connection Insights & Answers From Today's New York Times, Part #411
-date: 2024-12-23T19:42:58.391Z
-updated: 2024-12-24T19:28:53.910Z
+date: 2024-12-31T04:47:23.331Z
+updated: 2025-01-01T17:41:43.603Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## July 26Th Connection Insights & Answers From Today's New York Times, Part #411
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,6 +27,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 411th Connections game to get you started:
@@ -42,10 +42,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![July 26 Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/july-26-connections.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you still need help, the actual group names are:
 
 * **Yellow:** Basic Directions
@@ -54,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Purple:** Instrument Homophones
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
@@ -62,7 +58,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![July 26 Connections words sorted into the correct groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/july-26-connections-filled.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Basic Directions (Yellow):** 
@@ -81,6 +77,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Base, Liar, Loot, Symbol
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  July 26th came pretty easily. I immediately noticed down, left, right, and up were basic terms we use to describe directions, and [old cheat codes](https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-6-drfone-by-drfone-virtual-ios/). They were in the Yellow group, "Basic Directions." 
@@ -92,7 +92,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  That left base, liar, loot, and symbol. I went through the usual list of suspects for Purple (like missing or added words or letters) without success. After sitting on it, I eventually realized that the words are also synonyms for musical instruments. Both bass and cymbal are pretty common instruments, but both a lute (loot) and a lyre (liar) are significantly less common in the modern era. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -123,24 +123,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-experience-the-magic-of-free-voice-change-for-valorant-gaming/"><u>[New] Experience the Magic of Free Voice Change for Valorant Gaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-get-started-building-time-lapse-expertise-with-gopro-software/"><u>[New] How to Get Started Building Time-Lapse Expertise with GoPro Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-firstrow-leisure-without-the-sports-commitment/"><u>[Updated] FirstRow Leisure Without the Sports Commitment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonious-audio-pathway-guidebook/"><u>[Updated] Harmonious Audio Pathway Guidebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-impart-rotational-luminosity-modification-in-photoshopping/"><u>[Updated] Impart Rotational Luminosity Modification in Photoshopping</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-incorporating-background-scenes-for-visual-depth/"><u>[Updated] Incorporating Background Scenes for Visual Depth</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-decoding-excellence-a-hdr-camera-buyers-almanac/"><u>2024 Approved Decoding Excellence A HDR Camera Buyer's Almanac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-rewind-to-save-incorporating-80s-vhs-in-todays-cinematic-edits/"><u>2024 Approved From Rewind to Save Incorporating 80S VHS in Today's Cinematic Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-unwrapped-to-personalized-perfection-10-leading-shopping-platforms/"><u>2024 Approved From Unwrapped to Personalized Perfection 10 Leading Shopping Platforms</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-your-viewing-game-with-concurrent-channel-watches/"><u>Elevate Your Viewing Game with Concurrent Channel Watches</u></a></li>
-<li><a href="https://extra-information.techidaily.com/full-spectrum-review-google-podcasts-app-explained/"><u>Full Spectrum Review Google Podcasts App Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206639669-geforce-shadowplay-not-working-heres-how-to-get-it-up-and-running/"><u>GeForce ShadowPlay Not Working? Here's How to Get It Up and Running!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-compel-your-pixel-timepiece-easy-steps-for-downloading-the-newest-firmware/"><u>How to Compel Your Pixel Timepiece: Easy Steps for Downloading the Newest Firmware</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-turnback-a-twitch-broadcast-top-ten-approaches-for-2024/"><u>How to Turnback a Twitch Broadcast Top Ten Approaches for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-7-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 7?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-generate-tones-easily-5-top-online-tools/"><u>New In 2024, Generate Tones Easily 5 Top Online Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-a-revolutionary-all-in-one-charging-solution-for-ios-enthusiasts-as-featured/"><u>Unveiling a Revolutionary All-in-One Charging Solution for iOS Enthusiasts, as Featured</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-intriguing-indulgences-the-ultimate-list-of-websites-for-puzzling-boxes/"><u>[New] Intriguing Indulgences The Ultimate List of Websites for Puzzling Boxes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-face-flaunting-visual-guidebook/"><u>[Updated] Face Flaunting Visual Guidebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-final-list-top-blu-ray-players-for-pcmacos-enthusiasts/"><u>[Updated] Final List Top Blu-Ray Players for PC/macOS Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-professional-slideshow-resources-for-entrepreneurs/"><u>[Updated] Free Professional Slideshow Resources for Entrepreneurs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagrams-sequential-visual-showcase/"><u>[Updated] In 2024, Instagram's Sequential Visual Showcase</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-virtual-realms-equip-yourself-with-these-tech/"><u>[Updated] Pioneering Virtual Realms - Equip Yourself With These Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-editions-selecting-high-quality-blu-ray-players-freepaid/"><u>2024 Approved Expert Editions Selecting High-Quality Blu-Ray Players (Free/Paid)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flash-through-files-on-your-windows-pc/"><u>2024 Approved Flash Through Files on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/advanced-tricks-for-superior-frame-rates-in-tainted-grail-conquest-unleashed/"><u>Advanced Tricks for Superior Frame Rates in Tainted Grail: Conquest Unleashed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-of-the-best-expertly-selected-scanners-for-your-memories-and-files/"><u>Best of the Best: Expertly Selected Scanners for Your Memories and Files</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/effective-strategies-for-safely-saving-your-data-prior-to-a-system-format-on-windows-operating-systems/"><u>Effective Strategies for Safely Saving Your Data Prior to a System Format on Windows Operating Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-guide-to-audio-alchemy-sites-for-2024/"><u>Exclusive Guide to Audio Alchemy Sites for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-guide-to-premium-free-slo-mo-photo-and-video-apps-for-2024/"><u>Exclusive Guide to Premium, Free Slo-Mo Photo & Video Apps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-selected-elite-nas-solutions/"><u>Expertly Selected Elite NAS Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-innovations-with-toms-hardware-guides/"><u>Exploring Tech Innovations with Tom's Hardware Guides</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extensive-review-gopro-hero4-slr4-black-edition-for-2024/"><u>Extensive Review GoPro Hero4 SLR4 Black Edition for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-cut-audio-in-imovie-on-mac-and-iphone-in-2024/"><u>New How to Cut Audio in iMovie on Mac & iPhone, In 2024</u></a></li>
 </ul></div>
 

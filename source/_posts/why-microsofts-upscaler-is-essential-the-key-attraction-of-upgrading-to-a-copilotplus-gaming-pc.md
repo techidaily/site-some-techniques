@@ -1,7 +1,7 @@
 ---
 title: "Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC"
-date: 2024-12-22T16:22:42.480Z
-updated: 2024-12-24T19:59:12.941Z
+date: 2024-12-29T04:48:23.327Z
+updated: 2025-01-01T20:34:45.495Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 ## Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * [It Just Works (In Supported Games)](https://www.howtogeek.com/microsofts-upscaler-is-the-only-reason-gamers-will-care-about-a-copilot-pc/#it-just-works-in-supported-games)
 * [Auto SR Is Only Available on CoPilot+ PCs](https://extra-hints.techidaily.com/2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Auto SR is Microsoft's answer to DLSS, FSR, and XeSS.
@@ -29,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 * The biggest downside of Auto SR is that it's only available on CoPilot+ PCs, since it needs an NPU to work.
 
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Auto SR Is Here, and It Looks Promising
 
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 ![Two Borderlands 3 screenshots showing a native and an upscaled image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft/Gearbox
@@ -55,7 +55,7 @@ Microsoft/Gearbox
 ![Differences between a native image and an image treated by Auto SR.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-01.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft/Gearbox
@@ -64,13 +64,13 @@ Microsoft/Gearbox
 
 ![Native vs Auto SR upscaled Borderlands 3 screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-03.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Microsoft/Gearbox
 
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Auto SR Looks Better Than Driver-Level Upscalers
 
@@ -119,22 +119,17 @@ Microsoft/Gearbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-transform-your-workflow-harnessing-the-power-of-luts-in-adobe-suite/"><u>[New] 2024 Approved Transform Your Workflow Harnessing the Power of LUTs in Adobe Suite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-and-purchased-color-tools-for-the-discerning-canon-user/"><u>[New] Free & Purchased Color Tools for the Discerning Canon User</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-recording-to-reality-a-detailed-look-at-the-sj-cam-s6/"><u>[New] From Recording to Reality A Detailed Look at the SJ-CAM S6</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guiding-steps-for-effective-gopro-time-lapse-capture/"><u>[New] Guiding Steps for Effective GoPro Time-Lapse Capture</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-professional-strategies-for-editing-full-spherical-video-in-premiere/"><u>[New] Professional Strategies for Editing Full Spherical Video in Premiere</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-trim-the-excess-a-beginners-guide-to-simple-video-cuts-in-windows/"><u>[Updated] 2024 Approved Trim the Excess A Beginner's Guide to Simple Video Cuts in Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-metaverse-laughter-creating-your-own-funny-online-jokes/"><u>[Updated] Exploring Metaverse Laughter Creating Your Own Funny Online Jokes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-peak-engagement-spark-plug/"><u>[Updated] In 2024, Peak Engagement Spark Plug</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-laughing-along-to-mimicked-melodies/"><u>[Updated] Laughing Along to Mimicked Melodies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-friends-first-gaming-metaverses-10-best-picks/"><u>2024 Approved Friends First Gaming Metaverse’s 10 Best Picks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immediate-picture-and-film-correction-via-3dlut-apps/"><u>2024 Approved Immediate Picture & Film Correction via 3DLUT Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infuse-rhythms-into-your-whatsapp-story/"><u>2024 Approved Infuse Rhythms Into Your WhatsApp Story</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-be-a-ghost-in-the-social-media-crowd-live/"><u>In 2024, How to Be a Ghost in the Social Media Crowd - Live</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/regaining-exclusive-snap-privacy/"><u>Regaining Exclusive Snap Privacy</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-watching-wtv-videos-on-your-computer-windows-and-macos/"><u>Step-by-Step Guide: Watching WTV Videos on Your Computer - Windows & macOS</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/ultimate-list-of-squid-game-themed-games-available-on-every-device-from-pc-to-playstation/"><u>Ultimate List of Squid Game Themed Games Available on Every Device From PC to PlayStation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infusing-youtube-soundtracks-within-multimedia/"><u>[New] Infusing YouTube Soundtracks Within Multimedia</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-meme-makers-the-ultimate-resource-guide/"><u>[Updated] Free Meme Makers – The Ultimate Resource Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-a-comprehensive-quick-start-to-mastering-video-editing-win11s-movie-maker/"><u>2024 Approved A Comprehensive Quick Start to Mastering Video Editing Win11's Movie Maker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-quality-streaming-showdown-whos-your-favorite-vmixwirecast/"><u>2024 Approved High-Quality Streaming Showdown Who's Your Favorite, VMix/Wirecast?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/fying-video-reach-the-ultimate-guide-for-youtube-enthusiasts-for-2024/"><u>Amplifying Video Reach The Ultimate Guide for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-15-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 15</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/error-detection-and-correction-guide-mastery-with-emeditor-version-13/"><u>Error Detection & Correction Guide: Mastery with EmEditor Version 13</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-sketch-to-scene-mastering-windows-movie-makers-animation/"><u>In 2024, From Sketch to Scene Mastering Windows Movie Maker's Animation</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-turn-off-games-for-you-recommendations-on-windows-11/"><u>Learn To Turn Off Games for You Recommendations on Windows 11</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-leading-digital-sound-transformer-quick-seamless-mp3-conversions/"><u>New 2024 Approved Leading Digital Sound Transformer Quick, Seamless MP3 Conversions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-you-need-to-know-about-truthgpt-coin-and-potential-risks/"><u>What You Need to Know About TruthGPT Coin & Potential Risks</u></a></li>
 </ul></div>
 

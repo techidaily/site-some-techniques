@@ -1,7 +1,7 @@
 ---
 title: "Finding Your App's Executable (EXE) Fast: A Step-by-Step Guide for Windows 11 Users"
-date: 2024-12-20T21:44:17.874Z
-updated: 2024-12-24T19:15:00.828Z
+date: 2024-12-31T19:15:18.742Z
+updated: 2025-01-02T05:52:50.045Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 ## Finding Your App's Executable (EXE) Fast: A Step-by-Step Guide for Windows 11 Users
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,15 +29,15 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
  If you're doing advanced troubleshooting or configuration of a Windows 10 application and need to locate the program's EXE file in [File Explorer](https://facebook-video-content.techidaily.com/updated-in-2024-facebook-media-extractor-quick-mp3-downloads/), there's a quick way to do it if you have access to a shortcut. Here's how.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Find an EXE from a Shortcut
 
  First, locate a shortcut that points to the application whose EXE you need to find, because you will need to open its properties window. If the shortcut is on your desktop, right-click it and select "Properties."
 
 ![In Windows 10, right-click a desktop shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/right_click_desktop_shortcut.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the shortcut is pinned to your taskbar, right-click it, then right-click its name again in the menu that pops up just above it. In the menu that appears, click "Properties."
 
@@ -53,15 +53,19 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 ![To find an application's EXE file, right-click a shortcut and click "Open File Location" in the Properties window on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_click_open_file_location.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll be taken directly to the EXE's location in File Explorer.
 
 ![Locating an application's EXE file in File Explorer on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_located_exe_file.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What you do next depends on what you're trying to achieve. Just be careful in there---modifying or moving a program's files can make it not work properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  If You Can't Find a Shortcut to Use
 
@@ -70,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
  Other programs install to locations in your appdata folder. To open your appdata folder, launch File Explorer, then enter **%appdata%** in the address bar. 
 
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 ![The WhatsApp exe located in the WindowsApps folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-whatsapp-exe-in-windowsapps.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The WindowsApp folder has very restricted permissions applied to it that will prevent regular user accounts (and even administrator accounts) from even viewing the contents by default. You can [take ownership of the folder](https://screen-activity-recording.techidaily.com/new-breakdown-of-streamlabs-obs-features-and-functions/) if you want, but we don't recommend it—it could cause issues with the apps.
@@ -104,15 +104,18 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-drama-to-film-shaping-realistic-dialogue/"><u>[New] From Drama to Film Shaping Realistic Dialogue</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-dynamic-world-of-digital-gifts-a-complete-guide-to-snapchat-gifs/"><u>[Updated] 2024 Approved The Dynamic World of Digital Gifts A Complete Guide to Snapchat Gifs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-track-controlling-netflix-playback-speeds/"><u>[Updated] Fast Track - Controlling Netflix Playback Speeds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-finding-non-inshot-video-software-for-pcs/"><u>[Updated] Finding Non-Inshot Video Software for PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-x100-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo X100 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>2024 Approved Expert Tips for iOS Downloading Podcasts on iPhone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-k70e-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi K70E</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/asus-unveils-revolutionary-rog-nuc-with-advanced-core-ultra-9-processors-and-impressive-rtx-nvidia-graphics-starting-at-just-1629/"><u>Asus Unveils Revolutionary ROG NUC with Advanced Core Ultra 9 Processors and Impressive RTX nVidia Graphics Starting at Just $1,629!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-creating-stunning-iphone-hdr-photos/"><u>In 2024, The Insider's Guide to Creating Stunning iPhone HDR Photos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-gps-signal-loss-tips-for-reinstating-location-functionality-on-iphones/"><u>Overcoming GPS Signal Loss: Tips for Reinstating Location Functionality on iPhones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-maintaining-meetings-in-google-recorder/"><u>[Updated] Maintaining Meetings in Google Recorder</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-software-practices-for-transforming-pictures-into-films/"><u>2024 Approved Best Software Practices for Transforming Pictures Into Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-much-money-can-a-podcaster-make/"><u>2024 Approved How Much Money Can a Podcaster Make?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-much-video-can-64gb128gb-hold/"><u>2024 Approved How Much Video Can 64GB/128GB Hold?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-pixels-we-trust-a-guide-to-photomontages/"><u>2024 Approved In Pixels We Trust A Guide to Photomontages</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-to-podcast-summary-creation/"><u>2024 Approved Innovative Approaches to Podcast Summary Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-game-bar-errors-due-to-weak-hardware/"><u>Fixing Game Bar Errors Due to Weak Hardware</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/foto-wiederherstellung-ungeloschte-bilder-dauerhaft-speichern/"><u>Foto-Wiederherstellung: Ungelöschte Bilder Dauerhaft Speichern</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-steps-in-learning-av1-compression/"><u>In 2024, First Steps in Learning AV1 Compression</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-factors-contributing-to-the-conclusion-of-chinas-imperial-era-a-comprehensive-analysis/"><u>Key Factors Contributing to the Conclusion of China's Imperial Era: A Comprehensive Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/persistent-mouse-disconnection-woes-heres-how-to-keep-your-cursor-steady/"><u>Persistent Mouse Disconnection Woes? Here's How to Keep Your Cursor Steady!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-audio-journey-mastering-the-art-of-quick-fixes-for-spotify-setbacks-in-android-auto-unveiling-1e-strategies/"><u>Seamless Audio Journey: Mastering the Art of Quick Fixes for Spotify Setbacks in Android Auto (Unveiling 1E Strategies)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncovering-the-secrets-of-enhancing-tiktok-profiles-with-linktree/"><u>Uncovering the Secrets of Enhancing TikTok Profiles with Linktree</u></a></li>
 </ul></div>
 

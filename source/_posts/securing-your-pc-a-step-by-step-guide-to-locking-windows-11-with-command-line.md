@@ -1,7 +1,7 @@
 ---
 title: "Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line"
-date: 2024-12-17T18:38:56.332Z
-updated: 2024-12-24T21:12:04.533Z
+date: 2024-12-27T16:04:06.278Z
+updated: 2025-01-02T07:09:17.315Z
 tags:
   - desktop
 categories:
@@ -11,14 +11,14 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
 ## Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Lock Your Windows 10 PC Using Command Prompt
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
@@ -49,7 +49,7 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
@@ -62,10 +62,6 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With Command Prompt open, run this command.
 
 powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK <time>
@@ -75,6 +71,10 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK <time>
 powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
@@ -101,19 +101,14 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-mac-frame-freezes-collection-limit-156-chars/"><u>[New] In 2024, Top Mac Frame Freezes Collection (Limit 156 Chars)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellence-on-the-screen-best-six-video-tools-for-big-sur/"><u>[Updated] Excellence on the Screen Best Six Video Tools for Big Sur</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-10-finest-iphone-photo-editors-and-filters/"><u>[Updated] Explore the 10 Finest iPhone Photo Editors & Filters</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-master-windows-11-a-treasure-trove-of-undisclosed-features-for-2024/"><u>[Updated] Master Windows 11 A Treasure Trove of Undisclosed Features for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-zoom-video-details-step-by-step-methods/"><u>[Updated] Maximizing Zoom Video Details Step-by-Step Methods</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-secret-to-slowed-movies-mastery-your-step-by-step-guide-on-instagram-reels/"><u>2024 Approved The Secret to Slowed Movies Mastery – Your Step by Step Guide on Instagram Reels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-efficient-translation-the-top-8-best-apps-reviewed-for-2024/"><u>Free, Efficient Translation The Top 8 Best Apps Reviewed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-smoothly-add-apods-episodes-on-devices/"><u>In 2024, How to Smoothly Add APods Episodes on Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-venues-for-immersive-media/"><u>In 2024, Innovative Venues for Immersive Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-top-10-final-cut-pro-plug-ins/"><u>In 2024, Top 10 Final Cut Pro Plug-Ins</u></a></li>
-<li><a href="https://fox-links.techidaily.com/leveraging-length-and-style-in-your-instagram-videos-for-2024/"><u>Leveraging Length and Style in Your Instagram Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/messenger-made-accessible-joining-conversations-even-if-you-dont-use-facebook/"><u>Messenger Made Accessible: Joining Conversations Even if You Don't Use Facebook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-and-easy-guide-to-moving-videos-onto-an-ipad-top-strategies/"><u>Quick and Easy Guide to Moving Videos Onto an iPad – Top Strategies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-google-photos-and-your-creativity-quick-collages-made-simple/"><u>[New] Google Photos & Your Creativity Quick Collages Made Simple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highpoint-artist-suite-evaluation/"><u>[New] Highpoint Artist Suite Evaluation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-free-tool-for-tiktok-to-mp4-conversion/"><u>[Updated] Free Tool for TikTok to MP4 Conversion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-the-complete-cheatsheet-to-make-a-collage/"><u>[Updated] The Complete Cheatsheet to Make a Collage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funimate-android-gameplay-apk-to-victory-guide/"><u>2024 Approved Funimate Android Gameplay - APK to Victory Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-installation-guide-hp-laserjet-p1606dn-printer-software-on-windows/"><u>Download & Installation Guide: HP LaserJet P1606dn Printer Software on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-8-desktop-images-to-personalize-your-mbp-for-2024/"><u>Ideal 8 Desktop Images to Personalize Your MBP for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oppo-find-x6-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo Find X6 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-artificial-intelligence-predictions-for-advancements-in-the-coming-years-zdnet/"><u>The Future of Artificial Intelligence: Predictions for Advancements in the Coming Years | ZDNet</u></a></li>
 </ul></div>
 

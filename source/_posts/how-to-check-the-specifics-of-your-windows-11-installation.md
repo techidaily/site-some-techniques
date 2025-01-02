@@ -1,7 +1,7 @@
 ---
 title: How to Check the Specifics of Your Windows 11 Installation
-date: 2024-12-21T21:44:57.009Z
-updated: 2024-12-24T16:17:37.596Z
+date: 2024-12-27T06:29:07.818Z
+updated: 2025-01-02T05:09:35.146Z
 tags:
   - deals
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## How to Check the Specifics of Your Windows 11 Installation
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Do Build Versions Mean?](https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-success-channel-ideas-to-spark-momentum/)
@@ -22,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
@@ -43,6 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
@@ -50,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
@@ -67,7 +67,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
@@ -93,16 +93,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-a-harmonious-link-spotify-with-discord/"><u>[New] 2024 Approved A Harmonious Link Spotify with Discord</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-campaigns-innovative-approaches-to-fb-video-ads/"><u>[New] Elevate Your Campaigns Innovative Approaches to FB Video Ads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-7-best-apps-to-go-live-on-youtube-from-iphone-or-android/"><u>[Updated] In 2024, 7 Best Apps to Go Live on YouTube From iPhone or Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-methods-building-time-lapses-on-galaxy-devices/"><u>[Updated] Innovative Methods Building Time-Lapses on Galaxy Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-seamless-audio-transfer-best-iphone-tools-for-youtube-to-mp3-for-2024/"><u>[Updated] Seamless Audio Transfer Best iPhone Tools for YouTube-to-MP3 for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-speaker-change-tech-for-internet-showbiz-pros-for-2024/"><u>[Updated] Ultimate Speaker Change Tech for Internet Showbiz Pros for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mkv-4/"><u>最高の無料MKV統合ソフトウェア - オススメベスト4択</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ecore-the-premium-sdk-for-high-level-ebook-format-transformation/"><u>ECore: The Premium SDK for High-Level eBook Format Transformation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-art-of-iphone-photo-collage-assembly-for-2024/"><u>Explore the Art of iPhone Photo Collage Assembly for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-final-cut-pro-for-beginners-the-definitive-starter-pack/"><u>In 2024, Final Cut Pro for Beginners The Definitive Starter Pack</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-glowing-mastery-step-by-step-to-brighten-android-videos/"><u>In 2024, Glowing Mastery Step-by-Step to Brighten Android Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-ordinary-to-epic-iphones-best-landscape-tricks/"><u>[New] From Ordinary to Epic IPhone's Best Landscape Tricks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-core-auditory-stimulation-channels/"><u>[Updated] 2024 Approved Core Auditory Stimulation Channels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-key-aspects-of-web-based-storytelling/"><u>[Updated] 2024 Approved Key Aspects of Web-Based Storytelling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foundations-of-motion-design-fundamentals/"><u>[Updated] Foundations of Motion Design Fundamentals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-upgrade-your-mac-with-macos-sierra-simplified/"><u>[Updated] How to Upgrade Your Mac with macOS Sierra Simplified</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-harmonic-halo-melodies-enriching-chats-on-whatsapp/"><u>[Updated] In 2024, Harmonic Halo Melodies Enriching Chats on WhatsApp</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-counter-facebooks-instantaneous-deletion-of-videos/"><u>[Updated] In 2024, How to Counter Facebook's Instantaneous Deletion of Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-5-ios-backdrop-change-programs-for-apple-devices/"><u>2024 Approved Exclusive 5 iOS Backdrop Change Programs for Apple Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-the-functionality-of-airborne-robotics/"><u>2024 Approved Grasping the Functionality of Airborne Robotics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-exploring-the-essence-of-transfer-learning/"><u>Deciphering AI: Exploring the Essence of Transfer Learning</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gimbal-guide-for-smooth-flights-for-2024/"><u>Gimbal Guide for Smooth Flights for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gb-required-for-one-full-movie-hour-by-hour/"><u>In 2024, GB Required for One Full Movie, Hour by Hour</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-horizon-hopping-reviewing-the-gopro-karma-drone/"><u>In 2024, Horizon Hopping Reviewing the GoPro Karma Drone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-lava-blaze-2-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Lava Blaze 2 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initiating-earnings-journey-on-periscope-platform/"><u>In 2024, Initiating Earnings Journey on Periscope Platform</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-zoom-transcribing-tools-free-and-paid-options/"><u>In 2024, Top 5 Zoom Transcribing Tools Free & Paid Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/massive-discount-snag-your-85-inch-tcl-television-at-a-quarter-price-post-labor-day-sale/"><u>Massive Discount: Snag Your 85 Inch TCL Television at a Quarter Price - Post Labor Day Sale!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/popsocket-mounts-for-optimal-video-shooting/"><u>PopSocket Mounts for Optimal Video Shooting</u></a></li>
 </ul></div>
 

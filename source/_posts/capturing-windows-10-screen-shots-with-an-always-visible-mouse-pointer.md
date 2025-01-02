@@ -1,7 +1,7 @@
 ---
 title: Capturing Windows 10 Screen Shots with an Always-Visible Mouse Pointer
-date: 2024-12-22T19:20:37.733Z
-updated: 2024-12-24T17:27:23.993Z
+date: 2024-12-30T07:53:19.460Z
+updated: 2025-01-01T22:18:25.498Z
 tags:
   - deals
 categories:
@@ -11,15 +11,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Capturing Windows 10 Screen Shots with an Always-Visible Mouse Pointer
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Take Visible Mouse Cursor Screenshots with Steps Recorder](https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-6s-by-drfone-ios/)
 * [Take Visible Mouse Cursor Screenshots with IrfanView](https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-realme-narzo-n53-by-fonelab-android-recover-pictures/)
 * [Use Screenpresso to Capture the Mouse Cursor in Screenshots](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-narzo-60x-5g-without-them-knowing-drfone-by-drfone-virtual-android/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,10 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Another third-party option is Screenpresso, which allows you to capture the cursor in screenshots.
 
  It's easy to [take screenshots](https://fox-http.techidaily.com/new-inside-the-labyroud-of-vrs-latest-creations/) in Windows 10\. However, you can't grab a screenshot that includes your mouse cursor in the image unless you use a workaround or a third-party tool. We'll show you how to do both.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Take Visible Mouse Cursor Screenshots with Steps Recorder
 
@@ -47,6 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Press "Start Record" in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-start-record.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Remember, every time you click, Steps Recorder will capture a snapshot. So, open the app that you need and keep clicking to capture all the screenshots you need. Once you're done, go back to Steps Recorder and click "Stop Record."
 
 ![Press "Stop Record" in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-stop-record.png) 
@@ -56,16 +56,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A screenshot in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-screenshot.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, the tricky part lies in saving these screenshots on your computer. You can scroll down in the Steps Recorder app to review every screenshot. To enlarge any screenshot, click it once.
 
 ![An enlarged screenshot in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-enlarged-screenshot.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you've enlarged a screenshot, click the maximize button (the square icon) in the top-right corner of the Steps Recorder app. This button is located right next to the close button, denoted by an "X."
 
@@ -74,10 +70,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  With the Steps Recorder window maximized, you'll need to take a standard Windows screenshot of the step to convert it to a file. To do so, you can use various ways to [capture screenshots](https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/) in Windows 10\. We used the keyboard shortcut Windows+Shift+S to get the job done.
 
 ![Windows 10's built-in screenshot utility. Press Windows+Shift+S to access it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/05/img_5af9d02f546b5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After capturing a screenshot, you can save it wherever you like and then repeat the process to grab other screenshots. The screenshots might appear compressed, however. If that doesn't suit your needs, you can try using our alternative method below.
 
@@ -94,7 +86,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![IrfanView's screenshot capture utility, with the "Include Mouse Cursor" option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-show-mouse-cursor.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To capture screenshots with IrfanView, use the keyboard shortcut Control+F11\. IrfanView will open each screenshot in a new window, and you'll be happy to see the mouse cursor captured in your screenshot.
@@ -109,17 +101,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Right-click the Screenpresso icon, then select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open the "Screenshot" tab, tick the box next to "Capture Mouse Cursor," then click "OK" to apply the new setting. 
 
 ![Click the 'Screenshot' tab, then tick 'Capture Mouse Cursor.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-screenshot-capture-mouse-cursor.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Screenpresso will capture your cursor in all screenshots going forward. It is best to use hotkeys to take screenshots if you want to capture your cursor, otherwise you'll just have a bunch of screenshots with your mouse cursor interacting with the Screenpresso user interface. 
 
 ![The mouse cursor visible in our screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-mouse-cursor.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's how you capture screenshots with a visible mouse cursor on Windows 10\. We covered two third-party options, but most screenshot apps available today have a setting that enables (or disables) cursor capture, you just have to dig around in the app's settings to find it. Now that you have that mastered, you might enjoy learning how to [annotate screenshots](https://techtrends.techidaily.com/the-ultimate-fixes-for-msstdfmtdll-error-message-notifications/) on Windows 10\.
 
@@ -138,24 +138,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-find-your-favorite-skype-ringtones-with-these-4-websites/"><u>[New] Find Your Favorite Skype Ringtones with These 4 Websites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-stabilize-iphone-videos-3-ways/"><u>[New] How to Stabilize iPhone Videos? [3-Ways]</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-locate-hidden-watch-video-preview/"><u>[New] In 2024, Locate Hidden Watch Video Preview</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-understanding-youtubes-privacy-options-for-viewers/"><u>[New] In 2024, Understanding YouTube's Privacy Options for Viewers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-increasing-visibility-with-strategic-reddit-posts/"><u>[New] Increasing Visibility with Strategic Reddit Posts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-foundations-of-motion-design-fundamentals/"><u>2024 Approved Foundations of Motion Design Fundamentals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-the-latest-tiktok-screen-art/"><u>2024 Approved Guide to the Latest TikTok Screen Art</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-haul-videography-unlocked-step-by-step-guide-for-enthusiasts/"><u>2024 Approved Haul Videography Unlocked Step-by-Step Guide for Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-tech-evolution-vr-now-and-beyond/"><u>2024 Approved Immersive Tech Evolution VR Now & Beyond</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-to-get-your-netflix-running-again-on-an-lg-hduhd-display/"><u>Expert Tips to Get Your Netflix Running Again on an LG HD/UHD Display</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-a25-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy A25 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-various-video-recording-devices/"><u>In 2024, Guide to Various Video Recording Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-subtitles-to-windows-media-player/"><u>In 2024, How to Add Subtitles to Windows Media Player</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-edge-2023-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Edge 2023 Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-fixes-eliminate-back-4-blood-pc-game-crashes-for-seamless-playtime/"><u>Master the Fixes: Eliminate 'Back 4 Blood' PC Game Crashes for Seamless Playtime</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-non-functional-keys-on-windows-10-and-11-step-by-step-guide/"><u>Resolving Non-Functional Keys on Windows 10 and 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/screen-recording-innovations-a-comparative-look-for-2024/"><u>Screen Recording Innovations A Comparative Look for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/why-turning-off-youtubes-intelligent-downloading-is-a-must-a-simple-guide/"><u>Why Turning Off YouTube's Intelligent Downloading Is a Must: A Simple Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-aesir-rebellion-skies-of-valhalla/"><u>[Updated] Aesir Rebellion Skies of Valhalla</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-ai-driven-shooting-modes-in-todays-cameras/"><u>[Updated] Exploring the AI-Driven Shooting Modes in Today's Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extending-the-frame-in-depth-slomo-app-assessment-2024/"><u>[Updated] Extending the Frame In-Depth SloMo App Assessment, 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unlocking-prime-content-top-8-facebook-tools-in-23/"><u>[Updated] In 2024, Unlocking Prime Content Top 8 Facebook Tools in '23</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-10-best-sites-to-download-free-slideshow-templates-filmora/"><u>2024 Approved 10 Best Sites to Download Free Slideshow Templates - Filmora</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-avoiding-pitfalls-in-submitting-to-apple/"><u>2024 Approved Avoiding Pitfalls in Submitting to Apple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-e-learning-title-engineer/"><u>2024 Approved Expert E-Learning Title Engineer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concept-art-to-cinematic-masterpiece-utilizing-luts-from-cg-central/"><u>2024 Approved From Concept Art to Cinematic Masterpiece Utilizing Luts From CG Central</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-stabilize-iphone-videos/"><u>2024 Approved How to Stabilize iPhone Videos?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bring-your-footage-to-life-master-the-art-with-these-11-color-edits/"><u>Bring Your Footage to Life Master the Art with These 11 Color Edits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tial-guide-for-youtube-video-clips/"><u>Essential Guide for YouTube Video Clips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmony-in-transition-crafting-crossfade-effects-for-2024/"><u>Harmony in Transition Crafting Crossfade Effects for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-digital-entertainment-preservation-online-tv-show-recording-101/"><u>In 2024, Digital Entertainment Preservation Online TV Show Recording 101</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-inject-photos-with-rotational-blur-effects-in-photosoph/"><u>In 2024, Inject Photos with Rotational Blur Effects in PHOTOSOPH</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-dialogue-in-writing-scripts-for-2024/"><u>The Art of Dialogue in Writing Scripts for 2024</u></a></li>
 </ul></div>
 

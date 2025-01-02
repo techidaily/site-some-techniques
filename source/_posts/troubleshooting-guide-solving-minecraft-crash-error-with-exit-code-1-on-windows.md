@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solving Minecraft Crash Error with Exit Code 1 on Windows"
-date: 2024-12-21T21:31:01.022Z
-updated: 2024-12-24T17:54:18.965Z
+date: 2025-01-01T05:23:03.375Z
+updated: 2025-01-02T03:35:09.222Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 ---
 
 ## Troubleshooting Guide: Solving Minecraft Crash Error with Exit Code 1 on Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,10 +38,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Exit Code 1 on Minecraft.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/exit-code-1-on-minecraft.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For example, if you have _Minecraft_ version 1.20.6 installed on your computer and you have a mod made for version 1.19.4, you might see the error. In this case, you'll need to manually update the outdated mod to its latest version.
 
  To do this, you'll first need to check the _Minecraft_ version installed on your computer. Open _Minecraft_, click the "Installations" tab, and check the "Latest Release" entry to see your _Minecraft_ version.
@@ -58,13 +58,25 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Search icon on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/search-icon-the-curseforge-website.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose the relevant mod from the result that appears. Switch to the "Files" tab. You'll see different versions of that mod. You need to click on that version which corresponds with the version of _Minecraft_ you're using.
 
 ![Different mod versions on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/different-mod-versions-on-the-curseforge-website.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the "Download" button.
 
 ![Download option on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-curseforge-website.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
 
@@ -75,10 +87,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  To find the culprit mod, go to the _Minecraft_ mods folder and move all of your mods to a different location. Then, start moving each mod back to the mods folder one at a time and launch the game after adding each mod. You'll need to do this to identify which mod causes the Exit Code 1 error after adding it back to the folder.
 
  Once you've identified the mod that causes the error, you can delete it from your computer. And if you want, you can also report the issue with that mod on its dedicated page on the CurseForge website.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Update Your Graphics Driver
 
@@ -92,16 +100,12 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Check for Updates option in the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-in-the-geforce-experience-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the "Download" button next to the Game Ready Driver.
 
 ![Download option on the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-geforce-experience-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the download process is complete, choose the "Express Installation" option and then follow the on-screen instructions to complete the NVIDIA graphics driver installation process.
@@ -111,6 +115,10 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  If you have an Intel graphics driver, you can visit the [Intel official website](https://www.intel.com/content/www/us/en/search.html#sort=relevancy&f:@tabfilter=[Downloads]&f:@stm%5F10385%5Fen=[Graphics]) and download the latest update for your graphics driver. The downloaded file will be in an executable format, which you can install like any other Windows application.
 
  Once you've updated the graphics driver on your computer, restart it and launch _Minecraft_ to check for the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Edit the _Minecraft_ Launcher Path
 
@@ -124,13 +132,13 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
     
 ![Target field in the Minecraft Properties window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/target-field-in-the-minecraft-properties-window.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click "Apply" and "OK."
 
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Change the Java Executable File
 
@@ -144,13 +152,13 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Edit option in the Installations tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/edit-option-in-the-installations-tab.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "More Options." Then, click the "Browse" option.
 
 ![Browse option in the Edit window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-the-edit-window.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you haven't modified the Java installation path, then navigate to the following location and select the "Java.exe" file. Then, click "Open."
 
@@ -163,7 +171,7 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Save option in the Edit Installation window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/save-option-in-the-edit-installation-window.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, restart the game and check for the issue again.
@@ -180,17 +188,9 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Delete option to delete the Mincraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-option-to-delete-the-mincraft-folder.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, restart your computer and open the _Minecraft_ launcher. Then, log in with your [Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and follow the instructions to install the game on your computer.
 
 ![Minecraft log in page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/minecraft-log-in-page.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you have installed _Minecraft_, you can move the "Saves" folder to the following location:
 
@@ -217,15 +217,15 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-examining-storage-space-for-bulk-movie-files-64128gb/"><u>[New] Examining Storage Space for Bulk Movie Files, 64/128Gb</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-deep-dive-into-vscos-creative-palette/"><u>[New] In 2024, A Deep Dive Into VSCO's Creative Palette</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-initiate-your-streaming-success-story-with-periscope/"><u>[New] Initiate Your Streaming Success Story with Periscope</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-crafting-captivating-stories-embedding-melodies-into-visual-narratives/"><u>[Updated] Crafting Captivating Stories Embedding Melodies Into Visual Narratives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-on-turning-dynamic-hdr-on-in-windows-11/"><u>2024 Approved Guide on Turning Dynamic HDR on in Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fine-tuning-windows-photos-app-incorporate-filters-and-sync-music-streaming-for-2024/"><u>Fine-Tuning Windows Photos App Incorporate Filters & Sync Music Streaming for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-digging-into-the-heart-of-recordcast-technology/"><u>In 2024, Digging Into the Heart of RecordCast Technology</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-earning-big-on-youtube-shorts-must-haves-opportunities-and-more/"><u>In 2024, Earning Big on YouTube Shorts Must-Haves, Opportunities and More</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-nightmares-insights-and-opinions-on-the-bone-chilling-quest-in-bloodborne/"><u>Navigating Nightmares: Insights and Opinions on the Bone-Chilling Quest in Bloodborne</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/optimal-frequency-when-is-it-time-to-update-your-mobile-device/"><u>Optimal Frequency: When Is It Time To Update Your Mobile Device?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-maintain-a-shadowy-presence-on-instagram-livestreams/"><u>[New] How to Maintain a Shadowy Presence on Instagram Livestreams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-leveraging-inshot-for-editing-devices/"><u>[Updated] Expert Insights Leveraging Inshot for Editing Devices</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-leveraging-content-for-maximum-impact-growing-view-count-on-tiktok/"><u>[Updated] Leveraging Content for Maximum Impact Growing View Count on TikTok</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-quickly-update-your-hyperx-audio-hardware-drivers/"><u>How to Quickly Update Your HyperX Audio Hardware Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-sony-xperia-5-v-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Sony Xperia 5 V</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-video-studio-analysis-comprehensive-xreview-guide-for-2024/"><u>In-Depth Video Studio Analysis Comprehensive XReview Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-mac-live-streaming-options-ranked-1-5-for-2024/"><u>Innovative Mac Live Streaming Options Ranked #1-5 for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-compatibility-boost-win11-plus-intel-gpus/"><u>Quick Compatibility Boost: Win11 + Intel GPUs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-capturing-and-broadcasting-ultra-hd-content-using-obs-studio/"><u>Ultimate Guide: Capturing and Broadcasting Ultra HD Content Using OBS Studio</u></a></li>
 </ul></div>
 

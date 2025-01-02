@@ -1,7 +1,7 @@
 ---
 title: Boosting Linux Security on Your Laptop with These 7 Essential Tips
-date: 2024-12-21T18:34:41.065Z
-updated: 2024-12-24T16:24:52.413Z
+date: 2024-12-29T20:35:37.806Z
+updated: 2025-01-02T00:45:55.197Z
 tags:
   - desktop
 categories:
@@ -15,15 +15,15 @@ Chances are that part of the reason you broke away from Microsoft and switched t
 
  If you’re still looking to make the jump, check out our selection of the [best Linux laptops](https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Encrypt Your Hard Drive 
 
  One of the most important steps you can take to secure your Linux laptop is also one of the easiest, namely to encrypt your hard drive. With most distros, while setting up your OS you will be prompted to encrypt your hard drive and set a password.
 
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/penguins.jpg)](https://extra-resources.techidaily.com/your-journey-through-telegrams-web-functionality/) Related 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### [How to Install Linux](https://howto.techidaily.com/what-to-do-if-your-xiaomi-14-ultra-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
@@ -34,10 +34,6 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
  Doing this will mean that nobody who gains access to your laptop while it is off will be able to access your files. If your laptop gets stolen or lost, you won’t have to worry about any data stored on it. It’s a very easy way to greatly reduce risk.
 
  Note that on most distros, full-disk encryption is only possible during setup. While we recommend encrypting the whole hard drive, you can also choose to just [secure partitions or folders](https://article-helps.techidaily.com/updated-personal-exploration-of-3d-printing-in-3dr-for-2024/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2  Set a System Password 
 
@@ -55,10 +51,6 @@ Jerome Thomas / How-To Geek
 
  If you’re with coworkers they could try and play a prank and send a message over your Slack account to a coworker, while at university a colleague could try and take a peek at your research. In a coworking space, somebody may try to gain access to confidential information. Locking your screen prevents all these scenarios.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4  Install a VPN 
 
  The first three tips will protect your laptop from anybody interfering with it physically. However, a bigger issue may be hackers coming at you over a network. This is where the next few tools come in, first and foremost being a [virtual private network](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/), or a VPN.
@@ -66,6 +58,10 @@ Jerome Thomas / How-To Geek
  A VPN is a service that lets you reroute your internet connection to anywhere in the world while also securing it in a so-called [VPN tunnel](https://extra-resources.techidaily.com/cross-service-playlist-exchange-simplified/). While rerouting your connection is fun and gets you access to different streaming libraries and the like, the benefit to security comes from the tunnel as it encrypts your connection.
 
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_444293932.jpg)](https://some-guidance.techidaily.com/updated-kinemasters-journey-for-seamless-scene-transitions/) Related 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### [Here's What a VPN Can't Protect You From](https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/) 
 
@@ -75,6 +71,10 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
 
  This encryption makes it much harder to track you, meaning anybody that may want to do you harm online will have a tougher time finding you. It also protects your laptop if a network you’re connected to gets hijacked, so you don’t have to worry about your data being stolen in that way. As an added bonus, the [best VPNs](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/) all offer anti-malware capabilities, too, cutting off that attack vector.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5  Set Up a Firewall 
 
  You may also want to consider setting up a software firewall on your system. Firewalls are programs that can regulate the network traffic going in and out of your computer. If malware does make it onto your laptop somehow, a firewall can make it so it can’t phone home while you work to purge it from your system.
@@ -82,7 +82,7 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
  Most VPNs have some kind of limited firewall functionality, but you can also opt to use other software. We have a [guide on using firewalld on Linux](https://instagram-video-files.techidaily.com/updated-in-2024-examining-the-usefulness-of-instagrams-selfie-validation/), a free and open source firewall that we have found easy to use and set up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Disable Root Login Over SSH 
@@ -96,7 +96,7 @@ Hannah Stryker / How-To Geek
  If you’re not planning to access your device remotely, you may want to consider [disabling root login over SSH](https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-n55-frp-bypass-with-best-methods-by-drfone-android/) and prevent this from happening. Though the chances are slim, it doesn’t hurt to be a little cautious.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Keep Your System Updated 
@@ -126,20 +126,19 @@ sudo apt-get update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-pixels-to-blockchain-gold-choosing-the-right-nft-engines/"><u>[New] From Pixels to Blockchain Gold Choosing the Right NFT Engines</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-importance-of-accurate-slug-line-writing-in-screenplays/"><u>[New] In 2024, The Importance of Accurate Slug Line Writing in Screenplays</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-teredo-is-unable-to-qualify/"><u>[SOLVED] Teredo Is Unable to Qualify</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertly-crafted-images-with-lut-techniques-in-photoshop-cs6/"><u>[Updated] Expertly Crafted Images with LUT Techniques in Photoshop CS6</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-freeze-laughs-select-the-best-templates/"><u>[Updated] Freeze Laughs Select the Best Templates</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-expediting-fb-videos-leading-extensions-and-apps-compilation/"><u>[Updated] In 2024, Expediting FB Videos Leading Extensions & Apps Compilation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-on-figma-seamless-bg-erasure-techniques/"><u>2024 Approved Expert Tips on Figma Seamless BG Erasure Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-recommended-6-online-apps-to-delete-background-perfectly-for-2024/"><u>Expert-Recommended 6 Online Apps to Delete Background Perfectly for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-top-10-apples-affordable-and-free-image-collage-applications-for-2024/"><u>Explore Top 10 Apple's Affordable & Free Image Collage Applications for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/image-distortion-made-easy-for-2024/"><u>Image Distortion Made Easy for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s23-ultra-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S23 Ultra Phone FRP Lock</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/performance-showdown-how-kingstons-c38-ddr5-7200-camm2-stacks-up-against-conventional-dimm-memory-modules-a-benchmark-study/"><u>Performance Showdown: How Kingston's C38 DDR5-7200 CAMM2 Stacks Up Against Conventional DIMM Memory Modules - A Benchmark Study</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pursue-profits-and-purpose-through-software-error-discovery-at-openai/"><u>Pursue Profits and Purpose Through Software Error Discovery at OpenAI</u></a></li>
-<li><a href="https://facebook.techidaily.com/should-cyber-spaces-permit-negative-feedback/"><u>Should Cyber Spaces Permit Negative Feedback?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-freeze-entire-browser-sheet/"><u>[New] 2024 Approved Freeze Entire Browser Sheet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-image-jest-inc-punpictures-pro/"><u>[New] Image Jest Inc PunPictures Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-beginners-guide-to-joining-facebook-for-2024/"><u>[New] The Beginner's Guide to Joining Facebook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-free-options-10-leading-mac-artists-preferences/"><u>[Updated] Explore Free Options 10 Leading Mac Artists' Preferences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ignite-your-brands-success-with-a-10-step-blueprint-for-smm-dominance/"><u>[Updated] Ignite Your Brand's Success with a 10-Step Blueprint for SMM Dominance</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-optimal-visual-branding-best-practices-for-youtube-channel-size/"><u>[Updated] In 2024, Optimal Visual Branding Best Practices for YouTube Channel Size</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-evolved-comparing-mavic-air-and-sparks-impact/"><u>2024 Approved Gaming Evolved Comparing Mavic Air and Spark's Impact</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-initiate-integrate-and-interact-the-basics-of-zoom-for-android/"><u>2024 Approved Initiate, Integrate, and Interact The Basics of Zoom for Android</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-v2-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic V2</u></a></li>
+<li><a href="https://discover-help.techidaily.com/can-system-restore-remove-your-personal-data-understanding-the-process-with-yl-computing/"><u>Can System Restore Remove Your Personal Data? - Understanding the Process with YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-9a-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo Reno 9A Bootloader Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-host-an-engaging-online-livestream-event/"><u>In 2024, How to Host an Engaging Online Livestream Event</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-second-law-of-thermodynamics-indicates-that-the-entropy-of-an-isolated-system-can-never-decrease-over-time-which-is-a-statement-about-the-irreversibilit652/"><u>The Second Law of Thermodynamics Indicates that the Entropy of an Isolated System Can Never Decrease over Time, Which Is a Statement About the Irreversibility of Natural Processes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-psd-style-boosting/"><u>Ultimate PSD Style Boosting</u></a></li>
 </ul></div>
 

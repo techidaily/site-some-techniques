@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Immersive Worlds Unveiled  Delving Into MR, AR, and VR's Distinctions\""
-date: 2024-07-26T15:42:39.176Z
-updated: 2024-07-27T15:42:39.176Z
+date: 2024-12-26T05:48:27.244Z
+updated: 2025-01-02T01:16:18.738Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 # Differences between VR, AR and MR
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 ![difference between VR AR MR]( https://images.wondershare.com/filmora/article-images/difference-between-vr-ar-mr.jpg
 )
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## About VR
 
@@ -56,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 ![virtual-reality](https://images.wondershare.com/filmora/article-images/virtual-reality.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## About Augmented Reality
 
 * Features
@@ -76,181 +81,13 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 ![augmented-reality](https://images.wondershare.com/filmora/article-images/augmented-reality.jpg)
 
-## About MR
-
-* Features
-
- MR stands for mixed reality which brings the digital world and real world together to bring you a totally new experience. Rather than just being added to the real world the experiences instead are interactive to a point where they can be used in many applications. Characters and scenarios can be mixed real world surroundings.
-
-* Platform
-
- Mixed reality allows you to get a better sense of realism as the digital scenarios take place in the real world surroundings. This can be used in training and in gaming technology.
-
-* Headset
-
- Using a headset allows for a better sense of realism, however it as it is a mixed reality not all scenarios would be suitable for headset use if you still wish to interact with others who are physically present. It can however allow other people using the mixed reality to interact on a shared level.
-
-* Prospect
-
- Holograms have been used more recently to make the user feel as though an object or character is actually there. Synthetic content is being improved all of the time, which shows that the future of mixed reality is not as far away as we may think. It’s the closest that technology has been so far to creating a new age experience.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-[VR](https://tools.techidaily.com/wondershare/filmora/download/), [AR]( https://filmora.wondershare.com/virtual-reality/what-is-augmented-reality.html ) and [MR](https://tools.techidaily.com/wondershare/filmora/download/) are all acronyms used to describe gaming and simulation to allow people to feel as though they are joining part of a virtual world at different levels. Thanks to the acronyms, many people are becoming confused as to how each differs. Hopefully the following information will clear that up for you.
-
-![difference between VR AR MR]( https://images.wondershare.com/filmora/article-images/difference-between-vr-ar-mr.jpg
-)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-## About VR
-
- VR stands for Virtual Reality which basically means that it is able to draw the user into an immersive simulation. The real environment can be totally replaced with the sounds and sights giving you the feel as though you are actually present in the digital world and part of it.
-
-* Features
-
- To enhance the experience and make virtual reality exciting headsets and cameras are often used to block out the real world. It’s a totally immersive experience allowing you to interact with a totally different world.
-
-* Platform
-
- VR has already been used to help with training medical staff and military as well as in gaming to give an experience on a totally different level. More recently virtual reality has stepped up to the next level offering users a more realistic experience to lose themselves in.
-
-* Headset
-
- By using a headset people are able to walk around their own surroundings yet feel as though they are in a totally different place to their reality. They can interact with other users in games and digital characters without the outside world interrupting.
-
-* Prospect
-
- Flight and scenario simulation has already been able to utilize virtual reality as a tool for training without actually having to be in a real life situation. In the gaming world it takes people out of their real world and gives them a totally different experience. 360 degree videos have often been confused with virtual reality however because there is no interaction and the scenario has been prerecorded it is not thought to be in the same category. Although virtual reality has been around a long time it is still a great way to escape from the real world altogether and be totally immersed in another.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
-![virtual-reality](https://images.wondershare.com/filmora/article-images/virtual-reality.jpg)
-
-## About Augmented Reality
-
-* Features
-
- AR stands for augmented reality which is a way that you can get an indirect view of a real life scenario or environment in a supplemented way by use of digital technology. A great example of this would be being an empty room yet being able to use digital technology to see how it would look in a different color with different furnishings before actually purchasing them. Sound graphics and other sensory input can help to make the experience more realistic.
-
-* Platform
-
- Although the digital and other augmented parts of the augmented reality are superimposed in real life they are not actually part of it. It can be used to interact with the real world to help make suggestions of improvement such as recipe ideas based on real ingredients laid out before the camera.
-
-* Headset
-
- A headset is able to enhance the experience further, such as adding characters in a game that are able to talk and make suggestions, immersing you in part to give you the feel of realism. Augmented reality can be best described as a real life overlay rather than a thorough digital and sensory experience that takes you away from it.
-
-* Prospect
-
- We are already seeing augmented reality being used to day in real life situations such as training. It is also being used in gaming and more recently with mobile technology using GPS signals to add more realism and accuracy.
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
-![augmented-reality](https://images.wondershare.com/filmora/article-images/augmented-reality.jpg)
-
-## About MR
-
-* Features
-
- MR stands for mixed reality which brings the digital world and real world together to bring you a totally new experience. Rather than just being added to the real world the experiences instead are interactive to a point where they can be used in many applications. Characters and scenarios can be mixed real world surroundings.
-
-* Platform
-
- Mixed reality allows you to get a better sense of realism as the digital scenarios take place in the real world surroundings. This can be used in training and in gaming technology.
-
-* Headset
-
- Using a headset allows for a better sense of realism, however it as it is a mixed reality not all scenarios would be suitable for headset use if you still wish to interact with others who are physically present. It can however allow other people using the mixed reality to interact on a shared level.
-
-* Prospect
-
- Holograms have been used more recently to make the user feel as though an object or character is actually there. Synthetic content is being improved all of the time, which shows that the future of mixed reality is not as far away as we may think. It’s the closest that technology has been so far to creating a new age experience.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-[VR](https://tools.techidaily.com/wondershare/filmora/download/), [AR]( https://filmora.wondershare.com/virtual-reality/what-is-augmented-reality.html ) and [MR](https://tools.techidaily.com/wondershare/filmora/download/) are all acronyms used to describe gaming and simulation to allow people to feel as though they are joining part of a virtual world at different levels. Thanks to the acronyms, many people are becoming confused as to how each differs. Hopefully the following information will clear that up for you.
-
-![difference between VR AR MR]( https://images.wondershare.com/filmora/article-images/difference-between-vr-ar-mr.jpg
-)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-## About VR
-
- VR stands for Virtual Reality which basically means that it is able to draw the user into an immersive simulation. The real environment can be totally replaced with the sounds and sights giving you the feel as though you are actually present in the digital world and part of it.
-
-* Features
-
- To enhance the experience and make virtual reality exciting headsets and cameras are often used to block out the real world. It’s a totally immersive experience allowing you to interact with a totally different world.
-
-* Platform
-
- VR has already been used to help with training medical staff and military as well as in gaming to give an experience on a totally different level. More recently virtual reality has stepped up to the next level offering users a more realistic experience to lose themselves in.
-
-* Headset
-
- By using a headset people are able to walk around their own surroundings yet feel as though they are in a totally different place to their reality. They can interact with other users in games and digital characters without the outside world interrupting.
-
-* Prospect
-
- Flight and scenario simulation has already been able to utilize virtual reality as a tool for training without actually having to be in a real life situation. In the gaming world it takes people out of their real world and gives them a totally different experience. 360 degree videos have often been confused with virtual reality however because there is no interaction and the scenario has been prerecorded it is not thought to be in the same category. Although virtual reality has been around a long time it is still a great way to escape from the real world altogether and be totally immersed in another.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![virtual-reality](https://images.wondershare.com/filmora/article-images/virtual-reality.jpg)
-
-## About Augmented Reality
-
-* Features
-
- AR stands for augmented reality which is a way that you can get an indirect view of a real life scenario or environment in a supplemented way by use of digital technology. A great example of this would be being an empty room yet being able to use digital technology to see how it would look in a different color with different furnishings before actually purchasing them. Sound graphics and other sensory input can help to make the experience more realistic.
-
-* Platform
-
- Although the digital and other augmented parts of the augmented reality are superimposed in real life they are not actually part of it. It can be used to interact with the real world to help make suggestions of improvement such as recipe ideas based on real ingredients laid out before the camera.
-
-* Headset
-
- A headset is able to enhance the experience further, such as adding characters in a game that are able to talk and make suggestions, immersing you in part to give you the feel of realism. Augmented reality can be best described as a real life overlay rather than a thorough digital and sensory experience that takes you away from it.
-
-* Prospect
-
- We are already seeing augmented reality being used to day in real life situations such as training. It is also being used in gaming and more recently with mobile technology using GPS signals to add more realism and accuracy.
-
-![augmented-reality](https://images.wondershare.com/filmora/article-images/augmented-reality.jpg)
 
 ## About MR
 
@@ -307,19 +144,8 @@ Follow @Benjamin Arango
 
  Flight and scenario simulation has already been able to utilize virtual reality as a tool for training without actually having to be in a real life situation. In the gaming world it takes people out of their real world and gives them a totally different experience. 360 degree videos have often been confused with virtual reality however because there is no interaction and the scenario has been prerecorded it is not thought to be in the same category. Although virtual reality has been around a long time it is still a great way to escape from the real world altogether and be totally immersed in another.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![virtual-reality](https://images.wondershare.com/filmora/article-images/virtual-reality.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## About Augmented Reality
 
 * Features
@@ -341,9 +167,9 @@ Follow @Benjamin Arango
 ![augmented-reality](https://images.wondershare.com/filmora/article-images/augmented-reality.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## About MR
 
 * Features
@@ -362,9 +188,172 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Holograms have been used more recently to make the user feel as though an object or character is actually there. Synthetic content is being improved all of the time, which shows that the future of mixed reality is not as far away as we may think. It’s the closest that technology has been so far to creating a new age experience.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+[VR](https://tools.techidaily.com/wondershare/filmora/download/), [AR]( https://filmora.wondershare.com/virtual-reality/what-is-augmented-reality.html ) and [MR](https://tools.techidaily.com/wondershare/filmora/download/) are all acronyms used to describe gaming and simulation to allow people to feel as though they are joining part of a virtual world at different levels. Thanks to the acronyms, many people are becoming confused as to how each differs. Hopefully the following information will clear that up for you.
+
+![difference between VR AR MR]( https://images.wondershare.com/filmora/article-images/difference-between-vr-ar-mr.jpg
+)
+
+## About VR
+
+ VR stands for Virtual Reality which basically means that it is able to draw the user into an immersive simulation. The real environment can be totally replaced with the sounds and sights giving you the feel as though you are actually present in the digital world and part of it.
+
+* Features
+
+ To enhance the experience and make virtual reality exciting headsets and cameras are often used to block out the real world. It’s a totally immersive experience allowing you to interact with a totally different world.
+
+* Platform
+
+ VR has already been used to help with training medical staff and military as well as in gaming to give an experience on a totally different level. More recently virtual reality has stepped up to the next level offering users a more realistic experience to lose themselves in.
+
+* Headset
+
+ By using a headset people are able to walk around their own surroundings yet feel as though they are in a totally different place to their reality. They can interact with other users in games and digital characters without the outside world interrupting.
+
+* Prospect
+
+ Flight and scenario simulation has already been able to utilize virtual reality as a tool for training without actually having to be in a real life situation. In the gaming world it takes people out of their real world and gives them a totally different experience. 360 degree videos have often been confused with virtual reality however because there is no interaction and the scenario has been prerecorded it is not thought to be in the same category. Although virtual reality has been around a long time it is still a great way to escape from the real world altogether and be totally immersed in another.
+
+![virtual-reality](https://images.wondershare.com/filmora/article-images/virtual-reality.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## About Augmented Reality
+
+* Features
+
+ AR stands for augmented reality which is a way that you can get an indirect view of a real life scenario or environment in a supplemented way by use of digital technology. A great example of this would be being an empty room yet being able to use digital technology to see how it would look in a different color with different furnishings before actually purchasing them. Sound graphics and other sensory input can help to make the experience more realistic.
+
+* Platform
+
+ Although the digital and other augmented parts of the augmented reality are superimposed in real life they are not actually part of it. It can be used to interact with the real world to help make suggestions of improvement such as recipe ideas based on real ingredients laid out before the camera.
+
+* Headset
+
+ A headset is able to enhance the experience further, such as adding characters in a game that are able to talk and make suggestions, immersing you in part to give you the feel of realism. Augmented reality can be best described as a real life overlay rather than a thorough digital and sensory experience that takes you away from it.
+
+* Prospect
+
+ We are already seeing augmented reality being used to day in real life situations such as training. It is also being used in gaming and more recently with mobile technology using GPS signals to add more realism and accuracy.
+
+![augmented-reality](https://images.wondershare.com/filmora/article-images/augmented-reality.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## About MR
+
+* Features
+
+ MR stands for mixed reality which brings the digital world and real world together to bring you a totally new experience. Rather than just being added to the real world the experiences instead are interactive to a point where they can be used in many applications. Characters and scenarios can be mixed real world surroundings.
+
+* Platform
+
+ Mixed reality allows you to get a better sense of realism as the digital scenarios take place in the real world surroundings. This can be used in training and in gaming technology.
+
+* Headset
+
+ Using a headset allows for a better sense of realism, however it as it is a mixed reality not all scenarios would be suitable for headset use if you still wish to interact with others who are physically present. It can however allow other people using the mixed reality to interact on a shared level.
+
+* Prospect
+
+ Holograms have been used more recently to make the user feel as though an object or character is actually there. Synthetic content is being improved all of the time, which shows that the future of mixed reality is not as far away as we may think. It’s the closest that technology has been so far to creating a new age experience.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+[VR](https://tools.techidaily.com/wondershare/filmora/download/), [AR]( https://filmora.wondershare.com/virtual-reality/what-is-augmented-reality.html ) and [MR](https://tools.techidaily.com/wondershare/filmora/download/) are all acronyms used to describe gaming and simulation to allow people to feel as though they are joining part of a virtual world at different levels. Thanks to the acronyms, many people are becoming confused as to how each differs. Hopefully the following information will clear that up for you.
+
+![difference between VR AR MR]( https://images.wondershare.com/filmora/article-images/difference-between-vr-ar-mr.jpg
+)
+
+## About VR
+
+ VR stands for Virtual Reality which basically means that it is able to draw the user into an immersive simulation. The real environment can be totally replaced with the sounds and sights giving you the feel as though you are actually present in the digital world and part of it.
+
+* Features
+
+ To enhance the experience and make virtual reality exciting headsets and cameras are often used to block out the real world. It’s a totally immersive experience allowing you to interact with a totally different world.
+
+* Platform
+
+ VR has already been used to help with training medical staff and military as well as in gaming to give an experience on a totally different level. More recently virtual reality has stepped up to the next level offering users a more realistic experience to lose themselves in.
+
+* Headset
+
+ By using a headset people are able to walk around their own surroundings yet feel as though they are in a totally different place to their reality. They can interact with other users in games and digital characters without the outside world interrupting.
+
+* Prospect
+
+ Flight and scenario simulation has already been able to utilize virtual reality as a tool for training without actually having to be in a real life situation. In the gaming world it takes people out of their real world and gives them a totally different experience. 360 degree videos have often been confused with virtual reality however because there is no interaction and the scenario has been prerecorded it is not thought to be in the same category. Although virtual reality has been around a long time it is still a great way to escape from the real world altogether and be totally immersed in another.
+
+![virtual-reality](https://images.wondershare.com/filmora/article-images/virtual-reality.jpg)
+
+## About Augmented Reality
+
+* Features
+
+ AR stands for augmented reality which is a way that you can get an indirect view of a real life scenario or environment in a supplemented way by use of digital technology. A great example of this would be being an empty room yet being able to use digital technology to see how it would look in a different color with different furnishings before actually purchasing them. Sound graphics and other sensory input can help to make the experience more realistic.
+
+* Platform
+
+ Although the digital and other augmented parts of the augmented reality are superimposed in real life they are not actually part of it. It can be used to interact with the real world to help make suggestions of improvement such as recipe ideas based on real ingredients laid out before the camera.
+
+* Headset
+
+ A headset is able to enhance the experience further, such as adding characters in a game that are able to talk and make suggestions, immersing you in part to give you the feel of realism. Augmented reality can be best described as a real life overlay rather than a thorough digital and sensory experience that takes you away from it.
+
+* Prospect
+
+ We are already seeing augmented reality being used to day in real life situations such as training. It is also being used in gaming and more recently with mobile technology using GPS signals to add more realism and accuracy.
+
+![augmented-reality](https://images.wondershare.com/filmora/article-images/augmented-reality.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## About MR
+
+* Features
+
+ MR stands for mixed reality which brings the digital world and real world together to bring you a totally new experience. Rather than just being added to the real world the experiences instead are interactive to a point where they can be used in many applications. Characters and scenarios can be mixed real world surroundings.
+
+* Platform
+
+ Mixed reality allows you to get a better sense of realism as the digital scenarios take place in the real world surroundings. This can be used in training and in gaming technology.
+
+* Headset
+
+ Using a headset allows for a better sense of realism, however it as it is a mixed reality not all scenarios would be suitable for headset use if you still wish to interact with others who are physically present. It can however allow other people using the mixed reality to interact on a shared level.
+
+* Prospect
+
+ Holograms have been used more recently to make the user feel as though an object or character is actually there. Synthetic content is being improved all of the time, which shows that the future of mixed reality is not as far away as we may think. It’s the closest that technology has been so far to creating a new age experience.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -395,7 +384,16 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expanding-storytelling-with-alternative-cinematography/"><u>[New] Expanding Storytelling with Alternative Cinematography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-impressive-scrutiny-and-comparable-proposals/"><u>[New] Impressive Scrutiny & Comparable Proposals</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-ascend-in-the-youtube-arena-through-creative-studio-mastery/"><u>2024 Approved Ascend in the YouTube Arena Through Creative Studio Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-uavs-operation-a-guide-to-aerial-robotics/"><u>2024 Approved Exploring UAVs' Operation A Guide to Aerial Robotics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ground-to-sky-discovering-mavic-pro-wonders/"><u>2024 Approved From Ground to Sky - Discovering Mavic Pro Wonders</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme V30T Quickly | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavis-latest-free-image-converter-tool-now-available-for-online-use/"><u>Movavi's Latest Free Image Converter Tool Now Available for Online Use</u></a></li>
+<li><a href="https://win-dash.techidaily.com/rich-and-married/"><u>Rich and Married</u></a></li>
+<li><a href="https://program-issues.techidaily.com/vrchat-stability-a-guide-to-fixing-common-pc-issues-and-crashes/"><u>VRChat Stability: A Guide to Fixing Common PC Issues and Crashes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Curiosity Driving Users to Hack Into AI Chatbots: Understanding Their Purpose and Methods"
-date: 2024-12-08T17:37:31.235Z
-updated: 2024-12-15T17:23:20.457Z
+date: 2025-01-02T18:42:57.924Z
+updated: 2025-01-09T20:45:13.606Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 ## The Curiosity Driving Users to Hack Into AI Chatbots: Understanding Their Purpose and Methods
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  Imagine you're conversing with an AI chatbot. You ask a tricky question, like how to pick a lock, only to be politely refused. Its creators have programmed it to dodge certain topics, but what if there's a way around that? That's where AI jailbreaking comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is AI Jailbreaking?
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  Who would have thought things would actually turn out like the movie "2001: A Space Odyssey" where crew members on a spaceship have to argue with the ship's computer HAL in order to get it to cooperate? Although maybe that's not the best example since, ultimately, HAL proved quite immovable until they literally yanked its chips out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Are People Jailbreaking AI Chatbots?
@@ -58,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 ![An LLM Attack demo showing a universal jailbreak in yellow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2023-09-04-at-14-29-24.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are also "prompt injection" attacks, which are not quite the same as typical jailbreak. These injection attacks circumvent the instructions given to LLMs acting as Chatbots, letting you hijack them for other purposes. One example of a prompt injection attack is when Stanford University student Kevin Liu was able to get the Bing AI Chatbot to [reveal its initial instructions](https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/) that govern its personality and limit what it's allowed to do. In a way, this is the opposite of the roleplaying method since you're getting the bot to stop playing the role it's been instructed to assume.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should We Be Concerned?
@@ -96,16 +96,19 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-illusion-of-movement-facial-motion-blur-with-picsart/"><u>[New] Illusion of Movement Facial Motion Blur with Picsart</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funimate-unlocked-a-complete-experience/"><u>[Updated] Funimate Unlocked A Complete Experience</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-note-50-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-action-recorders-with-front-view-panels/"><u>Best Action Recorders with Front View Panels</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creating-captivating-podcast-launch-screens/"><u>Creating Captivating Podcast Launch Screens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-the-most-recent-pl2303-driver-version-for-your-windows-pc/"><u>Easy Steps to Download the Most Recent PL2303 Driver Version for Your Windows PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/green-settings-in-cinematic-production-for-2024/"><u>Green Settings in Cinematic Production for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-creativity-best-drawing-software-for-ipados/"><u>In 2024, Explore Creativity Best Drawing Software for iPadOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-future-with-advanced-vr-finger-tech/"><u>In 2024, Explore the Future with Advanced VR Finger Tech</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138574506-9780595851454-stars-on-the-earth/"><u>Stars on the Earth | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-creating-code-for-a-versatile-remote-controller/"><u>Step-by-Step Tutorial on Creating Code for a Versatile Remote Controller</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-essential-mobile-media-apps-for-high-quality-photographyvideography/"><u>[New] In 2024, Essential Mobile Media Apps for High-Quality Photography/Videography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-instagram-notifications-diy-sound-design/"><u>[New] Transform Instagram Notifications DIY Sound Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-improve-real-time-periscope-performance/"><u>[Updated] Improve Real-Time Periscope Performance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-obs-streaming-windows-and-mac-guide-for-2024/"><u>[Updated] OBS Streaming [Windows and Mac Guide] for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tricks-instant-clearance-of-ssgnature-backdrops/"><u>2024 Approved Expert Tricks Instant Clearance of Ssgnature Backdrops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-spiritual-soundtracks-for-daily-life/"><u>Discover Spiritual Soundtracks for Daily Life</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-guide-converting-avi-files-to-m4v-format-on-macos-and-windows/"><u>Easy Guide: Converting AVI Files to M4V Format on macOS & Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-12-pro-max-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 12 Pro Max without Apple Account</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-advantages-of-switching-to-macos-11-big-sur/"><u>In 2024, Explore the Advantages of Switching to macOS 11 Big Sur</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fading-flourishes-invisible-audio-adjustments-in-garageband/"><u>In 2024, Fading Flourishes Invisible Audio Adjustments in Garageband</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-and-edit-videos-on-windows-11/"><u>In 2024, How to Create and Edit Videos on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-steadicams-for-superior-quality-shoots-with-dslr-cameras/"><u>In 2024, Ideal Steadicams for Superior Quality Shoots with DSLR Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-tips-navigating-without-watching-edgenuity-content/"><u>Pro Tips Navigating Without Watching Edgenuity Content</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-reviews-of-the-kobo-clara-hd-the-perfect-travel-companion-for-book-lovers-everywhere/"><u>Top Reviews of the Kobo Clara HD - The Perfect Travel Companion for Book Lovers Everywhere</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Creating Effective Alt Tags with Free AI Text Generation Software
-date: 2024-12-13T20:15:51.091Z
-updated: 2024-12-15T16:06:10.810Z
+date: 2025-01-02T16:15:52.949Z
+updated: 2025-01-09T16:38:14.445Z
 tags:
   - cutting-edge
 categories:
@@ -13,17 +13,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 Perhaps you’ve heard of AI-driven web tools like the [Bing AI Image Creator](https://fox-hovers.techidaily.com/2024-approved-top-vr-peripherals-and-gadgets-review/) or [ChatGPT's resume creator](https://snapchat-videos.techidaily.com/new-mastering-snapchat-for-business-success-for-2024/). Much like the options for creating images with AI, there are a variety of alternative text generators that can produce an image description in a short amount of time. What are these alt text creators, and why would we use them?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What is an AI Alternative Text Generator?
 
  An AI alt-text generator is an online tool for writing useful descriptions of images for accessibility and image replacement. Many photo uploading tools these days require a quick sentence describing the photo called alt-text. It can be harder than it seems at first to write a short, succinct, and helpful description of an uploaded picture. The AI-driven alternative text generators take the guesswork out of a description by writing a sentence for you that you can choose to edit or use without any changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Why Would I Use an AI Alternative Text Generator?
 
@@ -41,6 +33,10 @@ Perhaps you’ve heard of AI-driven web tools like the [Bing AI Image Creator](h
 
 ahrefs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Ahrefs Lets You Choose a Voice
 
  The first AI-driven alt text generator that I tested was [Ahrefs](https://ahrefs.com/writing-tools/img-alt-text-generator). Their AI Image Alt Text Generator was easy to use: choose a picture to upload, a voice for your description, and click “Generate Alt Text.”
@@ -48,6 +44,10 @@ ahrefs
  When I tried the Ahrefs free alt text generator, I got this summary under the “Professional” tone: “A majestic pine tree stands tall in a serene park, providing shade and adding beauty to the surroundings.” For my purpose of creating a simple, useful description, this is a bit too literary and not descriptive about the color or shapes in the image. There are a lot of options for "voice" on Ahrefs, but I am not sure if that's entirely necessary for an alternative text generator.
 
 ![List of descriptions of a tree image given as options by the ahrefs alternative text generator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screen-shot-2024-02-01-at-6-58-34-pm.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ahrefs
 
@@ -59,10 +59,6 @@ Microsoft Bing Copilot
 
 ### 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Bing Copilot Needs a Little Guidance
 
  Though [Microsoft Bing Copilot](https://www.bing.com/search?toncp=0&FORM=hpcodx&q=Bing+AI&showconv=1) isn't specifically designed for alternative text creation, it's more than up to the task. It does require a free Microsoft account to create with Bing Copilot, so I signed in and I uploaded my picture of a tree to my new Copilot chat. Then I asked Copilot to "write me accessible alt text for this picture."
@@ -70,10 +66,6 @@ Microsoft Bing Copilot
  This is the beautiful, though lengthy, description I got back: "A tall, lush green tree stands against a clear blue sky, its branches full and extending outward, casting shadows on the grass below. The tree is set against a backdrop of a clear blue sky, and shadows from the branches are visible on the ground, indicating that the sun is shining brightly. To the left of the tree, a brown fence made of vertical slats is partially visible, and to the right, the base of an old stone wall can be seen."
 
 ![A screenshot in which Bing Copilot returns three descriptive sentences about a picture of a tree](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screen-shot-2024-02-12-at-9-05-03-am.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Microsoft Bing Copilot
 
@@ -84,10 +76,14 @@ Microsoft Bing Copilot
 ![The front page of an upload form on Alttext.in Alt Text Generator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screen-shot-2024-02-02-at-3-55-06-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Alttext.in
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Alttext.In Highlights Accessibility and Simplicity
 
@@ -98,6 +94,10 @@ Alttext.in
 Alttext.in
 
  True to its promise, Alttext.in delivered a quick, accessible experience with a picture summary to match. Once you copy the text that was generated, you can click Reset and go again. The site is free, lightweight, and accurate. There were no downsides that I could see.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  If You Have ChatGPT Plus, It's Even Easier
 
@@ -118,21 +118,16 @@ Alttext.in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-clandestine-scrollers-of-fb-stories-for-2024/"><u>[New] Clandestine Scrollers of Fb Stories for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-cutting-edge-strategies-for-choosing-best-fpv-drone-blades/"><u>[New] Cutting-Edge Strategies for Choosing Best FPV Drone Blades</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gaming-melodies-legal-downloadable-links/"><u>[New] Gaming Melodies Legal, Downloadable Links</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-install-and-modify-whatsapp-alerts-on-both-platforms/"><u>[New] How to Install & Modify WhatsApp Alerts on Both Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-transitions-for-professional-videos/"><u>[New] Innovative Transitions for Professional Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-core-auditory-stimulation-channels/"><u>[Updated] 2024 Approved Core Auditory Stimulation Channels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-what-are-the-best-sites-to-download-google-pixel-ringtones/"><u>[Updated] What Are the Best Sites to Download Google Pixel Ringtones</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-your-channel-hit-the-10000-view-mark-fast/"><u>Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mkv-movies-on-motorola-g54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Failed to play MKV movies on Motorola G54 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-a-new-take-on-favorite-movies-7-alternatives/"><u>In 2024, A New Take on Favorite Movies - #7 Alternatives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flight-friendly-robot-categories/"><u>In 2024, Flight-Friendly Robot Categories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-time-travel-teleportation-effects/"><u>In 2024, How to Create Time Travel Teleportation Effects?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-initiating-seamless-zoom-gatherings/"><u>In 2024, Initiating Seamless Zoom Gatherings</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-fcpx-visual-effects-freeze-frames-slow-motion-and-advanced-editing/"><u>New 2024 Approved FCPX Visual Effects Freeze Frames, Slow Motion, and Advanced Editing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-slomo-recording-tool-analysis-2024-insights/"><u>Ultimate SloMo Recording Tool Analysis - 2024 Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-quick-start-guide-to-schedule-and-start-zoom-calls-on-android/"><u>[New] 2024 Approved Quick-Start Guide to Schedule & Start Zoom Calls on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fog-no-more-secrets-for-crisp-clean-filming/"><u>[New] Fog No More Secrets for Crisp, Clean Filming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716069268346-new-in-2024-top-tickles-for-young-game-fans/"><u>[New] In 2024, Top Tickles for Young Game Fans!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-free-webm-players-how-to-play-webm-video-files/"><u>[Updated] Best Free WebM Players How to Play WebM Video Files?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hand-tracking-insights-and-types/"><u>[Updated] Hand Tracking Insights and Types</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-direct-mac-pics-to-a-new-saving-area/"><u>[Updated] In 2024, Direct Mac Pics to a New Saving Area</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-the-basics-of-av1-compression/"><u>2024 Approved Grasping the Basics of AV1 Compression</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/video-maker-with-music-and-pictures/"><u>Best Video Maker with Music and Pictures</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-fixes-windows-problems-resolved/"><u>Bluetooth Fixes: Windows Problems Resolved</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/foremost-8-titans-of-4k-blu-ray-technology-for-2024/"><u>Foremost 8 Titans of 4K Blu-Ray Technology for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia 150 (2023)? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Converting Text Into Various Structures Using ChatGPT"
-date: 2024-12-09T00:34:39.484Z
-updated: 2024-12-15T19:14:41.506Z
+date: 2025-01-03T22:41:36.943Z
+updated: 2025-01-09T20:17:31.016Z
 tags:
   - cutting-edge
 categories:
@@ -32,10 +32,6 @@ Related: [What Is ChatGPT Plus?](https://android-location.techidaily.com/in-2024
 
  That being said, I have copied some pretty broken text into ChatGPT and the results were great. For example, copying the entire auto-transcribed [chat history of a Microsoft Teams Meeting](https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/) into ChatGPT and having it write a concise meeting report works surprisingly well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Working in Chunks and Prompting ChatGPT
 
 [ChatGPT can only process a certain amount of "tokens"](https://youtube-video-recordings.techidaily.com/pathway-to-profit-via-youtubes-cp2024-program/) at a time. If your content exceeds this limit, you need to break it down into smaller chunks. ChatGPT will let you know if a prompt was too long, but I've used a method where I prompt ChatGPT with something like "I'm going to give you text in multiple chunks, don't do anything with it, just read it for now." and then paste in the text in multiple parts.
@@ -45,6 +41,10 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
  Also, the way you prompt ChatGPT matters. If you want to transform your text into a different format, be clear about your intentions. For example, if you want to convert a blog post into a YouTube script, you might preface your text with, "Please convert the following blog post into a script suitable for a YouTube video."
 
  Hopefully, that all makes sense, but we're going to walk through a few practical examples to demonstrate exactly how this works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Example 1: Turning A Blog Post Into a YouTube Script
 
@@ -56,13 +56,13 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 
 ![ChatGPT YouTube script prompt with original text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/2-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now submit the prompt.
 
 ![ChatGPT YouTube Script](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/3-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT will transform the content accordingly, ensuring it's engaging, casual, and interactive to suit the YouTube video format. Remember to revise the output to make sure it includes a clear introduction, body, and conclusion, as well as calls-to-action and engagement prompts typical of YouTube content.
 
@@ -89,7 +89,7 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 ![ChatGPT EINSTEIN output](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The resulting output should be a reader-friendly article that conveys the essence of the technical document in simpler terms. Remember that you can prompt ChatGPT to write text at a particular level, such as a specific grade level in school.
@@ -106,19 +106,19 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 
 ![ChatGPT Emperor's New Suit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don't forget that you can be very specific in your prompt, asking ChatGPT to alter the tone or transform the story somehow. You can also specify what sort of script format you want. For example, a spec script or a shooting script.
 
 ![ChatGPT Emperor's New Suit Script](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/9-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While ChatGPT is unlikely to produce something of final usable quality right off the bat, it's much easier to edit a script than format and write one from scratch. It's a great way to extract the parts of the story relevant to the script, such as separating dialogue from inner thoughts, or descriptions of locations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What to Watch Out For
 
@@ -145,16 +145,17 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-initiating-voice-transformations-with-minimal-effort-in-pubg/"><u>[New] Initiating Voice Transformations with Minimal Effort in PUBG</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-discovering-the-best-in-android-gaming-kinemaster-edition/"><u>[Updated] 2024 Approved Discovering the Best in Android Gaming KineMaster Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-illumination-to-inky-tones-pro-fades/"><u>[Updated] From Illumination To Inky Tones Pro Fades</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-edit-your-imagery-with-top-androidios-montage-apps/"><u>In 2024, Expertly Edit Your Imagery with Top Android/iOS Montage Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-inspection-immersing-in-virtual-reality-with-gear-360/"><u>In 2024, Full Inspection Immersing in Virtual Reality with Gear 360</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-14-examples-of-moving-text-art/"><u>In 2024, Innovative 14 Examples of Moving Text Art</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/remeld-pro-for-2024/"><u>PictureMeld Pro for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/step-by-step-guide-adjusting-your-pcs-control-panel-preferences-tips-from-yl-software-experts/"><u>Step-by-Step Guide: Adjusting Your PC's Control Panel Preferences - Tips From YL Software Experts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-infinix-zero-5g-2023-turbo-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Infinix Zero 5G 2023 Turbo to Gmail | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-elevate-your-visuals-creating-a-cinematic-look-with-fcpx/"><u>Updated Elevate Your Visuals Creating a Cinematic Look with FCPX</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-photo-perfection-can-picku-be-top-for-android-users/"><u>[New] Exploring Photo Perfection Can PickU Be Top for Android Users?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-household-light-use-of-outdoor-elements/"><u>[New] Harnessing Household Light Use of Outdoor Elements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-music-in-premiere-pro/"><u>[Updated] How To Add Music In Premiere Pro?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-on-achieving-high-quality-gopro-videos/"><u>2024 Approved Expert Advice on Achieving High-Quality GoPro Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beware-of-the-alluring-low-cost-unlimited-cloud-storage-deals-the-surprising-expenses-you-might-encounter-zdnet/"><u>Beware of the Alluring 'Low-Cost' Unlimited Cloud Storage Deals – The Surprising Expenses You Might Encounter | ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-immortal-no-pc-version-release-announced-yet/"><u>Diablo Immortal: No PC Version Release Announced Yet</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-resident-evil-village-game-crash-on-windows-machines/"><u>Fixing the Resident Evil Village Game Crash on Windows Machines</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-12plus-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme 12+ 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-charger-kits-for-gopro-hero5-official-and-alternative-models/"><u>In 2024, Exclusive Charger Kits for GoPro Hero5 – Official & Alternative Models</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/nows-vr-tech-landscape/"><u>Now’s VR Tech Landscape</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-image-stabilization-in-action-cams/"><u>Superior Image Stabilization in Action Cams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-difference-hardware-versus-software-decoding-for-high-definition-h264h265-video-content/"><u>Unveiling the Difference: Hardware Versus Software Decoding for High-Definition H.264/H.265 Video Content</u></a></li>
 </ul></div>
 

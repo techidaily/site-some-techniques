@@ -1,7 +1,7 @@
 ---
 title: June 28 - New York Times Connection Challenge #383 Explained
-date: 2024-12-29T16:49:38.138Z
-updated: 2025-01-02T08:04:39.649Z
+date: 2025-01-06T19:43:16.338Z
+updated: 2025-01-09T16:24:15.939Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## June 28 - New York Times Connection Challenge #383 Explained
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 383rd Connections game to get you started:
@@ -42,10 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![June 28th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-28th-connections.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you still need help, the actual group names are:
 
 * **Yellow:** Types of Bags
@@ -54,7 +54,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Purple:** Underwear in the Singular
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
@@ -62,7 +62,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![June 28th Connections words sorted into groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-28th-connections-filled.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Types of Bags (Yellow):** 
@@ -81,6 +81,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Boxer, Brief, Drawer, Short
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  June 28th wasn't too bad. 
@@ -92,10 +96,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  A satchel is a type of bag, so I started with that for my next group. Freedom, latitude, slack, and license make absolutely no sense in the context of "bag," so I just opted to pick every other remaining word instead of puzzling it out. Clutch, messenger, satchel, and tote belonged to the Yellow group, "Types of Bags." 
 
  That left freedom, latitude, license, and slack. The terms seem vaguely related to the ideas of margin for error, or freedom of movement. Green was "Wiggle Room"—close enough. I count that as a win still. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -125,22 +125,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-guide-to-photo-transformation-tools/"><u>[New] Expert Guide to Photo Transformation Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-ultraedit-pro-for-video-cutting-2023/"><u>[New] In-Depth Look UltraEdit Pro for Video Cutting 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-recommendations-the-highest-rated-18-video-recorders-now/"><u>[Updated] Expert Recommendations The Highest-Rated 18 Video Recorders Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-future-of-games-analyzing-htc-vive-vs-oculus-rift-and-ps-vr/"><u>[Updated] Future of Games Analyzing HTC Vive vs Oculus Rift & PS VR</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-ez-grabber-a-quick-guide-to-downloading-setting-up/"><u>[Updated] Unlocking EZ Grabber - A Quick Guide to Downloading, Setting Up</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-cutting-down-video-lengths-the-ultimate-mac-guide-for-insta/"><u>2024 Approved Cutting Down Video Lengths The Ultimate Mac Guide for Insta</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-your-ideal-viewing-experience-with-projection-or-television/"><u>2024 Approved Finding Your Ideal Viewing Experience with Projection or Television</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-rise-of-micro-video-a-tiktok-vs-snapchat-study/"><u>2024 Approved The Rise of Micro-Video A TikTok vs Snapchat Study</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/developing-dynamic-instagram-highlight-summaries-for-2024/"><u>Developing Dynamic Instagram Highlight Summaries for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-how-to-seamlessly-transition-to-a-fresh-role-while-remaining-in-your-existing-job/"><u>Discover How to Seamlessly Transition to a Fresh Role While Remaining in Your Existing Job</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-battlenet-functionality-in-windows-os-after-logout/"><u>Enabling Battle.net Functionality in Windows OS After Logout</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/horizon-capture-setup-vr-for-2024/"><u>Horizon Capture Setup VR for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-freelance-warriors-guide-complimentary-psd-treasures/"><u>In 2024, Freelance Warriors Guide Complimentary PSD Treasures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-icy-inspirations-top-olympic-triumphs/"><u>In 2024, Icy Inspirations Top Olympic Triumphs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-mastering-soundscapes-the-ultimate-guide-to-iphoneipad-podcast-downloads/"><u>In 2024, Mastering Soundscapes The Ultimate Guide to iPhone/iPad Podcast Downloads</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leverage-free-luts-to-upgrade-your-obs-video-production-quality/"><u>Leverage Free LUTs to Upgrade Your OBS Video Production Quality</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-a2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi A2 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humorhatchery-studio/"><u>[New] HumorHatchery Studio</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-high-impact-imaging-our-favorite-7-4k-cameras/"><u>[Updated] 2024 Approved High-Impact Imaging Our Favorite 7 4K Cameras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-crafting-sequential-visual-narratives-with-photos-for-2024/"><u>[Updated] Crafting Sequential Visual Narratives with Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellence-written-segmented-by-film-categories/"><u>[Updated] Excellence Written, Segmented by Film Categories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-xs-100-is-journey-into-the-world-of-professional-filming/"><u>[Updated] In 2024, XS 100 I's Journey Into the World of Professional Filming</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-inside-vivas-video-app-a-complete-analysis-for-2024/"><u>[Updated] Inside Viva's Video App A Complete Analysis for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/film-lovers-answers-repository-for-2024/"><u>Film Lovers' Answers Repository for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focus-on-subjects-methods-for-editing-out-photography-backgrounds-for-2024/"><u>Focus on Subjects Methods for Editing Out Photography Backgrounds for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-se-2020-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone SE (2020) to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-giggle-generators-online/"><u>In 2024, Giggle Generators Online</u></a></li>
 </ul></div>
 

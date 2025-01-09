@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2024-12-26T18:59:47.326Z
-updated: 2025-01-01T16:36:13.113Z
+date: 2025-01-04T20:21:28.011Z
+updated: 2025-01-09T20:36:43.696Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you’ve encountered a “This app can't run on your PC” error, the app you’re trying to launch is likely incompatible with your system. There are other reasons this issue occurs, and we’ll show you various ways to fix it on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Review Your Startup App List
@@ -36,10 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Disable' highlighted for an app in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-disable-startup-app.jpg) 
 
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Open the App as an Admin
 
@@ -59,12 +59,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Activate Developer Mode
@@ -79,14 +83,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Quit Settings and launch your app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Remove and Reinstall the App
@@ -103,13 +103,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The App Is Not Supported on Windows 11
 
  If the app doesn’t work even after reinstalling, it may not be compatible with your Windows 11 version. This usually happens when the developer doesn’t add support for the latest Windows version to their apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The App Can't Run on Your PC's Hardware
 
@@ -134,16 +134,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-recommended-apps-and-sites-for-photo-frames/"><u>[Updated] Expert-Recommended Apps & Sites for Photo Frames</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertly-engineered-earbud-egress/"><u>[Updated] Expertly Engineered Earbud Egress</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-end-vector-sites-ranked-1-to-10/"><u>2024 Approved High-End Vector Sites Ranked 1 to 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-stand-out-in-snapchat-spotlight/"><u>2024 Approved How to Stand Out in Snapchat Spotlight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experiencing-dji-inspire-2-in-full-scale-for-2024/"><u>Experiencing DJI Inspire 2 in Full Scale for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-request-failed-by-windows-resource-protection-tips-and-solutions/"><u>Fixing 'Request Failed by Windows Resource Protection': Tips & Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-more-from-your-smart-devices-how-the-30-echo-dot-discount-can-transform-your-living-space-zdnet/"><u>Get More From Your Smart Devices: How the $30 Echo Dot Discount Can Transform Your Living Space | ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/outwiththeold-camerasbeyondmycam-for-2024/"><u>OutWithTheOld CamerasBeyondMyCam for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/revolutionary-experience-cycling-with-photochromic-hud-glasses-that-transform-the-ride-insights/"><u>Revolutionary Experience: Cycling With Photochromic HUD Glasses That Transform The Ride - Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/speed-up-3d-painting-crucial-shortcuts/"><u>Speed Up 3D Painting: Crucial Shortcuts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-pictures-finding-and-managing-them-on-ios-devices/"><u>The Journey of FaceTime Pictures: Finding and Managing Them on iOS Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-dji-phantom-3s-advanced-video-capture-tech/"><u>[New] Examining DJI Phantom 3’S Advanced Video Capture Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exquisite-solution-for-vr-adventures/"><u>[New] Exquisite Solution for VR Adventures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mega-popular-youtube-vids-everlasting-titles/"><u>[Updated] 2024 Approved Mega-Popular YouTube Vids Everlasting Titles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-endless-video-recording-program/"><u>[Updated] Endless Video Recording Program</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-freezing-fun-at-the-beijing-olympics-2022/"><u>[Updated] Freezing Fun at the Beijing Olympics 2022</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[Updated] In 2024, Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/a-guide-on-starting-private-live-streams-on-youtube/"><u>A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hubsan-x4-quadcopter-examination-an-in-depth-guide-for-2024/"><u>Hubsan X4 Quadcopter Examination An In-Depth Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-app-analysis-vll-perspective/"><u>In 2024, App Analysis VLL Perspective</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-sns-hdrs-value-and-alternatives-for-hdr-editing/"><u>In 2024, Evaluating SNS HDR's Value & Alternatives for HDR Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evolving-shopper-behavior-in-vr-realms/"><u>In 2024, Evolving Shopper Behavior in VR Realms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-advanced-a-polarr-photo-editor-journey/"><u>In 2024, From Basics to Advanced A Polarr Photo Editor Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gourmet-visuals-in-motion-food-shot-tips-and-tricks/"><u>In 2024, Gourmet Visuals in Motion Food Shot Tips & Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hot-oculus-vr-games-that-everyones-playing/"><u>In 2024, Hot Oculus VR Games That Everyone's Playing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-horizons-in-computing-a-look-at-toms-hardware-discoveries/"><u>Navigating New Horizons in Computing - A Look at Tom's Hardware Discoveries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-auteurs-toolkit-5-critical-cinematographic-insights/"><u>The Auteur's Toolkit 5 Critical Cinematographic Insights</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transform-your-desktop-into-an-economical-streaming-station-simple-steps-inside/"><u>Transform Your Desktop Into an Economical Streaming Station - Simple Steps Inside!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-new-potentials-with-macos-11-big-sur-for-2024/"><u>Unlocking New Potentials with macOS 11 Big Sur for 2024</u></a></li>
 </ul></div>
 

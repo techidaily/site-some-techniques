@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Bring Back Your Preferred Photo Viewer in Win 11"
-date: 2024-12-13T18:37:25.752Z
-updated: 2024-12-15T18:00:41.611Z
+date: 2025-01-02T21:05:19.809Z
+updated: 2025-01-09T22:46:55.976Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -56,14 +60,10 @@ Here is why they want to restore Windows Photo Viewer –
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
 
@@ -74,7 +74,7 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
@@ -100,7 +100,7 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -112,7 +112,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -130,22 +130,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-futures-edge-the-top-10-sci-fi-movies-shaping-new-realities/"><u>[New] Future's Edge The Top 10 Sci-Fi Movies Shaping New Realities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-game-on-pioneer-top-choices-in-windows-10s-new-games-and-apps/"><u>[New] Game On, Pioneer Top Choices in Windows 10’S New Games and Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-industry-insights-top-10-handheld-hd-playback-units/"><u>[New] Industry Insights Top 10 Handheld HD Playback Units</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/alette-perfection-the-science-of-video-chromaticity-for-2024/"><u>[New] Palette Perfection The Science of Video Chromaticity for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-strategies-for-skyrocketing-youtube-followers/"><u>[New] Strategies for Skyrocketing YouTube Followers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-playbook-for-professional-looking-live-youtube-videos/"><u>[Updated] 2024 Approved The Ultimate Playbook for Professional-Looking Live YouTube Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-overcome-sony-a6400-video-viewing-failure/"><u>[Updated] How to Overcome Sony A6400 Video Viewing Failure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hype-generator-chief-architect/"><u>[Updated] Hype Generator Chief Architect</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-profit-proliferation-through-effective-youtube-short-video-creation/"><u>[Updated] Profit Proliferation Through Effective YouTube Short Video Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-intensify-your-gaming-view-on-roblox-platforms-for-2024/"><u>How to Intensify Your Gaming View on Roblox Platforms for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-initial-steps-towards-perfect-transitional-sound-levels/"><u>In 2024, Initial Steps Towards Perfect Transitional Sound Levels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-photo-tips-for-exquisite-iphone-close-ups-and-macros/"><u>In 2024, Innovative Photo Tips for Exquisite iPhone Close-Ups & Macros</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-visual-narratives-instagram-carousel/"><u>In 2024, Visual Narratives Instagram Carousel</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-your-creativity-top-free-vob-video-editors-for-2024/"><u>New Unleash Your Creativity Top Free VOB Video Editors for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-realtek-hd-audio-connection-issues/"><u>Troubleshooting Steps for Realtek HD Audio Connection Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-issues-when-qbittorent-gets-unresponsive/"><u>Ultimate Guide: Resolving Issues When qBittorent Gets Unresponsive</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-selection-non-advertising-android-recording-tools-for-2024/"><u>Ultimate Selection Non-Advertising Android Recording Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-detailed-analysis-and-expert-tutorials-for-powerdirector-2024/"><u>[New] Detailed Analysis and Expert Tutorials for PowerDirector 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-selection-ranking-the-finest-6-head-mounted-gopros/"><u>[Updated] Expert Selection Ranking the Finest 6 Head-Mounted GOPROs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-schedule-and-dive-into-virtual-gatherings-with-zoom-on-an-android-platform/"><u>[Updated] How to Schedule and Dive Into Virtual Gatherings with Zoom on an Android Platform</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-orbitmaster-high-definition-full-touch-desktops/"><u>[Updated] OrbitMaster High Definition Full Touch Desktops</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-editors-showdown-filmora-vs-democracy-creator-features-for-2024/"><u>[Updated] Professional Editors Showdown Filmora Vs. Democracy Creator Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fostering-fun-with-metaverse-satirical-artifacts/"><u>2024 Approved Fostering Fun with Metaverse Satirical Artifacts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-snap-and-share-smoothly-androids-most-reliable-screen-capture-tools-of-the-eight-best/"><u>2024 Approved Snap & Share Smoothly - Android's Most Reliable Screen Capture Tools of the Eight Best</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-display-problems-heres-how-you-can-get-your-screen-share-audio-working-again/"><u>Discord Display Problems? Here's How You Can Get Your Screen Share Audio Working Again!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/file-streamlining-top-strategies-for-smooth-pc-integration-for-2024/"><u>File Streamlining Top Strategies for Smooth PC Integration for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-the-endless-loop-of-configuring-windows-a-comprehensive-walkthrough/"><u>Fixes for the Endless Loop of 'Configuring Windows': A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gleeful-loginsign-up-step-guide-for-2024/"><u>Gleeful Login/Sign Up Step Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/go-incognito-with-instagram-live-streaming-tips-for-2024/"><u>Go Incognito with Instagram Live Streaming Tips for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-greatest-copyright-free-pubg-image-anthology/"><u>In 2024, Greatest Copyright-Free PUBG Image Anthology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incandescent-ideas-innovations-for-stellar-cinematography/"><u>In 2024, Incandescent Ideas Innovations for Stellar Cinematography</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/pro-level-efficiency-with-get-shtdone-pro-top-pick-premium-bootstrap-themes-by-creative-tim/"><u>Pro-Level Efficiency with Get Sh!tDone PRO: Top Pick Premium Bootstrap Themes by Creative Tim</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-netgear-orbi-mesh-router-analysis-why-its-a-must-have-in-your-home-network/"><u>Top Netgear Orbi Mesh Router Analysis: Why It's a Must-Have in Your Home Network</u></a></li>
 </ul></div>
 

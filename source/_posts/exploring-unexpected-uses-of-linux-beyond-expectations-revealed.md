@@ -1,7 +1,7 @@
 ---
 title: Exploring Unexpected Uses of Linux - Beyond Expectations Revealed!
-date: 2024-12-30T21:52:01.707Z
-updated: 2025-01-01T18:26:20.576Z
+date: 2025-01-06T20:51:35.234Z
+updated: 2025-01-09T20:55:21.765Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Exploring Unexpected Uses of Linux - Beyond Expectations Revealed!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -26,10 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Emulator Handhelds](https://buynow-marvelous.techidaily.com/is-investing-in-applecareplus-beneficial-or-not/)
 
  While most people think of Linux as an alternative to Windows or macOS as a desktop operating system, the truth is that most installations of Linux are not on desktop computers, and not even on personal computers at all!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1  Home Appliances 
 
@@ -47,6 +43,10 @@ _ORNL_
 
  The 500 most powerful computers in the world [all run Linux](http://www.stackscale.com/blog/most-powerful-supercomputers-linux/)[.](https://www.stackscale.com/blog/most-powerful-supercomputers-linux/) So if you have millions on the line, running mission-critical work on the most expensive computers known to man, Linux seems to be the way to go. Of course, these mega computers don't run the same Linux distros our beloved Linux readership love to argue about in the comments. One of the main reasons Linux dominates the high-performance computing world is that it's completely open and customizable. Computer scientists and engineers can trim absolutely all the fat from the operating system, and modify it to get the absolute most our of the hardware and electrical power they have.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  Your Car's Infotainment Unit 
 
 ![Waze running on a car infotainment screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/909ecb91.jpg) 
@@ -55,10 +55,6 @@ _[Waze](https://www.waze.com/press)_
 
  Most modern cars come with slick infotainment systems from the factory these days, and there's a good chance that behind the pretty icons and colors there beats the digital heart of the Linux kernel. I actually realized this recently when I was thinking about updating my KIA's system, and ran across a fix for bricked infotainment systems where you just plug a USB keyboard into your car, and spam Linux keyboard shortcuts to escape the boot loop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4  Smartphones 
 
 ![Front and rear view of some flagship smartphones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/front-and-rear-view-of-some-flagship-smartphones.jpg) 
@@ -66,6 +62,10 @@ _[Waze](https://www.waze.com/press)_
 Lucas Gouveia / How-To Geek | Best Buy
 
  This is technically cheating a little but, but most smartphones in the world run Android, and Android is based on Linux. However, it's heavily modified and doesn't contain the same set of libraries as standard Linux distros meant for desktop use. However, there _are_ [proper Linux smartphones](https://driver-install.techidaily.com/startech-windows-drives-mended-across-xp-to-11/) such as the [Librem 5](https://puri.sm/products/librem-5/), which runs [PureOS](https://pureos.net/), a distro of Linux.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  Medical Devices 
 
@@ -76,16 +76,12 @@ _[Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/medical
  Medical devices such as MRI machines or the machines that monitor vital signs more often than not run Linux. There are many reasons why Linux is a popular choice for embedded software in medical devices, but patient data security, real-time OS (RTOS) capabilities, flexibility, and reliability are at the top of the list. The next time you need to get a scan, or if you're ever operated on by a surgical robot, chances are both of those devices are running some flavor of Linux.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  IoT Gadgets 
 
 ![iot devices](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/csit/2021/05/241daf9c.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shutterstock/Panchenko Vladimir
 
@@ -94,6 +90,10 @@ Shutterstock/Panchenko Vladimir
 ## 7  Emulator Handhelds 
 
 ![Anbernic RG35X H portable handheld retro gaming console.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/anbernic_rg35xx_h.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Anbernic
 
@@ -114,24 +114,18 @@ Anbernic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-weighing-your-options-choosing-between-tiktok-and-youtube-shorts/"><u>[New] 2024 Approved Weighing Your Options Choosing Between TikTok and YouTube Shorts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-chrome-video-errors-a-step-by-step-fix-guide-for-2024/"><u>[New] Chrome Video Errors A Step-by-Step Fix Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-editions-windowed-film-editing-software/"><u>[New] Innovative Editions Windowed Film Editing Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-juggling-jargons-an-experts-guide-to-multiple-youtube-views/"><u>[Updated] 2024 Approved Juggling Jargons An Expert's Guide to Multiple YouTube Views</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gamers-top-picks-1-ranked-4k-laptops/"><u>[Updated] Gamers' Top Picks #1 Ranked 4K Laptops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-practices-for-enhancing-vhs-photos-via-pcs/"><u>[Updated] Innovative Practices for Enhancing VHS Photos via PCs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-floating-frames-the-ultimate-guide-to-pip-with-netflix/"><u>2024 Approved Floating Frames The Ultimate Guide to PIP with Netflix</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ordinary-to-extraordinary-the-ultimate-iphoneandroid-screenshot-enhancers-list/"><u>2024 Approved From Ordinary to Extraordinary The Ultimate iPhone/Android Screenshot Enhancers List</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-motorola-g24-power-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Motorola G24 Power to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-the-best-free-subtitle-conversion-services-for-2024/"><u>Finding the Best Free Subtitle Conversion Services for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hand-tracking-deciphered-a-users-guide-for-2024/"><u>Hand Tracking Deciphered A User's Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-your-phone-for-virtual-world-explorations-for-2024/"><u>Harnessing Your Phone for Virtual World Explorations for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-formulating-fascinating-film-excerpts/"><u>In 2024, Formulating Fascinating Film Excerpts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-with-iphone-burst-photography/"><u>In 2024, Unleash Creativity with iPhone Burst Photography</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-brio-webcam-driver-installation-guide-for-windows-versions-11-and-below/"><u>Latest Logitech Brio Webcam Driver Installation Guide for Windows Versions 11 and Below</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-to-updatedownload-d-link-drivers-in-windows/"><u>Step-by-Step Instructions to Update/Download D-Link Drivers in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-fixes-for-kernel3n-dll-errors-in-windows-systems/"><u>Ultimate Fixes for Kernel3n DLL Errors in Windows Systems</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-the-full-potential-of-your-youtube-videos-top-11-seo-tips/"><u>Unlock the Full Potential of Your YouTube Videos Top 11 SEO Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unmatched-access-the-finest-5-browser-tools-for-fb-videos/"><u>Unmatched Access The Finest 5 Browser Tools for FB Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertly-chosen-top-5-premium-drones-for-professionals/"><u>[New] Expertly Chosen Top 5 Premium Drones for Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-create-effective-intro-videos-for-your-podcasts/"><u>[New] How to Create Effective Intro Videos for Your Podcasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-clear-sound-conference-experience-via-skype/"><u>[Updated] 2024 Approved Clear Sound Conference Experience via Skype</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-top-5-free-video-players-vlc-or-mpc-winner/"><u>[Updated] In 2024, Top 5 Free Video Players VLC or MPC Winner?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-bring-life-to-stills-motion-blur-technique/"><u>2024 Approved Bring Life to Stills Motion Blur Technique</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-fundamentals-of-av1-encoding/"><u>2024 Approved Exploring the Fundamentals of AV1 Encoding</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-editing-for-dummies-10-essential-youtube-insights/"><u>2024 Approved Video Editing for Dummies 10 Essential YouTube Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/genetic-susceptibility/"><u>Genetic Susceptibility</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommended-8-filters-for-webcam-sharpening/"><u>In 2024, Expert-Recommended 8 Filters for Webcam Sharpening</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts/"><u>In 2024, From Simple Images to Creative Stickers Complete Tutorial for Chat App Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-passion-in-your-pump-best-exercise-playlists-reviewed/"><u>In 2024, Ignite Passion in Your Pump Best Exercise Playlists Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-for-windows-11-overcoming-access-denied-in-container-setup-guide/"><u>Ultimate Solution for Windows 11 - Overcoming Access Denied in Container Setup [Guide]</u></a></li>
 </ul></div>
 

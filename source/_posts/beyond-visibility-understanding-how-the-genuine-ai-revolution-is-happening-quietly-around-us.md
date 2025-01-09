@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2024-12-30T06:06:31.314Z
-updated: 2025-01-01T19:49:13.370Z
+date: 2025-01-04T16:58:53.697Z
+updated: 2025-01-09T20:19:50.253Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ## Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -54,7 +54,7 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -82,16 +82,16 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-evaluating-aurora-hdr-worth-the-investment-for-2024/"><u>[New] Evaluating Aurora HDR Worth the Investment for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopros-deep-sea-capturing-unforgettable-underwater-scenes/"><u>[Updated] GoPro's Deep Sea Capturing Unforgettable Underwater Scenes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-extended-examination-gopro-slr4-edition-sliver/"><u>2024 Approved Extended Examination GoPro SLR4 Edition Sliver</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725290644707-dvdusb-type-csurface-hubmacbookchromebook-pixel/"><u>DVD到USB Type-C的转换指南：支持Surface Hub、MacBook和Chromebook Pixel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/for-experts-only-top-5-best-drones-to-buy-for-2024/"><u>For Experts Only – Top 5 Best Drones to Buy for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-fledgling-to-front-runner-flourishing-in-follower-count-for-2024/"><u>From Fledgling to Front-Runner Flourishing in Follower Count for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-navigating-metaverse-self-representation-a-step-by-step-manual/"><u>In 2024, Navigating Metaverse Self-Representation A Step-by-Step Manual</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-capturing-live-tv-from-kodi-on-your-windows-computer/"><u>Step-by-Step Guide: Capturing Live TV From Kodi on Your Windows Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbelievable-deal-experience-top-tier-audio-quality-with-the-best-buys-discounted-ultimate-speaker-setup/"><u>Unbelievable Deal: Experience Top-Tier Audio Quality with the Best Buy's Discounted Ultimate Speaker Setup</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-6-apps-for-video-interpretation/"><u>2024 Approved Excellent 6 Apps for Video Interpretation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experience-freedom-in-viewing-free-movie-player-software/"><u>2024 Approved Experience Freedom in Viewing FREE MOVIE PLAYER Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-choice-webcams-ready-for-zoom-mastery/"><u>2024 Approved First Choice Webcams, Ready for Zoom Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-giggles-and-graphics-iphone-edition/"><u>2024 Approved Giggles & Graphics IPhone Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-blocked-files-on-windows-with-powershell/"><u>Breaking Down Blocked Files on Windows With PowerShell</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-solutions-for-whea-memory-corruption-issues-on-your-pc/"><u>DIY Solutions for WHEA Memory Corruption Issues on Your PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-nba-like-a-pro-master-these-top-15-livestream-methods-for-2024/"><u>Experience NBA Like a Pro - Master These Top 15 Livestream Methods for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-concept-to-reality-experience-the-journey-behind-samsungs-cutting-edge-phone-release/"><u>From Concept to Reality – Experience the Journey Behind Samsung's Cutting-Edge Phone Release</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12t-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12T Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-programs-for-creating-video-from-pictures-for-2024/"><u>Ideal Programs for Creating Video From Pictures for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-nokia-c32-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Nokia C32 Phones</u></a></li>
 </ul></div>
 

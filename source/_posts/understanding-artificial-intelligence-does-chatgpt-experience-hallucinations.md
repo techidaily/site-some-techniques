@@ -1,7 +1,7 @@
 ---
 title: "Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?"
-date: 2024-12-14T21:19:48.233Z
-updated: 2024-12-15T23:14:01.158Z
+date: 2025-01-02T22:56:03.018Z
+updated: 2025-01-09T18:15:29.492Z
 tags:
   - cutting-edge
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
 ## Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * AI chatbots can experience hallucinations, providing inaccurate or nonsensical responses while believing they have fulfilled the user's request.
@@ -22,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 * Developers are working to improve AI chatbots and reduce hallucination rates through better training data, regular testing, and refining response parameters. Users can also minimize hallucination by keeping prompts concise, avoiding contradictory language, and fact-checking information provided by chatbots.
 
  Many of us think hallucinations are solely a human experience. However, even esteemed AI chatbots have the ability to hallucinate in their own way. But what exactly is AI hallucination, and how does it affect AI chatbots' responses?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is AI Hallucination?
 
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
  Alternatively, you ask the chatbot how to find the best place to ice skate on Mount Everest, and it provides you with a list of tips. Obviously, it is impossible to ice skate on Mount Everest, but the chatbot overlooks this fact, and still provides a serious response. Again, it has hallucinated that it has provided truthful, accurate information, when that isn't the case.
 
  While faulty prompts can give way to AI hallucinations, things also go a little deeper than this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  The Technical Side of AI Hallucinations
 
@@ -64,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
  Chatbots like ChatGPT, Google Bard, and Claude can tell you if they've detected that a given prompt doesn't make sense or needs refining. But the detection of faulty prompts isn't 100 percent (as we'll discuss further later), and it's the existing margins of error that give way to hallucinations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Which AI Chatbots Hallucinate?
@@ -72,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 ![The ChatGPT website open on a phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52927154347_a9c038a466_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
@@ -85,10 +89,6 @@ Jason Montoya / How-To Geek
 
  The creator of Claude, Anthropic, has publicly stated that its chatbot can hallucinate. In an [Anthropic notice](https://docs.anthropic.com/claude/docs/claude-is-hallucinating), titled "Claude is hallucinating", it was stated that, despite Anthropic's efforts to minimize occurrences of hallucinations, they still happen. Specifically, Anthropic stated that the issue of hallucinations in Claude's responses "is not fully solved yet."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Observing AI Hallucinations
 
  We gave ChatGPT a contradictory scenario, and asked it to answer a question concerning the scenario. As you can see below, we interchanged facts multiple times in an effort to confuse the chatbot.
@@ -96,7 +96,7 @@ Jason Montoya / How-To Geek
 ![Screenshot of ChatGPT response to prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gpt-hallucinate-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT caught out the person's height inconsistency in the problem, but not that of the building. So, ChatGPT provided a confident response, without realizing it was hallucinating. The response was also quite nonsensical overall, with its conclusion being that the man on top of the building is "already on the ground", and that he is only "slightly shorter" than the 100-200ft building.
@@ -158,18 +158,20 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-first-step-guide-to-professional-vlogging/"><u>[New] First-Step Guide to Professional Vlogging</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-innovation-insights-into-vr-gear-designs/"><u>[New] In 2024, The Innovation Insights Into VR Gear Designs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hololens-unveiled-microsofts-leap-to-3d-reality/"><u>[Updated] HoloLens Unveiled – Microsoft's Leap to 3D Reality</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-from-raw-footage-to-high-quality-improving-ps4-screen-recordings/"><u>[Updated] In 2024, From Raw Footage to High-Quality Improving PS4 Screen Recordings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722856404755-d3dx940dll-errors-discover-how-to-restore-or-locate-missing-files/"><u>D3dx9_40.dll Errors? Discover How to Restore or Locate Missing Files!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-graphics-drivers-error-22/"><u>Fixed Graphics Drivers Error #22</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/humorous-file-downloader-examination-for-2024/"><u>Humorous File Downloader Examination for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-inspection-gopro-silver-hero4-detailed-review/"><u>In 2024, Full Inspection GoPro Silver Hero4 Detailed Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-for-effective-look-up-table-lut-applications-in-adobe-photoshop-cc/"><u>In 2024, Innovative Techniques for Effective Look-Up Table (LUT) Applications in Adobe PhotoShop CC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-lost-ark-no-audio-effective-fixes-and-tips/"><u>Overcome Lost Ark No Audio: Effective Fixes and Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-game-stability-solved-the-ultimate-guide-to-stop-v-rising-from-crashing-down/"><u>PC Game Stability Solved: The Ultimate Guide to Stop 'V-Rising' From Crashing Down</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1641788-9781606525708-the-best-life-stories/"><u>The Best Life Stories | Free Book</u></a></li>
-<li><a href="https://techidaily.com/unlock-greater-engagement-and-roi-through-advanced-cookiebot-integrated-solutions/"><u>Unlock Greater Engagement & ROI Through Advanced Cookiebot-Integrated Solutions!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nnovative-approaches-to-craft-compelling-asmr-videos-for-mass-appeal-for-2024/"><u>[New] Innovative Approaches to Craft Compelling ASMR Videos for Mass Appeal for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capture-video-like-a-pro-on-modern-laptops/"><u>[Updated] Capture Video Like a Pro on Modern Laptops</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-garageband-guide-gently-dissolve-decibels/"><u>[Updated] Garageband Guide Gently Dissolve Decibels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-quality-web-resources-for-glossy-3d-letters/"><u>[Updated] High-Quality Web Resources for Glossy 3D Letters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-eye-catching-vr-adventures-top-5-psvr-games-awaiting-release/"><u>2024 Approved Eye-Catching VR Adventures Top 5 PSVR Games Awaiting Release</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-multiple-windows-learn-pip-in-microsoft-edge/"><u>2024 Approved Harnessing Multiple Windows Learn PIP in Microsoft Edge</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-logitech-c615-webcam-striking-a-perfect-blend-of-price-and-quality/"><u>Evaluating the Logitech C615 Webcam: Striking a Perfect Blend of Price and Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-luts-for-lightroom-enthusiasts-for-2024/"><u>Explore the Best LUTs for LightRoom Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illumination-in-high-dynamic-range-a-smart-option-for-2024/"><u>Illumination in High-Dynamic Range A Smart Option for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-xiaomi-redmi-note-12-pro-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Xiaomi Redmi Note 12 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-evolving-tactics-for-crafting-immersive-mukbang-sessions/"><u>In 2024, Evolving Tactics for Crafting Immersive Mukbang Sessions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/leveraging-tech-for-better-facebook-live-records/"><u>Leveraging Tech for Better Facebook Live Records</u></a></li>
+<li><a href="https://article-tips.techidaily.com/pushing-the-boundaries-with-sony-discovering-4k-on-smartphones/"><u>Pushing the Boundaries with Sony - Discovering 4K on Smartphones</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-windows-11s-error-0x0000011b/"><u>Remedy for Windows 11'S Error 0X0000011B</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-doom-eternal-from-crashing-step-by-step-guide/"><u>Stop DOOM Eternal From Crashing: Step-by-Step Guide</u></a></li>
 </ul></div>
 

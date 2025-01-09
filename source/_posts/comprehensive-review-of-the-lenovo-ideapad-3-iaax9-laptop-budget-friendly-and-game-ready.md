@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of the Lenovo Ideapad 3 (IAAX9) Laptop - Budget Friendly and Game Ready!
-date: 2025-01-01T08:14:02.441Z
-updated: 2025-01-01T17:22:09.040Z
+date: 2025-01-05T19:01:09.715Z
+updated: 2025-01-09T20:40:20.960Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ## Comprehensive Review of the Lenovo Ideapad 3 (IAAX9) Laptop - Budget Friendly and Game Ready!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  With a plethora of gaming laptops and handhelds available, it's a great time to be a PC gamer on the go. Generally, the more you spend, the better the gaming performance, but those on a budget also deserve some portable fun. One such option is the [Lenovo LOQ 15IAX9I](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) gaming laptop, which hopes to attract budget-conscious enthusiasts with its no-nonsense approach. For the most part, Lenovo has done a solid job of paring down the PC gaming experience to the absolute essentials, although not every concession may be worth the savings.
 
 ![Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6573727cv3d.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo LOQ 15IAX9I 
 
@@ -49,7 +53,7 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price and Availability** 
@@ -116,10 +120,6 @@ Expand
 
 ![Lenovo LOQ 15IAX9I closed next to its charger on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-with-the-charger_53589684049_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  For a gaming laptop, the LOQ 15IAX9I has surprisingly conservative looks. Outside of some dramatic angles on the rear edges of the unit, it could easily pass for your average business laptop.
@@ -129,6 +129,10 @@ Jerome Thomas / How-To Geek
  The 12th Gen Intel Core i5-12450HX processor is an early 2022 part and is a performer for this system class. The 12GB of RAM is an interesting compromise for hitting the laptop's price point, as it's much better than the 8GB minimum you really need for Windows 11 but less than the more ideal 16GB that allows for more robust multitasking.
 
  The 500GB SSD for storage is plenty for a standard productivity machine, but for a modern gaming laptop like this installing major PC releases, it's a bit anemic. If you want to install, say, "Destiny 2" and "Call of Duty: Modern Warfare," you're already talking over 300GB of space gone just for those two games alone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **I/O: Diverse Port Selection and Complete Keyboard** 
 
@@ -141,7 +145,7 @@ Jerome Thomas / How-To Geek
 ![The ports on the right side of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-right-side-of-the-lenovo-loq-15iax9i_53589683994_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -151,10 +155,6 @@ Jerome Thomas / How-To Geek
  The keyboard has a nice feel and layout, complete with a number pad (tenkey), although I did find the placement of the slash (\\) key directly above an undersized enter key a bit unusual. Despite the smaller enter key, in practice, I didn't notice any mishits. The keys themselves have a good range of motion, and it's overall a pleasant keyboard to type on, especially for the price point. Since this is a newer laptop model, there's a dedicated Copilot key to launch Microsoft's AI-powered intelligent assistant option.
 
 ![Overhead view of the keyboard area of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/top-view-of-the-keyboard-on-the-lenovo-loq-15iax9i_53589683999_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -229,22 +229,18 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-latest-wins-windows-10-enhancements/"><u>[New] Exploring Latest Wins Windows 10 Enhancements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-uavs-operation-a-guide-to-aerial-robotics/"><u>[New] Exploring UAVs' Operation A Guide to Aerial Robotics</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boost-your-reach-tips-and-tricks-for-uploading-to-instagram-desktop/"><u>[New] In 2024, Boost Your Reach Tips & Tricks for Uploading to Instagram Desktop</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-dynamic-instagram-collage-views/"><u>[New] In 2024, Dynamic Instagram Collage Views</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-guide-to-free-accurate-youtube-transcript-creation/"><u>[New] The Ultimate Guide to Free, Accurate YouTube Transcript Creation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unidentified-user-strategies-for-accessing-instagram-stories-on-desktopmobile/"><u>[New] Unidentified User Strategies for Accessing Instagram Stories on Desktop/Mobile</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-optimizing-azure-speech-to-text-functionality/"><u>[Updated] Expert Tips for Optimizing Azure Speech to Text Functionality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-video-to-verse-ranking-the-best-16-platforms-for-flawless-translation/"><u>[Updated] From Video to Verse Ranking the Best 16 Platforms for Flawless Translation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humor-hub-adobe-meme-manipulation/"><u>[Updated] Humor Hub Adobe Meme Manipulation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-freely-accessible-platforms-for-professional-photography-edits/"><u>2024 Approved Freely Accessible Platforms for Professional Photography Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-obscurity-to-prominence-how-to-thrive-in-youtube-streaming/"><u>2024 Approved From Obscurity to Prominence How to Thrive in Youtube Streaming</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/crossos-vmix-replacement-tool-for-2024/"><u>CrossOS VMix Replacement Tool for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/essential-fixes-for-preventing-mir4-from-crashing-on-personal-computers/"><u>Essential Fixes for Preventing Mir4 From Crashing on Personal Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-bring-back-your-preferred-photo-viewer-in-win-11-for-2024/"><u>How to Bring Back Your Preferred Photo Viewer in Win 11 for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-finest-32-inch-tvs-of-2024-professional-insights-and-comprehensive-guides-on-zdnet/"><u>Unveiling the Finest 32-Inch TVs of 2024: Professional Insights and Comprehensive Guides on ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-magic-5-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor Magic 5 Pro? Here is How | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hero-11-and-max-360-gopro-challenge-video-quality-faceoff/"><u>[New] Hero 11 & Max 360 GoPro Challenge - Video Quality Faceoff</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-scripts-across-eight-film-categories/"><u>[New] Top Scripts Across Eight Film Categories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-implementing-precise-timing-features-for-engaged-youtube-audiences/"><u>[Updated] Implementing Precise Timing Features for Engaged YouTube Audiences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-5-essential-strategies-to-avoid-a-dark-screen-during-obs-recordings/"><u>[Updated] In 2024, 5 Essential Strategies to Avoid a Dark Screen During OBS Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-stylish-selfies-with-iosandroid-the-leading-10-sticker-apps/"><u>[Updated] Stylish Selfies with iOS/Android The Leading 10 Sticker Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gps-drones-the-ultimate-follower-guide-compilation/"><u>2024 Approved GPS Drones The Ultimate Follower Guide Compilation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-a05-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy A05 without App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/dynamic-presenters-discourse-analysis-8th-ver-for-2024/"><u>Dynamic Presenter's Discourse Analysis 8Th Ver for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmony-in-sounds-legally-downloaded-meditation-chants-and-more-for-2024/"><u>Harmony in Sounds Legally Downloaded Meditation Chants & More for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-techniques-for-moving-media-from-iphones/"><u>In 2024, Comprehensive Techniques for Moving Media From iPhones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-icicle-impressions-2022s-olympic-skaters/"><u>In 2024, Icicle Impressions 2022'S Olympic Skaters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lighter-tech-deeper-connections-in-teams/"><u>Lighter Tech, Deeper Connections in Teams</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-netgear-nighthawk-x10-ad72/"><u>Ultimate Guide: Netgear Nighthawk X10 AD72</u></a></li>
 </ul></div>
 

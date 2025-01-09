@@ -1,7 +1,7 @@
 ---
 title: "Top Reasons Windows 11 Media Player Outshines Competitors: Why Switch Now?"
-date: 2024-12-26T18:23:44.246Z
-updated: 2025-01-02T05:26:14.563Z
+date: 2025-01-04T18:34:30.940Z
+updated: 2025-01-09T17:19:15.986Z
 tags:
   - deals
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
  Microsoft has included a media player application in Windows for decades, but Windows 11 has a brand new one, simply called Media Player. If you haven't tried it, you might be missing one of the best improvements in Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The History of Windows' Media Player
@@ -29,13 +29,13 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
 
 ![Windows Media Player screenshot on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/clipboard-nov-21-2023-at-1-41-pm.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft later introduced the Xbox Music and Movies & TV applications alongside Windows 8, which were mostly intended to replace Media Player. Xbox Music later became Groove Music, but just like many other modern apps in Windows 8 and 10, many people just kept using the older application or installed a third-party alternative (like VLC Media Player).
 
  Windows 11 introduced a new Media Player ("Windows" is not part of the name), which is intended to replace all the other media apps in Windows: Groove Music, Movies & TV, and even the legacy Windows Media Player. Groove Music is already gone (the Media Player app is an updated version), and [Movies & TV is now reserved for content purchased from the Microsoft Store](https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-6s-plus-you-should-try-out-by-drfone-ios/). The old Windows Media Player still seems to be installed by default on new PCs, but it can be uninstalled, and it's now labelled as "Windows Media Player Legacy."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The All-in-One Features of Windows 11's Media Player
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
 ![Media Player Video tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/clipboard-nov-21-2023-at-2-43-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Media Player is organized into your music library, video library, and playlists. Audio files from your account's Music folder are automatically added to your music collection, and content from your Videos folder appears in the Video tab. You can also manually add folders—you might have all your music on an external drive, for example.
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
  When you open a video, Media Player will switch to a minimal playback interface. The controls fade away during playback, and if you're not in full screen mode, the title bar fades away as well (leaving only the window controls). There's a subtitles button for turning captions on and off, and you can use external subtitles files if needed, which wasn't easy to do on the old Windows Media Player.
 
 ![Media Player in Windows 11 playing a video](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/clipboard-nov-21-2023-at-2-49-pm.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The music screen can organize your collection by alphabetical order, release year, artist, genre, or other data, in either list or grid views. Music playback controls appear at the bottom of the window and in the Windows quick settings panel. You can also switch the app to a mini player that stays pinned above other windows, just like with the legacy Windows Media Player, iTunes, and other applications.
 
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
  I still prefer [Mp3tag](https://www.mp3tag.de/en/) for editing music files because it has more options and Media Player can't edit multiple files at once, but Media Player is good enough for quick fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Downsides of Media Player
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
  The new Media Player also can't play DVDs or Blu-ray discs, only music CDs. That's not too surprising, since most people don't watch DVDs or Blu-rays on PCs anyway (especially when places like [Best Buy have stopped selling physical movie media](https://some-guidance.techidaily.com/in-2024-the-3-step-guide-to-exceptional-gopro-videos/)), but the old Windows Media Player could handle most DVDs. VLC Media Player can also play DVDs, and even some Blu-ray discs, depending on the format. There are also no visualizers for music, which was also present in the old Windows Media Player.
 
 ![Media Player in Windows 11 ripping a CD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/clipboard-nov-21-2023-at-4-02-pm.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -106,20 +106,24 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-cinematic-images-post-production-of-vt-videos-with-fcpx/"><u>[New] 2024 Approved Cinematic Images Post-Production of VT Videos with FCPX</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-filmmaking-with-ease-decoding-common-video-editing-hurdles-in-filmora/"><u>[New] Filmmaking with Ease Decoding Common Video Editing Hurdles in Filmora</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gaggraphs-craft-your-own-jest/"><u>[New] GagGraphs Craft Your Own Jest</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-soundscapes-unleashed-a-guide-to-professional-audio-recording/"><u>[Updated] 2024 Approved Soundscapes Unleashed A Guide to Professional Audio Recording</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-professional-gopro-footage-for-2024/"><u>A Step-by-Step Guide to Professional Gopro Footage for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/charting-your-path-podcast-income-expectations-for-2024/"><u>Charting Your Path Podcast Income Expectations for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-datetime-visibility-for-windows-ui/"><u>Customizing Date/Time Visibility for Window's UI</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-standard-to-spectacomed-adding-fonts-to-after-effects-workflow-for-2024/"><u>From Standard to Spectacomed Adding Fonts to After Effects Workflow for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-replace-the-joysticks-in-your-nintendo-switch-joy-con/"><u>How to Replace the Joysticks in Your Nintendo Switch Joy-Con</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-y02t-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Y02T?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-examining-benq-sw320-the-4k-visionary/"><u>In 2024, Examining BenQ SW320 The 4K Visionary</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-image-caption-manipulation/"><u>In 2024, Innovative Image Caption Manipulation</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-anatomy-of-apple-m1-chip-redefining-tech/"><u>In 2024, The Anatomy of Apple M1 Chip, Redefining Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-animation-solutions-with-advanced-3d-modellers-for-2024/"><u>Innovative Animation Solutions with Advanced 3D Modellers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-find-your-favorite-download-free-slide-show-patterns-today/"><u>[New] Find Your Favorite, Download-Free Slide Show Patterns Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-elite-list-top-9-drone-video-editors-by-competence-for-2024/"><u>[New] The Elite List Top 9 Drone Video Editors by Competence for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-hues-audio-fade-techniques-in-logic-pro/"><u>[Updated] Harmonizing Hues Audio Fade Techniques in Logic Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-strategies-for-captivating-handc-fb-campaigns/"><u>[Updated] Innovative Strategies for Captivating H&C FB Campaigns</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-dissecting-mobile-photography-with-android-lightroom/"><u>2024 Approved Dissecting Mobile Photography with Android Lightroom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fabricate-flawlessly-free-your-tiktok-videos-of-glue/"><u>2024 Approved Fabricate Flawlessly Free Your TikTok Videos of Glue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-text-techniques-for-more-dynamic-video-experiences/"><u>2024 Approved FREE Text Techniques for More Dynamic Video Experiences</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-for-disabled-iphone-or-ipad-users/"><u>Essential Troubleshooting for Disabled iPhone or iPad Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evolving-narratives-in-the-age-of-vr-movies-for-2024/"><u>Evolving Narratives in the Age of VR Movies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experts-choice-top-10-best-free-lut-downloads-for-2024/"><u>Expert's Choice - Top 10 Best Free LUT Downloads for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/extrae-tus-dvd-sin-problemas-con-el-grabador-de-dvd-platinum-winx-la-mejor-opcion-rapida-para-hacer-copias-digitales-en-windows-11/"><u>Extrae Tus DVD Sin Problemas Con El Grabador De DVD Platinum WinX, La Mejor Opción Rápida Para Hacer Copias Digitales en Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-examining-the-perks-and-pitfalls-of-vr/"><u>In 2024, Examining the Perks and Pitfalls of VR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-sounds-first-lessons-on-fades-with-audition/"><u>In 2024, Harmonizing Sounds First Lessons on Fades with Audition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola Edge 40 Neo?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-notch-apps-to-refine-your-iphone-and-android-gopro-videos/"><u>In 2024, Top-Notch Apps to Refine Your iPhone & Android GoPro Videos</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/mastering-mov-file-transformation-ensuring-proper-sizing-and-minimizing-playback-resolution/"><u>Mastering MOV File Transformation: Ensuring Proper Sizing & Minimizing Playback Resolution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995215946-ps4-stuck-a-complete-guide-to-unfreeze-your-console-easy-steps/"><u>PS4 Stuck? A Complete Guide to Unfreeze Your Console - Easy Steps!</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-a-meme-step-by-step-for-2024/"><u>Updated How to Make a Meme (Step by Step) for 2024</u></a></li>
 </ul></div>
 

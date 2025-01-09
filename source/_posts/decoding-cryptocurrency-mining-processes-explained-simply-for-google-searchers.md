@@ -1,7 +1,7 @@
 ---
 title: "Decoding Cryptocurrency Mining: Processes Explained Simply for Google Searchers"
-date: 2024-12-10T20:23:16.114Z
-updated: 2024-12-16T00:29:22.098Z
+date: 2025-01-06T16:34:01.823Z
+updated: 2025-01-09T18:44:57.573Z
 tags:
   - cutting-edge
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
  With the cryptocurrency craze in full swing, you can't avoid hearing about the people mining these digital currencies---and [destabilizing the graphics processor market](https://extra-resources.techidaily.com/strategic-wordplay-crafting-engaging-blurbs/). Here's what "crypto mining" actually is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Crypto Mining?
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
  Of course, you may wonder why these digital currencies even need to be mined: after all, it's make-believe money with no backing except what people will pay for it. Real currency, the kind backed up by governments, can be created by turning on a money printer, so it stands to reason that crypto could do the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  The Blockchain
@@ -45,7 +45,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  In this metaphor, each link is a block, and each block contains a set amount of cryptocurrency. For example, one block [has 6.25 Bitcoin in it](https://coinmarketcap.com/alexandria/article/how-long-does-it-take-to-mine-one-bitcoin). To unlock a new block you need to solve a complicated mathematical equation, which validates the block and adds it to the chain. Also, because the blocks are chained in a linear fashion, you have to go from one to the next, you can't pick one at random.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  The Ledger
@@ -54,6 +54,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
  To summarize, the ledger records the creation and movement of coins in the blockchain. Mining is validating new blocks and gaining access to the coins within. Interestingly enough, since the blockchain has to be finite, it also means that most cryptocurrencies have a hard limit to how many can exist: Bitcoin for example has a [cap of 21 million](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Crypto Mining Works
 
  To unlock a block in the chain, you need to validate it by solving a complicated equation, usually in the form of something called a hash. A hash is a random set of characters and numbers which, with the right key, reveals the original message; it's a basic part of [cryptography](https://facebook-video-share.techidaily.com/the-essential-guide-to-youtube-video-lighting-tips-for-2024/) and is where the "crypto" part of "cryptocurrency'' comes from.
@@ -61,10 +65,6 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  In a way, crypto mining is really just solving these incredibly complicated mathematical puzzles. Do it fast enough, and the reward is a coin. If you're slower than the competition, you don't get one. This method is called "proof of work."
 
  However, hashes are, by their very nature, incredibly complicated puzzles to solve. The phone or laptop you're most likely reading this article on would probably take millions of years to solve one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  DIY Supercomputers
 
@@ -85,7 +85,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  The more you claim, the bigger the chances you'll be awarded blocks. It's a complicated system, even more so than mining, but it could very well be the future of cryptocurrency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Future of Mining
@@ -109,22 +109,24 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-an-authentic-evaluation-of-recordcast-services/"><u>[New] An Authentic Evaluation of RecordCast Services</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-flight-to-imagery-a-review-of-dji-sparks-miniature-drone-innovation/"><u>[New] Flight to Imagery A Review of DJI Spark's Miniature Drone Innovation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-freesoundextractor-pro-an-in-depth-2024-analysis/"><u>[New] FreeSoundExtractor Pro An In-Depth 2024 Analysis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fundamentals-of-fiction-fabrication/"><u>[New] Fundamentals of Fiction Fabrication</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guidance-best-websites-to-find-google-pixel-ringtones-and-how-to-customize-google-pixel-ringtones/"><u>[New] Guidance Best Websites To Find Google Pixel Ringtones & How To Customize Google Pixel Ringtones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-much-do-you-really-make-as-a-podcaster/"><u>[New] How Much Do You Really Make as a Podcaster?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-fast-techniques-to-recover-deleted-reddit-posts/"><u>[Updated] 2024 Approved Fast Techniques to Recover Deleted Reddit Posts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-first-step-guide-to-professional-vlogging/"><u>[Updated] First-Step Guide to Professional Vlogging</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-to-selecting-best-vhs-edits-via-computer/"><u>[Updated] Guide to Selecting Best VHS Edits via Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-mouse-click-agility-nine-strategies-to-tweak-speeds/"><u>Boost Mouse Click Agility: Nine Strategies to Tweak Speeds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dissemination-techniques-sharing-your-podcast-on-instagram/"><u>Dissemination Techniques Sharing Your Podcast on Instagram</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-gt-neo-5-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme GT Neo 5 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-videos-top-rated-ipad-video-editors/"><u>In 2024, Elevate Your Videos Top-Rated iPad Video Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-express-creativity-infuse-laughter-kapwing-guide/"><u>In 2024, Express Creativity, Infuse Laughter - Kapwing Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-a05-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy A05 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lenovo-thinkphone-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Lenovo ThinkPhone Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies/"><u>[New] Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-faster-powerpoint-tips-for-quick-video-viewing/"><u>[New] Faster PowerPoint Tips for Quick Video Viewing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-titling-techniques-to-explore/"><u>[New] Innovative Titling Techniques to Explore</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ipad-audio-excellence-top-3-techniques-for-2024/"><u>[New] IPad Audio Excellence Top 3 Techniques for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-optimum-affordable-asmr-microphones-with-incredible-performance-for-2024/"><u>[New] Optimum Affordable ASMR Microphones with Incredible Performance for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-ai-visualization-toolset/"><u>[Updated] Expert AI Visualization Toolset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foundations-of-fast-and-easy-nft-innovation/"><u>[Updated] Foundations of Fast & Easy NFT Innovation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funny-faces-for-iphone-users/"><u>[Updated] Funny Faces for iPhone Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-prime-free-images-hosts-ensure-picture-longevity/"><u>10 Prime Free Images Hosts, Ensure Picture Longevity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-shooting-modes-smart-hdr-3-and-4-explained-simply/"><u>2024 Approved Innovative Shooting Modes Smart HDR 3 & 4 Explained Simply</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-pitch-integrating-music-with-cropping-and-editing-in-canva/"><u>2024 Approved Perfect Pitch Integrating Music with Cropping and Editing in Canva</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-compreeved-insight-androids-version-of-photoshop-lightroom/"><u>In 2024, Compreeved Insight Android's Version of Photoshop - Lightroom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-figure-skating-highlights-2022-winter-olympics/"><u>In 2024, Figure Skating Highlights 2022 Winter Olympics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-future-ready-data-retention-selecting-excellent-cloud-providers/"><u>In 2024, Future-Ready Data Retention Selecting Excellent Cloud Providers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-unique-ringtone-experiences-on-iphone/"><u>In 2024, How to Create Unique Ringtone Experiences on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-business-with-metaverse-ideas/"><u>In 2024, Transforming Business with Metaverse Ideas</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-updated-3rd-gen-tiny-echo-dot-and-its-full-capabilities-with-alexa/"><u>In-Depth Analysis of the Updated 3Rd Gen Tiny Echo Dot and Its Full Capabilities with Alexa</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-itel-p55plus-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel P55+ Reset Code | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-f15-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy F15 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

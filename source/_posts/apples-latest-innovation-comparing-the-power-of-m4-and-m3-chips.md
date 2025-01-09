@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips"
-date: 2024-12-31T06:29:33.064Z
-updated: 2025-01-01T19:07:08.042Z
+date: 2025-01-06T16:58:48.039Z
+updated: 2025-01-09T17:02:45.196Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 ---
 
 ## Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 * Since the M4 is only available on the 2024 iPad Pro, those looking for a good all-rounder in the MacBook for factor should purchase the M3 MacBook Air.
 
  Apple's M4 system-on-chip is the first M chip to launch outside of a MacBook, debuting in the 2024 iPad Pro. So how does it compare to its replacement, the M3?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Introducing Apple M4 Silicon
 
@@ -54,10 +54,6 @@ Apple
 
 ![Apple M4 Silicon's representative image highlighting the number of performance and efficiency cores.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-s-m4-chip-gets-more-efficiency-cores.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Apple
 
  In its recent report, [Tom's Guide](https://www.tomsguide.com/tablets/ipads/ipad-pro-2024-and-ipad-air-2024-tested-heres-how-apples-m4-silicon-performs) compares the Geekbench 6 scores of the 2024 iPad Pro with the M4 chip (with the 10-core CPU and 16GB of RAM) to the 13-inch MacBook Air with the M3 chip. Unsurprisingly, the iPad Pro scored 3692 points in the single-core test, which is about 21% higher than what M3 managed. Further, the M4 iPad Pro scores 14512 points in the multi-core test, about 20% higher than its predecessor.
@@ -65,7 +61,7 @@ Apple
  Another Geekbench listing (spotted by [MacRumors](https://www.macrumors.com/2024/05/13/m4-chip-9-core-cpu-benchmark-result/)) reveals that the lower-specced M4 (with a nine-core CPU) is about 13% faster than the M3 chip in multi-core tasks. Even though the scores are from different devices, they give us a fair idea of M4's peak performance, which should also reflect in day-to-day usage. Moreover, we're looking at around 13 to 20% improvements, which might not sound incredible on paper but certainly aren't worth overlooking either.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  M4's GPU Gets an Incremental Update
@@ -81,7 +77,7 @@ Apple
  On the brighter side, the M4's media engine now supports hardware-accelerated 8K H.264, HEVC, ProRes, and ProRes RAW formats, a clear upgrade over [2023's M3 chip](https://screen-sharing-recording.techidaily.com/updated-obs-clash-livestream-prodigies-for-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What About the M4's Neural Engine?
@@ -91,7 +87,7 @@ Apple
 ![Image of the Apple M4 Silicon's 16-core Neural Engine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-silicon-s-16-core-neural-engine.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
@@ -105,6 +101,10 @@ Apple
  Since M4 is based on the second generation of TSMC's 3nm fabrication process, it should be more efficient than M3\. However, that is the extent of information about the chip's efficiency. Apple does mention that "M4 can deliver the same performance as M2 using just half the power,_"_ but it doesn't compare the M4 directly to the M3\. Further, the company says its latest chip can deliver the same performance as the newest PC chip in a thin, light laptop using just a fourth of the power.
 
 ![Screenshot of Apple M2 Silicon's features and specifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m2-chip-on-the-new-ipad-air.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -143,15 +143,18 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-building-connections-interacting-with-your-viewers/"><u>[Updated] Building Connections Interacting With Your Viewers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hero5-black-in-action-essential-shooting-advice-for-amazing-results/"><u>[Updated] Hero5 Black in Action Essential Shooting Advice for Amazing Results</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-depth-look-is-inshot-the-premier-editing-tool-for-2024/"><u>[Updated] In-Depth Look Is InShot the Premier Editing Tool for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporating-youtube-harmonies-within-video-sequences/"><u>2024 Approved Incorporating YouTube Harmonies Within Video Sequences</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/channeling-twitter-vids-seamlessly-to-snapchat/"><u>Channeling Twitter Vids Seamlessly to Snapchat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fascinating-topic-titling-system-for-2024/"><u>Fascinating Topic Titling System for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluation-of-viewing-seconds-in-a-20mb-videography/"><u>In 2024, Evaluation of Viewing Seconds in a 20MB Videography</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-13-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 13 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/realtek-digital-dac-overcoming-the-silent-problem-with-effective-fixes/"><u>Realtek Digital DAC: Overcoming the Silent Problem with Effective Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/winmc-lan-connectivity-woes-solutions-explored/"><u>WinMC LAN Connectivity Woes: Solutions Explored</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-improve-conference-efficiency-webcam-assisted-powerpoint-for-2024/"><u>[New] Improve Conference Efficiency Webcam-Assisted PowerPoint for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlining-your-approach-to-youtube-community-dialogue/"><u>[New] Streamlining Your Approach to YouTube Community Dialogue</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-expert-insights-into-making-the-most-out-of-mac-preview-for-2024/"><u>[Updated] Expert Insights Into Making the Most Out of Mac Preview for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-secretly-share-moments-with-instagram-live/"><u>[Updated] How to Secretly Share Moments with Instagram Live</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-accessing-hidden-social-engagement-in-video-streams/"><u>[Updated] In 2024, Accessing Hidden Social Engagement in Video Streams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/efficient-twitters-to-facebooks-exchanging/"><u>Efficient Twitters to Facebooks Exchanging</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fine-tune-your-digital-discussions-zooming-upwards-for-2024/"><u>Fine-Tune Your Digital Discussions Zooming Upwards for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-2d-to-spatial-the-evolution-of-cinematic-videos-for-2024/"><u>From 2D to Spatial The Evolution of Cinematic Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-3-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 3 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-perfect-dronescopic-stability-a-gimbal-guide/"><u>In 2024, Finding Perfect Dronescopic Stability A Gimbal Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-broadcasting-a-guide-to-chroma-key-excellence/"><u>In 2024, Innovative Broadcasting A Guide to Chroma Key Excellence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/jumpstart-your-projects-using-xps-film-editor/"><u>Jumpstart Your Projects Using XP's Film Editor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/les-convertisseurs-video-avivob-de-predilection-tops-3-gratuits-and-performants/"><u>Les Convertisseurs Vidéo AVI/VOB De Prédilection : Tops 3 Gratuits & Performants</u></a></li>
 </ul></div>
 

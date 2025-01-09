@@ -1,7 +1,7 @@
 ---
 title: "7 Hidden Dangers: How You Might Be Compromising Your Personal Information"
-date: 2024-12-30T23:39:42.848Z
-updated: 2025-01-01T20:58:27.397Z
+date: 2025-01-07T18:10:39.729Z
+updated: 2025-01-09T17:55:12.425Z
 tags:
   - web
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  From improper backups and using unreliable cloud storage services to connecting your storage drive to a public PC and neglecting security measures, we often unknowingly risk our data. Let’s explore the various ways you might be jeopardizing your valuable data, with some tips on protecting it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Connecting Your Storage Drive to a Public PC
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 ![Multiple kinds of storage drives.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/ssd-hdd.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Corbin Davenport/How-to Geek
@@ -42,6 +42,10 @@ Corbin Davenport/How-to Geek
  When you connect your personal storage drive to these devices, malicious programs can transfer to your drive, even if you only intend to make a quick transfer. This not only risks the data stored on your storage drive but also endangers data on other devices if you connect the drive elsewhere later.
 
  To avoid these risks, you should avoid (or minimize) the use of external drives with public computers. If you need to download and use files locally, such as for printing documents at a local print shop, use a separate flash drive that you can format later if it becomes infected. Do not connect the main drive containing your valuable data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Relying on an Unreliable Storage Service
 
@@ -64,7 +68,7 @@ Lucas Gouveia / How-To Geek | [Anton Marchenkov](https://www.shutterstock.com/en
  Also, it's crucial to schedule regular backups, manually back up critical files, and periodically test your backups to ensure they are intact and well-protected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Neglecting to Partition Your Drive
@@ -99,16 +103,12 @@ Lucas Gouveia / How-To Geek | [Anton Marchenkov](https://www.shutterstock.com/en
  The above steps will help minimize the risk of losing your data due to cyberattacks and other online threats.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Sharing Your Device or Storage Drive with Others
 
 ![People using public computers in a New York City library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/computers-in-a-public-library.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Lee Snider Photo Images/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-city-june-22-2013-418391977)
 
@@ -139,15 +139,14 @@ Lucas Gouveia / How-To Geek | [Anton Marchenkov](https://www.shutterstock.com/en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ransform-your-content-essential-youtube-studio-editing-skills-for-2024/"><u>[New] Transform Your Content Essential YouTube Studio Editing Skills for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-tools-and-methods-how-to-resize-youtube-thumbnail/"><u>[Updated] [Tools & Methods] How To Resize YouTube Thumbnail</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-identifying-a-user-writes-silent-unseen-snapshots/"><u>[Updated] 2024 Approved Identifying a User' Writes Silent, Unseen Snapshots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extensive-overview-hero4-black-dynamics/"><u>[Updated] Extensive Overview Hero4 Black Dynamics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-implementing-soft-cessation-of-sounds-using-audacity-procedures/"><u>[Updated] Implementing Soft Cessation of Sounds Using Audacity Procedures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-video-concepts-for-beginner-vloggers/"><u>2024 Approved Innovative Video Concepts for Beginner Vloggers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-v29-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo V29 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-ios-camera-enhancing-apps-all-at-no-cost/"><u>In 2024, Explore the Best iOS Camera Enhancing Apps - All at No Cost</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/maximizing-exposure-submitting-to-apple-for-2024/"><u>Maximizing Exposure Submitting to Apple for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-strategy-for-collecting-multiple-videos-from-tiktok-for-2024/"><u>The Ultimate Strategy for Collecting Multiple Videos From TikTok for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extensive-outlay-review-crafting-your-first-podcast/"><u>[New] Extensive Outlay Review Crafting Your First Podcast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-friendly-vr-best-multiplayer-metaverse-delights/"><u>[Updated] Friendly VR Best Multiplayer Metaverse Delights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-the-complexities-of-online-video-rights-for-2024/"><u>[Updated] Navigating the Complexities of Online Video Rights for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-hash-tags-that-multiply-your-view-count-by-six/"><u>[Updated] Unveiling Hash Tags that Multiply Your View Count by Six</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unveiling-the-10-best-free-os-agnostic-video-solutions/"><u>2024 Approved Unveiling the 10 Best Free OS-Agnostic Video Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-loss-enigma-why-are-videos-cropped-by-imovie-in-2024/"><u>Frame Loss Enigma Why Are Videos Cropped by iMovie, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/immediate-action-needed-discover-the-compelling-advantages-of-ios-153-update/"><u>Immediate Action Needed: Discover the Compelling Advantages of iOS 15.3 Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fading-sound-tracks-with-logic-pro/"><u>In 2024, Fading Sound Tracks with Logic Pro</u></a></li>
 </ul></div>
 

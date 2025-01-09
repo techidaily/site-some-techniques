@@ -1,7 +1,7 @@
 ---
 title: "NYT Daily Crosswords: Puzzle Solutions & Answers - June 22, #377"
-date: 2024-12-29T07:46:49.742Z
-updated: 2025-01-02T07:00:21.736Z
+date: 2025-01-05T22:23:42.961Z
+updated: 2025-01-09T21:46:03.589Z
 tags:
   - web
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 ![June 19th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-19th-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -54,16 +54,12 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 * **Purple:** Words for Sausage
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![June 22nd Connections groups and words](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-22nd-connections-filled.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **One Thing After Another (Yellow):** 
 
@@ -82,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
  Brat, Dog, Frank, Link
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
  Eventually, after about 200 shuffles, Birds, Fog, Omen, and Ring wound up next to each other and I realized that they were all words in horror movie titles, specifically movies with titles of the form "The Ring," "The Omen," and so on. Blue was "Horror Movies, with The." 
 
  That left driver, iron, wedge, and wood—words I couldn't connect no matter how much I tried. They were actually in the Green group, "Kinds of Golf Clubs." Turns out I just need to up my golf game. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -127,15 +127,18 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-prioritize-tags-the-essentials-for-your-youtube-video-posting/"><u>[New] 2024 Approved Prioritize Tags The Essentials for Your YouTube Video Posting</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-filmmaking-simplified-create-an-inviting-youtube-subscription-button-in-filmora-for-2024/"><u>[Updated] Filmmaking Simplified Create an Inviting YouTube Subscription Button in Filmora for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-imagination-a-practical-guide-to-professional-gifs/"><u>2024 Approved Harnessing Imagination A Practical Guide to Professional GIFs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hdrs-edge-pushing-video-production-to-new-heights/"><u>2024 Approved HDR's Edge Pushing Video Production to New Heights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-your-workout-spirit-essential-background-music-choices/"><u>2024 Approved Ignite Your Workout Spirit Essential Background Music Choices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-portrait-to-landscape-the-ultimate-guide-to-instagram-video-spins-for-2024/"><u>From Portrait to Landscape The Ultimate Guide to Instagram Video Spins for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-creative-with-audio-best-video-dubbing-apps-of-the-year/"><u>Get Creative with Audio Best Video Dubbing Apps of the Year</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-shoot-vertical-panorama-photos-with-your-mobile-phone-for-2024/"><u>How to Shoot Vertical Panorama Photos with Your Mobile Phone for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-intel-hardware-controls-in-win-11-7-and-81-environments/"><u>Update Intel Hardware Controls in Win 11, 7 & 8.1 Environments</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-premier-pro-ultimate-2023-template-giveaway/"><u>[New] 2024 Approved Premier Pro Ultimate 2023 Template Giveaway</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-leading-vr-creators-industrys-pioneers/"><u>[New] In 2024, Leading VR Creators Industry's Pioneers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/practices-boosting-your-game-videos-with-tags-for-2024/"><u>Best Practices Boosting Your Game Videos with Tags for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-guide-turning-dvd-media-into-avi-format-at-home/"><u>Effortless Guide: Turning DVD Media Into AVI Format at Home</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellent-backdrops-setting-the-stage-for-streaming-for-2024/"><u>Excellent Backdrops Setting the Stage for Streaming for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-restore-drag-and-drop-capabilities-in-windows-efficiently/"><u>How to Restore Drag & Drop Capabilities in Windows Efficiently</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-free-countdown-timer-for-2024/"><u>How to Use Free Countdown Timer for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illustration-elevation-incorporating-text-into-3d-artwork-for-2024/"><u>Illustration Elevation Incorporating Text Into 3D Artwork for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-enhancing-media-with-top-10-text-plugins/"><u>In 2024, Enhancing Media with Top 10 Text Plugins</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>In 2024, How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-auditory-transitions-with-logic-pro-x/"><u>In 2024, Innovative Auditory Transitions with Logic Pro X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-browsing-strategies-with-picture-in-picture-mode/"><u>In 2024, Innovative Browsing Strategies with Picture-In-Picture Mode</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44gp44gu44ki44gg44gr44oa44km44oz44ot44o844oj44o75lplusd5a2y44gn44gn44kl44gl77yf44oe44kk44kt44oj44k55yuv55s744ki44o844kr44kk44ow5yem55cg6kmz57sw/"><u>どのようにダウンロード・保存できるか？ツイキャス動画アーカイブ処理詳細</u></a></li>
 </ul></div>
 

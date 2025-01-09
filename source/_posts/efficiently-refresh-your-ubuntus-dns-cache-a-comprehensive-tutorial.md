@@ -1,7 +1,7 @@
 ---
 title: Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
-date: 2024-12-29T00:49:36.478Z
-updated: 2025-01-01T23:02:07.041Z
+date: 2025-01-08T16:27:56.498Z
+updated: 2025-01-09T21:52:35.264Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,7 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Remember to Flush Your DNS Cache](https://some-knowledge.techidaily.com/new-full-exploration-of-picsarts-new-features/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -67,6 +63,10 @@ systemctl is-active systemd-resolved
 
 ![Checking whether the resolved daemon is running on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-14.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The response will either be “active” or “inactive.”
 
  To verify that flushing the buffers actually does something, we can take a peek at the number of entries in the cache. We’ll check again, once we’ve flushed the buffers. This time, we’re using the resolvectl command to manipulate systemd-resolved directly.
@@ -75,19 +75,11 @@ resolvectl statistics
 
 ![Checking the size of the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-15.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Because this is a fresh installation of Ubuntu, there are relatively few entries in the cache. Regardless, when we flush the DNS buffers we expect to see that number drop to zero.
 
 resolvectl flush-caches
 
 ![Flushing the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-14.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We’re silently returned to the command line. No output means everything went well. Let’s see what our cache size is now.
 
@@ -96,10 +88,14 @@ resolvectl statistics
 ![Verifying the DNS cache is empty on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-13.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Our cache size is zero, just as we predicted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don’t Forget Your Browser's Cache
 
@@ -114,7 +110,7 @@ about:networking
 ![Selecting the DNS option in the Firefox sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-10.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the "DNS" entry in the sidebar.
@@ -132,6 +128,10 @@ about:networking
 chrome://net-internals/#dns
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the “Clear Host Cache” button. There’s no visible feedback to let you know anything has actually happened, but behind the scenes it has. Google Chrome’s DNS cache has been emptied.
 
@@ -156,20 +156,15 @@ chrome://net-internals/#dns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-winters-chill-and-your-videos-selecting-heated-backdrops/"><u>[New] 2024 Approved Winter's Chill & Your Videos Selecting Heated Backdrops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-film-lovers-ultimate-selection-of-stop-motion-works/"><u>[New] Film Lovers' Ultimate Selection of Stop-Motion Works</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-prime-audio-festivals-online-for-2024/"><u>[New] Prime Audio Festivals Online for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pushing-perception-analyzing-the-dreamcolors-z32x-4k/"><u>[New] Pushing Perception Analyzing the DreamColor's Z32X 4K</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-augment-slides-with-sonic-enhancements-for-2024/"><u>[Updated] Augment Slides with Sonic Enhancements for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-and-outshine-cheapest-cloud-plans-for-every-need-2024/"><u>[Updated] Explore & Outshine Cheapest Cloud Plans for Every Need, 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-android-potential-for-stunning-time-lapse-videos/"><u>[Updated] Harnessing Android Potential for Stunning Time-Lapse Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-sharpfocusx7-size-your-photography-right/"><u>[Updated] In 2024, SharpFocusX7 Size Your Photography Right</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-narratives-distributed-among-8-movie-segments/"><u>2024 Approved Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/from-sound-to-sight-choosing-between-audio-and-video-media-for-2024/"><u>From Sound to Sight Choosing Between Audio and Video Media for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-financial-forecast-the-price-of-filming-melodies-visually/"><u>In 2024, Financial Forecast The Price of Filming Melodies Visually</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-v27-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo V27</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-block-spotifys-predicted-podcast-selections/"><u>In 2024, How to Block Spotify's Predicted Podcast Selections</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-105-classic-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia 105 Classic FRP Bypass</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-8-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 8 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-review-and-compare-streamlabs-and-embedding-platforms/"><u>[New] Review and Compare StreamLabs & Embedding Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-optimize-playback-settings-in-snapchat-applications/"><u>[Updated] How To Optimize Playback Settings in Snapchat Applications</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-the-new-picsart-app-review-and-tutorial-for-2024/"><u>[Updated] Navigating the New PicsArt App – Review & Tutorial for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-breakdown-the-true-price-of-a-podcast/"><u>2024 Approved Expert Breakdown The True Price of a Podcast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-efficient-music-integration-in-premiere-pro-for-2024/"><u>Expert Tips for Efficient Music Integration in Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/freely-stream-your-films-easy-to-use-mov-player-software-for-2024/"><u>Freely Stream Your Films Easy-to-Use MOV PLAYER Software for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-secret-sauce-to-staying-fresh-on-instagram-a-4-step-guide-to-gifs-for-2024/"><u>The Secret Sauce to Staying Fresh on Instagram A 4-Step Guide to GIFs for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-visual-editors-journey-cropping-content-for-instagram-standout/"><u>The Visual Editor's Journey Cropping Content for Instagram Standout</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-emeditors-data-protection-a-guide-to-its-automatic-backup-capability/"><u>Understanding EmEditor's Data Protection: A Guide to Its Automatic Backup Capability</u></a></li>
 </ul></div>
 

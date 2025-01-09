@@ -1,7 +1,7 @@
 ---
 title: "Introducing PS5 Compatible Virtual Reality: The Demand for a PlayStation VR 2 Version on PC"
-date: 2024-12-09T23:14:18.668Z
-updated: 2024-12-15T19:39:29.742Z
+date: 2025-01-03T16:19:13.225Z
+updated: 2025-01-09T16:35:55.713Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 ---
 
 ## Introducing PS5 Compatible Virtual Reality: The Demand for a PlayStation VR 2 Version on PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
  Sony's next-generation [PlayStation VR 2 headset](https://blog.playstation.com/2022/01/04/playstation-vr2-and-playstation-vr2-sense-controller-the-next-generation-of-vr-gaming-on-ps5/) is truly impressive. That makes it a real shame to limit it to the [PlayStation 5](https://www.amazon.com/stores/page/07A20468-F527-4562-8FB4-23F8ACBCD3A8?tag=htg-v2-ug34g4t-20&ascsubtag=UUhtgUeUpU207332&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778792%2Fhey-sony-we-want-the-playstation-vr-2-for-pc-vr-too%2F&asc%5Fcampaign=Short-Term) alone. We think Sony has much to gain by opening the PSVR 2 to PC users, too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is PlayStation VR 2?
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
  The PlayStation VR 2 is the successor to the [PlayStation VR headset](https://www.amazon.com/PlayStation-VR-4/dp/B01DE9DY8S?tag=htg-v2-ug34g4t-20&ascsubtag=UUhtgUeUpU207332&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778792%2Fhey-sony-we-want-the-playstation-vr-2-for-pc-vr-too%2F&asc%5Fcampaign=Short-Term) released for use with the Sony PlayStation 4\. The PSVR re-used the PlayStation 4 camera and the Move controllers from the PlayStation 3 along with a special processing unit to make high-end VR possible on Sony's $399 console.
 
 ![A child using a Sony PS VR headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/shutterstock_1375053872.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Lutsenko\_Oleksandr/Shutterstock.com](https://www.shutterstock.com/image-photo/kyiv-ukraine-april-12-2019-boy-1375053872)
 
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 ![31NLGzA5upL._SL500_-7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31nlgza5upl-_sl500_-7.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A Great VR Experience
@@ -59,10 +59,6 @@ $298 $350 Save $52
 The Oculus Quest 2 does it all, no matter what kind of VR you're looking to experience, at a price that's surprising in the best way.
 
 [$298 at Amazon](https://www.amazon.com/dp/B09B8DQ26F) [See at Bestbuy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmeta__quest_2_advanc%2F6473857.p%3FskuId%3D6473857%2522target%253D%2522_blank) [See at Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F156932%2F564546%2F9358%3FsubId1%3DUUhtgUeUpU207332%26subId2%3Dehtg%26u%3Dhttps%253A%252F%252Fwww.target.com%252Fp%252Fmeta%255Fquest%255F2%255Fadvance%252F-%252FA-84022117%2522target%253D%2522%255Fblank) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The PlayStation VR 2 Is Forward-looking
 
@@ -79,7 +75,7 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
  The question is whether opening the PlayStation VR 2 to PC will affect that goal in any way. PC users who have no interest in PlayStation 5 may still buy the headset and we don't see that hurting sales of PlayStation VR 2 headsets to PlayStation 5 owners. In fact, PC gamers may be more likely to buy a PlayStation 5 in the future knowing that their single headset investment will cover both platforms.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Sony Games Are Entering the PC Space
@@ -89,6 +85,10 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
  Sony has slowly started releasing PC ports of some formerly exclusive games like Horizon: Zero Dawn. This has yet to happen with VR games or with PlayStation 5 exclusive games, but we can foresee a future where PC versions of PlayStation VR 2 games come to PC. If those games can only be fully experienced with the Sony headset, it does make sense to allow PC users access.
 
  There is some precedent for this. The DualSense controller works as a standard controller on PC and mobile devices, albeit without the full haptic experience. Some specific games, such as Metro Exodus, do support the full DualSense experience on something that isn't a PlayStation. So we know Sony isn't entirely averse to the idea.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Hard Would PC Compatibility Be?
 
@@ -121,16 +121,18 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-advice-moving-multimedia-on-apple-gear/"><u>[New] Expert Advice Moving Multimedia on Apple Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-immersive-videography-the-360-journey/"><u>[New] Exploring Immersive Videography The 360° Journey</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-proactive-ways-to-record-breathtaking-live-sports-games-for-2024/"><u>[Updated] Proactive Ways to Record Breathtaking Live Sports Games for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-perfect-our-top-10-photo-lenses-list/"><u>2024 Approved Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-s17t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo S17t Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-snap-to-stunning-photo-editing-secrets/"><u>In 2024, From Snap to Stunning Photo Editing Secrets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-improve-video-quality-in-zoom-meetings/"><u>In 2024, How to Improve Video Quality in Zoom Meetings?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y36-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y36 Phone without PIN</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-initiate-flawless-zoom-sessions-today/"><u>In 2024, Initiate Flawless Zoom Sessions Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-windows-11-audio-capture-for-2024/"><u>The Ultimate Guide to Windows 11 Audio Capture for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-s24plus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy S24+ Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-engender-whole-circle-vignetting-on-digital-snapshots/"><u>[New] Engender Whole-Circle Vignetting on Digital Snapshots</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-10-video-calls-software-compared-side-by-side/"><u>[Updated] 2024 Approved Top 10 Video Calls Software Compared Side by Side</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-converting-live-streamed-youtubes-into-animated-gif-formats-for-2024/"><u>[Updated] Converting Live Streamed YouTubes Into Animated GIF Formats for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-four-k-faceoff-sj6-legend-versus-xiaomis-yi-prototype/"><u>[Updated] Four-K Faceoff SJ6 Legend Versus Xiaomi's Yi Prototype</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-bright-to-deep-premiere-pro-magic/"><u>[Updated] From Bright to Deep Premiere Pro Magic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-silence-to-soundscape-embedding-mp3s-in-presentations/"><u>[Updated] From Silence to Soundscape Embedding MP3s in Presentations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglegif-builder/"><u>2024 Approved GiggleGif Builder</u></a></li>
+<li><a href="https://solve-help.techidaily.com/mp4avihevch265-winxvideo-ai/"><u>自由に使える動画編集・変換専用アプリを見つけよう - 無料MP4/AVI/HEVC(H265)へのシームレスな移行方法 | Winxvideo AI解説</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-for-eliminating-youtube-video-skip-teasers/"><u>In 2024, Expert Advice for Eliminating YouTube Video Skip Teasers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-top-5-ios-apps-for-podcasting/"><u>In 2024, Ideal Top 5 iOS Apps for Podcasting</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ultimate-guide-to-bandicam-the-2023-comprehensive-overview/"><u>In 2024, Ultimate Guide to Bandicam The 2023 Comprehensive Overview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-buyers-checklist-evaluating-used-ipad-options-before-commitment/"><u>Smart Buyer’s Checklist: Evaluating Used iPad Options Before Commitment</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-truth-an-in-depth-tropico-6-gameplay-analysis/"><u>Unveiling the Truth: An In-Depth Tropico 6 Gameplay Analysis</u></a></li>
 </ul></div>
 

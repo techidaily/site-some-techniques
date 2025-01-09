@@ -1,7 +1,7 @@
 ---
 title: "Top-Notch Robotic Showcases : The Best So Far!"
-date: 2024-12-09T01:05:52.941Z
-updated: 2024-12-15T19:19:22.363Z
+date: 2025-01-07T17:53:34.603Z
+updated: 2025-01-09T22:41:45.768Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 ## Top-Notch Robotic Showcases : The Best So Far!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  While everyone is fixated on generative AI and its implications for knowledge and creative work, robotics have been quietly approaching a similar apparently sudden point of advancement. The year 2024 may well go down in history as the start of the true AI automation revolution for physical labor, and even this early in the year there have been some jaw-dropping demonstrations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Figure 01
 
 [Figure](https://www.figure.ai/) is a nascent robotics startup that has attracted a massive amount of investment from major technology players. While the company has been fairly reserved with demos showing its humanoid robot project, directly designed to supplement human labor shortfalls in the years ahead, each one has been jaw-dropping. The latest demo as of this writing feels like a historical turning point.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  According to Figure, this is not an edited or cut video, which feels likely to be true thanks to the long processing pauses as the robot "thinks" about what to do or say next, but as always, we only have their word for this until these systems make it into third party hands. Figure is coming in hot with these robots though, with trials already happening in [partnership with BMW](https://techcrunch.com/2024/01/18/bmw-will-deploy-figures-humanoid-robot-at-south-carolina-plant/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Agility Robotics & Amazon's Digit
 
 [Agility Robotics](https://agilityrobotics.com/products/digit) in partnership with Amazon seems to have the same general idea as Figure when it comes to their humanoid robot. The idea is to create a robot that can slot into the same spaces that human workers currently occupy. Digit is already undergoing testing in real Amazon facilities, as we've been shown in this video.
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
  However, perhaps even more impressive was this earlier demo of Digit showing its reasoning ability. What really makes this an amazing demo is that we can see the bot's internal monologue and thought processes as it dynamically reasons its way through the task it's been given verbally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Boston Dynamics Spot V.4 Update
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
  The end result is where the old Spot software version would trip and fall on loose or slippery surfaces, the latest version can keep it together even when grip is nonexistent or the terrain is unpredictable. It might not be the flashiest thing anyone is showing off, but it's a big deal when you need robots to go into places that don't offer a perfectly predictable environment, such as disaster sites or inclement weather.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Tesla's Optimus Gen 2
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
  The video is quite impressive, but it's not clear what's autonomous, what's pre-programmed, and what's direct tele-operation. Still, to go from having nothing to show to a working hardware platform in such a short time is worth applauding. In [another clip](https://twitter.com/elonmusk/status/1746964887949934958) posted by Elon Musk on X (formerly Twitter) we can see Optimus folding clothes, however Musk then clarified that this [isn't being done autonomously yet](https://twitter.com/elonmusk/status/1746970616060580326). Getting the hopes of lazy people everywhere, just to knock them down again,
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Stanford's Mobile ALOHA
@@ -92,18 +92,19 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-improving-the-endurance-of-your-gopro-power-source/"><u>[New] Improving the Endurance of Your GoPro Power Source</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-templates-for-sustainable-storytelling/"><u>[Updated] Free Templates for Sustainable Storytelling</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gigglegif-builder/"><u>[Updated] GiggleGif Builder</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovate-impress-and-captivate-in-solo-podcasting/"><u>[Updated] Innovate, Impress, and Captivate in Solo Podcasting</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-leading-ergonomic-keyboards-enhanced-typing-efficiency-and-reduced-strain/"><u>2024'S Leading Ergonomic Keyboards: Enhanced Typing Efficiency and Reduced Strain</u></a></li>
-<li><a href="https://discover-best.techidaily.com/enhanced-performance-using-the-power-of-cookiebot/"><u>Enhanced Performance Using the Power of Cookiebot</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-14-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on 14 Pro?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-examining-vllos-user-driven-feedback/"><u>In 2024, Examining VLLO's User-Driven Feedback</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-getting-to-grips-with-snapseed-for-images/"><u>In 2024, Getting to Grips With Snapseed for Images</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/insights-into-geometric-future-eskimo-jr-outstanding-style-and-soft-noise-emissions-with-fair-usability/"><u>Insights Into Geometric Future Eskimo Jr.: Outstanding Style & Soft Noise Emissions with Fair Usability</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/investing-in-the-future-learning-to-proficiently-record-skype-calls/"><u>Investing in the Future Learning to Proficiently Record Skype Calls</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rescuing-forgotten-film-formats/"><u>Rescuing Forgotten Film Formats</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-steps-for-fixing-your-windows-update-hang-on-0-barrier/"><u>Simple Steps for Fixing Your Windows' Update Hang on 0% Barrier</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-crack-the-code-detailed-steps-for-extracting-messenger-media/"><u>[New] Crack the Code Detailed Steps for Extracting Messenger Media</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>[New] From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-unrestricted-pubg-visual-sequences/"><u>[Updated] Excellent Unrestricted PUBG Visual Sequences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-enterprise-templates-with-dynamic-ideas-for-slideshows/"><u>2024 Approved Free Enterprise Templates with Dynamic Ideas for Slideshows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-iosandroid-apps-for-photo-writing/"><u>2024 Approved Innovative iOS/Android Apps for Photo-Writing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/preayers-primer-to-navigating-the-online-copyright-labyrinth/"><u>A Compreayer's Primer to Navigating the Online Copyright Labyrinth</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-workflow-efficiency-introducing-flow-launcher-methodology/"><u>Accelerate Workflow Efficiency: Introducing Flow Launcher Methodology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-right-phone-for-your-child-expert-picks-from-zdnet/"><u>Choosing the Right Phone for Your Child: Expert Picks From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/face-unlock-tech-iphone-xs-face-id-versus-samsung-for-2024/"><u>Face Unlock Tech IPhone X's Face ID Versus Samsung' For 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/husqvarnas-skyward-leap-with-the-new-h501x4-drone-insights-for-2024/"><u>Husqvarna's Skyward Leap with the New H501X4 Drone Insights for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-dynamics-of-canon-timelapse-imagery/"><u>In 2024, Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-save-or-record-periscope-videos-complete-guide/"><u>In 2024, How to Save or Record Periscope Videos Complete Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-to-weave-narrative-into-visual-content/"><u>In 2024, Techniques to Weave Narrative Into Visual Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movaviden-iyi-farklilasma-sartlari/"><u>Movavi'den İyi Farklılaşma Şartları</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Hero5 Black or YI  Comparing Top Actions Cameras\""
-date: 2024-07-26T15:37:39.330Z
-updated: 2024-07-27T15:37:39.330Z
+date: 2025-01-08T21:39:59.840Z
+updated: 2025-01-09T22:52:08.461Z
 tags: 
   - screen-recording
   - ai video
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
 # GoPro Hero5 Black vs. Yi 4K Action Camera: Which is Better?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -72,10 +65,11 @@ No advertising on the website.
 
 **Touch Screen:** When displays of both these cameras are compared then it was observed that YI 4K provides better response as compared to [GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/). Size of display is also larger in case of YI 4K as it goes up to 2.19” whereas Hero5 has 2” screen. The Touch Screen is found more interactive in YI 4K whereas in case of Hero5 you may need to press twice especially when it is wet. The front LCD display of GoPro provides additional settings menu for easy control.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Yi 4K action camera touchscreen](https://images.wondershare.com/filmora/article-images/yi-4k-touchscreen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image source:elproducente.com
 
@@ -172,6 +166,10 @@ Follow @Max Wales
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -223,6 +221,10 @@ Follow @Max Wales
 
 ![Yi 4K action camera touchscreen](https://images.wondershare.com/filmora/article-images/yi-4k-touchscreen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source:elproducente.com
 
 **Waterproof:** The biggest benefit of GoPro Hero5 is that it can serve you underwater but YI 4K cannot as you need additional protective case for this camera. But you cannot save your recordings from handling noise in case of GoPro unit. When you go underwater with YI 4K while using protective housing then it is not possible to use its touch screen feature and secondly the audio quality decays by large extent.
@@ -243,11 +245,12 @@ Follow @Max Wales
 
  Almost all features are discussed above and it is observed that if you are searching for a camera to record videos underwater or in rainy seasons then it is best idea to invest on GoPro Hero5 but in case of other adventurous sports activities Yi 4K can also provide you impressive results and it is a fit to budget camera unit. The Video and Photo quality is almost similar for both units but the battery backup of Yi 4K is again better then GoPro unit. So it is better to decide your budget and needs first and then pick the right camera unit for you.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -266,9 +269,6 @@ Follow @Max Wales
 
 [Best GoPro Alternatives >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comparison for Hero5 Black and Yi 4K Action Camera
 
 #### Basic specs comparison table
@@ -300,10 +300,11 @@ Follow @Max Wales
 
 **Touch Screen:** When displays of both these cameras are compared then it was observed that YI 4K provides better response as compared to [GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/). Size of display is also larger in case of YI 4K as it goes up to 2.19” whereas Hero5 has 2” screen. The Touch Screen is found more interactive in YI 4K whereas in case of Hero5 you may need to press twice especially when it is wet. The front LCD display of GoPro provides additional settings menu for easy control.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Yi 4K action camera touchscreen](https://images.wondershare.com/filmora/article-images/yi-4k-touchscreen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image source:elproducente.com
 
@@ -325,9 +326,6 @@ Follow @Max Wales
 
  Almost all features are discussed above and it is observed that if you are searching for a camera to record videos underwater or in rainy seasons then it is best idea to invest on GoPro Hero5 but in case of other adventurous sports activities Yi 4K can also provide you impressive results and it is a fit to budget camera unit. The Video and Photo quality is almost similar for both units but the battery backup of Yi 4K is again better then GoPro unit. So it is better to decide your budget and needs first and then pick the right camera unit for you.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -358,7 +356,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-iphoneandroid-faceshaping-software/"><u>[New] Ideal iPhone/Android Faceshaping Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-perfecting-your-recordings-using-nvidia-recorder/"><u>[Updated] 2024 Approved Perfecting Your Recordings Using NVIDIA Recorder</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-a-producers-path-to-procuring-cost-free-tunes/"><u>[Updated] A Producer's Path to Procuring Cost-Free Tunes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-magix-vpxs-innovative-editing-capabilities/"><u>[Updated] Exploring Magix VPX's Innovative Editing Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-feast-on-a-gallery-ios-top-10-free-stunning-photo-collage-apps/"><u>[Updated] Feast on a Gallery IOS’ Top 10 FREE, Stunning Photo Collage Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unlocking-windows-11-your-ultimate-cheat-sheet/"><u>[Updated] In 2024, Unlocking Windows 11 Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-essentials-for-classic-gaming-top-5-ps1-emulators-reviewed-for-2024/"><u>[Updated] The Essentials for Classic Gaming Top 5 PS1 Emulators Reviewed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-bottom-to-top-seo-guide-for-podcasters/"><u>2024 Approved From Bottom to Top Seo Guide for Podcasters</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-network-live-broadcasts-via-vlc/"><u>2024 Approved Mastering Network Live Broadcasts via VLC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-13-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 13 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-the-new-iphone-os-ios-18-absolutely-free-with-in-depth-overview-of-updates-and-industry-news/"><u>Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-full-screen-edits-in-premiere-for-2024/"><u>Expert Strategies for Full Screen Edits in Premiere for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-latest-in-literary-recommendations-5-smart-apps-using-ai-technology/"><u>Explore the Latest in Literary Recommendations: 5 Smart Apps Using AI Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-zoom-for-impactful-youtube-livestream-presentations-for-2024/"><u>Harnessing Zoom for Impactful YouTube Livestream Presentations for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/techniques-to-effortlessly-record-your-instagram-experiences-for-2024/"><u>Techniques to Effortlessly Record Your Instagram Experiences for 2024</u></a></li>
+</ul></div>
 

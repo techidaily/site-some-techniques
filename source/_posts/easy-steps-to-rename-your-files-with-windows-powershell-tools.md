@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Rename Your Files with Windows PowerShell Tools
-date: 2024-12-25T17:15:10.033Z
-updated: 2025-01-01T16:27:26.555Z
+date: 2025-01-03T17:37:46.817Z
+updated: 2025-01-09T20:27:51.305Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Easy Steps to Rename Your Files with Windows PowerShell Tools
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -26,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
@@ -55,11 +55,11 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
 
@@ -72,11 +72,7 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -96,6 +92,10 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -118,21 +118,18 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-turn-your-screen-time-into-money-with-these-tips/"><u>[New] 2024 Approved Turn Your Screen Time Into Money With These Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fundamentals-of-visual-communication-through-motion/"><u>[New] Fundamentals of Visual Communication Through Motion</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-the-secrets-to-producing-popular-youtube-shorts/"><u>[New] In 2024, Unveiling the Secrets to Producing Popular YouTube Shorts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-srt-conversion-uncover-top-8-online-options/"><u>[Updated] Free SRT Conversion Uncover Top 8 Online Options</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-graphic-animation-basic-knowledge-and-practices/"><u>[Updated] Graphic Animation Basic Knowledge & Practices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gratitude-freepaid-video-outro-template-gallery/"><u>[Updated] Gratitude Free/Paid Video Outro Template Gallery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-foundational-approach-to-gradual-volume-adjustment/"><u>2024 Approved Foundational Approach to Gradual Volume Adjustment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-safely-obtain-vlc-player-at-no-charge-on-macos/"><u>2024 Approved How to Safely Obtain VLC Player at No Charge on MacOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/delving-into-meta-ai-unveiling-the-power-behind-advanced-algorithms/"><u>Delving Into Meta AI: Unveiling the Power Behind Advanced Algorithms</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-language-diversity-6-advantages-of-learning-arabic-via-mondly-online/"><u>Embrace Language Diversity: 6 Advantages of Learning Arabic via Mondly Online</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/essential-usb-c-gadgets-for-both-macos-and-windows-compatible-with-8k-displays-recommended-by-zdnet/"><u>Essential USB-C Gadgets for Both macOS & Windows: Compatible with 8K Displays, Recommended by ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fine-tuning-the-art-of-recording-in-audacity-for-2024/"><u>Fine-Tuning the Art of Recording in Audacity for 2024</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/free-download-winning-mixes-of-making-beats-count-dj-competition-compilation-available-now/"><u>Free Download: Winning Mixes of 'Making Beats Count' DJ Competition - Compilation Available Now!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-ways-to-convert-mp4-videos-to-mp3-audio-files/"><u>New Best Ways to Convert MP4 Videos to MP3 Audio Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-windows-11-audio-problems-a-comprehensive-fix/"><u>Solving Windows 11 Audio Problems: A Comprehensive Fix</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranking-ergonomic-vertical-keyboards/"><u>Top-Ranking Ergonomic Vertical Keyboards</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-call-customization-applications-ranked/"><u>[New] 2024 Approved Essential Call Customization Applications Ranked</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ipad-audio-excellence-top-3-techniques/"><u>[New] In 2024, IPad Audio Excellence Top 3 Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-chrome-to-iphone-a-guide-to-stripping-youtube-ads/"><u>[Updated] 2024 Approved Chrome to iPhone A Guide to Stripping YouTube Ads</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-ultimate-conversational-ais-on-discord/"><u>[Updated] 2024 Approved Ultimate Conversational AIs on Discord</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-7-tips-for-capturing-live-online-classes-gratis/"><u>[Updated] In 2024, 7 Tips for Capturing Live Online Classes Gratis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fusing-film-and-frequencies-win11-edition/"><u>2024 Approved Fusing Film & Frequencies Win11 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/9-ways-to-facebook-video-black-screen-issues-on-chromesafarifir-for-2024/"><u>9 Ways to Facebook Video Black Screen Issues on Chrome/Safari/Fir for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ancient-aesthetics-public-domain-pieces-for-2024/"><u>Ancient Aesthetics Public Domain Pieces for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-capture-the-magic-our-list-of-top-12-cameras-for-exceptional-vlogs/"><u>In 2024, Capture the Magic Our List of Top 12 Cameras for Exceptional Vlogs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-iphone-filming-software-list/"><u>In 2024, Exclusive iPhone Filming Software List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-tech-marvel-of-lg-ud88-w-monitors/"><u>In 2024, Exploring the Tech Marvel of LG UD88-W Monitors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focus-and-frame-essential-iphone-tools-for-cropping-photos/"><u>In 2024, Focus & Frame Essential iPhone Tools for Cropping Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-glide-and-glory-short-track-highlights-from-22/"><u>In 2024, Glide and Glory Short Track Highlights From '22</u></a></li>
 </ul></div>
 

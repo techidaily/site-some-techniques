@@ -1,7 +1,7 @@
 ---
 title: "Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11 and Windows 8"
-date: 2024-12-27T17:24:45.532Z
-updated: 2025-01-02T05:50:03.499Z
+date: 2025-01-08T19:37:02.203Z
+updated: 2025-01-09T22:59:00.451Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ---
 
 ## Guide: Turning Off Microsoft's SmartScreen Feature in Windows 11 and Windows 8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
  On the other hand, disabling it may allow a malicious application to slip through the cracks. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Disable SmartScreen on Windows 10
@@ -41,17 +45,9 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then click on "Reputation-based Protection Settings." 
 
@@ -63,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 ![Toggle 'Check Apps and Files' on or off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-check-apps-and-files-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also control whether or not Windows Security will block potentially unwanted software. You can disable it completely, or you can set it to block apps or downloads individually. 
 
 ![The settings that allow SmartScreen to block Potentially Unwanted Programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-block-pups.png) 
@@ -72,13 +72,13 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
@@ -106,24 +106,22 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-foremost-apps-to-upgrade-your-gopro-creations-on-smartphones/"><u>[New] Foremost Apps to Upgrade Your GoPro Creations on Smartphones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-get-blessed-gospel-music-as-your-ringtone/"><u>[New] How to Get Blessed Gospel Music as Your Ringtone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovate-your-live-broadcast-on-mac-with-1-5-software/"><u>[New] Innovate Your Live Broadcast on Mac with #1-5 Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-the-funimate-guide/"><u>[Updated] From Novice to Pro - The Funimate Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funny-facades-top-quality-free-meme-files/"><u>[Updated] Funny Facades Top-Quality, FREE Meme Files</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-clandestine-scrollers-of-fb-stories/"><u>[Updated] In 2024, Clandestine Scrollers of Fb Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gtx-gems-the-best-for-high-res-gaming/"><u>2024 Approved GTX Gems The Best for High-Res Gaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-speed-windows-photo-explorer-tool/"><u>2024 Approved High-Speed Window's Photo Explorer Tool</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-fun-in-feeds-animating-instagram-text-on-stories/"><u>2024 Approved Infusing Fun in Feeds Animating Instagram Text on Stories</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dell-usb-keyboard-and-wireless-mouse-issues-solutions-for-common-problems/"><u>Dell USB Keyboard & Wireless Mouse Issues - Solutions for Common Problems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-metas-approach-to-advanced-ai-solutions/"><u>Discovering Meta’s Approach to Advanced AI Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/four-pivotal-shifts-causing-facebooks-user-slide/"><u>Four Pivotal Shifts Causing Facebook's User Slide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-top-8-free-and-paid-videomosaic-apps-on-android-platforms/"><u>In 2024, Exploring the Top 8 Free & Paid Videomosaic Apps on Android Platforms</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-screen-success-brand-endorsement-strategies/"><u>In 2024, Screen Success Brand Endorsement Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-post-production-mastering-the-green-screen-process-kinemaster/"><u>In 2024, Streamlining Post-Production Mastering the Green Screen Process (KineMaster)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pushing-boundaries-of-innovation-introducing-the-revolutionary-samsung-galaxy-s21-ultra/"><u>Pushing Boundaries of Innovation - Introducing the Revolutionary Samsung Galaxy S21 Ultra</u></a></li>
-<li><a href="https://fox-where.techidaily.com/slow-gaming-performance-understanding-the-issue-despite-high-end-gpu-insights-by-yl-computing/"><u>Slow Gaming Performance: Understanding the Issue Despite High-End GPU - Insights by YL Computing</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-lenovo-ideapad-a-sturdy-and-straightforward-laptop-experience-reviewed/"><u>Unveiling the Lenovo Ideapad: A Sturdy and Straightforward Laptop Experience Reviewed</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-lenovo-thinkphone-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lenovo ThinkPhone Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-crafting-eye-catching-instagram-story-previews/"><u>[New] 2024 Approved Crafting Eye-Catching Instagram Story Previews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-impact-text-visual-effects/"><u>[New] High-Impact Text Visual Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-free-clip-art-legally/"><u>[Updated] Harnessing Free Clip Art Legally</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-review-of-budget-friendly-clouds/"><u>[Updated] In-Depth Review of Budget-Friendly Clouds</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-speaking-stories-writing-lyrical-film-scripts/"><u>[Updated] Speaking Stories Writing Lyrical Film Scripts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-analysis-complete-look-at-xvideo-studio-essentials/"><u>2024 Approved Expert Analysis Complete Look at XVideo Studio Essentials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-control-over-video-velocity-on-snapchat-app/"><u>2024 Approved Master Control Over Video Velocity on Snapchat App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectacular-visuals-the-power-of-tiktok-effects/"><u>2024 Approved Spectacular Visuals The Power of TikTok Effects</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/vating-a-brand-identity-youtube-visibility-without-spending-for-2024/"><u>Cultivating a Brand Identity YouTube Visibility without Spending for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-sustainable-mobiles-green-techs-finest-phones-of-2e24-by-zdnet/"><u>Discover the Ultimate Guide to Sustainable Mobiles: Green Tech's Finest Phones of 2E|24 by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-look-at-the-next-gen-google-pixel-tablet-preorder-info-and-complete-tech-overview/"><u>Exclusive Look at the Next-Gen Google Pixel Tablet – Preorder Info & Complete Tech Overview</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmfusion-studio-win8/"><u>In 2024, FilmFusion Studio Win8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-framed-in-perfection-the-1-10-camera-lens-list-for-stunning-photography/"><u>In 2024, Framed in Perfection The #1-10 Camera Lens List for Stunning Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hidden-gems-premium-mac-speech-to-text-tools/"><u>In 2024, Hidden Gems Premium Mac Speech-to-Text Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illusions-realized-what-is-augmented-reality/"><u>In 2024, Illusions Realized What Is Augmented Reality?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/professional-choice-high-quality-laptops-for-media-workers-for-2024/"><u>Professional Choice High-Quality Laptops for Media Workers for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/top-10-talking-photo-online-tools-you-have-to-try-for-2024/"><u>Top 10 Talking Photo Online Tools You Have To Try for 2024</u></a></li>
 </ul></div>
 

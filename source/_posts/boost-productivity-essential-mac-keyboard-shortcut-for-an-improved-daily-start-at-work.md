@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2024-12-27T05:59:41.956Z
-updated: 2025-01-02T00:32:40.733Z
+date: 2025-01-05T19:55:02.766Z
+updated: 2025-01-09T19:51:27.826Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ## Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,14 +90,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-find-your-favorite-general-knowledge-quiz-channel-of-the-year-24/"><u>[New] Find Your Favorite General Knowledge Quiz Channel of the Year, '24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-on-google-podcast-upload/"><u>[New] Guide on Google Podcast Upload</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-guide-to-youtubes-latest-income-strategies/"><u>[New] In 2024, Guide to YouTube's Latest Income Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-spectrum-an-intensive-feature-by-feature-comparison-for-2024/"><u>GoPro Spectrum An Intensive Feature-By-Feature Comparison for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-edge-40-neo-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Edge 40 Neo Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr/"><u>In 2024, Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-a-flash-streamlined-techniques-for-cutting-images-online-for-2024/"><u>In a Flash Streamlined Techniques for Cutting Images Online for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/master-fast-sharing-youtube-playlists-made-simple/"><u>Master Fast Sharing YouTube Playlists Made Simple</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/scarica-e-converti-dpx-file-su-internet-gratuito-con-i-servizi-di-moveavi/"><u>Scarica E Converti DPX File Su Internet Gratuito Con I Servizi Di MoveAVI</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-masterful-phone-apps-altering-speech-patterns-for-2024/"><u>[New] Masterful Phone Apps Altering Speech Patterns for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-selecting-superior-4k-camera-stands/"><u>[Updated] Expert Insights Selecting Superior 4K Camera Stands</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-insta-photo-carousel-magic-for-2024/"><u>[Updated] Insta-Photo Carousel Magic for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chic-characters-enhancing-facial-photo-appeal-with-picsart-motion-blur/"><u>2024 Approved Chic Characters Enhancing Facial Photo Appeal with Picsart Motion Blur</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-genesis-and-evolution-of-windows-movie-maker/"><u>2024 Approved Exploring the Genesis and Evolution of Windows Movie Maker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero5-black-or-yi-comparing-top-actions-cameras/"><u>2024 Approved Hero5 Black or YI Comparing Top Actions Cameras</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-huawei-nova-y91-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Huawei Nova Y91 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-v27-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo V27 Phone that is Locked?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/identifying-signs-of-a-faulty-graphics-card-insights-from-yl-computing-and-software-solutions/"><u>Identifying Signs of a Faulty Graphics Card: Insights From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-setup-for-high-quality-video-transmission/"><u>In 2024, Expert Setup for High-Quality Video Transmission</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-frame-tools-and-websites-image-editors/"><u>In 2024, Innovative Frame Tools and Websites Image Editors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-v30-lite-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo V30 Lite 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/quick-and-easy-video-subtitle-tutorial-using-imovie/"><u>Quick and Easy Video Subtitle Tutorial Using iMovie</u></a></li>
 </ul></div>
 

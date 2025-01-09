@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2024-12-29T00:31:04.232Z
-updated: 2025-01-01T19:33:14.329Z
+date: 2025-01-07T16:28:41.617Z
+updated: 2025-01-09T20:08:40.415Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ## Troubleshooting Guide: Resolving Discord Windows Mic Issues
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,11 +33,11 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
- Select "Yes" in the User Account Control prompt.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Select "Yes" in the User Account Control prompt.
 
 ##  Test Your Mic in Another App and Give Discord Microphone Access
 
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  If you're on Windows 11, find and launch "Sound Recorder" from the Start Menu. If you're on Windows 10, find and open "Voice Recorder". Then, click Record (a mic icon) or press Ctrl+R and start speaking into your mic.
 
 !['Record' highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-record-voice-sound-recorder.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the app records your voice, the mic is functional. In this case, use the further fixes below. If the app doesn’t record your voice, the mic might be disabled in Windows Settings. [Enable the mic](https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-best-windows-10-photos-alternatives/) using the following steps.
 
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Select the Correct Mic in Discord
@@ -82,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Reset Discord's Voice Settings
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  Open Discord and navigate to the User Settings page (the gear icon in the bottom-left). Select "Voice & Video" in the left sidebar, then scroll down in the right pane and choose "Reset Voice Settings."
 
 !['Voice & Video' and 'Reset Voice Settings' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-reset-voice-settings-discord.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the open prompt, select "Okay."
 
@@ -122,24 +122,20 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-iphone-techniques-for-stunning-scenery-shots/"><u>[New] Expert iPhone Techniques for Stunning Scenery Shots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-streamlining-your-win11-zoom-sessions/"><u>[New] From Novice to Pro Streamlining Your Win11 Zoom Sessions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frugal-cloud-cradle-for-copious-file-collection/"><u>[New] Frugal Cloud Cradle for Copious File Collection</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-artists-toolbox-essential-video-tips-for-musicians-on-youtube-for-2024/"><u>[New] The Artist's Toolbox Essential Video Tips for Musicians on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-interactive-achievements-the-click-based-reward/"><u>[Updated] 2024 Approved Interactive Achievements The Click-Based Reward</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-quickvision-w11-simple-desktop-capture-tool/"><u>[Updated] 2024 Approved QuickVision W11 Simple Desktop Capture Tool</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-boosting-gopro-power-endurance-tips-and-tricks-for-2024/"><u>[Updated] Boosting GoPro Power Endurance Tips & Tricks for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-digging-into-sharex-assessment-and-choices-for-2024/"><u>[Updated] Digging Into ShareX Assessment & Choices for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-frosty-yet-warm-choosing-the-best-winter-backdrops-for-2024/"><u>[Updated] Frosty Yet Warm Choosing the Best Winter Backdrops for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-kick-start-your-digital-broadcast-today/"><u>[Updated] How to Kick-Start Your Digital Broadcast Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>[Updated] Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fueling-audience-interaction-crafting-intriguing-fb-giving-announcements/"><u>2024 Approved Fueling Audience Interaction Crafting Intriguing FB Giving Announcements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-initiating-live-video-sharing-complete-walkthrough/"><u>2024 Approved Initiating Live Video Sharing Complete Walkthrough</u></a></li>
-<li><a href="https://blog-min.techidaily.com/bypassing-dvd-encryption-for-easy-transfer-of-movies-to-different-players/"><u>Bypassing DVD Encryption for Easy Transfer of Movies to Different Players</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-5-engaging-book-promo-videos-for-2024/"><u>Exploring 5 Engaging Book Promo Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fix-red-eyes-quickly-in-photos-on-ios-without-cost-for-2024/"><u>Fix Red Eyes Quickly in Photos on iOS Without Cost for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mpow-bluetooth-drivers-update-available-free-download-for-windows-users-on-10-8-and-7-systems/"><u>MPOW Bluetooth Drivers Update Available: Free Download for Windows Users on 10, 8, and 7 Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/revitalizing-urban-development-challenges-how-to-get-your-skyfortress-game-running/"><u>Revitalizing Urban Development Challenges: How to Get Your SkyFortress Game Running</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-linking-your-chromebook-with-shared-network-drives/"><u>Step-by-Step Guide: Linking Your Chromebook with Shared Network Drives</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levating-your-videos-status-on-youtube/"><u>[New] Elevating Your Video's Status on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-film-editing-made-easy-with-fcps-top-10-tools/"><u>[New] Expert Film Editing Made Easy with FCP's Top 10 Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-end-vector-sites-ranked-1-to-10/"><u>[New] High-End Vector Sites Ranked 1 to 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-tapping-income-through-thoughtful-product-examinations/"><u>[New] In 2024, Tapping Income Through Thoughtful Product Examinations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-sunlit-scenes-android-brighten-tips/"><u>[New] Sunlit Scenes Android Brighten Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-facebooks-auto-play-feature-for-youtube-clips/"><u>[New] Unleashing Facebook's Auto-Play Feature for YouTube Clips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-craft-your-own-film-finale-templates-no-cost-for-2024/"><u>[Updated] Craft Your Own Film Finale Templates, No Cost for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-featured-sierra-drives-files-and-more/"><u>[Updated] Full-Featured Sierra Drives, Files, and More</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-in-note-taking-with-mematic-platform/"><u>[Updated] Innovate in Note-Taking with Mematic Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-for-xbox-one-zooming-pros/"><u>2024 Approved Expert Advice for Xbox One Zooming Pros</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frame-your-life-with-iphones-top-10-photo-rules/"><u>2024 Approved Frame Your Life with iPhone's Top 10 Photo Rules</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-final-verdict-dji-action-vs-gopro-360-and-insta360-x3/"><u>In 2024, Final Verdict DJi Action Vs. GoPro 360 & Insta360 X3</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infusing-humor-into-your-social-media-posts-for-2024/"><u>Infusing Humor Into Your Social Media Posts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/g-your-channels-subscribe-button-pop/"><u>Making Your Channel's Subscribe Button Pop!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/first-steps-in-high-quality-youtubing/"><u>Your First Steps in High-Quality YouTubing</u></a></li>
 </ul></div>
 

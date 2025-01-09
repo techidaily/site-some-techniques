@@ -1,7 +1,7 @@
 ---
 title: Guide to Establishing Disposable Social Media Presence for VR Headset Enthusiasts
-date: 2024-12-12T19:30:11.366Z
-updated: 2024-12-15T18:54:34.166Z
+date: 2025-01-06T22:37:18.847Z
+updated: 2025-01-09T19:42:23.967Z
 tags:
   - cutting-edge
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 * [Quest headsets no longer require Facebook accounts](https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/), so there's no need to create a "throwaway" one. You still have to create a Meta account to keep track of your purchases, but it doesn't have to be linked to Facebook.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Why Make a Throwaway Account?](https://mondly-stories.techidaily.com/making-languid-latin-lessons-a-blast/)
@@ -28,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 * [Modding Your Quest 2](https://screen-recording.techidaily.com/new-expert-advice-on-valheim-seed-selection-for-2024/)
 
  The [Oculus Quest 2](https://www.amazon.com/dp/B099VMT8VZ/?tag=htg-v2-3lqek2p-20&ascsubtag=UUhtgUeUpU208100&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F765034%2Fhow-to-create-a-throwaway-facebook-account-for-oculus-quest%2F&asc%5Fcampaign=Short-Term) is the [best all-around VR headset](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) you can buy, but that recommendation comes with a huge asterisk. In order to use a Quest 2, you need a Facebook account! Luckily, you can minimize that hassle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  UPDATE: 8/24/22
 
@@ -55,7 +55,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Quest Privacy Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Quest-Privacy-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The safest option is to choose "only me" for all types of activity. This means that although your activity will be on your timeline, no one besides you can see or interact with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  If You Have to Create an Account
 
@@ -69,37 +77,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Facebook Privacy Checkup Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Privacy-Checkup-Option.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, choose "Who can see what you share."
 
 ![Facebook Privacy Checkup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Privacy-Checkup.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the next screen, change every setting to "Only Me" and then select "Next."
 
 ![Enter Facebook profile information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Facebook-Viewable-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Under Posts and stories, set Future posts to "Only Me." Since this profile won't have any friends, you can leave stories on "Friends." And, since there should be no past posts, there's no need to use the "Limit past posts" option.
 
 ![Posts and Stories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Posts-and-Stories.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The final step involves blocking specific users, but for this account that's irrelevant, so just complete the wizard. Now you should have an account that's Facebook policy-compliant but is locked down as much as possible.
 
 ![Account Quest 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Account-Quest-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Modding Your Quest 2
 
@@ -120,17 +120,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-single-shots-to-unified-visions-a-mosaic-story/"><u>[New] From Single Shots to Unified Visions A Mosaic Story</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unintended-tiktok-reset-regain-lost-posts/"><u>[New] In 2024, Unintended TikTok Reset – Regain Lost Posts?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-unique-audio-selections-for-video-conclusions/"><u>[Updated] Free, Unique Audio Selections for Video Conclusions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-google-powered-success-in-podcast-submissions/"><u>[Updated] Google-Powered Success in Podcast Submissions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/compreh/"><u>Compreh</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-razr-40-ultra-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Razr 40 Ultra via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-6s-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone 6s Plus If Youve Tried Everything</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-imovie-cropping-mystery-unveiled/"><u>In 2024, IMovie Cropping Mystery Unveiled</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 5G Phone FRP Lock</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/income-patterns-in-the-podcast-industry-for-2024/"><u>Income Patterns in the Podcast Industry for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-money-tips-for-reddit-novices-13-best-ways/"><u>[New] Free Money Tips for Reddit Novices (13 Best Ways!)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-iphone-footage-like-a-pro/"><u>[New] Harmonizing iPhone Footage Like a Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frolics-in-film-an-analytical-review-on-vhs/"><u>[Updated] 'Frolics in Film' An Analytical Review on VHS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-converting-xmlssattml-into-srt/"><u>[Updated] Expert Guide to Converting XML/SSA/TTML Into SRT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extended-exploration-gopro-slr4-silver-edition/"><u>[Updated] Extended Exploration GoPro SLR4 Silver Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hdr-tech-review-auroras-place-among-leaders/"><u>[Updated] HDR Tech Review Aurora's Place Among Leaders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-imovie-harmony-blending-visuals-and-melodies/"><u>[Updated] IMovie Harmony Blending Visuals and Melodies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pioneering-rpgs-rogelikes-and-their-descendants/"><u>[Updated] In 2024, Pioneering RPGs Rogelikes & Their Descendants</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovations-in-hand-tracking-and-gesture-detection/"><u>[Updated] Innovations in Hand Tracking and Gesture Detection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insider-advice-efficiently-amassing-stock-visuals-for-use/"><u>2024 Approved Insider Advice Efficiently Amassing Stock Visuals for Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fortnite-mastery-a-step-by-step-tutorial-for-newbies-starting-on-pc/"><u>Fortnite Mastery: A Step-by-Step Tutorial for Newbies Starting on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insider-tips-what-to-evaluate-before-picking-up-an-used-ipad/"><u>Insider Tips: What to Evaluate Before Picking Up an Used iPad</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastery-guide-installing-snapchat-on-mac-os-for-2024/"><u>Mastery Guide Installing Snapchat on Mac OS for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95642494-9781786780713-soul-story/"><u>Soul Story | Free Book</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-upgrade-your-video-game-top-software-for-higher-resolution/"><u>Updated In 2024, Upgrade Your Video Game Top Software for Higher Resolution</u></a></li>
 </ul></div>
 

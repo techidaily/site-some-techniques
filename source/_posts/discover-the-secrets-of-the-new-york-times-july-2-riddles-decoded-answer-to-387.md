@@ -1,7 +1,7 @@
 ---
 title: Discover the Secrets of The New York Times' July 2 Riddles - Decoded Answer to #387!
-date: 2024-12-25T19:41:46.474Z
-updated: 2025-01-01T16:19:24.447Z
+date: 2025-01-05T19:51:05.667Z
+updated: 2025-01-09T22:05:45.260Z
 tags:
   - web
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 387th Connections game to get you started:
@@ -43,7 +39,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![July 2 Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/july-2-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -54,12 +50,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Purple:** \_\_\_\_ Game
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![July 2 Connections groups and words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/july-2-connections-filled.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pack (Away) for Future Use (Yellow):** 
 
@@ -78,7 +78,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Arcade, Blame, Numbers, Squid
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -94,7 +94,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  That left arcade, blame, numbers, and squid. I'm not sure I would have seen the connection earlier, but with only the 4 words alone, I realized they were all types of "games." Purple was properly titled "\_\_\_\_\_ Game." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -125,24 +125,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-canva-enthusiasts-reveal-their-top-10-editor-steps/"><u>[New] Canva Enthusiasts Reveal Their Top 10 Editor Steps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-easily-download-your-favorites-handpicked-tools-reviewed-for-2024/"><u>[New] Easily Download Your Favorites Handpicked Tools Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-top-10-youtube-cameras-from-novices-to-experts/"><u>[New] In 2024, Top 10 YouTube Cameras, From Novices to Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-for-acquiring-pristine-images/"><u>[Updated] Expert Techniques for Acquiring Pristine Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-capture-your-linkinscape-content-top-6-tools-for-it/"><u>[Updated] How to Capture Your Linkinscape Content Top 6 Tools for It</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovating-visual-identity-with-ae-titles/"><u>[Updated] Innovating Visual Identity with AE Titles</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mac-os-unveiled-comprehensive-review-of-screenflow-v4/"><u>[Updated] Mac OS Unveiled Comprehensive Review of ScreenFlow V4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-premier-source-of-no-cost-creative-tools-in-ae/"><u>[Updated] The Premier Source of No-Cost Creative Tools in AE</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-max-360-vs-hero-11-which-takes-the-lead/"><u>2024 Approved GoPro Max 360 vs Hero 11 Which Takes the Lead?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-scrolling-through-youtube-comment-threads/"><u>2024 Approved Guide to Scrolling Through YouTube Comment Threads</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-closer-look-at-rayman-legends-exceptional-design-in-2d-platforming-expert-reviews-and-insights/"><u>A Closer Look at Rayman Legends' Exceptional Design in 2D Platforming: Expert Reviews and Insights</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/actionable-solutions-for-converting-xml-ssa-ttml-etc-to-srt-for-2024/"><u>Actionable Solutions for Converting XML, SSA, TTML, Etc., To SRT for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-influence-of-luts-on-digital-imagery-quality-for-2024/"><u>Exploring the Influence of LUTs on Digital Imagery Quality for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-more-bangs-from-lol-overcoming-sluggish-download-times-easily/"><u>Getting More Bangs From LoL: Overcoming Sluggish Download Times Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-securing-superior-quality-pics-without-charges-for-2024/"><u>Guide to Securing Superior Quality Pics without Charges for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finest-pencil-masters-free-vs-paid-windows-apps-reviewed/"><u>In 2024, Finest Pencil Masters Free vs Paid Windows Apps Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/incorporating-yt-music-streams-into-videos-for-2024/"><u>Incorporating YT Music Streams Into Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-webcams-to-boost-your-zoom-experience-for-2024/"><u>Leading Webcams to Boost Your Zoom Experience for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-chatgpt-for-effective-home-computer-repair-strategies/"><u>Unlocking the Potential of ChatGPT for Effective Home Computer Repair Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-guide-to-converting-xmlssattml-into-srt/"><u>[New] Expert Guide to Converting XML/SSA/TTML Into SRT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flipped-frames-understanding-instagram-video-orientation/"><u>[New] Flipped Frames Understanding Instagram Video Orientation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-securely-install-vrecorder-version-101/"><u>[New] In 2024, Securely Install VRecorder Version 101</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-1000-club-achievement-monthly-tips-for-insta-success-and-growth/"><u>[New] The 1,000 Club Achievement Monthly Tips for Insta Success and Growth</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flicker-studio-the-complete-lightroom-alternatives-guide/"><u>2024 Approved Flicker Studio The Complete Lightroom Alternatives Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-de-fichiers-ape-au-format-flac-guide-simple-movavi/"><u>Conversion Gratuite De Fichiers APE Au Format FLAC : Guide Simple - Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exclusive-guide-best-8-cameras-for-dynamic-livestreams-for-2024/"><u>Exclusive Guide Best 8 Cameras for Dynamic Livestreams for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-recover-deleted-items-on-your-ps4-exploring-3-effective-techniques/"><u>How to Recover Deleted Items on Your PS4: Exploring 3 Effective Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-enhancing-learning-through-educational-videos/"><u>In 2024, Enhancing Learning Through Educational Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovation-in-action-top-video-editing-strategies/"><u>In 2024, Innovation in Action Top Video Editing Strategies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-y100i-power-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo Y100i Power 5G Phone Network-Ready</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-lava-storm-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Lava Storm 5G</u></a></li>
 </ul></div>
 

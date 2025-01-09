@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond"
-date: 2024-12-31T18:30:49.077Z
-updated: 2025-01-01T16:46:23.150Z
+date: 2025-01-05T21:57:11.671Z
+updated: 2025-01-09T22:52:16.907Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ## Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ![The document editor interface in Proton Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072812.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In my experience, generative text features are only useful if what you're writing needs to be predictable in content and sterile in tone. That's a rare need in my workflow and daily life, so I don't feel I'm missing much by using Proton Docs. Those menu options other apps have with the little "stars" icon that, for some reason, signifies generative AI have become an eyesore to me; there's nothing celestial about those tools.
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
  Aside from that, I'm generally optimistic about the direction of the Proton suite. For about five years, [Proton's email](https://extra-guidance.techidaily.com/updated-maximizing-impact-with-googles-podcast-platform/) and VPN services have been mainstays for me. In that time I've had to stick to Google Docs when I needed a collaborative, cloud-based word processor. So I'm looking forward to using Proton Docs as an alternative, and without any pop-ups begging me to let a machine write for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Edit Documents With Proton
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ![Screenshot of the Proton Drive menu with annotations pointing to the 'New' button and 'New Document' menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072723.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're then in the document edit mode and can start writing. You can also upload documents made in another editor and click "Open in Docs." There's no support for ODT documents yet, but again, there's still more to come with Proton Docs—just hopefully not involving generative AI.
@@ -68,21 +68,22 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-craft-top-notch-episodes-learn-podcast-editing-secrets-with-garageband/"><u>[New] Craft Top-Notch Episodes Learn Podcast Editing Secrets with GarageBand</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-flawless-filming-ipad-timelapse-techniques-for-2024/"><u>[New] Flawless Filming IPad Timelapse Techniques for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-picks-the-very-best-tripods-for-sharp-4k-videos/"><u>[New] Premium Picks The Very Best Tripods for Sharp 4K Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-15-essential-skills-for-recording-digital-music/"><u>[Updated] Explore 15 Essential Skills for Recording Digital Music</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection/"><u>[Updated] From Fragmented Footage to Fluid Editing Inshot's Pathway to Perfection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hidden-insights-for-importer-mastery-on-windows-10/"><u>[Updated] Hidden Insights for Importer Mastery on Windows 10</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-essential-ingredients-for-triumphant-tiktok-marketing-plans/"><u>[Updated] In 2024, Essential Ingredients for Triumphant TikTok Marketing Plans</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-marketing-magic-20-keywords-for-profound-impact/"><u>2024 Approved Mastering Marketing Magic 20 Keywords for Profound Impact</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-garmin-forerunner-265-smartwatch-evaluation/"><u>Comprehensive Analysis: Garmin Forerunner 265 Smartwatch Evaluation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-mematic-for-notes-for-2024/"><u>Harness the Power of Mematic for Notes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highlighting-excellence-in-8-3d-websites-with-gold-effects-for-2024/"><u>Highlighting Excellence in 8 3D Websites with Gold Effects for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-shoot-hdr-photos-with-iphone-for-2024/"><u>How to Shoot HDR Photos with iPhone for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-reno-11-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo Reno 11 5G PC | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-flipbooks-to-frames-7-core-strategies-for-crafting-engaging-gifs/"><u>In 2024, From Flipbooks to Frames 7 Core Strategies for Crafting Engaging GIFs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-route-to-collecting-pictorial-frame-downloads/"><u>In 2024, The Route to Collecting Pictorial Frame Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211977275-solved-laptop-keys-not-working-hp-quickly-and-easily/"><u>SOLVED: Laptop Keys Not Working HP. Quickly & Easily!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-develop-and-download-your-own-instagram-alerts/"><u>[New] How to Develop & Download Your Own Instagram Alerts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-8-popular-oculus-rift-games/"><u>[New] In 2024, 8 Popular Oculus Rift Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-legacy-linkup-suite-for-2024/"><u>[New] Legacy Linkup Suite for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gamers-graphically-glorious-reviews/"><u>2024 Approved GAMER'S GRAPHICALLY GLORIOUS REVIEWS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>2024 Approved How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-app-assessment-vlles-view/"><u>2024 Approved In-Depth App Assessment VLLE's View</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-billions-in-virtual-realty-4-costly-considerations/"><u>Behind the Billions in Virtual Realty: 4 Costly Considerations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-flight-journey-with-syma-x5c-best-start-to-uav-hobbies-for-2024/"><u>First Flight Journey with Syma X5C Best Start to UAV Hobbies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-creator-to-consumer-securing-a-spot-on-apples-listings-for-2024/"><u>From Creator to Consumer Securing a Spot on Apple’s Listings for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/favorites-to-featured-the-journey-to-a-unique-youtube-list/"><u>From Favorites to Featured The Journey to a Unique YouTube List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ghostly-horizons-video-tech-update-for-2024/"><u>Ghostly Horizons Video Tech Update for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-haptic-feedback-devices-providers/"><u>In 2024, Foremost Haptic Feedback Devices Providers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-xiaomi-redmi-12-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Xiaomi Redmi 12 5G? Try These Fixes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-transform-your-photographic-vision-with-iphone-burst-shooting/"><u>In 2024, Transform Your Photographic Vision with iPhone Burst Shooting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978341206-latest-geforce-gaming-drivers-for-windows-11-and-10-secure-download-today/"><u>Latest GeForce Gaming Drivers for Windows 11 and 10 - Secure Download Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagrams-most-active-hours/"><u>Mastering Instagram's Most Active Hours</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/streamlined-qanda-list-to-attract-podcast-audience/"><u>Streamlined Q&A List to Attract Podcast Audience</u></a></li>
 </ul></div>
 

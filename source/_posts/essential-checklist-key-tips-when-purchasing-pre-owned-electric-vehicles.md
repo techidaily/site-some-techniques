@@ -1,7 +1,7 @@
 ---
 title: "Essential Checklist: Key Tips When Purchasing Pre-Owned Electric Vehicles"
-date: 2024-12-14T20:56:10.824Z
-updated: 2024-12-15T17:01:16.988Z
+date: 2025-01-02T17:07:29.361Z
+updated: 2025-01-09T19:42:41.596Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 ---
 
 ## Essential Checklist: Key Tips When Purchasing Pre-Owned Electric Vehicles
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -25,13 +21,13 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  While most of the same used car buying principles still apply, like looking over the body, checking for imperfections, and asking [questions about maintenance](https://screen-recording.techidaily.com/in-2024-budget-desktop-encoder-hacks-and-tips/), you'll need to adjust your mindset and consider several other factors. Pre-owned EVs are expensive, and here are a few things to know and do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Check the Vehicle's Accident History
 
 ![Close up of the Chevy badge on the back of the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ae55ab54.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -41,13 +37,13 @@ Justin Duino / How-To Geek
 
  Additionally, most VIN reports will have detailed information about recalls, if any, service records, and other important information that will help you make the most informed decision possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Look Into the Battery Health and Warranty
 
 ![Electric car dash range gauge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ba587f48.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-shot-electric-car-battery-range-2115845192)_
 
@@ -59,12 +55,16 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
 
  Similarly to how your 3-year-old iPhone doesn't hold a charge as well as it did the first year, electric cars experience battery degradation. For example, Tesla claims that after 100,000 miles, you'll still have over 90% battery capacity. Even an aging Tesla Model S with 180K miles should be more than capable, even if you lose around 12-15% of range due to an aging battery. At that point, it doesn't need to be replaced; it just won't charge to 100%, which is perfectly normal. Once you buy a used EV, you'll want to take a few steps to [extend the life of the battery](https://remote-screen-capture.techidaily.com/new-in-2024-top-approaches-to-non-audio-recording/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Forget About Charging
 
 ![Rivian R1T plugged into a CCS charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ef2ffd0c.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tyler Hayes / Review Geek
@@ -98,7 +98,7 @@ Justin Duino / How-To Geek
  Run the heater and air conditioning, maybe go somewhere and try charging it for a few minutes, test all the windows, etc. Again, do your due diligence and check anything and everything that's important or could go wrong. Then, you can bring anything up with the seller, use it as a bargaining chip for a lower price, or pass on the vehicle and find something better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Consider Getting a Used Electric Car
@@ -122,16 +122,24 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/eclaiming-brightness-in-youtube-videos-for-2024/"><u>[New] Reclaiming Brightness in YouTube Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-framefable-thorough-breakdown-and-instruction-booklet-2024/"><u>[Updated] FrameFable Thorough Breakdown & Instruction Booklet 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-honing-hertz-gameplay-tactics-in-free-fire/"><u>[Updated] Honing Hertz Gameplay Tactics in Free Fire</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-3-ways-to-record-whatsapp-call/"><u>[Updated] In 2024, 3 Ways to Record WhatsApp Call</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-the-exceptional-yet-pricey-a-detailed-guide-to-iphone-xs-max/"><u>Discovering the Exceptional yet Pricey - A Detailed Guide to iPhone XS Max</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/entry-level-landing-low-cost-profitable-youtube-platforms-for-2024/"><u>Entry Level Landing Low-Cost, Profitable YouTube Platforms for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-engaging-audiences-facebook-live-meets-tv/"><u>In 2024, Engaging Audiences Facebook Live Meets TV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-facetune-exploration-the-ultimate-photo-editing-journey/"><u>In 2024, Facetune Exploration The Ultimate Photo Editing Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incremental-movie-moment/"><u>In 2024, Incremental Movie Moment</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-pushing-visual-limits-in-depth-analysis-of-video-enhancer-22/"><u>In 2024, Pushing Visual Limits In-Depth Analysis of Video Enhancer 2.2</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tp-link-re5n-x-wi-fi-range-enhancement-appraisal-a-comprehensive-guide/"><u>TP-Link RE5n X Wi-Fi Range Enhancement Appraisal - A Comprehensive Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-conquering-chaos-muting-tactics-for-seamless-gmeet-participation/"><u>[New] 2024 Approved Conquering Chaos Muting Tactics for Seamless GMeet Participation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/et-rid-of-youtube-shorts-a-comprehensible-guide-for-2024/"><u>[New] Get Rid of YouTube Shorts A Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-groundhopping-goals-watch-record-and-cut-games-without-spending/"><u>[Updated] Groundhopping Goals Watch, Record & Cut Games Without Spending</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-fix-youtube-video-black-screen/"><u>[Updated] How to Fix YouTube Video Black Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-breaking-news-working-obs-cam/"><u>2024 Approved Breaking News Working OBS Cam</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-ranking-the-best-21-hdmi-monitor-models/"><u>2024 Approved Expert Insights Ranking the Best 2.1 HDMI Monitor Models</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-file-sync-solutions-top-ways-to-bring-data-home/"><u>2024 Approved File Sync Solutions Top Ways To Bring Data Home</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-honoring-heritage-photo-conversion-and-visual-storytelling/"><u>2024 Approved Honoring Heritage Photo Conversion and Visual Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-full-multitasking-in-apple-browsers/"><u>2024 Approved Unlocking Full Multitasking in Apple Browsers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/itunesiphone/"><u>解決方法：對付不能再輸入iTunes的已停用iPhone。</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopros-newest-clash-max-360-versus-hero-11-showdown-for-2024/"><u>GoPro's Newest Clash Max 360 Versus Hero 11 Showdown for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-snip-save-and-share-high-quality-tamil-ringtones-easily-for-2024/"><u>How to Snip, Save and Share High-Quality Tamil Ringtones Easily for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-video-for-2024/"><u>How to Use GoPro Hero5 Black Tips for Shooting Great Photos and Video for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/humor-in-pixels-kapwings-meme-crafting-app-for-2024/"><u>Humor in Pixels Kapwing’s Meme Crafting App for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-10-drone-fleet-for-professional-photos-and-films/"><u>In 2024, Excellent 10-Drone Fleet for Professional Photos & Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-versatility-in-vsco-imagery/"><u>In 2024, Exploring Versatility in VSCO Imagery</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-edge-uninterruptible-power-supply-systems-expert-picks/"><u>Leading Edge Uninterruptible Power Supply Systems - Expert Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030225956-powerdirector/"><u>PowerDirector 使い方: 高品質な音声を抽出するビデオ編集術</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/verified-checkmark-on-x-master-these-tips-to-authenticate-your-profile-successfully/"><u>Verified Checkmark on X? Master These Tips to Authenticate Your Profile Successfully</u></a></li>
 </ul></div>
 

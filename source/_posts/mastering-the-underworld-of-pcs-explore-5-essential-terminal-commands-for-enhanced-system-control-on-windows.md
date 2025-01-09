@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows"
-date: 2024-12-31T00:34:01.151Z
-updated: 2025-01-02T06:17:20.791Z
+date: 2025-01-07T20:17:03.933Z
+updated: 2025-01-09T18:12:05.029Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 ---
 
 ## Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,10 +44,6 @@ color 2
 
 ![Windows command prompt color change to green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-command-prompt-color-change-to-green.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The "color" command only works in Windows Command Prompt (cmd) and not in PowerShell.
 
  Both of these commands will turn your text to a bright green color, instantly giving your terminal that classic hacker aesthetic. If you want to go back to the default colors, simply enter:
@@ -61,7 +53,7 @@ color
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use dir /s Command to Create a Lot of Scrolling Text
@@ -92,7 +84,11 @@ dir /s | more
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the ping-t Command to Ping a Website Continuously
@@ -112,7 +108,7 @@ Your browser does not support the video tag.
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
@@ -128,6 +124,10 @@ cmatrix
 Your browser does not support the video tag. 
 
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
 
@@ -196,16 +196,24 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-platforms-for-procuring-youtube-ringtone-files/"><u>[New] Ideal Platforms for Procuring YouTube Ringtone Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-investigation-unraveling-the-secrets-of-bublcam-360/"><u>[New] In-Depth Investigation Unraveling the Secrets of Bublcam 360</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/astering-youtube-streaming-a-guide-for-gamers-for-2024/"><u>[New] Mastering YouTube Streaming A Guide for Gamers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-frame-by-frame-excellence-selecting-webcams-for-podcasts/"><u>[Updated] Frame-by-Frame Excellence Selecting Webcams for Podcasts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-picks-superior-iphone-tone-creators-for-2024/"><u>[Updated] Top Picks Superior iPhone Tone Creators for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-macbook-models-air-vs-pro-key-features-and-performance/"><u>Comparing MacBook Models: Air Vs. Pro - Key Features and Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/currently-hot-shows-on-max-you-cant-miss/"><u>Currently Hot Shows on MAX You Can't Miss!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gigglegraphics-eyecatchermemes-for-2024/"><u>GiggleGraphics EyeCatcherMemes for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/google-pixel-6-breakdown-from-design-to-functionality-an-expert-review/"><u>Google Pixel 6 Breakdown: From Design to Functionality – An Expert Review</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resident-evil-village-stability-tips-for-windows-users-overcome-common-pc-glitches/"><u>Resident Evil Village Stability Tips for Windows Users – Overcome Common PC Glitches</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/webcamwizardry-techniquesforperfectrecordings-for-2024/"><u>WebCamWizardry TechniquesForPerfectRecordings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exciting-joint-ventures-in-the-virtual-metaverse/"><u>[New] Exciting Joint Ventures in the Virtual Metaverse</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-real-time-game-recording-powered-by-obs-for-2024/"><u>[New] Real-Time Game Recording Powered by OBS for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-playbook-to-create-compelling-youtube-educational-videos/"><u>[New] The Ultimate Playbook to Create Compelling YouTube Educational Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-the-potential-of-instagrams-filters-a-modern-guide-2e23-for-2024/"><u>[New] Unlocking the Potential of Instagram's Filters - A Modern Guide (2E23) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-create-metaverse-avatar-easily-an-ultimate-guide/"><u>[Updated] How to Create Metaverse Avatar Easily An Ultimate Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-photoshop-stabilizers-role-crucial-for-creatives/"><u>[Updated] In 2024, Photoshop Stabilizer's Role - Crucial for Creatives?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-startup-strategy-guide-affordable-channels-to-monetize/"><u>[Updated] Startup Strategy Guide Affordable Channels to Monetize</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-picks-for-superior-steadicams-in-aerial-cinema/"><u>2024 Approved Expert Picks for Superior Steadicams in Aerial Cinema</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-life-written-in-stillness-to-moving-pictures/"><u>2024 Approved From Life' Written in Stillness to Moving Pictures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fresh-take-on-sony-s6500-hd-dvd-and-bd-player-for-2024/"><u>Fresh Take on Sony S6500 HD DVD & BD Player for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-titles-superior-blu-ray-players-for-free-and-paid-users-for-2024/"><u>Ideal Titles Superior Blu-Ray Players for Free and Paid Users for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-magix-vpxs-innovative-editing-capabilities/"><u>In 2024, Exploring Magix VPX's Innovative Editing Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gag-generator-for-the-web/"><u>In 2024, Gag Generator for the Web</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-11x-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme 11X 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-curate-christian-chimes-for-devotion/"><u>In 2024, How to Curate Christian Chimes for Devotion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-x-fold-2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo X Fold 2? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/ripara-iphone-bloccato-durante-la-migrazione-dei-dati-guida-completa-per-risolvere-i-problemi-di-trasferimento-su-iphone-13141516/"><u>Ripara iPhone Bloccato Durante La Migrazione Dei Dati: Guida Completa per Risolvere I Problemi Di Trasferimento Su iPhone 13/14/15/16</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-non-apple-non-tile-brands-discovering-exceptional-alternatives-to-the-famous-wallet-airtags-on-zdnet/"><u>Top Non-Apple, Non-Tile Brands: Discovering Exceptional Alternatives to the Famous Wallet AirTags on ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
 </ul></div>
 

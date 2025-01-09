@@ -1,7 +1,7 @@
 ---
 title: Will Politeness Enhance ChatGPT Efficiency? Discover the Intriguing Findings From Our Test
-date: 2024-12-14T17:22:20.490Z
-updated: 2024-12-15T20:15:19.581Z
+date: 2025-01-08T17:12:25.183Z
+updated: 2025-01-09T20:22:43.916Z
 tags:
   - cutting-edge
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Let The Prompting Commence!](https://phone-solutions.techidaily.com/device-unlock-realme-gt-5-pro-by-drfone-android-unlock-android-unlock/)
 * [Did Being Polite Help?](https://facebook-video-recording.techidaily.com/new-pioneering-techniques-youtube-to-facebook-amplification/)
 * [There's No Downside to Being Polite](https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,13 +40,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A Tweet censored for strong language that reads so a couple days ago i made a post about tipping chatgpt, and someone replied "huh would this actually help performance"  so i decided to test it and IT ACTUALLY WORKS. The tweet shows a bar chart where offering more tips to ChatGPT improves response length.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-03-at-15-40-49.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Instead of pretending to offer money to an AI that doesn't need it, we're going to look at being nice versus being neutral. Also, response length isn't the only thing we care about, but also the subjective quality of the response. I'll be using GPT-4, which is the more advanced version currently available to the public through [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Let The Prompting Commence!
@@ -77,6 +73,10 @@ Close
                 ![Screenshot 2024-01-08 at 17.42.23](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-42-23.png)
                     
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here it again gives better-formatted output when asked nicely, and on top of that, it's tone when speaking to me is nicer, too.
 
 **Prompt: I'd appreciate it if you could list the major differences between Python and JavaScript.** 
@@ -89,6 +89,10 @@ Close
 
 ![An excerpt from an answer given by ChatGPT to a Neutral question about JavaScript And Python](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-40-33.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This time, both answers are basically the same; it just responded in a more friendly tone when asked politely.
 
 **Prompt: Would you mind sharing the pros and cons of electric cars versus gasoline cars?** 
@@ -96,10 +100,6 @@ Close
             
                 ![An excerpt from a response by ChatGPT to a polite question about electric and gasoline cars](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-46-13.png)
                     
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Prompt: What are the pros and cons of electric cars versus gasoline cars?** 
                                         
@@ -119,10 +119,6 @@ Close
 
 ![An excerpt from a response by ChatGPT to a neutral question about AI trends](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-49-44.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With this final prompt, again the responses are pretty much the same overall.
 
 ##  Did Being Polite Help?
@@ -136,6 +132,10 @@ Close
  It could also be that using words or phrases like "please," "kindly," or "I would appreciate" are indicators to the algorithm of what kind of tone you want, though far less subtle than outright telling it to be polite and cheerful in its response.
 
  You can, of course, try this yourself, and see if you get better help from your LLM if you throw in a few please and thank yous.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  There's No Downside to Being Polite
 
@@ -162,20 +162,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-getting-started-with-action-cams-the-beginners-primer/"><u>[New] Getting Started with Action Cams - The Beginner's Primer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-appraisal-does-inshot-rule-in-video-edits/"><u>[New] In-Depth Appraisal Does InShot Rule in Video Edits?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-circle-camera-unboxing-and-tests/"><u>[Updated] Full Circle Camera Unboxing & Tests</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-guide-to-vscos-camera-app/"><u>[Updated] Full Guide to VSCO's Camera App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humor-hacks-a-compendium-of-top-meme-makers/"><u>[Updated] Humor Hacks A Compendium of Top Meme Makers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-from-words-to-wax-mastering-voice-note-techniques/"><u>[Updated] In 2024, From Words to Wax Mastering Voice Note Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unbeatable-video-popularity-tracker-in-youtube-arena/"><u>[Updated] Unbeatable Video Popularity Tracker in YouTube Arena</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726226287147-20/"><u>20대 가장 효과적인 무료 비디오 편집 도구: 워터마크 없음에도 불구하고 최고의 품질</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elevating-your-wifi-experience-a-detailed-examination-of-the-high-speed-netgeer-nighthawk-rax120/"><u>Elevating Your WiFi Experience: A Detailed Examination of the High-Speed Netgeer Nighthawk RAX120</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-greatest-vr-handhelds-listed/"><u>In 2024, Explore Greatest VR Handhelds Listed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fire-up-your-dreams-with-these-10-movie-gems/"><u>In 2024, Fire Up Your Dreams with These 10 Movie Gems</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-zero-cost-video-editing-the-best-online-options-for-2024/"><u>New Zero-Cost Video Editing The Best Online Options for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-13-apps-de-montage-video-pour-ios-la-liste-ultime-par-movavi/"><u>Top 13 Apps De Montage Vidéo Pour iOS : La Liste Ultime Par Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-driverpowerstateerror-on-your-computer/"><u>Troubleshooting DRIVER_POWER_STATE_ERROR on Your Computer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/vikings-adventure-and-betrayal-a-comprehensive-review-of-assassins-creed-valhalla-in-the-medieval-landscape/"><u>Vikings, Adventure & Betrayal: A Comprehensive Review of Assassin's Creed Valhalla in the Medieval Landscape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-future-proofing-in-the-metaverse-essential-device-lineup/"><u>[New] Future-Proofing in the Metaverse Essential Device Lineup</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grandiose-know-it-all-challenges-online/"><u>[New] Grandiose KNOW-It All Challenges Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-logos-for-podcasts-standout-strategies/"><u>[New] Iconic Logos for Podcasts Standout Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-itop-review-necessary-for-quality-recordings/"><u>[New] In 2024, ITop Review Necessary for Quality Recordings?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-top-players-for-youtube-on-ios-and-android-compared/"><u>[New] In 2024, Top Players for YouTube on iOS and Android Compared</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-the-revolutionary-4k-features-in-benq-sw320/"><u>[New] In-Depth Analysis The Revolutionary 4K Features in BenQ SW320</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark/"><u>[Updated] 2024 Approved Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-calculating-your-digital-footprint-understanding-views-and-income-from-youtube/"><u>[Updated] Calculating Your Digital Footprint Understanding Views & Income From YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-performers-webcasts/"><u>[Updated] Exclusive Performers' Webcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explaining-the-gopro-burst-mode/"><u>2024 Approved Explaining the GoPro Burst Mode</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/free-toolkit-for-unrestricted-story-archiving-for-2024/"><u>FREE Toolkit for Unrestricted Story Archiving for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-picshot-transforms-mixed-media-into-masterpieces-for-2024/"><u>How Picshot Transforms Mixed Media Into Masterpieces for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersion-and-interaction-the-high-definition-shift-of-hp-envy-27/"><u>In 2024, Immersion and Interaction The High-Definition Shift of HP Envy 27</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastery-guide-swiftly-switching-facebook-profile-pictures/"><u>Mastery Guide Swiftly Switching Facebook Profile Pictures</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-10-webm-to-mp4-converters-for-easy-conversion/"><u>New Best of the Best 10 WebM to MP4 Converters for Easy Conversion</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-pros-and-cons-of-the-radpower-radcity-n-plus-electric-hybrid-cycle/"><u>Unveiling the Pros and Cons of the RadPower RadCity N + Electric Hybrid Cycle</u></a></li>
 </ul></div>
 

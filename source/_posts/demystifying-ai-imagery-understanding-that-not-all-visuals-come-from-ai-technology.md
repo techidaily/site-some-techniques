@@ -1,7 +1,7 @@
 ---
 title: "Demystifying AI Imagery: Understanding That Not All Visuals Come From AI Technology"
-date: 2024-12-09T19:51:04.948Z
-updated: 2024-12-15T19:31:00.545Z
+date: 2025-01-03T17:02:38.845Z
+updated: 2025-01-09T22:52:01.575Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 ---
 
 ## Demystifying AI Imagery: Understanding That Not All Visuals Come From AI Technology
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  Meta recently rolled out a new “Made with AI” tag to help users distinguish between real and AI-generated content. The problem is that the tag appears indiscriminately on images created entirely with AI and those merely edited with AI. This has sparked a debate about how much AI is enough to taint an image and introduced even more confusion about what is real and what is not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  AI Media Is So Real, We Need Help Distinguishing It From Reality
 
  Do you remember that photo of the Pope in the stylish puffer jacket? At first glance, it seemed perfectly normal, and we all thought we had just been sleeping on the pope’s swag. However, it was later revealed that the photo was AI-generated. 
 
 ![An AI-generated image of the Pope wearing a puffer jacket](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-ai-generated-image-of-the-pope-wearing-a-puffer-jacket.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Going over it a second time with a fine-toothed comb, [you can tell that the image is AI-generated](https://on-screen-recording.techidaily.com/in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/), but that’s exactly the problem—no one is browsing the web with that much intensity.
 
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  With this in mind, Meta has started labeling AI-generated images uploaded to Facebook, Instagram, and Threads to help people tell them apart with ease. However, not everyone is happy about the way they’ve executed this plan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Meta’s Labeling Lumps AI-Generated and AI-Assisted Together
 
  The uproar around Meta’s AI labeling stems from the fact that the company does not discriminate between using AI to generate photo-realistic images and [using an AI process to edit a photo](https://fox-http.techidaily.com/enhancing-your-aesthetic-vision/). As far as Meta is concerned, both fall into the same category.
@@ -51,16 +51,20 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 ![An instagram post of a group of men shouting excitedly-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-instagram-post-of-a-group-of-men-shouting-excitedly-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another photographer, Peter Yan, had his image of Mount Fuji tagged “Made With AI” because he used a generative AI tool to remove a trash bin in the photo.
 
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
  The entire “Made With AI” debate may be a moot point anyway since anyone who wants to could just avoid the tag entirely. Meta relies on information in the photo metadata to identify AI processes, and it is trivially easy to remove it. [PetaPixel](https://petapixel.com/2024/05/28/instagram-photos-are-being-labeled-made-with-ai-when-theyre-not/) found in its testing that simply copy-pasting the image into a blank document was enough to get around the tag, and posting a screenshot of the image also avoids the tag.
 
  The reliability of the labeling is also suspect, as there are several obviously AI-generated images on Meta’s platforms without the tag. In contrast, other images without any AI are slapped with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  New Standards for Photography Are on the Horizon
 
@@ -116,22 +116,17 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-eye-catching-images-windows-10s-screenshot-feature/"><u>[New] 2024 Approved Eye-Catching Images Windows 10'S Screenshot Feature</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-experts-choice-optimal-vehicle-monitoring-tech/"><u>[New] Expert's Choice Optimal Vehicle Monitoring Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-breakdown-samsungs-immersive-camera-technology/"><u>[New] Full Breakdown Samsung's Immersive Camera Technology</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>[New] Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-unlocking-audacitys-full-potential-for-professional-audio/"><u>[New] In 2024, Unlocking Audacity's Full Potential for Professional Audio</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-crafting-the-perfect-gaming-channel-header/"><u>[Updated] Crafting the Perfect Gaming Channel Header</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-digital-melodies-where-to-grab-skype-ringtone-files-for-2024/"><u>[Updated] Digital Melodies Where to Grab Skype Ringtone Files for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-for-new-gopro-users-here-are-essential-accessories/"><u>[Updated] For New GoPro Users, Here Are Essential Accessories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-google-upload-mastery-a-step-by-step-guide/"><u>[Updated] Google Upload Mastery - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-retrieve-individual-frames-from-windows-media-files/"><u>[Updated] How To Retrieve Individual Frames From Windows Media Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-imagepurityplus-professional-photo-editing-suite/"><u>[Updated] ImagePurityPlus Professional Photo Editing Suite</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-achieve-professional-level-audio-quality-on-youtube/"><u>[Updated] In 2024, How to Achieve Professional-Level Audio Quality on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-4k-capture-gear-the-18-best-ones/"><u>In 2024, Excellent 4K Capture Gear - The 18 Best Ones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-disjointed-to-cohesive-perfecting-video-transition-artistry-on-inshot/"><u>In 2024, From Disjointed to Cohesive Perfecting Video Transition Artistry on Inshot</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-renewal-of-windows-photo-viewer-two-efficient-methods-in-windows-10/"><u>In 2024, Renewal of Windows Photo Viewer Two Efficient Methods in Windows 10</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-realme-narzo-60-pro-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme Narzo 60 Pro 5G FRP Without Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016368525-voicemod-troubles-heres-how-you-can-get-your-recording-software-up-and-running-smoothly/"><u>Voicemod Troubles? Here's How You Can Get Your Recording Software Up and Running Smoothly !</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-standard-to-stylish-installation-of-personalized-ringtones-and-alerts-in-android/"><u>[New] From Standard to Stylish Installation of Personalized Ringtones & Alerts in Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-social-media-savviness-mastering-4-techniques-to-record-facebook-lives/"><u>[Updated] 2024 Approved Social Media Savviness Mastering 4 Techniques to Record Facebook Lives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-an-insiders-guide-to-screen-recording-on-macs-for-2024/"><u>[Updated] An Insider's Guide to Screen Recording on Macs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-find-tiktok-background-video-some-templates/"><u>[Updated] How to Find TikTok Background Video Some Templates</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-speech-recorder-evaluation-guide/"><u>[Updated] In 2024, Speech Recorder Evaluation Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-standing-out-strategies-for-top-users-on-snapchat/"><u>[Updated] Standing Out Strategies for Top Users on Snapchat</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-virtual-artisans-haven-retreat/"><u>2024 Approved Virtual Artisans' Haven Retreat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/huntings-top-5-best-video-recorders-for-2024/"><u>Hunting's Top 5 Best Video Recorders for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-ai-visualization-toolset/"><u>In 2024, Expert AI Visualization Toolset</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-skyrocket-your-channel-growth-with-these-top-5-video-marketing-methods/"><u>In 2024, Skyrocket Your Channel Growth with These Top 5 Video Marketing Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-mount-tech-for-smooth-sensor-motion-for-2024/"><u>Innovative Mount Tech for Smooth Sensor Motion for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-power-of-compact-tech-an-in-depth-analysis-of-apples-iphone-12-mini/"><u>Unboxing the Power of Compact Tech: An In-Depth Analysis of Apple's iPhone 12 Mini</u></a></li>
 </ul></div>
 

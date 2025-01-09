@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Productivity with Microsoft Copilot: Tips for Seamless Setup on a Mac Computer"
-date: 2025-01-01T06:54:59.244Z
-updated: 2025-01-01T17:07:09.262Z
+date: 2025-01-02T16:56:50.035Z
+updated: 2025-01-09T21:06:00.767Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ## Enhancing Productivity with Microsoft Copilot: Tips for Seamless Setup on a Mac Computer
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Use the Copilot Web App](https://some-guidance.techidaily.com/2024-approved-ultimate-guide-best-zero-cost-image-editors-online/)
@@ -22,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 * [Use Copilot on Windows for the Full Experience](https://extra-lessons.techidaily.com/vlc-player-tips-10-hidden-features/)
 
  There isn't a dedicated Mac app for Microsoft's Copilot AI companion. Fortunately, if you want to use it on your Mac, you've got two good options to choose from. Let's take a look at them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use the Copilot Web App
 
@@ -36,24 +28,32 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
  You can save web apps in other browsers, too. In Chrome, tap the three-dot menu button, go to More Tools > Create Shortcut, check "Open as Window", and click "Create". In Edge, click the three-dot menu button and go to Apps > Install This Site as an App.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Run the Copilot iPad App on Your Mac
 
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ![Microsoft Copilot in the Mac App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-in-the-mac-app-store.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch the app and click "Continue" when prompted. You can use the app without signing in, but you're limited to five prompts per chat if you do, so click the Accounts button in the top-left corner to sign in. This allows up to 30 prompts.
 
 ![The Copilot iPad running app running on a Mac with Apple Silicon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-ipad-running-app-running-on-a-mac-with-apple-silicon.png) 
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
  Click the three-dot menu button in the top right and select "Show All Tones" to change the conversation style. You can choose from Creative, Balanced, and Precise. You can access your chat history here, too.
 
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Copilot on Windows for the Full Experience
 
@@ -98,22 +98,22 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-direct-tweeting-to-your-facebook-followers/"><u>[New] 2024 Approved Direct Tweeting to Your Facebook Followers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-ordinary-to-extraordinary-creating-hdr-in-lightroom/"><u>[New] From Ordinary to Extraordinary Creating HDR in Lightroom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-guide-mastery-of-adobe-cloud-services-with-alternatives-analysis/"><u>[New] Full Guide Mastery of Adobe Cloud Services with Alternatives Analysis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-goofy-unleashed-the-movie-an-examination/"><u>[New] Goofy Unleashed The Movie – An Examination</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guiding-you-to-untainted-stock-visuals/"><u>[New] Guiding You to Untainted Stock Visuals</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-capture-save-your-guide-to-androidmac-video-savings/"><u>[New] In 2024, Capture, Save Your Guide to Android/Mac Video Savings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-holographic-horizons-unveiling-new-dimensions-with-sci-fi-classics/"><u>[Updated] 2024 Approved Holographic Horizons Unveiling New Dimensions with Sci-Fi Classics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-foremost-quintet-of-cutting-edge-photo-tech/"><u>[Updated] Foremost Quintet of Cutting-Edge Photo Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gigglegrid-generate-memes-with-ease-and-speed/"><u>[Updated] GiggleGrid Generate Memes with Ease and Speed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-silence-to-sonata-cropping-and-mixing-music-into-video-content/"><u>2024 Approved From Silence to Sonata Cropping & Mixing Music Into Video Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-altitude-escapades-the-husqvarna-h501s-review-explored/"><u>In 2024, High Altitude Escapades - The Husqvarna H501S Review Explored</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-nokia-g42-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Nokia G42 5G</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-troubleshooting-tips-for-stabilizing-your-world-of-warcraft-gameplay/"><u>Quick Troubleshooting Tips for Stabilizing Your World of Warcraft Gameplay</u></a></li>
-<li><a href="https://facebook.techidaily.com/restoring-facebook-user-login-after-code-deletion/"><u>Restoring Facebook User Login After Code Deletion</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-indoor-gardens-expert-picks-by-zdnet/"><u>Top-Rated Indoor Gardens - Expert Picks by ZDNet</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/l-identity-shielding-adding-watermark-and-logo-to-youtube-media/"><u>Visual Identity Shielding Adding Watermark & Logo to YouTube Media</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-convenient-methods-for-recording-playtime-footage/"><u>[New] 2024 Approved Convenient Methods for Recording Playtime Footage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-photos-app-magic-crafting-stunningly-slow-motion-videos-online/"><u>[New] 2024 Approved Photos App Magic Crafting Stunningly Slow-Motion Videos Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-precision-players-list-the-finest-fps-gaming/"><u>[New] Precision Players’ List – The Finest FPS Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-isolate-frames-as-photos-in-windows-11/"><u>[Updated] How to Isolate Frames as Photos in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-switch-between-normal-and-picture-in-picture-views-in-youtube/"><u>[Updated] How to Switch Between Normal and Picture In Picture Views in Youtube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-illustrators-secret-creating-seamless-image-movement-for-2024/"><u>[Updated] Illustrator's Secret Creating Seamless Image Movement for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-maximize-visual-impact-smart-zooming-tricks-in-snapchat/"><u>[Updated] Maximize Visual Impact Smart Zooming Tricks in Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-dull-to-vivid-practical-steps-to-revitalize-digital-imagery/"><u>2024 Approved From Dull to Vivid Practical Steps to Revitalize Digital Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-standard-to-spectacomed-adding-fonts-to-after-effects-workflow/"><u>2024 Approved From Standard to Spectacomed Adding Fonts to After Effects Workflow</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-and-paid-drawing-tools-for-windows-enthusiasts-for-2024/"><u>Free and Paid Drawing Tools for Windows Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-y55s-5g-2023-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo Y55s 5G (2023) Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-constructing-attention-grabbing-trailers-for-youtube/"><u>In 2024, Constructing Attention-Grabbing Trailers for YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggles-and-grins-topical-humor-guides-for-everyone/"><u>In 2024, Giggles and Grins Topical Humor Guides for Everyone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hall-of-fame-movie-scenarios/"><u>In 2024, Hall of Fame Movie Scenarios</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-maximize-google-photos-for-photography-enthusiasts/"><u>In 2024, How to Maximize Google Photos for Photography Enthusiasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/snapshotpro-v2021-ultimate-edition-for-2024/"><u>SnapshotPro V2021 - Ultimate Edition for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-performance-analysis/"><u>Tom's Tech Insights: Expert Gadget Reviews and Performance Analysis</u></a></li>
 </ul></div>
 

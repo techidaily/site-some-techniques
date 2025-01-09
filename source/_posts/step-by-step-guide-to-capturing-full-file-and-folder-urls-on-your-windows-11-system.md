@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System
-date: 2024-12-19T22:15:16.612Z
-updated: 2024-12-24T16:08:25.169Z
+date: 2025-01-06T17:17:08.405Z
+updated: 2025-01-09T22:54:50.390Z
 tags:
   - deals
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [From the Right-Click Menu](https://tiktok-clips.techidaily.com/updated-2024-approved-unveil-the-secrets-of-exceptional-tiktok-intro-videos-mac/)
@@ -22,10 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [From a File Explorer Toolbar Option](https://vp-tips.techidaily.com/updated-revolutionizing-image-capture-with-ios-11-updates/)
 * [How to Copy the Path of an App](https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/)
 * [Tips for Pasting the File, Folder, or App Path You’ve Copied](https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,7 +32,7 @@ Hannah Stryker / How-To Geek
  Copying a file or folder’s path on Windows 11 is as easy as selecting an option in the right-click menu or pressing a keyboard shortcut. We’ll show you how to do it in various ways on your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  From the Right-Click Menu
@@ -79,11 +71,11 @@ Hannah Stryker / How-To Geek
 
 ![The three dots and 'Copy Path' highlighted for an item in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-copy-path-file-explorer-toolbar-option.jpg) 
 
- And that’s it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ And that’s it.
 
 ##  How to Copy the Path of an App
 
@@ -92,7 +84,7 @@ Hannah Stryker / How-To Geek
 ![The 'Target' field highlighted on the 'Properties' window of an app shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-copy-path-app-shortcut-target-field.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you launch your app via Windows Search and not from a desktop shortcut, it’s still possible to find your app’s full path. To do that, open the Start Menu and search for your app. Right-click the app and select "Open File Location."
@@ -104,6 +96,14 @@ Hannah Stryker / How-To Geek
  Your app is now highlighted. Right-click the app and select "Copy as Path."
 
 !['Copy as Path' highlighted for an app in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-copy-app-path.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tips for Pasting the File, Folder, or App Path You’ve Copied
 
@@ -132,18 +132,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-reveling-in-4k-an-in-depth-look-at-yis-hero-series/"><u>[New] 2024 Approved Reveling in 4K An In-Depth Look at Yi’s HERO Series</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-social-media-savvy-unlock-the-secrets-of-crafting-winning-bios-on-facebook-for-2024/"><u>[New] Social Media Savvy Unlock the Secrets of Crafting Winning Bios on Facebook for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fabricate-funny-images-on-giphy/"><u>[Updated] Fabricate Funny Images on Giphy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamentals-of-writing-captivating-videography-scripts/"><u>2024 Approved Fundamentals of Writing Captivating Videography Scripts</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-honor-magic5-ultimate-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Honor Magic5 Ultimate? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/foremost-quintet-of-cutting-edge-photo-tech-for-2024/"><u>Foremost Quintet of Cutting-Edge Photo Tech for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hand-tracking-explained-types-and-applications-for-2024/"><u>Hand Tracking Explained Types and Applications for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-format-switching-srt-to-advanced-standards/"><u>In 2024, Expertise in Format Switching SRT to Advanced Standards</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-firefoxs-multitasking-toolkit-the-pip-mode/"><u>In 2024, Firefox's Multitasking Toolkit The PIP Mode</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/investigating-unmodified-audio-from-ffmpeg-output/"><u>Investigating Unmodified Audio From FFmpeg Output</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-and-ipad-sync-settings-how-to-disable-auto-ring-feature-on-ipad/"><u>IPhone & iPad Sync Settings: How To Disable Auto-Ring Feature on iPad</u></a></li>
-<li><a href="https://win-community.techidaily.com/tech-giant-microsoft-boosts-employee-collaboration-through-enhanced-teams-features-unveiled-on-zdnet/"><u>Tech Giant Microsoft Boosts Employee Collaboration Through Enhanced Teams Features, Unveiled on ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y78t-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y78t Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-exploring-apeaksofts-innovations-in-screen-recording/"><u>[New] 2024 Approved Exploring Apeaksoft’s Innovations in Screen Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-filmcraft-studio-top-alternatives-for-lightroom-users/"><u>[New] FilmCraft Studio Top Alternatives for Lightroom Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-calculating-your-podcasts-cost/"><u>[New] In-Depth Analysis Calculating Your Podcast's Cost</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-tv-friendly-practices-for-facebook-lives/"><u>[New] Unveiling TV-Friendly Practices for Facebook Lives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastering-iphones-screen-capture-features/"><u>[Updated] 2024 Approved Mastering iPhone's Screen Capture Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-groundbreaking-gear-for-next-level-virtual-reality/"><u>[Updated] Groundbreaking Gear for Next-Level Virtual Reality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-webcams-elevating-podcast-production/"><u>[Updated] Ideal Webcams Elevating Podcast Production</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-wirecast-other-options-to-consider/"><u>2024 Approved Evaluating WireCast Other Options To Consider</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-boundaries-of-ae-type-design/"><u>2024 Approved Exploring the Boundaries of AE Type Design</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-tinytake-screen-recorder-review-and-alternative/"><u>2024 Approved TinyTake Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-cold-war-boot-bug-tips-and-tricks-for-smooth-gameplay-across-platforms/"><u>Beat the Cold War Boot Bug: Tips & Tricks for Smooth Gameplay Across Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-libre-de-fichiers-raf-a-jpg-en-ligne-solutions-rapides-avec-movavi/"><u>Conversion Libre De Fichiers RAF À JPG en Ligne – Solutions Rapides Avec Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-audience-connection-implementing-a-triplet-of-copywriting-tactics-in-fb-ads/"><u>In 2024, Audience Connection Implementing a Triplet of Copywriting Tactics in FB Ads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-book-trailer-selections/"><u>In 2024, Exceptional Book Trailer Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experts-guide-swift-and-effective-sticker-removal-from-videos/"><u>In 2024, Expert's Guide Swift and Effective Sticker Removal From Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-securing-your-scene-minimize-camera-jostle/"><u>In 2024, Securing Your Scene Minimize Camera Jostle</u></a></li>
 </ul></div>
 

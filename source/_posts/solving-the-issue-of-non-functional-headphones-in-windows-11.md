@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Non-Functional Headphones in Windows 11
-date: 2024-12-31T20:56:59.963Z
-updated: 2025-01-02T07:20:19.694Z
+date: 2025-01-05T17:48:34.531Z
+updated: 2025-01-09T18:56:27.097Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Solving the Issue of Non-Functional Headphones in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,10 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Disable Exclusive Mode and Audio Enhancements](https://techtrends.techidaily.com/revive-your-ps5s-charging-functionality-a-guide-for-unresponsive-controllers/)
 * [Run the Audio Troubleshooter](https://vp-tips.techidaily.com/updated-first-flight-fun-best-easy-to-use-drones-for-2024/)
 * [Update Your Audio Drivers](https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-effective-virtual-meetings-with-zoom-win10/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -50,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Unmuting the volume in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-unmuting-the-volume-in-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Check for Hardware Issues
@@ -58,6 +58,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If the volume isn't muted, ensure your headphones aren't faulty. To check that, simply unplug your headphones from your device and plug them into another computer or your smartphone. If your headphones also don't work on other devices, they're probably faulty. So, either have them inspected by a technician or replace them.
 
  However, if your headphones work fine elsewhere, the issue is device-specific. So, keep applying the remaining fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Rule Out Bluetooth Interference (for Bluetooth Headphones)
 
@@ -67,15 +71,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Additionally, [troubleshoot Bluetooth issues on Windows](https://desktop-recording.techidaily.com/2024-approved-top-5-best-ps3-emulator-for-pc/) to rule out the problem being your Bluetooth connection as a whole, rather than your headphones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. Check for App-Specific Issues
 
  If your headphones don't work in a particular app, check if they work in other apps installed on your device. If they do, the issue might be specific to that app. So, ensure the volume isn't muted in that app, your headphones are set as default, and go through other settings that could cause the problem.
 
  If your headphones don't work in any application or throughout the operating system, then the issue is more widespread.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Set Your Headphones as the Default Output Device
 
@@ -88,10 +92,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  In the Sound window, go to the "Playback" tab. If a different device is selected as default here, right-click on your headphones and select "Set as Default Device."
 
 ![Selecting the headphones as default in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-selecting-the-headphones-as-default-in-sound-settings-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  7\. Disable Exclusive Mode and Audio Enhancements
 
@@ -106,7 +106,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Disabling exclusive mode and audio enhacements in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-disabling-exclusive-mode-and-audio-enhacements-in-sound-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  8\. Run the Audio Troubleshooter
@@ -115,13 +115,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening other troubleshooters settings on windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-opening-other-troubleshooters-settings-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, click "Run" next to "Audio," and the Get Help app opens, seeking your permission to diagnose the issue. Click "Yes," and the troubleshooter begins. Allow the scan to complete, and follow the on-screen instructions provided during the diagnosis.
 
 ![Running the audio diagnostic from the get help app on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-running-the-audio-diagnostic-from-the-get-help-app-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  9\. Update Your Audio Drivers
 
@@ -132,7 +132,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Updating the sound driver in Windows Device Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-updating-the-sound-driver-in-windows-device-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select "Browse my computer for drivers," locate the downloaded files, and follow the on-screen instructions. Repeat these steps to update Bluetooth drivers.
@@ -156,18 +156,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-resolution-blu-ray-delight-top-3d-player-selections/"><u>[New] High-Resolution Blu-Ray Delight Top 3D Player Selections</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-imovie-cropping-query-the-hidden-logic-behind-it/"><u>[New] IMovie Cropping Query The Hidden Logic Behind It</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ecrets-of-asmr-success-with-top-recorder-mics/"><u>[New] Secrets of ASMR Success with Top Recorder Mics</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlined-recording-of-powerpoint-slides-via-webcam/"><u>[Updated] In 2024, Streamlined Recording of PowerPoint Slides via Webcam</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-pixel-perfection-for-those-just-starting-out/"><u>[Updated] Pixel Perfection for Those Just Starting Out</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-gopro-hero5-sessions/"><u>2024 Approved Exploring the GoPro Hero5 Sessions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-practices-in-setting-up-your-playstation-4s-webcam-location/"><u>Best Practices in Setting Up Your PlayStation 4'S Webcam Location</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-music-tools-for-pcs/"><u>In 2024, Exclusive Music Tools for PCs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-got-ringtone-leading-online-retailers/"><u>In 2024, Find Your GoT Ringtone - Leading Online Retailers</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-editors-beat-pairing-visual-sequences-with-musical-tempo-using-adobe-premiere-pro-for-2024/"><u>New The Editors Beat Pairing Visual Sequences with Musical Tempo Using Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-perfect-blend-of-speed-and-affordability-an-in-depth-review-of-google-pixel-4a-5g/"><u>The Perfect Blend of Speed and Affordability - An In-Depth Review of Google Pixel 4a (5G)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-mini-tablets-of-2024-in-depth-comparison-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Mini Tablets of 2024 - In-Depth Comparison & Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://win-latest.techidaily.com/uncovering-unique-content-a-guide-to-locating-fresh-materials-using-flipbuilders-tools/"><u>Uncovering Unique Content: A Guide to Locating Fresh Materials Using FlipBuilder's Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-scoop-unveiling-googles-podcast-application/"><u>[New] Full Scoop Unveiling Google's Podcast Application</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-abletons-techniques-for-diminishing-sound-intensity/"><u>[New] In 2024, Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-confusion-to-clarity-your-telegram-web-guidebook/"><u>[Updated] From Confusion to Clarity Your Telegram Web Guidebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-matches-mac-and-pc-video-decoders-freepaid/"><u>[Updated] Ideal Matches Mac & PC Video Decoders (FREE/PAID)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-software-showdown-sns-vs-others/"><u>2024 Approved HDR Software Showdown SNS vs Others</u></a></li>
+<li><a href="https://article-posts.techidaily.com/audiences-choice-in-drama-writings-for-2024/"><u>Audience's Choice in Drama Writings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-edge-of-screen-innovation-with-benq-sw320-for-2024/"><u>Exploring the Edge of Screen Innovation with BenQ SW320 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fine-tuning-your-fly-top-tips-for-choosing-drone-propellers-for-2024/"><u>Fine-Tuning Your Fly Top Tips for Choosing Drone Propellers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-shot-to-showcase-smooth-video-capture-and-post-editing-with-adobe-connect/"><u>From Shot to Showcase Smooth Video Capture & Post-Editing with Adobe Connect</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-in-depth-world-of-magix-video-pro-x/"><u>In 2024, Exploring the In-Depth World of Magix Video Pro X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopros-battle-royale-hero5-b-stacked-against-session/"><u>In 2024, GoPro's Battle Royale Hero5 B Stacked Against Session</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-songs-and-visuals-adding-youtube-music-to-videos/"><u>In 2024, Harmonizing Songs and Visuals Adding YouTube Music to Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-nuc-driver-update-streamlined-installation-process/"><u>Intel NUC Driver Update: Streamlined Installation Process</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/precision-and-performance-in-every-shade-the-eizo-cg318-4k-monitor-for-2024/"><u>Precision and Performance in Every Shade – The EIZO CG318-4K Monitor for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-guide-to-patch-up-erratic-filmmaker-productions/"><u>Quick Guide to Patch Up Erratic Filmmaker Productions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mline-your-browsing-eliminate-youtube-ads-in-chrome-firefox-ios/"><u>Streamline Your Browsing Eliminate YouTube Ads in Chrome, Firefox, iOS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209636321-9781612834184-sun-signs-for-lovers/"><u>Sun Signs for Lovers | Free Book</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unlock-the-power-of-persuasion-perfecting-your-shorts-visual-hook/"><u>Unlock the Power of Persuasion Perfecting Your Shorts' Visual Hook</u></a></li>
 </ul></div>
 

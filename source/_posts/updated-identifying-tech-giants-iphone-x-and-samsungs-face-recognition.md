@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Identifying Tech Giants  IPhone X & Samsung's Face Recognition\""
-date: 2024-12-11T21:58:57.140Z
-updated: 2024-12-15T22:16:11.799Z
+date: 2025-01-06T16:09:10.139Z
+updated: 2025-01-09T19:34:24.789Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 * [Part 3: The Common Inconvenience](#part3)
 * [Part 4: Safety Issue](#part4)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How does it work?
 
  This section will cover how the face recognition technology works for both the devices. Check out the process.
@@ -53,11 +49,19 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: The Common Inconvenience
 
@@ -70,11 +74,11 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Safety Issue
@@ -92,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -120,16 +120,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-simplify-information-storage-via-mematic/"><u>[New] In 2024, Simplify Information Storage via Mematic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-mobile-multimedia-tools-to-transform-photos/"><u>[New] Innovative Mobile Multimedia Tools to Transform Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-first-time-filmmakers-camera-essentials-and-picks/"><u>[Updated] First-Time Filmmaker’s Camera Essentials & Picks</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210256652-9780578884820-alchemy-of-becoming/"><u>Alchemy of Becoming | Free Book</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/giroptics-virtual-sphere-breakdown-for-2024/"><u>Giroptic's Virtual Sphere Breakdown for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highlighted-visions-is-intensified-lighting-the-future-of-hd-in-hdr-in-2024/"><u>Highlighted Visions Is Intensified Lighting the Future of HD in HDR, In 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 12 mini</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-bring-your-ideas-to-life-best-stop-motion-apps-for-ios-and-android-for-2024/"><u>New Bring Your Ideas to Life Best Stop Motion Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-unlock-the-power-of-seamless-movement-with-these-7-trendy-transition-audio-files-no-cost-for-2024/"><u>New Unlock the Power of Seamless Movement with These 7 Trendy Transition Audio Files (No Cost) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essentials-of-understanding-windows-reserved-memory/"><u>The Essentials of Understanding Windows' Reserved Memory</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-efficient-ways-to-extract-and-save-audio-tracks-from-video-files-across-multiple-devices/"><u>Updated Efficient Ways to Extract and Save Audio Tracks From Video Files Across Multiple Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-identity-change-on-google-meet-via-pc-and-phone/"><u>[New] 2024 Approved Mastering Identity Change on Google Meet via PC & Phone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ynamic-subtitle-artisan/"><u>[New] Dynamic Subtitle Artisan</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-becoming-an-active-participant-in-tiktok-lives/"><u>[New] In 2024, Becoming an Active Participant in TikTok Lives</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-pathway-to-profitability-with-the-new-youtube-premium-program/"><u>[New] In 2024, Pathway to Profitability with the New YouTube Premium Program</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-step-by-step-save-movs-on-windows-10/"><u>[New] Step-by-Step Save MOVs on Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-ultimate-overview-vsco-creative-suite-for-2024/"><u>[New] Ultimate Overview VSCO Creative Suite for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-faster-than-ever-revolutionary-methods-to-speed-up-fb-videos/"><u>[Updated] Faster Than Ever Revolutionary Methods to Speed Up FB Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-joke-to-share-perfecting-the-meme-process/"><u>[Updated] From Joke to Share Perfecting the Meme Process</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-frontier-makers-of-harmonized-audio-visual-experiences/"><u>[Updated] In 2024, Frontier Makers of Harmonized Audio-Visual Experiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/google-ar-stickers-explained-with-comparative-alternatives-for-2024/"><u>Google AR Stickers Explained with Comparative Alternatives for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hear-the-difference-on-chrome-the-ultimate-guide-to-voice-alteration-apps/"><u>In 2024, Hear the Difference on Chrome The Ultimate Guide to Voice Alteration Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hilarityhatcher-create-comedy-with-a-click/"><u>In 2024, HilarityHatcher Create Comedy with a Click</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-modify-user-numbers-in-tiktok/"><u>In 2024, Innovative Approaches to Modify User Numbers in TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incorporating-soundscapes-into-your-social-media-masterpieces-for-2024/"><u>Incorporating Soundscapes Into Your Social Media Masterpieces for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-benefits-of-switching-to-an-ergonomic-mouse-now-insights-from-zdnet/"><u>Top 3 Benefits of Switching to an Ergonomic Mouse Now: Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-tips-and-tricks-for-throwing-an-unforgettable-labor-day-bash-insights-from-zdnet/"><u>Ultimate Guide: Tips and Tricks for Throwing an Unforgettable Labor Day Bash - Insights From ZDNET</u></a></li>
 </ul></div>
 

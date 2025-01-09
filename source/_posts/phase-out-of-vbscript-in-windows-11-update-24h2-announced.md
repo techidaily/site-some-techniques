@@ -1,7 +1,7 @@
 ---
 title: Phase-Out of VBScript in Windows 11 Update 24H2 Announced
-date: 2024-12-25T16:04:12.297Z
-updated: 2025-01-02T04:13:38.063Z
+date: 2025-01-04T21:40:58.823Z
+updated: 2025-01-09T20:37:13.919Z
 tags:
   - desktop
 categories:
@@ -40,26 +40,26 @@ Visual Basic Scripting Edition, or VBScript, has been a scripting language and a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mavic-air-ushers-in-new-era-confronting-dji-sparks-legacy/"><u>[New] 2024 Approved Mavic Air Ushers in New Era, Confronting DJI Spark’s Legacy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gag-generator-for-the-web/"><u>[New] Gag Generator for the Web</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-budget-for-video-popularity-on-youtube/"><u>[New] How to Budget for Video Popularity on YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-10plus-tools-to-record-your-pc-screen-seamlessly/"><u>[Updated] 2024 Approved Top 10+ Tools to Record Your PC Screen Seamlessly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-grappling-giants-twitch-triumph-or-hitbox-heroics/"><u>[Updated] Grappling Giants Twitch Triumph or Hitbox Heroics?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-winning-at-freefire-top-strategies-and-hashtags-shared/"><u>[Updated] Winning at FreeFire Top Strategies and Hashtags Shared</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-instagrams-unpredictable-video-playback/"><u>2024 Approved Exploring Instagram's Unpredictable Video Playback</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-viral-beats-to-ringtones-transforming-tiktok-sounds/"><u>2024 Approved From Viral Beats to Ringtones Transforming TikTok Sounds</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-secret-sauce-of-profitable-fb-ads-with-dynamic-animation/"><u>2024 Approved The Secret Sauce of Profitable FB Ads with Dynamic Animation</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-xs-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone XS without Password?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-radiant-qualities-of-hd-lighting/"><u>In 2024, Evaluating Radiant Qualities of HD Lighting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-static-to-dynamic-making-text-pop-on-instagram-stories/"><u>In 2024, From Static to Dynamic Making Text Pop on Instagram Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom/"><u>In 2024, Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-file-conversion-in-vlc-starting-with-mp4-for-2024/"><u>Navigating the World of File Conversion in VLC, Starting with MP4 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quick-access-to-files-on-windows-os/"><u>Quick Access to Files on Windows OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-implementing-bavarder-on-linux/"><u>Simple Steps: Implementing Bavarder on Linux</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-recording-skills-for-every-lenovo-user-for-2024/"><u>[New] Essential Recording Skills for Every Lenovo User for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-versatility-in-vsco-imagery/"><u>[New] Exploring Versatility in VSCO Imagery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-beginner-to-expert-choose-studio-or-beta-for-2024/"><u>[New] From Beginner to Expert Choose Studio or Beta for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-first-use-to-expertise-a-comprehensive-fcp-guidebook/"><u>[New] From First Use to Expertise A Comprehensive FCP Guidebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hearing-from-you-simple-windows-10-recorder-guide/"><u>[New] Hearing From You Simple Windows 10 Recorder Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-essential-color-grading-techniques-a-beginners-guide-for-2024/"><u>[Updated] Essential Color Grading Techniques A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-range-creativity-with-premium-ae-samples/"><u>[Updated] Free-Range Creativity with Premium AE Samples</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-expertly-use-vscos-adjustment-brushes/"><u>[Updated] How to Expertly Use VSCO's Adjustment Brushes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-the-monetary-aspects-of-podcasting-for-2024/"><u>Evaluating the Monetary Aspects of Podcasting for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/experiencing-netflix-issues-heres-how-to-confirm-if-its-a-global-problem/"><u>Experiencing Netflix Issues? Here's How to Confirm if It’s a Global Problem</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-hero5-session-vs-hero-session-for-2024/"><u>GoPro Hero5 Session Vs Hero Session for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-finest-8-websites-3d-and-luxurious-text/"><u>In 2024, Explore the Finest 8 Websites 3D & Luxurious Text</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-step-by-step-harvesting-hundreds-of-tiktok-videos/"><u>In 2024, Step-by-Step Harvesting Hundreds of TikTok Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/g-parts-of-youtube-a-comprehensive-tutorial/"><u>Saving Parts of YouTube A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-15-ideais-mais-confiaveis-para-desenho-de-identidade-visual-zero-costos-na-web/"><u>Top 15 Ideais Mais Confiáveis Para Desenho De Identidade Visual Zero-Costos Na Web</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-ai-potential-for-enhanced-windows-applications/"><u>Unveiling AI Potential for Enhanced Windows Applications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-are-the-advantages-and-drawbacks-of-choosing-a-wi-fi-mesh-network-over-traditional-setups/"><u>What Are the Advantages and Drawbacks of Choosing a Wi-Fi Mesh Network Over Traditional Setups?</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

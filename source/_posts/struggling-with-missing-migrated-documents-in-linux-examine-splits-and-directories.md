@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2024-12-29T21:47:15.667Z
-updated: 2025-01-02T06:47:36.234Z
+date: 2025-01-04T21:41:15.793Z
+updated: 2025-01-09T18:44:39.873Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Or did it? When they cd into the target directory, the file isn’t there. And of course, because mv moves the file from the original directory, it’s not there either. It’s starting to look like the file has been lost in the ether. This is usually the point where the frustrated user reaches out for help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Part Slash Plays in the mv Command
@@ -45,16 +45,12 @@ ls ~/Downloads/src
     
 ![Moving a file with the mv command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That’s nice and simple, and everything works as expected. If we look into our target directory, we find the moved file, and we get on with the rest of our work.
 
 ![A moved file in its new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But let's say our Linux newcomer isn’t using [tab completion](https://desktop-recording.techidaily.com/new-2024-approved-an-impartial-appraisal-the-power-of-recordcast/). They're typing the directory paths by hand. If they misspell the name of the final directory, we get a very different behavior.
@@ -74,7 +70,7 @@ ls ~/Documents/backup/
 ![Using ls to look for the file in the original and new directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original and target directories are both empty. Where did the file go?
@@ -84,6 +80,10 @@ ls ~/Documents/backup/
 ls -l ~/Documents
 
 ![The location of the missing and misspelled file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To fix this, you can move your file to where it should have gone, and specify its proper name on the command line.
 
@@ -99,15 +99,15 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 ![The trailing slash on the mv command line flags errors with the final directory name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The trailing slash explicitly tells Bash that this is a directory name, not a filename. Because Bash can’t find the misspelled directory, it reports the error to you and doesn’t move anything.
 
  This is a better outcome for failures. You’re alerted to the error, and the original file remains touched.
 
  Using the Bash tab completion feature not only speeds up the entry of directory paths, it gives a few extra bonuses. All the directory names are automatically spelled correctly, and a trailing slash is added to the final directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  It’s Not Exactly Slash’s Fault
 
@@ -130,21 +130,18 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fifteen-methods-to-reset-a-twitch-stream-in-real-time/"><u>[New] Fifteen Methods to Reset a Twitch Stream in Real-Time</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-framework-for-visual-storytelling/"><u>[New] Framework for Visual Storytelling</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitterize-your-tiktok-posts/"><u>[New] Twitterize Your TikTok Posts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-elevating-your-look-expert-tutorials-for-everyone-for-2024/"><u>[Updated] Elevating Your Look Expert Tutorials for Everyone for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-revisiting-historical-facebook-posts-mobilelaptop-for-2024/"><u>[Updated] The Art of Revisiting Historical Facebook Posts (Mobile/Laptop) for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-video-virtuosity-expertly-attaching-audio-to-youtube-videos-for-2024/"><u>[Updated] Video Virtuosity Expertly Attaching Audio to YouTube Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-filmmaking-mastering-imovie-audio/"><u>2024 Approved Harmonious Filmmaking Mastering iMovie Audio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-get-gratis-safe-vlc-media-player-on-mac-os-x-devices/"><u>2024 Approved How to Get Gratis, Safe VLC Media Player on Mac OS X Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-iphone-macro-photography-tips-and-tricks-for-2024/"><u>Expert iPhone Macro Photography Tips and Tricks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-lens-masterful-techniques-to-enhance-iphone-images-for-2024/"><u>Harnessing the Lens Masterful Techniques to Enhance iPhone Images for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nubia-red-magic-9-proplus-lock-screen-password-by-drfone-android/"><u>How To Change Nubia Red Magic 9 Pro+ Lock Screen Password?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-def-phones-with-vlogging-extras/"><u>In 2024, High-Def Phones with Vlogging Extras</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-quell-the-quake-techniques-to-smooth-out-gopro-footage/"><u>In 2024, Quell the Quake Techniques to Smooth Out GoPro Footage</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-downloading-and-updating-the-scansnap-driver-with-ease/"><u>Quick-Guide: Downloading and Updating the ScanSnap Driver with Ease!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-s18-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo S18</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fixed-how-do-i-convert-zip-file-into-srt-file-for-2024/"><u>[Fixed!] How Do I Convert Zip File Into Srt File for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frame-your-images-right-best-tools-and-sites-of-2023/"><u>[New] Frame Your Images Right Best Tools & Sites of 2023</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-windows-10-capture-miniapp/"><u>[Updated] 2024 Approved Windows 10 Capture MiniApp</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flipping-the-script-on-memes-with-kinemaster/"><u>[Updated] Flipping the Script on Memes with KineMaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-watch-record-and-edit-football-matches-for-free/"><u>[Updated] How to Watch, Record, and Edit Football Matches for Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-down-trojan-attacks-insights-from-linus-tech-tips-ai-safety-measures-with-chatgpt-and-ensuring-digital-security/"><u>Breaking Down Trojan Attacks - Insights From Linus Tech Tips, AI Safety Measures with ChatGPT, and Ensuring Digital Security</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g13-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmony-hearts-the-ideal-playlist-for-a-life-changing-kiss/"><u>In 2024, Harmony Hearts The Ideal Playlist for a Life-Changing Kiss</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-haunting-actions-high-definition-cams/"><u>In 2024, Haunting Actions High Definition Cams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-economics-of-video-promotion-platforms/"><u>In 2024, The Economics of Video Promotion Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nostalgia-for-unreliable-tech-the-irony-behind-our-obsession-with-rear-projection-televisions/"><u>Nostalgia for Unreliable Tech: The Irony Behind Our Obsession with Rear-Projection Televisions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/verlustfreies-ubertragen-von-dvds-auf-ihren-mac-einfache-schritte-zur-qualitatsgewahrleistung/"><u>Verlustfreies Übertragen Von DVDs Auf Ihren Mac - Einfache Schritte Zur Qualitätsgewährleistung</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-do-so-many-people-hate-facebook/"><u>Why Do So Many People Hate Facebook?</u></a></li>
 </ul></div>
 

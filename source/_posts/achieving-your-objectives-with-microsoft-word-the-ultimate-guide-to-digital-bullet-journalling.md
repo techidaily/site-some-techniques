@@ -1,7 +1,7 @@
 ---
 title: "Achieving Your Objectives with Microsoft Word: The Ultimate Guide to Digital Bullet Journalling"
-date: 2025-01-07T19:13:16.223Z
-updated: 2025-01-09T18:47:45.891Z
+date: 2025-01-09T16:01:53.812Z
+updated: 2025-01-15T16:32:23.320Z
 tags:
   - deals
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 * Follow the standard bullet journal structure in your digital bullet journal, and create an index, future log, monthly log, and daily log.
 
  You don’t need a paper notebook to keep a bullet journal—it can live inside Microsoft Word. Turning a Word document into a bullet journal works perfectly if you normally have your laptop or tablet handy. If you struggle to keep a bullet journal on paper, you might like a digital version better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why You Should Use Word for Bullet Journaling
 
@@ -52,19 +56,11 @@ Bulletjournal.com
 * Microsoft Word.
 * Dot pattern image file (optional).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Create the Spread
 
  First create a blank document and apply a theme of your choice.
 
 ![Theme templates in Word.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240711-020713.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We need to set up the document before we can create individual pages for the bullet journal. Let’s start by [adding page numbers](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-gt-neo-5-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/). Double-click anywhere on top of the document to open the Header and Footer menu. On the "Header and Footer" ribbon, click "Page Number" and pick a page number format. Then close the Header and Footer menu.
 
@@ -82,6 +78,10 @@ Close
 
 ![Creating the index page in a bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-202543.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Create the Future Log
 
  The future log is where you make long-term plans. Tasks, events, or notes that’ll be relevant in the next six months show up here. The future log doesn’t have to start from January. It should start from your current month. [Create a table](https://fox-http.techidaily.com/in-2024-unlocking-your-iphones-audio-library-with-top-podcast-strategies/) for the future log using the "Table" button in the "Insert" tab.
@@ -94,10 +94,6 @@ Close
 
 ![ksnip_20240801-203144](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203144.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Create the Daily Log
 
  The daily log always goes on the very next blank space of your bullet journal. Just jot down the day and date and start logging. The daily log can have your to-do list, reminders, notes, events, highlights, all marked by their respective indicators. Once again, you can log the next item in the daily log into the very next line, regardless of its content.
@@ -105,26 +101,26 @@ Close
 ![ksnip_20240801-203451](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203451.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, it's always a good idea to back up your important documents to the cloud. Microsoft Word supports easy and seamless [file saving via OneDrive](https://facebook-video-content.techidaily.com/new-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use the Bullet Journal
 
  Every bullet journal has a daily log. It’s a space where you can quickly capture any ideas, notes, reminders, and tasks one after another. There are no premade layouts, no boxes, or dotted lines. Cross items that are done or cancel them. At the end of the day, review your daily log and “migrate” leftover tasks. It keeps you mindful of what truly needs your attention and your tasks from slipping through the cracks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  It's Much More Than a Simple To-Do List
 
  The bullet journal is more than just a to-do list. It’s a log where you put your notes, thoughts, events, anything, and everything. It’s a record of your daily happenings, special occasions, and milestones achieved. Treating it like a mindfulness journal rather than just a productivity tool will keep you invested and encouraged to use your bullet journal every day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Migrate
 
@@ -147,6 +143,10 @@ Close
 
 ![Signifiers for my digital bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-204346.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can use any symbols to create your system as long as it’s consistent. Click the bullet button on the Home menu and select “Define Bullet.” Press “Symbol” and choose a symbol you want to use. Repeat these steps to create the whole library of symbols that you’ll be using.
 
 ---
@@ -168,24 +168,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-tips-to-transform-your-videos-into-social-media-stars/"><u>[New] 2024 Approved Tips to Transform Your Videos Into Social Media Stars</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-strategies-for-swift-and-smooth-media-navigation/"><u>[New] Expert Strategies for Swift and Smooth Media Navigation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-highlighting-the-best-of-fig-skates-2022/"><u>[New] Highlighting the Best of Fig Skates 2022</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-a-comprehensive-introduction-to-color-grading-with-luts/"><u>[Updated] A Comprehensive Introduction to Color Grading with LUTs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-picks-no-charging-high-definition-video-players-for-pcmacos/"><u>[Updated] Best Picks No-Charging, High Definition Video Players for PC/MacOS</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-efficient-time-markers-in-youtube-videos-desktopmobile-edition-for-2024/"><u>[Updated] Efficient Time Markers in YouTube Videos (Desktop/Mobile Edition) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-audience-accolades-for-content-makers/"><u>[Updated] In 2024, Digital Audience Accolades for Content Makers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approach-stitching-gopro-sequences-in-holoscopic-clips/"><u>[Updated] Innovative Approach Stitching GoPro Sequences in Holoscopic Clips</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-facebook-live-your-2023-playbook/"><u>[Updated] Navigating Facebook Live Your 2023 Playbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-eye-twinkling-jokes-generate-on-kapwing/"><u>2024 Approved Eye-Twinkling Jokes Generate on Kapwing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-final-cut-pros-premier-top-10-plugins/"><u>2024 Approved Final Cut Pro's Premier Top 10 Plugins</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-growth-hacking-tactics-boosting-youtube-view-count-dramatically/"><u>2024 Approved Growth Hacking Tactics Boosting YouTube View Count Dramatically</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-imagery-tales-untold/"><u>2024 Approved Iconic Imagery Tales Untold</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/calculated-viewing-time-for-a-standard-20mb-film/"><u>Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertise-unlocked-smooth-video-cuts-on-photos-via-windows-11-for-2024/"><u>Expertise Unlocked Smooth Video Cuts on Photos via Windows 11 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-highest-humor-infused-cut-and-paste/"><u>In 2024, Highest Humor-Infused Cut & Paste</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-from-snapshots-to-masterpieces-best-online-photo-and-video-collage-creators-for-2024/"><u>New From Snapshots to Masterpieces Best Online Photo and Video Collage Creators for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-driving-ahead-in-euro-truck-simulator-2-fixed-pc-edition-to-prevent-any-crashes/"><u>Smooth Driving Ahead in Euro Truck Simulator 2: Fixed PC Edition to Prevent Any Crashes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-on-screen-the-years-best-camcorders-reviewed/"><u>[New] Excellence on Screen The Year's Best Camcorders Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-beginners-blueprint-for-earnings-in-periscope-livestreams/"><u>[Updated] Beginner's Blueprint for Earnings in Periscope Livestreams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-honoring-heritage-photo-conversion-and-visual-storytelling/"><u>[Updated] Honoring Heritage Photo Conversion and Visual Storytelling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>[Updated] How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavorful-friends-top-gastronomy-guides-online/"><u>[Updated] In 2024, Flavorful Friends Top Gastronomy Guides Online</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ingenious-ways-to-alter-track-pace-on-spotify-app/"><u>[Updated] In 2024, Ingenious Ways to Alter Track Pace on Spotify App</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-your-vision-establishing-an-entrepreneurial-video-haven-on-phone/"><u>[Updated] Unleash Your Vision Establishing an Entrepreneurial Video Haven on Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-movies-for-free-simple-video-player-software/"><u>2024 Approved Explore Movies for Free Simple VIDEO Player Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-srt-to-the-future-mastering-xmlssattml-transforms/"><u>2024 Approved From SRT to the Future Mastering XML/SSA/TTML Transforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-the-persistent-launch-freeze-in-far-cry-5/"><u>Expert Tips for Resolving the Persistent Launch Freeze in Far Cry 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-top-displays-analyzing-oled-amoled-and-lcd/"><u>Exploring Top Displays: Analyzing OLED, AMOLED and LCD</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-avoid-watermarks-in-stock-purchases-for-2024/"><u>How To Avoid Watermarks in Stock Purchases for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamental-principles-of-powerful-video-product-endorsements/"><u>In 2024, Fundamental Principles of Powerful Video Product Endorsements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-grasping-c-span-a-legal-grey-area-explored/"><u>In 2024, Grasping C-Span A Legal Grey Area Explored</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resolving-connectivity-problems-linking-your-windows-pc-with-an-outer-hard-disk-expert-tips-from-yl-computing/"><u>Resolving Connectivity Problems: Linking Your Windows PC with an Outer Hard Disk - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-overcoming-the-challenge-of-no-sound-in-your-twitch-stream/"><u>Solution Guide: Overcoming the Challenge of No Sound in Your Twitch Stream</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-yakuza-6-the-song-of-life-pc-game-crashes/"><u>Troubleshooting Guide: Fixing Yakuza 6 'The Song of Life' PC Game Crashes</u></a></li>
 </ul></div>
 

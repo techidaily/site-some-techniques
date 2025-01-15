@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-date: 2025-01-03T18:05:40.742Z
-updated: 2025-01-09T19:40:41.031Z
+date: 2025-01-12T16:37:04.423Z
+updated: 2025-01-15T17:14:54.242Z
 tags:
   - desktop
 categories:
@@ -32,11 +32,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your work IT colleagues probably seem a bit grumpy sometimes, and there's a reason: They're always busy working behind the scenes to keep you secure from hackers and other digital threats. You can make them less grumpy (and improve your own online security outside the office too) by following these tips.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Open Links in Emails That Lead to a Login Screen
 
  It's pretty common to receive an email with a link or a button that leads to a login screen, but you shouldn't use them. It's all too easy for a scammer to create their own fake login screen, email you a convincing looking email with a link, and then steal your password using it.
 
  Instead, if you click on a link that lands you at a login page, close the browser tab or window, open a fresh one, and type in the address for the website yourself (or, if you're using an app, re-open it). Once you've logged in to the right website, you can check your notifications from your account there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Strong Passwords and Two-Factor Authentication (And Don't Share Them!)
 
@@ -50,6 +58,10 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  Of course, you can't be expected to remember all of these different passwords, so you should [use a password manager](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) to keep track of them. You should also [enable two-factor authentication wherever possible](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), so that even if your password is leaked, attackers still won't be able to access your accounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Ignore Windows Security Prompts (UAC)
 
 ![UAC prompting us to allow the Audacity install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uac-audacity.png) 
@@ -58,10 +70,6 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  This is because viruses and malware will usually need some kind of Administrator access to burrow deep into your system. These prompts are designed to stop them from doing this. Make sure you check that the application requesting access is from a verified publisher, and from a source you trust. Importantly, make sure you understand why the prompt has been triggered: if a UAC security prompt pops up from an unknown program or when you haven't taken any action, you should decline it and [check your system for viruses](https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Keep Your Work and Private Life Separate
 
  You don't want your employer to know all the details about your personal life, and your employer doesn't want you to be accidentally leaking company information through your social media profiles. Keep your work and private lives separate by using different email accounts and profiles for each. This helps prevent information from leaking, for example, by making it more difficult for you to accidentally put your dating schedule in the work calendar, or email a sensitive financial report to your yoga class.
@@ -69,7 +77,7 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  The most effective way to do this is to create [separate user accounts](https://remote-screen-capture.techidaily.com/updated-screen-recording-mastery-with-lenovo-gear-for-2024/) on your computer. You can also use [Firefox Containers](https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-huawei-nova-y91-location-drfone-by-drfone-virtual-android/) or Safari Profiles, or isolate different activities by using a different browser for each.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Set a Passcode On All Of Your Devices
@@ -80,19 +88,11 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If your device is stolen, you should remotely wipe it if it is supported on your [iOS](https://facebook-record-videos.techidaily.com/video-content-battlefront-short-form-supremacy-youtubes-vs-tiktoks-for-2024/) or [Android](https://some-techniques.techidaily.com/incor-writes-photo-kinetic-vibrance-for-2024/) device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  If Someone Asks For Something Out Of The Usual, Check In With Them
 
  Impersonation scams—where a scammer impersonates your friend, family member, or colleague to get you to send them money or information—are becoming increasingly common. Scammers can even use AI tools to impersonate voices, so if someone texts, emails, or even calls you with an unusual request for money or information (which could be used for later scams), find another way to contact that person to confirm that it's actually them asking.
 
  The best way to do this is to contact them via another communication method. If you receive a suspicious email from a known address, give that person a call directly to confirm that they've asked. If you receive an odd phone call claiming to be from someone you know, hang up and drop them a WhatsApp to check if they made the call before calling them back.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Don't Download Strange Software or Attachments, and never Run Macros
 
@@ -101,7 +101,7 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  If you receive an email with a strange or unexpected attachment, don't open it, and confirm that the sender is trusted and intentionally sent the attachment. And, under no circumstances should you run macros from a Microsoft Office document emailed to you: They're almost never something people use outside of work, and if you're at work, your IT department should manage which macros are trusted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Antivirus and Stay Up-To-Date
@@ -119,7 +119,7 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  If there's something tech related you aren't sure about, you can search our [thousands of articles](https://desktop-recording.techidaily.com/2024-approved-ace-the-art-of-game-recordings-in-windows-11/) and find the answer from one of our experts. You can also [subscribe to our newsletter](https://fox-that.techidaily.com/effective-solutions-to-reactivate-your-imessage-on-an-iphone/) to stay up to date with all the latest gadgets, apps, and feature updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don't Panic!
@@ -147,14 +147,16 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-depths-top-10-unknown-features-in-vlc-player/"><u>[New] Exploring the Depths Top 10 Unknown Features in VLC Player</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elite-channel-explorer-discover-prime-video-status/"><u>[New] In 2024, Elite Channel Explorer Discover Prime Video Status</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-windows-10-new-features-at-a-glance/"><u>[Updated] Windows 10 New Features at a Glance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-icy-illusions-reveling-at-beijings-olympic-event-2022/"><u>2024 Approved Icy Illusions Reveling at Beijing's Olympic Event, 2022</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-comparison-inshot-against-other-apps/"><u>2024 Approved In-Depth Comparison InShot Against Other Apps</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a05s-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A05s FRP Bypass Instantly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-future-with-advanced-vr-finger-tech-for-2024/"><u>Explore the Future with Advanced VR Finger Tech for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/instant-troubleshooting-and-auto-repair-for-windows-10-devices/"><u>Instant Troubleshooting and Auto-Repair for Windows 10 Devices</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-unlock-waxs-potential-a-beginners-guide-to-video-editing-for-2024/"><u>Updated Unlock Waxs Potential A Beginners Guide to Video Editing for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/0-tricks-for-turning-youtube-watchlists-around-for-2024/"><u>[New] 10 Tricks for Turning YouTube Watchlists Around for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-androids-top-visual-adjustment-tools/"><u>[New] In 2024, Android's Top Visual Adjustment Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-understanding-the-technicalities-of-fb-360-streaming/"><u>[New] In 2024, Understanding the Technicalities of FB 360 Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-kitchen-to-screen-unveiling-the-top-7-cooking-film-tricks/"><u>[Updated] From Kitchen to Screen Unveiling the Top 7 Cooking Film Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-android-phones-in-watching-vr-or-360-videos-2023-update/"><u>[Updated] How to Use Android Phones in Watching VR or 360 Videos -2023 Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommendations-for-limitless-data-holding/"><u>2024 Approved Expert Recommendations for Limitless Data Holding</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-electric-cars-handle-severe-hot-and-cold-temperatures-an-in-depth-review/"><u>Can Electric Cars Handle Severe Hot and Cold Temperatures? An In-Depth Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-battlefield-2042-pc-game-crash-issues/"><u>Fixes and Solutions: Resolving Battlefield 2042 PC Game Crash Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-picks-7-premium-mac-videos/"><u>In 2024, Expert Picks 7 Premium Mac Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highest-rated-10-online-subtitle-tools/"><u>In 2024, Highest-Rated 10 Online Subtitle Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-13-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 13 Pro Max? 5 Tips You Must Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comparing Folders Across Windows 11 & 10 - A Comprehensive Guide
-date: 2025-01-05T21:18:32.635Z
-updated: 2025-01-09T18:39:10.954Z
+date: 2025-01-10T16:24:50.896Z
+updated: 2025-01-15T16:07:08.637Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Comparing Folders Across Windows 11 & 10 - A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -39,6 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Properties' windows for two folders in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-compare-folder-properties.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That gives you a general overview of the differences between your folders.
 
 ##  Compare Folders Using Command Prompt
@@ -49,6 +57,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Command Prompt highlighted in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Command Prompt, type the following command. Replace "Folder1" with the path to your first folder and "Folder2" with the path to your second folder. Ensure both folder paths are enclosed in double quotes.
 
  To copy a folder’s full path along with double quotes around the path, hold down the Shift key on your keyboard, right-click your folder, and choose "Copy as Path."
@@ -56,10 +68,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 ![The 'robocopy' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-compare-folders-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll see the differences between your folders.
 
@@ -70,10 +78,6 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 * **NJS**: This flag excludes symbolic links from the process.
 * **NP**: This flag excludes folder timestamps.
 * **NS**: This flag excludes file security information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Compare Folders With WinMerge
 
@@ -86,7 +90,7 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 ![File > Open highlighted in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-folder-winmerge.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For the "1st File or Folder" field, select "Browse" and choose the first folder to compare.
@@ -97,21 +101,17 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 !['Browse' highlighted for the '2nd File or Folder' field in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-add-second-folder-winmerge.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In both fields, enable the "Read-Only" option. Click the "Folder: Filter" field and type **\*.\*** if it isn’t already there. This ensures the app compares all the files in both the specified folders. Then, at the bottom, click "Compare."
 
 ![Various comparison options highlighted in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-configure-comparison-options-winmerge.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the following screen, you’ll see the comparison of the specified folders. You’ll see information like identical files in both folders, files missing from one folder, and so on.
 
 ![The comparison of two folders in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-folder-comparison-winmerge.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And that's how you know what one folder has that another doesn't. This can be really useful if you're trying to quickly compare different versions of the same folder, like you'd have when you[create a backup](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/).
 
@@ -130,20 +130,18 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-in-depth-assessment-comprehensive-camstudio-review/"><u>[New] 2024 Approved In-Depth Assessment Comprehensive CamStudio Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-conceptualization-to-production-writing-engaging-documentary-stories/"><u>[New] From Conceptualization to Production Writing Engaging Documentary Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-insight-into-vsco-image-editing/"><u>[New] Full Insight Into VSCO Image Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-unlock-mac-with-apple-watch-sierra/"><u>[New] How to Unlock Mac with Apple Watch [Sierra]</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-decoding-techniques-in-human-gesture-recognition/"><u>[Updated] 2024 Approved Decoding Techniques in Human Gesture Recognition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-switching-from-webp-to-jpg-format/"><u>[Updated] Expert Insights Switching From WebP to JPG Format</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-leveraging-facebook-for-shared-twitter-content-for-2024/"><u>[Updated] Leveraging Facebook for Shared Twitter Content for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-street-smart-showdown-top-hand-to-hand-video-games-for-2024/"><u>[Updated] Street Smart Showdown Top Hand-to-Hand Video Games for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/correctly-identifying-and-remedying-missing-dlls/"><u>Correctly Identifying and Remedying Missing DLLs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-metaverse-meme-landscape-for-2024/"><u>Exploring the Metaverse Meme Landscape for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/freshest-microsoft-bluetooth-drivers-for-optimal-performance-on-windows-101187-systems/"><u>Freshest Microsoft Bluetooth Drivers for Optimal Performance on Windows 10/11/8/7 Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-amass-a-picture-collection-for-free-the-ultimate-12-website-guide-for-2024/"><u>How to Amass a Picture Collection for Free – The Ultimate 12 Website Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-screenshot-and-video-tools-top-8-smartphone-essentials/"><u>In 2024, Innovative Screenshot & Video Tools – Top 8 Smartphone Essentials</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-in-depth-reviews-and-gear-guides/"><u>Tom's Tech Hub: In-Depth Reviews and Gear Guides</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ignite-social-media-fanfare-master-these-9-instagram-commandments-for-2024/"><u>[New] Ignite Social Media Fanfare Master These 9 Instagram Commandments for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-pedagogical-pros-ultimate-10-devices-for-lecture-preservation/"><u>[New] In 2024, Pedagogical Pros Ultimate 10 Devices for Lecture Preservation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamlining-your-screenshot-journey-on-sonys-playstation-4-console-for-2024/"><u>[Updated] Streamlining Your Screenshot Journey on Sony’s PlayStation 4 Console for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-in-dialogue-and-plot-hub/"><u>2024 Approved Excellence in Dialogue & Plot Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finest-pencil-masters-free-vs-paid-windows-apps-reviewed/"><u>2024 Approved Finest Pencil Masters Free vs Paid Windows Apps Reviewed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-streamline-sound-transfer-top-10-youtube-audio-converters/"><u>2024 Approved Streamline Sound Transfer Top 10 YouTube Audio Converters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-finest-yt-unboxing-sequences-for-2024/"><u>Explore the Finest YT Unboxing Sequences for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/fachtechnisches-handbuch-exportieren-von-yahoo-e-mail-mit-zwei-einfachen-ansatzen/"><u>Fachtechnisches Handbuch: Exportieren Von Yahoo! E-Mail Mit Zwei Einfachen Ansätzen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-ground-to-sky-the-lifting-elite-drone-list-for-2024/"><u>From Ground to Sky The Lifting Elite Drone List for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-se-2022-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone SE (2022) Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi Redmi 12</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-note-12-pro-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi Note 12 Pro 4G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/revolutionize-your-twitter-experience-with-essential-apps-for-2024/"><u>Revolutionize Your Twitter Experience with Essential Apps for 2024</u></a></li>
 </ul></div>
 

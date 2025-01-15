@@ -1,7 +1,7 @@
 ---
 title: Enhanced NVIDIA AI Chatbot Capabilities with Google Gemma & ChatGLM3 Integration
-date: 2025-01-02T17:19:27.788Z
-updated: 2025-01-09T16:32:58.857Z
+date: 2025-01-14T16:10:29.654Z
+updated: 2025-01-15T16:32:20.282Z
 tags:
   - cutting-edge
 categories:
@@ -42,25 +42,28 @@ The third update for NVIDIA's ChatRTX app has arrived. It adds new image recogni
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-tv-saves-win-friendly-options-available/"><u>[New] 2024 Approved Mastering TV Saves Win-Friendly Options Available</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-prime-selection-of-simple-effective-gamers-edit-tools/"><u>[New] 2024 Approved Prime Selection of Simple, Effective Gamers' Edit Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frostbite-finishes-olympic-ice-classics/"><u>[New] Frostbite Finishes Olympic Ice Classics</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-ultimate-guide-enjoy-tweets-in-stunning-hd-quality/"><u>[New] In 2024, Ultimate Guide Enjoy Tweets in Stunning HD Quality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-astrological-flair-crafting-bios-for-each-zodiac-house/"><u>[Updated] 2024 Approved Astrological Flair Crafting Bios for Each Zodiac House</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-giggle-generators-online/"><u>[Updated] Giggle Generators Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-horned-gods-hearing-essential-websites-for-got-sound-files/"><u>[Updated] Horned God's Hearing Essential Websites for GoT Sound Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/10-simple-tweaks-to-speed-up-firefox-to-5-times-faster/"><u>10 Simple Tweaks to Speed up Firefox to 5 Times Faster</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-for-beginners-the-top-8-versatile-cameras-under-400/"><u>2024 Approved For Beginners The Top 8 Versatile Cameras Under $400</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-flat-to-fierce-transformative-color-workflows/"><u>2024 Approved From Flat to Fierce Transformative Color Workflows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exclusive-insights-into-the-exceptional-samsung-galaxy-s10-smartphone-experience/"><u>Exclusive Insights Into the Exceptional Samsung Galaxy S10 Smartphone Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/first-choice-of-android-photo-editors-for-2024/"><u>First Choice of Android Photo Editors for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-fossil-to-green-facebooks-total-energy-transformation/"><u>From Fossil to Green: Facebook's Total Energy Transformation</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-11-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 11 and iPad</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-final-cut-pro-for-free/"><u>In 2024, How to Get Final Cut Pro for Free</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-9a-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 9A to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamline-your-playtime-5-techniques-for-gamers/"><u>[New] 2024 Approved Streamline Your Playtime 5 Techniques for Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expedite-excitement-fast-video-on-android/"><u>[New] Expedite Excitement Fast Video on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guided-steps-to-decrease-audio-intensity-using-lumafusion/"><u>[New] Guided Steps to Decrease Audio Intensity Using Lumafusion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-affordable-efficient-high-quality-passport-photos-creators/"><u>[Updated] Exclusive List Affordable, Efficient, High-Quality Passport Photos Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-fundamentals-of-av1-encoding/"><u>[Updated] Exploring the Fundamentals of AV1 Encoding</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-to-time-lapse-magic-on-samsung-phones/"><u>[Updated] Fast Track to Time-Lapse Magic on Samsung Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-personalize-videos-adding-captions-in-the-photos-app/"><u>[Updated] How to Personalize Videos Adding Captions in the Photos App</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-nerves-in-10-must-do-vlogs/"><u>2024 Approved Navigating Nerves in 10 Must-Do Vlogs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-must-think-points-when-shopping-for-your-ideal-fitness-monitoring-band/"><u>5 Must-Think Points When Shopping For Your Ideal Fitness Monitoring Band</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-power-driven-marketing-analytics-and-ad-targeting-success/"><u>Cookiebot Power-Driven Marketing Analytics & Ad Targeting Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-text-plugin-compendium/"><u>In 2024, Excellent Text Plugin Compendium</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-finest-free-luts-of-the-year/"><u>In 2024, Explore the Finest FREE LUTs of the Year</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-easy-way-to-spot-and-view-trending-youtube-feedback/"><u>In 2024, The Easy Way to Spot and View Trending YouTube Feedback</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-groups-shaping-future-of-vr-worlds-for-2024/"><u>Innovative Groups Shaping Future of VR Worlds for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-into-the-unique-benefits-of-business-focused-gpt/"><u>Insights Into the Unique Benefits of Business-Focused GPT</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-nexus-of-playfulness-for-young-gamers-for-2024/"><u>The Nexus of Playfulness for Young Gamers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-affordable-gaming-laptops-reviewed-by-tech-experts-insights-from-zdnet/"><u>Top Rated Affordable Gaming Laptops Reviewed by Tech Experts - Insights From ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-15-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 15? How to Fix</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

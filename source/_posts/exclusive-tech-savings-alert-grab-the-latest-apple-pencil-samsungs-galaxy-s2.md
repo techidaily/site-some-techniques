@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Tech Savings Alert: Grab the Latest Apple Pencil, Samsung's Galaxy S2"
-date: 2025-01-05T21:13:41.630Z
-updated: 2025-01-09T22:41:55.336Z
+date: 2025-01-08T16:23:32.780Z
+updated: 2025-01-15T17:19:19.340Z
 tags:
   - deals
 categories:
@@ -13,12 +13,16 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 While we're expecting some big Labor Day deals to start surfacing soon, you can score discounts right now on all sorts of tech. Get a new 4K TV, back-to-school gadgets, a new Galaxy S24, an iPad for 40% off, and more. Here are some of the best tech deals available this week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Apple Pencil 1st Generation for $69 ($30 Off)](https://www.amazon.com/dp/B0BJLG69QR?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
 ![apple pencil 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/apple-pencil-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Apple Pencil 1
@@ -28,10 +32,6 @@ The original Apple Pencil converts an iPad into a notepad or canvas with its uni
 [Buy on Amazon](https://www.amazon.com/Apple-MK0C2AM-A-Apple-Pencil/dp/B016NY7784?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
  Just in time for kids returning to school and summer vacations to end, get everyone in the family an Apple Pencil and enjoy pixel-perfect precision in all your favorite apps. It works with most iPad models, as long as they're not brand new. Get an [Apple Pencil today for only $69](https://www.amazon.com/dp/B0BJLG69QR?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## [Samsung Galaxy S24 (128 GB) AI Smartphone for $720 ($80 Off)](http://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Android-Processor/dp/B0CMDRCZBJ/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
@@ -44,6 +44,10 @@ The Samsung Galaxy S24 may be the smallest in the line, but it has big-time proc
 [Buy on Amazon](https://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Android-Processor/dp/B0CMDMSZB4?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
  Samsung's latest and greatest Galaxy S24 has a lot to offer in a small package. Plus, it's loaded with fun [new Galaxy AI features](https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevate-your-content-game-with-these-instagram-story-tips/). If you're not looking for a huge Pro or Ultra phone with a massive screen, the base Galaxy S24 is $80 right now and can be yours for only [$720 from Amazon](https://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Android-Processor/dp/B0CMDRCZBJ/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Blink Outdoor 4 Floodlight Security Camera for $80 ($50 Off)](https://www.amazon.com/All-New-Blink-Outdoor-Floodlight-Camera/dp/B0BBX45V5B?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
@@ -64,7 +68,7 @@ Keep an eye on the outside of your home with the dual-action Blink Outdoor flood
 ![ipad 9th gen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ipad-9th-gen.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  2021 Apple iPad 10.2 (9th Gen)
@@ -78,7 +82,7 @@ Save some money and get the same great iPad experience with Apple's cheapest, en
  You don't need the latest and greatest iPad to be more productive, read ebooks, or get work done. That's why buying the slightly older 9th-generation iPad at a 40% discount is an excellent idea. It's perfect for students, so [get one today on Amazon](https://www.amazon.com/2021-Apple-10-2-inch-iPad-Wi-Fi/dp/B09G9FPHY6?tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Sony WH-1000XM5 Wireless ANC Headphones for $298 ($102 Off)](https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2005024&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-pencil-galaxy-s24-sony-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
@@ -98,10 +102,6 @@ Dive into unparalleled audio bliss with the Sony WH-1000XM5 Wireless Noise Cance
 ##  More Tech Deals
 
 ![hand holding a fire TV remote with a TV in the background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/hand-holding-the-fire-tv-controller-and-an-alert-icon-on-the-screen-in-the-background-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | [RightFramePhotoVideo](https://www.shutterstock.com/image-photo/male-hand-holding-tv-remote-control-1730110726) / Shutterstock
 
@@ -129,21 +129,20 @@ Lucas Gouveia / How-To Geek | [RightFramePhotoVideo](https://www.shutterstock.co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-superior-hd-recording-systems-for-2024/"><u>[New] Superior HD Recording Systems for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-faithful-melodies-downloaded-tips-for-personalization/"><u>[Updated] Faithful Melodies Downloaded Tips for Personalization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hands-on-with-hp-envy-27-pushing-screen-tech-to-limits/"><u>[Updated] Hands-On with HP Envy 27 Pushing Screen Tech to Limits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-virtual-reality-systems-for-drones/"><u>[Updated] Ideal Virtual Reality Systems for Drones</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-elite-recording-tech-top-10-cam-devices-windows-11/"><u>[Updated] In 2024, Elite Recording Tech Top 10 Cam Devices Windows 11</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-step-by-step-build-your-own-google-cardboard-vr-setup/"><u>[Updated] In 2024, Step-by-Step Build Your Own Google Cardboard VR Setup</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-listing-the-top-10-places-to-snag-pristine-photos/"><u>2024 Approved Exclusive Listing The Top 10 Places to Snag Pristine Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-handheld-vr-camera-stability-enhancer/"><u>2024 Approved Handheld VR Camera Stability Enhancer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/chatgpt-stuck-on-iphone-unlock-smoother-performance-with-these-eby-9-fixes/"><u>ChatGPT Stuck on iPhone? Unlock Smoother Performance With These Eby 9 Fixes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filmora-tutorial-converting-avi-to-gif-seamlessly-for-2024/"><u>Filmora Tutorial Converting AVI to GIF Seamlessly for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-f14-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-archive-copyright-free-gaming-harmonies/"><u>In 2024, Free Online Archive Copyright-Free Gaming Harmonies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-14-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-mobile-listening-androids-best-podcast-apps-top-6/"><u>Mastering Mobile Listening Android's Best Podcast Apps (Top 6)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-revolutionary-chromecast-with-google-tv-is-it-time-for-firetv-users-to-switch/"><u>The Ultimate Guide to the Revolutionary Chromecast with Google TV: Is It Time for FireTV Users to Switch?</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-analysis-of-samsungs-2023-photo-enhancement-suite/"><u>[New] Expert Analysis of Samsung’s 2023 Photo Enhancement Suite</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-first-steps-to-faster-film-playback-in-snapchat/"><u>[New] First Steps to Faster Film Playback in Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>[New] Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-image-enhancement-made-simple-how-to-inject-text-into-pictures-on-windowsmacos-for-2024/"><u>[Updated] Image Enhancement Made Simple How to Inject Text Into Pictures on Windows/MacOS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-impact-of-visual-client-reviews-on-business-image/"><u>[Updated] Impact of Visual Client Reviews on Business Image</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-the-finest-free-srt-translation-tools-available-online/"><u>[Updated] In-Depth Look at the Finest Free SRT Translation Tools Available Online</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1-ultimate-guide-to-manycam-revolutionize-your-streaming-with-powerful-live-editing-tools/"><u>1. Ultimate Guide to ManyCam: Revolutionize Your Streaming with Powerful Live Editing Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-best-10-video-editing-apps-to-edit-and-make-instagram-reels/"><u>2024 Approved Best 10 Video Editing Apps to Edit and Make Instagram Reels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-change-your-voice-in-free-fire-game-free-solution-included/"><u>2024 Approved How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4-winx-ai/"><u>動画MP4形式への高度な変換 - Winx AIによるビデオ圧縮と音声取り出しガイド</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-cutting-edge-beat-detection-for-aspiring-producers/"><u>In 2024, Free, Cutting-Edge Beat Detection for Aspiring Producers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/integrate-xps-essential-movie-making-features-for-2024/"><u>Integrate XP's Essential Movie Making Features for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-biometric-regulation-in-w11/"><u>Mastering the Art of Biometric Regulation in W11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/stay-active-with-the-best-motion-tracking-apps-on-android-and-ios/"><u>Stay Active with the Best Motion Tracking Apps on Android and iOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-quick-route-remove-ms-edge-on-w11/"><u>The Quick Route: Remove MS Edge on W11</u></a></li>
 </ul></div>
 

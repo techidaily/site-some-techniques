@@ -1,7 +1,7 @@
 ---
 title: "Retro Innovation in Tech: Experience iPhone's Echo of the Original Macintosh"
-date: 2025-01-04T20:13:35.941Z
-updated: 2025-01-09T20:35:21.283Z
+date: 2025-01-12T17:23:55.168Z
+updated: 2025-01-15T17:07:47.444Z
 tags:
   - mobile
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,15 +64,24 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-ditching-the-undesired-backdrop-the-path-less-cluttered-for-2024/"><u>[New] Ditching the Undesired Backdrop The Path Less Cluttered for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-halt-youtubes-automatic-video-screening/"><u>[New] Halt YouTube's Automatic Video Screening</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-maximizing-learning-through-efficient-audio-capture-techniques-mac/"><u>2024 Approved Maximizing Learning Through Efficient Audio Capture Techniques (Mac)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726029754967-windows-10/"><u>初心者も簡単!Windows 10を使った完全無料の動画編集テクニック</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beginners-journey-into-langchain-llm-unveiling-the-basics/"><u>Beginner's Journey Into LangChain LLM: Unveiling the Basics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-overflow-to-organization-editing-giant-tiktok-files-with-precision-for-2024/"><u>From Overflow to Organization Editing Giant TikTok Files with Precision for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-imagination-a-practical-guide-to-professional-gifs-for-2024/"><u>Harnessing Imagination A Practical Guide to Professional GIFs for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-sounds-seamless-transitions-in-ableton-live/"><u>In 2024, Harmonizing Sounds Seamless Transitions in Ableton Live</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211239396-9781088163535-initiation-human-and-solar/"><u>Initiation, Human and Solar | Free Book</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-a-straightforward-approach-screen-record-on-macbook-air/"><u>[Updated] A Straightforward Approach Screen Record on Macbook Air</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hasten-your-srt-to-txt-conversion-process-with-these-tips/"><u>[Updated] Hasten Your SRT to TXT Conversion Process with These Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-leveraging-board-features-for-virtual-collaboration-android-ios-and-windows-guide-for-2024/"><u>[Updated] Leveraging Board Features for Virtual Collaboration Android, iOS & Windows Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-best-way-to-stitch-gopro-clips-into-360-videos/"><u>2024 Approved Best Way to Stitch GoPro Clips Into 360 Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hype-generating-headline-author/"><u>2024 Approved Hype-Generating Headline Author</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-xcover-7-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy XCover 7 Quickly | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-make-a-favorite-tiktok-sound-your-caller-id-for-2024/"><u>How to Make a Favorite TikTok Sound Your Caller ID for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30-vip-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Infinix Note 30 VIP</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-ancient-roguelike-tactics-vs-innovative-approaches/"><u>In 2024, Ancient Roguelike Tactics Vs. Innovative Approaches</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-earn-extra-bucks-maximizing-youtubes-mobile-revenue-opportunities/"><u>In 2024, Earn Extra Bucks Maximizing YouTube's Mobile Revenue Opportunities</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-essential-steps-to-curate-youtube-music-selections/"><u>In 2024, Essential Steps to Curate YouTube Music Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-vegaspro-2019-edition-highlights/"><u>In 2024, Exploring VegasPro 2019 Edition Highlights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focus-and-frame-the-art-of-intimate-movie-filming/"><u>In 2024, Focus & Frame The Art of Intimate Movie Filming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-spectrum-analysis-of-vsco-editing-features/"><u>In 2024, Full Spectrum Analysis of VSCO Editing Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-holistic-locomotion-examination-2023/"><u>In 2024, Holistic Locomotion Examination 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-digitize-your-old-photos-and-turn-them-into-impressive-videos/"><u>In 2024, How to Digitize Your Old Photos and Turn Them Into Impressive Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-incredible-drone-photoshoot-contenders-10/"><u>In 2024, Incredible Drone Photoshoot Contenders #10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/record-your-mac-view-in-minutes-in-2024/"><u>Record Your Mac View in Minutes, In 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-free-software-replacements-for-acronis-backup-and-recovery/"><u>Top Free Software Replacements for Acronis Backup & Recovery</u></a></li>
 </ul></div>
 

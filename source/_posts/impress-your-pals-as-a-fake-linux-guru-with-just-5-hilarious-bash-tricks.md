@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2025-01-06T18:24:17.870Z
-updated: 2025-01-09T17:03:35.201Z
+date: 2025-01-12T16:16:39.181Z
+updated: 2025-01-15T16:43:04.252Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 While I am a Linux daily driver, and I do sprinkle the terminal with commands now and then, I'm by no means a hacker. That didn't stop me from looking the part, though, since it turns out several simple commands (and a whole app) exist to make you look like a star in a florid cyberthriller. Here they are and how to run them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  neofetch 
@@ -22,7 +22,7 @@ While I am a Linux daily driver, and I do sprinkle the terminal with commands no
 ![neofetch command output on an Ubuntu operating system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-14_16h38_17.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Starting simple, neofetch is perfect for when you want to send your friends a screenshot of your sweet new Linux desktop with a terminal open to make it look like you know how to use it. You simply run the command and some stats about your system will be printed next to a big [ASCII art](https://en.wikipedia.org/wiki/ASCII%5Fart) version of your distro's logo. If you've ever checked out r/UnixPorn, you'll recognize it as one of the more popular outputs to have printed in an open terminal.
@@ -40,10 +40,6 @@ sudo dnf install neofetch
 sudo pacman -S neofetch
 
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2  cmatrix 
 
@@ -70,7 +66,7 @@ cmatrix
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  genact 
@@ -90,7 +86,7 @@ snap install genact
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  hollywood 
@@ -112,6 +108,10 @@ dnf install hollywood
 sudo pacman -S hollywood
 
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
 
@@ -140,17 +140,16 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-gateway-to-youtube-stardom-via-studio-expertise/"><u>[New] In 2024, The Gateway to YouTube Stardom via Studio Expertise</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-troubleshooting-common-issues-when-uploading-to-apple/"><u>[Updated] Troubleshooting Common Issues When Uploading to Apple</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-groundbreaking-footage-starts-here-basics-for-novice-filmmakers/"><u>2024 Approved Groundbreaking Footage Starts Here Basics for Novice Filmmakers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-much-does-pewdiepie-make-yearly-financial-report/"><u>2024 Approved How Much Does PewDiePie Make - Yearly Financial Report</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-maintain-a-seamless-video-experience-by-removing-stickers/"><u>2024 Approved How to Maintain a Seamless Video Experience by Removing Stickers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/addressing-and-preventing-regular-snowrunner-application-crashes-on-pc-systems/"><u>Addressing and Preventing Regular SnowRunner Application Crashes on PC Systems</u></a></li>
-<li><a href="https://win-data.techidaily.com/comprehensive-expert-guide-mastering-flip-office-pro-techniques/"><u>Comprehensive Expert Guide - Mastering Flip Office Pro Techniques</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-trendsetter-solo-podcast-success-story/"><u>In 2024, From Zero to Trendsetter Solo Podcast Success Story</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-infinix-hot-40i-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Infinix Hot 40i to Gmail | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/atory-guidelines-youtube-video-recording-for-2024/"><u>Regulatory Guidelines YouTube Video Recording for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-sell-your-brand-through-innovative-youtuber-collaborations/"><u>[New] How To Sell Your Brand Through Innovative YouTuber Collaborations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-for-recording-in-audacity/"><u>[New] Innovative Strategies for Recording in Audacity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-tutorial-for-lut-use-in-after-effects/"><u>[New] The Ultimate Tutorial for LUT Use in After Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-online-destinations-for-budget-friendly-vectr-creations/"><u>[Updated] Excellent Online Destinations for Budget-Friendly Vectr Creations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-rotational-photography-versus-3d-scanning/"><u>[Updated] Full-Rotational Photography versus 3D Scanning</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-legal-footprints-in-the-digital-age-photowatermarking-for-instagram-for-2024/"><u>[Updated] Legal Footprints in the Digital Age Photowatermarking for Instagram for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-harmonic-hits-top-rated-dj-template-downloads/"><u>2024 Approved Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-sierra-icloud-drives-a-complete-overview-for-2024/"><u>Exploring Sierra iCloud Drives – A Complete Overview for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wma-wav-online/"><u>무료 WMA-WAV 변환 서비스 - 컴퓨터를 사용하여 Online</u></a></li>
 </ul></div>
 

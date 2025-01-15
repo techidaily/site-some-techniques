@@ -1,7 +1,7 @@
 ---
 title: "Reigniting Your Passion for Creativity: How Artificnial Intelligence Helped"
-date: 2025-01-03T21:43:01.373Z
-updated: 2025-01-09T16:25:45.783Z
+date: 2025-01-11T17:27:23.334Z
+updated: 2025-01-15T16:08:52.196Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/7a68a371ecefb61abf22397216f859079f91db410
 ## Reigniting Your Passion for Creativity: How Artificnial Intelligence Helped
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,10 +39,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![A person typing on a laptop, surrounded by creative writing materials.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-a-person-typing-on-a-laptop-surrounded-by-creative-writing-materials.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dibakar Ghosh / How-To Geek | Midjourney
 
  But here’s the twist—words were never my biggest passion. I always felt a stronger affinity towards music and art. So why didn’t I prioritize those over writing? Simple answer: I couldn’t!
@@ -52,7 +48,7 @@ Dibakar Ghosh / How-To Geek | Midjourney
 ![People caught behind a gate, barrier to entry](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-people-caught-behind-a-gate-barrier-to-entry.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
@@ -70,6 +66,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
  Doing that by learning an instrument didn’t seem practical. So, my eyes were set on a [digital audio workstation (DAW)](https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/)—which, again, was very expensive and very complicated.
 
 ![a digital audio workstation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-a-digital-audio-workstation.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -93,22 +93,22 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![Midjourney web app image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-midjourney-web-app-image.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  I quickly revisited my old notebook (yes, I have a notebook with my earlier ideas because digitizing them was a lot of work) and started _playing_ with Midjourney.
 
  Then, about a year later, [Suno v3](https://extra-skills.techidaily.com/updated-select-15-professional-luts-to-boost-gopro-cinematography/) dropped, followed by [Udio](https://extra-lessons.techidaily.com/cutting-to-perfection-the-science-of-online-photo-trimming/). I have been using these AI text-to-song generators for three-four months now and have already [generated over 1000 songs](https://fox-friendly.techidaily.com/new-in-2024-top-10-compact-dvd-viewers-on-a-go/) with them. It’s extremely fun and addictive.
 
 ![Udio web app music creation interface](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-udio-web-app-music-creation-interface.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, all these tools—Midjourney, Suno, Udio—start at $10 a month, making them extremely affordable. Also, each tool has an intuitive interface with excellent documentation, so I don’t need to invest hours of training or a fancy course.
 
  I could finally give my creative desires an easy outlet that didn’t hamper my normal routine—or demand significant financial or temporal investment. Each day, after work, I’d sit with these tools, spin up some ideas, hit generate, and share them with family and friends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Now I Want to Learn
@@ -140,10 +140,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![a cartoon cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/12-a-cartoon-cat-in-space.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Unfortunately, it’s still not what I have in mind—and this is the essential issue with generative AI: AI can help you visualize an idea but not materialize a visualization.
@@ -159,6 +155,10 @@ Your browser does not support the video tag.
  This brings us back to square one. To accurately express the songs in my head, I need to know how to play an instrument. To accurately materialize the scenery in my mind, I need to know how to draw them myself.
 
  Even if I use AI for polish, I need to know the basics and technicalities of music production or digital art if I truly want to express my creativity. As such, I’m ready to buy my first musical instrument.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  I'm Planning To Buy a Keyboard
 
@@ -193,22 +193,21 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-basics-of-visual-storytelling/"><u>[New] 2024 Approved Basics of Visual Storytelling</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leverage-these-10-devices-for-crystal-clear-zooms/"><u>[New] 2024 Approved Leverage These 10 Devices for Crystal Clear Zooms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-getting-to-grips-with-apple-podcasts-installation/"><u>[New] Getting to Grips with Apple Podcasts Installation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonic-phone-chimes-the-step-by-step-to-cut-tamil-alerts/"><u>[New] Harmonic Phone Chimes The Step-by-Step to Cut Tamil Alerts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-doodles-to-success-your-guide-to-a-flourishing-design-career/"><u>[Updated] From Doodles to Success Your Guide to a Flourishing Design Career</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-package-adventure-for-all/"><u>[Updated] Perfecting Package Adventure for All</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-xp-workspace-your-next-creative-filmmaker/"><u>[Updated] XP Workspace Your Next Creative Filmmaker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-expert-navigating-windows-11s-movie-maker-easily/"><u>2024 Approved From Novice to Expert Navigating Windows 11'S Movie Maker Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-utilize-legal-free-clip-art-resources/"><u>2024 Approved How to Utilize Legal, Free Clip-Art Resources</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovate-and-revamp-your-desktop-on-win11/"><u>2024 Approved Innovate and Revamp Your Desktop on Win11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-motorola-razr-40-ultra-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Motorola Razr 40 Ultra.</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/comment-convertir-un-dvd-regionalise-en-sans-region-sur-windows-11/"><u>Comment Convertir Un DVD Régionalisé en Sans-Région Sur Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exhaustive-breakdown-of-vsco-photography-tool-for-2024/"><u>Exhaustive Breakdown of VSCO Photography Tool for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-amateur-vlogs-to-professional-gopro-cinematography-excellence-for-2024/"><u>From Amateur Vlogs to Professional GoPro Cinematography Excellence for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-se-2022-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone SE (2022) After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-chatgpt-safe-6-cybersecurity-risks-of-openais-chatbot/"><u>Is ChatGPT Safe? 6 Cybersecurity Risks of OpenAI's Chatbot</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/yl-softwares-expert-advice-on-managing-programs-in-the-windows-control-panel/"><u>YL Software's Expert Advice on Managing Programs in the Windows Control Panel</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-paint-picture-humor-for-2024/"><u>[New] Paint Picture Humor for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-why-my-instagram-videos-turned-upside-down-whats-going-on/"><u>[Updated] 2024 Approved Why My Instagram Videos Turned Upside Down – What's Going On?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-speedy-transmission-techniques-ultimate-app-and-extension-guide-for-2024/"><u>[Updated] Speedy Transmission Techniques Ultimate App and Extension Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoded-solution-correcting-writable-constraints-on-addressed-memory-x/"><u>Decoded Solution: Correcting Writable Constraints on Addressed Memory X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-standard-to-spectacular-the-journey-with-vce-22-for-2024/"><u>From Standard to Spectacular The Journey with VCE 2.2 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-unwrapped-to-personalized-perfection-10-leading-shopping-platforms-for-2024/"><u>From Unwrapped to Personalized Perfection 10 Leading Shopping Platforms for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frostbound-competition-spotlight-on-2022s-olympic-snowboard-cross-heroes-for-2024/"><u>Frostbound Competition Spotlight on 2022'S Olympic Snowboard Cross Heroes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fun-and-flight-5-best-drone-options-for-children-for-2024/"><u>Fun and Flight 5 Best Drone Options for Children for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fundamental-skills-for-creating-persuasive-client-centered-testimonials-for-2024/"><u>Fundamental Skills for Creating Persuasive Client-Centered Testimonials for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funimate-android-gameplay-apk-to-victory-guide-for-2024/"><u>Funimate Android Gameplay - APK to Victory Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funnybox-simple-setup-for-content-creators-for-2024/"><u>FunnyBox Simple Setup for Content Creators for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c02-phone-without-pin-by-drfone-android/"><u>How to Unlock Nokia C02 Phone without PIN</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-change-netflix-playback-speed/"><u>In 2024, How to Change Netflix Playback Speed?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-secure-your-webcam-with-these-10-tips/"><u>In 2024, Secure Your Webcam with These 10 Tips</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/alitar-althy-ykod-byanatk-akhtyar-alaansr-alasasy-lbramg-iaaada-shkl-albyanat-ssd-fy-aaam-202/"><u>الإطار الذي يقوض بياناتك: اختيار العنصر الأساسي لبرامج إعادة شكل البيانات SSD في عام 202</u></a></li>
 </ul></div>
 

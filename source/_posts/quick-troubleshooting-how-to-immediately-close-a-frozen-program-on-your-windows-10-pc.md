@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC"
-date: 2025-01-08T17:12:50.252Z
-updated: 2025-01-09T16:33:29.216Z
+date: 2025-01-09T17:27:48.449Z
+updated: 2025-01-15T17:37:44.558Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 ## Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 * [Force Quit an App Using Command Prompt](https://fox-links.techidaily.com/expertly-crafted-images-with-lut-techniques-in-photoshop-cs6-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
  It’s not uncommon for an application to stop responding on Windows 10\. When it happens, you can force the app to shut down, effectively unfreezing said application. Here’s how to force quit an app on Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Try a Keyboard Shortcut
 
  It's frustrating when an app you're using suddenly freezes. We’ve all done it—exasperatingly clicking the “X” button at least 20 times to close the frozen program. There’s a better way.
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
  This won't always work—some frozen applications just won't respond.
 
 ![Press Alt+F4 to force close an app. If you press Alt+F4 while the desktop is selected, you'll see a 'Shut Down Windows' window appear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0-altf4-restart-okay-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Force Quit Using Task Manager
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 ![Select the app you want to force quit, then click 'End Task.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-select-the-app-and-hit-end-task.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The frozen program will now close.
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
  You can find and force quit tasks from the Command Prompt. [Open Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) by typing **cmd** in the Windows search bar, and then selecting the “Command Prompt” app from the search results.
 
 ![Search 'cmd' in the Start Menu search, then launch Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-launch-command-prompt.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In Command Prompt, type **tasklist** and press "Enter." Once executed, Command Prompt will display a list of currently running programs, services, and tasks.
 
@@ -90,6 +86,10 @@ taskkill /im <program>.exe
 taskkill /im notepad.exe
 
 ![Ending the Notepad process with the taskkill command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-kill-notepad.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A success message will be returned, letting you know you’ve successfully force quit the problematic application.
 
@@ -112,17 +112,22 @@ taskkill /im notepad.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-affordable-gear-guide-choosing-the-right-cam-for-you-for-2024/"><u>[New] Affordable Gear Guide Choosing the Right Cam For You for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-add-captions-to-instagram-videos/"><u>[New] How to Add Captions to Instagram Videos</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-easy-start-the-definitive-guide-to-free-channel-openers/"><u>[Updated] Easy Start The Definitive Guide to Free Channel Openers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gastronomy-in-action-a-guide-to-high-quality-food-videos/"><u>[Updated] Gastronomy in Action A Guide to High-Quality Food Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-displays-of-2024-essential-photo-editing-gear-selection/"><u>[Updated] Ideal Displays of 2024 Essential Photo Editing Gear Selection</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unmatched-video-capturing-reviews-of-the-best-apps/"><u>[Updated] Unmatched Video Capturing Reviews of the Best Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-lag-reducing-cpu-strain-while-playing-phasmophobia/"><u>Beat the Lag: Reducing CPU Strain While Playing Phasmophobia</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funimate-android-adventure-the-apk-breakdown-for-2024/"><u>Funimate Android Adventure The APK Breakdown for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-staking-rituals-player-views/"><u>In 2024, HIGH-STAKING RITUALS Player Views</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-soundtrack-strategists-guide-to-youtube-playlists/"><u>In 2024, The Soundtrack Strategist's Guide to YouTube Playlists</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-5-zoom-transcribing-tools-free-and-paid-options-for-2024/"><u>Top 5 Zoom Transcribing Tools Free & Paid Options for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chuckle-inducing-snaps-applying-the-cartoon-face-effect-on-snapchat/"><u>[Updated] Chuckle-Inducing Snaps Applying the Cartoon Face Effect on Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-recommendations-10-high-end-podcast-mics/"><u>[Updated] Expert Recommendations 10 High-End Podcast Mics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopros-best-underwater-enhancement-filters/"><u>[Updated] GoPro's Best Underwater Enhancement Filters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-make-brands-see-you-as-a-valuable-youtube-sponsorship-candidate/"><u>[Updated] How to Make Brands See You as a Valuable Youtube Sponsorship Candidate</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-10-best-classic-family-vacation-movie-for-this-summer/"><u>2024 Approved 10 Best Classic Family Vacation Movie for This Summer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-gospel-music-how-to-download-and-modify-your-ringtone/"><u>2024 Approved Exploring Gospel Music How to Download & Modify Your Ringtone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-strategies-to-improve-seamless-broadcasts-in-obs/"><u>2024 Approved Strategies to Improve Seamless Broadcasts in OBS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/adding-movies-to-your-playlist-an-intuitive-process-for-youtube-users/"><u>Adding Movies to Your Playlist An Intuitive Process for YouTube Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-your-hands-on-apples-new-macbook-air-with-m2-chip-for-a-steal-at-800-on-amazon-beating-the-prime-day-rush/"><u>Get Your Hands on Apple's New MacBook Air with M2 Chip for a Steal at $800 on Amazon – Beating the Prime Day Rush!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-windows-after-failed-sign-in/"><u>How to Unlock Windows After Failed Sign-In</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hiring-guide-locating-excellent-film-capturers/"><u>In 2024, Hiring Guide Locating Excellent Film Capturers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-snip-save-and-share-high-quality-tamil-ringtones-easily/"><u>In 2024, How to Snip, Save and Share High-Quality Tamil Ringtones Easily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instantaneous-installation-laugh-with-ifunny-memes-easily/"><u>In 2024, Instantaneous Installation Laugh with iFunny Memes Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-temporal-displacement-effects-for-2024/"><u>Innovating Temporal Displacement Effects for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/introduction-to-professional-audio-recording-a-mac-and-audacity-approach-for-2024/"><u>Introduction to Professional Audio Recording A Mac & Audacity Approach for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-bluetooth-missing-from-windows-device-manager/"><u>Resolving the Issue: Bluetooth Missing From Windows Device Manager</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-gt-neo-5-se-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme GT Neo 5 SE to iOS not Working Problems | Dr.fone</u></a></li>
 </ul></div>
 

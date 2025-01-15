@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments"
-date: 2025-01-06T22:04:44.412Z
-updated: 2025-01-09T16:22:40.242Z
+date: 2025-01-13T17:03:08.871Z
+updated: 2025-01-15T17:17:21.462Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ## Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 * Deep Game, an AI fiction writer, excels in creating engaging stories, offering various genres, and even allows users to direct the plot development.
 
  If you browse the "Explore GPTs" section of ChatGPT, you'll find a near-endless selection of custom GPTs for everything you can think of and at least a few things you'd never think of!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Astrology Birth Chart GPT
 
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 ![A screenshot of the response including Sun sign and moon sign explanations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225219_chatgpt.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is a detailed birth chart! However, it doesn't take AI to do a birth chart, just an extensive database. A real test would be to prompt the GPT to apply this chart to a specific scenario.
 
 ###  Prompt: What Would Be a Good Career for Me Based on This Info?
@@ -68,9 +68,17 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
  Overall, I thought this AI was knowledgeable about astrology and good fun for someone with a casual interest. A serious student of astrology probably doesn't need this AI, and may find minor inaccuracies, like with any AI. However, it was fun and interesting for this skeptic to get a little extra insight.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Rizz GPT
 
  My kids have been telling me to write about the Rizz GPT for a while. They keep saying, "It's hilarious!" I'd ask for an example, but they'd inevitably just tell me, "It boosts your Rizz!" In hindsight, I think they thought it was hilarious because they'd seen examples of its use on TikTok and YouTube. Now I know why the videos are funny, because anyone actually using anything out of this AI in real life would, indeed, be hilarious.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Prompt: What is Rizz?
 
@@ -93,14 +101,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ![Screenshot of GPTs response to the prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225152_chatgpt.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite this red flag, I pressed on. I described my work, hobbies, kids, and preferences, and asked it to write me a dating profile. The resulting response was poorly written, formulaic, cheesy, and exactly what one would expect from the author of those pickup lines. It later occurred to me that using that profile as an obvious joke on a dating site might actually generate interest. I didn't test it out, but it made me wonder if I was taking the AI too seriously. Is this AI supposed to be a caricature of Gen Z? Perhaps I'm too old to get the joke. However, not meeting the basic standards of AI we've come to expect from GPTs means the joke is poorly executed, in my opinion.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Deep Game
 
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  Without missing a beat, Deep Game continued the story, "The sun blazes high in the sky, its relentless heat beating down on the small, desolate island. Palm trees sway gently in the breeze, their fronds rustling softly. The sand beneath your feet is hot, almost unbearable. You've managed to set up a small camp using the few supplies you had, but with no rain in days, your collected water is dangerously low."
 
 ![Screenshot of prompt and the first part of the GPT response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225031_chatgpt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The writing is verbose and the story lines are archaic. However, that's typical of AI writing, in my experience. This AI is as good as ChatGPT gets. Of the three GPTs I tried, this is the only one I can see myself using again. I'm thoroughly a non-fiction writer. However, if I did start writing fiction and inevitably got stuck, I think I could enter the plot I had so far to see what it suggested. It could be fun to do with kids. It might also be useful for fantasy tabletop role-playing games like _Dungeons & Dragons_, because the user can direct the story while Deep Game paints the scenes both with words and art. For those with [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/) accounts, it can generate an image of the scene just described. Just use the command "/visualize".
 
@@ -143,16 +143,19 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-examining-wirecasts-features-against-competitors/"><u>[Updated] Examining WireCast's Features Against Competitors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exquisite-talent-in-vr-content-development/"><u>[Updated] Exquisite Talent in VR Content Development</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-windows-content-survey-blueprint/"><u>[Updated] Fast Windows Content Survey Blueprint</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-live-action-revealed-an-in-depth-review-of-polaroids-new-camera/"><u>[Updated] Live-Action Revealed An In-Depth Review of Polaroid's New Camera</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/advanced-methods-for-fisheye-imaging-excellence/"><u>Advanced Methods for Fisheye Imaging Excellence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/as-mais-eficientes-ferramentas-de-edicao-imagem-retirando-pessoas-das-cenas/"><u>As Mais Eficientes Ferramentas De Edição Imagem: Retirando Pessoas Das Cenas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-instagrams-unpredictable-video-playback-for-2024/"><u>Exploring Instagram's Unpredictable Video Playback for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-much-will-it-cost-to-shoot-a-music-video-for-2024/"><u>How Much Will It Cost To Shoot A Music Video for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone XS</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-easily-obtain-unique-epilogue-audio-files-online/"><u>In 2024, Easily Obtain Unique Epilogue Audio Files Online</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-zte-nubia-z60-ultra-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My ZTE Nubia Z60 Ultra Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-time-taken-to-watch-an-example-of-a-20mb-video/"><u>[New] 2024 Approved Time Taken to Watch An Example of a 20MB Video</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-10-best-flvto-alternatives-youtube-converter-you-can-try/"><u>[New] Top 10 Best Flvto Alternatives YouTube Converter You Can Try</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-explore-djis-aesthetics-first-20-no-cost-drone-vfx-trials-for-2024/"><u>[Updated] Explore DJI's Aesthetics – First 20 No-Cost Drone VFX Trials for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveil-the-leading-10-hidden-story-viewers-for-2024/"><u>[Updated] Unveil the Leading 10 Hidden Story Viewers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-smooth-video-trimming-in-photos/"><u>2024 Approved Expert Tips for Smooth Video Trimming in Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-final-cut-pros-top-effect-enhancers-the-essential-10/"><u>2024 Approved Final Cut Pro's Top Effect Enhancers The Essential 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-inspection-gopro-silver-hero4-detailed-review/"><u>2024 Approved Full Inspection GoPro Silver Hero4 Detailed Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-many-videos-fit-in-64128gb-data-insight/"><u>2024 Approved How Many Videos Fit In 64/128GB? Data Insight</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-15-pro-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 15 Pro Activation Lock</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-popular-online-channels-faceybook-youtube-tweetspace-snapgram/"><u>Discover Popular Online Channels: FaceyBook, Youtube, TweetSpace, Snapgram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-to-view-performances-film-cast-permissions-for-2024/"><u>Free-to-View Performances Film Cast Permissions for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-infusing-your-reels-with-soundscape-elements/"><u>In 2024, Infusing Your Reels with Soundscape Elements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-social-footprints-how-to-pinpoint-people-who-shared-your-post-on-facebook/"><u>Navigating Social Footprints: How to Pinpoint People Who Shared Your Post on Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-top-10-techniques-live-cricket-broadcasting/"><u>Unveiling Top 10 Techniques Live Cricket Broadcasting</u></a></li>
 </ul></div>
 

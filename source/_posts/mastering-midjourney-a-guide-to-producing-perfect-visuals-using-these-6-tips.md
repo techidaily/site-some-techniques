@@ -1,7 +1,7 @@
 ---
 title: "Mastering MidJourney: A Guide to Producing Perfect Visuals Using These 6 Tips"
-date: 2025-01-04T20:23:02.708Z
-updated: 2025-01-09T17:20:59.280Z
+date: 2025-01-09T16:47:57.490Z
+updated: 2025-01-15T16:40:58.544Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 ---
 
 ## Mastering MidJourney: A Guide to Producing Perfect Visuals Using These 6 Tips
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,10 +37,14 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
 ![An example of MidJourney sticking correctly to a prompt with a man and woman smiling at each other in a garden.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-26-at-23-21-12.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see MidJourney pretty much nailed it with all four images generated from the prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the Right Style Modifier
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
  I've written about some of my [favorite Midjourney style modifiers](https://extra-lessons.techidaily.com/in-2024-compact-movie-story-proposal/) before, but these are just examples to get you thinking about style. It's definitely worth doing some research on the various art styles, or to find out what the art style is called for your favorite pieces. It's quite often the missing ingredient in a prompt that makes all the difference.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Negative Prompts
@@ -65,23 +65,19 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
 ![An AI-generated image of toy cars in various colors.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/gendowasright_cars_of_different_colors_-no_red_cars_276a78ef-2403-4e5f-8bf8-010517eecf19_1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Sydney Louw Butler/How-To Geek/Midjourney
 
  The power of negative prompts can't be overstated, and it's a good way to take control of what's in your image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Let ChatGPT Write or Polish Your Prompt
 
  Most people probably underestimate the length of prompt that Midjourney can process, and humans are a little lazy by nature, so you're probably not writing whole paragraphs of imaginative visual text. However, chatbots like ChatGPT have no problem with verbosity and can often come up with details you may not have thought of.
 
  It's as simple as asking ChatGPT for a prompt based on your needs, but I've created a short guide to help you [combine ChatGPT and Midjourney](https://facebook-video-footage.techidaily.com/updated-in-2024-downloader-essentials-the-best-tools-for-offline-viewing/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use "Vary Region" and Other Advanced Tools
 
@@ -100,6 +96,10 @@ Sydney Louw Butler/How-To Geek/Midjourney
  One of the best is "Vary Region", which is Midjourney's name for its inpainting feature. This allows you to make parts of the image you're not happy with, and re-generate those portions without affecting the rest of the picture.
 
 ![A MidJourney image marked with the  Vary Region function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/midjourney-vary-region.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The [panning and zooming tools](https://some-skills.techidaily.com/2024-approved-total-insight-into-vscos-photography-ecosystem/) are also invaluable, especially if something in your image has been cut off, or the framing is too close. None of these tools alter your original image, so it's perfectly safe to experiment with them.
 
@@ -122,19 +122,18 @@ Sydney Louw Butler/How-To Geek/Midjourney
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-apps-to-keep-your-data-on-the-go-androids-cloud-keeper-list/"><u>[New] Excellent Apps to Keep Your Data on the Go - Android's Cloud Keeper List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-content-review-the-best-15-youtube-unboxers-of-2024/"><u>[New] Exclusive Content Review The Best 15 YouTube Unboxers of 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-utilizing-funimate-downloader/"><u>[New] Expert Tips for Utilizing Funimate Downloader</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hololens-unveiled-microsofts-leap-to-3d-reality/"><u>[New] HoloLens Unveiled – Microsoft's Leap to 3D Reality</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-how-to-do-color-correction-in-gopro-studio/"><u>[Updated] 2024 Approved How to Do Color Correction in GoPro Studio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-asmrists-can-help-your-evening-routine/"><u>2024 Approved How ASMRists Can Help Your Evening Routine</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-mirrorless-vs-dslr-video-mastery-in-focus/"><u>2024 Approved Mirrorless vs DSLR Video Mastery in Focus</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1715859666682-2024-approved-recording-rivals-meet/"><u>2024 Approved Recording Rivals, Meet!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elevateview-video-converter-software/"><u>ElevateView Video Converter Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emojis-speak-market-trends/"><u>Emojis Speak Market Trends</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experience-beyond-reality-choosing-the-premier-10-headsets-for-360-video-on-pc-for-2024/"><u>Experience Beyond Reality Choosing the Premier 10 Headsets for 360 Video on PC for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-image-post-processing-advanced-use-of-3d-luts-in-ps/"><u>In 2024, Revolutionizing Image Post-Processing Advanced Use of 3D LUTs in PS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-budding-filmmakers-companion-understanding-display-quality-101/"><u>In 2024, The Budding Filmmaker’s Companion Understanding Display Quality 101</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-navigating-the-landscape-smm-best-practices/"><u>[Updated] In 2024, Navigating the Landscape SMM Best Practices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-diy-dynamics-unlock-creative-animation-potential/"><u>2024 Approved DIY Dynamics Unlock Creative Animation Potential</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/"><u>2024 Approved How to Download, Process, and Save YouTube-Hosted Tweet Videos as MP3s</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964478822-discover-the-best-value-deal-top-rated-5-star-fractal-design-north-tower-case-for-your-pc-now-only-1ebn/"><u>Discover the Best Value Deal: Top-Rated 5 Star Fractal Design North Tower Case for Your PC, Now Only $1Ebn!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974079306-download-and-install-the-latest-hp-officejet-5255-printer-drivers/"><u>Download and Install the Latest HP Officejet 5255 Printer Drivers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-asmrists-praised-by-insomniacs-for-2024/"><u>Expert ASMRists Praised by Insomniacs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/five-iphone-podcast-services-to-streaming-for-2024/"><u>Five iPhone Podcast Services to Streaming for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focused-adventure-getting-up-close-in-roblox-landscapes-for-2024/"><u>Focused Adventure Getting Up Close in Roblox Landscapes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-fix-swiftly-vanish-coffee-stains-from-your-iphone-pics-for-2024/"><u>Free Fix Swiftly Vanish Coffee Stains From Your iPhone Pics for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-no-expense-required-grab-your-custom-outro-scene/"><u>In 2024, No Expense Required - Grab Your Custom Outro Scene</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/mastering-vcenter-agent-configuration-and-restart-procedures-for-enhanced-system-management/"><u>Mastering vCenter Agent Configuration & Restart Procedures for Enhanced System Management</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tcl-50s425-50-inch-roku-tv-2019-review-a-4k-tv-big-on-value/"><u>TCL 50S425 50-Inch Roku TV (2019) Review: A 4K TV Big on Value</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015945832-troubleshoot-audio-on-windows-11-quick-solutions-no-more-silence/"><u>Troubleshoot Audio on Windows 11 - Quick Solutions, No More Silence!</u></a></li>
 </ul></div>
 

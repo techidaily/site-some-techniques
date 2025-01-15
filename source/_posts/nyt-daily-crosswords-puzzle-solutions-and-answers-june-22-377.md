@@ -1,7 +1,7 @@
 ---
 title: "NYT Daily Crosswords: Puzzle Solutions & Answers - June 22, #377"
-date: 2025-01-05T22:23:42.961Z
-updated: 2025-01-09T21:46:03.589Z
+date: 2025-01-10T16:08:59.464Z
+updated: 2025-01-15T16:28:38.064Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 ---
 
 ## NYT Daily Crosswords: Puzzle Solutions & Answers - June 22, #377
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -28,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -42,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
 ![June 19th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-19th-connections.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you still need help, the actual group names are:
 
 * **Yellow:** One Thing After Another
@@ -54,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 * **Purple:** Words for Sausage
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![June 22nd Connections groups and words](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-22nd-connections-filled.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **One Thing After Another (Yellow):** 
 
@@ -77,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
  Brat, Dog, Frank, Link
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Did We Solve This Connections Game?
 
  June 22nd was a little difficult for me, but there wasn't anything spectacularly hard about it. 
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
  Eventually, after about 200 shuffles, Birds, Fog, Omen, and Ring wound up next to each other and I realized that they were all words in horror movie titles, specifically movies with titles of the form "The Ring," "The Omen," and so on. Blue was "Horror Movies, with The." 
 
  That left driver, iron, wedge, and wood—words I couldn't connect no matter how much I tried. They were actually in the Green group, "Kinds of Golf Clubs." Turns out I just need to up my golf game. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -127,18 +127,24 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-premier-pro-ultimate-2023-template-giveaway/"><u>[New] 2024 Approved Premier Pro Ultimate 2023 Template Giveaway</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-leading-vr-creators-industrys-pioneers/"><u>[New] In 2024, Leading VR Creators Industry's Pioneers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/practices-boosting-your-game-videos-with-tags-for-2024/"><u>Best Practices Boosting Your Game Videos with Tags for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-guide-turning-dvd-media-into-avi-format-at-home/"><u>Effortless Guide: Turning DVD Media Into AVI Format at Home</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellent-backdrops-setting-the-stage-for-streaming-for-2024/"><u>Excellent Backdrops Setting the Stage for Streaming for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-restore-drag-and-drop-capabilities-in-windows-efficiently/"><u>How to Restore Drag & Drop Capabilities in Windows Efficiently</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-free-countdown-timer-for-2024/"><u>How to Use Free Countdown Timer for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illustration-elevation-incorporating-text-into-3d-artwork-for-2024/"><u>Illustration Elevation Incorporating Text Into 3D Artwork for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-enhancing-media-with-top-10-text-plugins/"><u>In 2024, Enhancing Media with Top 10 Text Plugins</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>In 2024, How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-auditory-transitions-with-logic-pro-x/"><u>In 2024, Innovative Auditory Transitions with Logic Pro X</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-browsing-strategies-with-picture-in-picture-mode/"><u>In 2024, Innovative Browsing Strategies with Picture-In-Picture Mode</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/44gp44gu44ki44gg44gr44oa44km44oz44ot44o844oj44o75lplusd5a2y44gn44gn44kl44gl77yf44oe44kk44kt44oj44k55yuv55s744ki44o844kr44kk44ow5yem55cg6kmz57sw/"><u>どのようにダウンロード・保存できるか？ツイキャス動画アーカイブ処理詳細</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-strategies-preserving-whatsapp-call-recordings-for-2024/"><u>[New] Essential Strategies Preserving WhatsApp Call Recordings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incorporating-speech-recognition-into-slides/"><u>[New] Incorporating Speech Recognition Into Slides</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ightening-timelines-the-essential-guide-to-youtube-trimming-for-2024/"><u>[New] Tightening Timelines The Essential Guide to YouTube Trimming for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-showmore-screen-recorder-review-2023/"><u>[Updated] 2024 Approved ShowMore Screen Recorder Review 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-recommendations-for-8-windows-audio-apps/"><u>[Updated] Expert Recommendations for 8-Windows Audio Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-google-pixel-rhythms-the-ideal-online-source/"><u>[Updated] Google Pixel Rhythms The Ideal Online Source</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>[Updated] Unlocking Secrets of iPhone X Resolving Face Recognition Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cinema-journey-iphone-users-best-choice-for-films/"><u>2024 Approved Cinema Journey IPhone Users' Best Choice for Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-gopros-peak-adapters-the-ultimate-6-selection-guide/"><u>2024 Approved Exploring GoPro's Peak Adapters The Ultimate 6 Selection Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-frame-to-script-innovative-ways-of-integrating-text-in-images/"><u>2024 Approved From Frame to Script Innovative Ways of Integrating Text in Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-on-with-premium-screens-for-your-xbox-series-x-console/"><u>2024 Approved Game on with Premium Screens for Your Xbox Series X Console</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-turn-on-windows-11s-dynamic-hdr-mode/"><u>2024 Approved Guide Turn on Windows 11'S Dynamic HDR Mode</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-initial-learning-executing-fade-ins-professionally/"><u>2024 Approved Initial Learning Executing Fade-Ins Professionally</u></a></li>
+<li><a href="https://games-able.techidaily.com/alter-steams-primary-user-interface-language/"><u>Alter Steam’s Primary User Interface Language</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-trustworthy-hardware-delete-function-window/"><u>Crafting a Trustworthy Hardware Delete Function Window</u></a></li>
+<li><a href="https://facebook.techidaily.com/fb-accelerates-text-interaction-new-tools-transforming-user-experience-in-messenger-and-instagram-apps/"><u>FB Accelerates Text Interaction: New Tools Transforming User Experience in Messenger and Instagram Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-capture-perfection-the-best-live-stream-recorders-ranked/"><u>In 2024, Capture Perfection The Best Live Stream Recorders Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-newsmaker-crafting-viral-memes-in-9gag/"><u>In 2024, From Novice to Newsmaker Crafting Viral Memes in 9GAG</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/troubleshooting-guide-how-to-stop-god-of-war-from-crashing-on-your-pc/"><u>Troubleshooting Guide: How to Stop God of War From Crashing on Your PC</u></a></li>
 </ul></div>
 

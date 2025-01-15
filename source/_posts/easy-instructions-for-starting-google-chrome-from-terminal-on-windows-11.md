@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions for Starting Google Chrome From Terminal on Windows 11
-date: 2025-01-02T19:46:48.748Z
-updated: 2025-01-09T21:46:18.154Z
+date: 2025-01-10T17:29:10.831Z
+updated: 2025-01-15T17:20:33.018Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Easy Instructions for Starting Google Chrome From Terminal on Windows 11
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,10 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Open Chrome as Administrator](https://facebook-videos.techidaily.com/new-twitter-video-series-breakdown-area-format-duration-for-2024/)
 * [Open Chrome in Incognito Mode](https://extra-support.techidaily.com/in-2024-sierras-cloud-essentials-drives-full-access-guide/)
 * [Open Chrome Straight to a Specific Website](https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,23 +40,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
     
 ![The "start chrome" command in a Command Prompt window open in Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-21.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Chrome will now open. You can also do the same thing from the "Run" window.
 
  Open Run by typing "Run" in the Windows 10 search bar and selecting the "Run" application. You can also press Windows+R to open a Run window. 
 
 ![Search "Run" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-run.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here, type **Chrome** and then select the "OK" button.
 
 ![Open the Run window, then enter "Chrome."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-chrome-in-run.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The web browser will now open.
 
@@ -75,10 +67,14 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 ![Launching Chrome as an admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-running-as-admin.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll now be running Chrome as an administrator.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Open Chrome in Incognito Mode
 
@@ -97,7 +93,7 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
  Chrome will now open in incognito mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Open Chrome Straight to a Specific Website
@@ -130,6 +126,10 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Opening Chrome to a specific website in incognito mode using a Run box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-run-chrome-incog-to-specific-site.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In general, you can combine most of the arguments you can pass to Chrome in the Command Prompt. You're not just limited to the incognito flag or a specific website.
 
 <ins class="adsbygoogle"
@@ -147,24 +147,19 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-big-sur-os-essential-system-and-hardware-specifications/"><u>[New] Big Sur OS Essential System & Hardware Specifications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-flipping-and-tilting-iphone-images/"><u>[New] Expert Techniques for Flipping & Tilting iPhone Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-picture-haven-a-review-of-the-best-10-online-resources/"><u>[New] Free Picture Haven A Review of the Best 10 Online Resources</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-basic-to-brilliant-top-10-pixlr-techniques/"><u>[New] From Basic to Brilliant Top 10 Pixlr Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-graphic-design-evolution-post-acid-review/"><u>[New] Graphic Design Evolution Post-ACID Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hidden-details-the-secret-to-selective-focus/"><u>[New] Hidden Details The Secret to Selective Focus</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-voice-recognition-for-dynamic-decks/"><u>[Updated] Harnessing Voice Recognition for Dynamic Decks</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-catchy-captions-the-ultimate-guide-to-animated-text-on-ig/"><u>2024 Approved Catchy Captions The Ultimate Guide to Animated Text on IG</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-iphone-techniques-for-stunning-scenery-shots/"><u>2024 Approved Expert iPhone Techniques for Stunning Scenery Shots</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-prime-time-for-podcast-debuts/"><u>2024 Approved Prime Time for Podcast Debuts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-art-of-conducting-engaging-interviews/"><u>2024 Approved The Art of Conducting Engaging Interviews</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/comprehensive-step-by-step-tutorial-on-preparing-datasets-for-artificnial-intelligence/"><u>Comprehensive Step-by-Step Tutorial on Preparing Datasets for Artificnial Intelligence</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-audio-live-vids/"><u>Elite Audio Live Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-advice-on-enhancing-vhs-images-using-technology-for-2024/"><u>Expert Advice on Enhancing VHS Images Using Technology for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969345005-get-the-latest-wi-fi-driver-upgrades-for-your-windows-7-device-instantly/"><u>Get the Latest Wi-Fi Driver Upgrades for Your Windows 7 Device Instantly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-camera-to-feed-ig-photo-tutorial/"><u>In 2024, From Camera to Feed IG Photo Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-pc-revival-unearthing-windows-best-eight-methods/"><u>Quick PC Revival: Unearthing Windows' Best Eight Methods</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-best-photo-watermarking-software-you-should-try-for-2024/"><u>Top 10 Best Photo Watermarking Software You Should Try for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-gold-ultra-fast-hd-dvd-and-blu-ray-extraction-for-windows-11-unlimited-copy-protection-bypass/"><u>WinX DVD Ripper Gold: Ultra-Fast HD DVD & Blu-Ray Extraction for Windows 11 – Unlimited Copy Protection Bypass</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-simplify-collaboration-in-windows-10-effective-use-of-zoom-services/"><u>[New] Simplify Collaboration in Windows 10 Effective Use of Zoom Services</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-syma-x5c-reviewed-ideal-entry-level-flying-machine-for-2024/"><u>[New] Syma X5C Reviewed Ideal Entry-Level Flying Machine for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-charting-success-top-online-video-channels/"><u>[Updated] Charting Success Top Online Video Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-video-edits-is-inshot-top-choice/"><u>[Updated] Exploring Video Edits Is InShot Top Choice?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highlighting-excellence-in-8-3d-websites-with-gold-effects/"><u>[Updated] Highlighting Excellence in 8 3D Websites with Gold Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-discoveries-prime-websites-and-methods-to-download-tamil-ringtone-files/"><u>2024 Approved Exclusive Discoveries Prime Websites & Methods to Download Tamil Ringtone Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-ultimate-selection-of-transition-apps-for-2024/"><u>Explore the Ultimate Selection of Transition Apps for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-scraps-to-stunning-a-photomontage-journey-for-2024/"><u>From Scraps to Stunning A Photomontage Journey for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hide-identity-blurred-face-artistry-for-2024/"><u>Hide Identity Blurred Face Artistry for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-exploration-of-final-cut-pros-powerful-tools-and-features-for-2024/"><u>In-Depth Exploration of Final Cut Pro’s Powerful Tools and Features for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/powering-forward-a-concise-history-of-electric-transportation-innovations/"><u>Powering Forward: A Concise History of Electric Transportation Innovations</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-typing-mastery-via-typingaid-apps/"><u>Quick Typing Mastery via TypingAid Apps</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/winnen-op-win-de-allerbeste-gratis-kloonsoftware-voor-windows-e11-top-5-keuzes/"><u>Winnen Op Win: De Allerbeste Gratis Kloonsoftware Voor Windows E11 - Top 5 Keuzes</u></a></li>
 </ul></div>
 

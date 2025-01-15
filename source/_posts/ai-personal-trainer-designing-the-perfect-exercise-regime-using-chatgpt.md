@@ -1,7 +1,7 @@
 ---
 title: "AI Personal Trainer: Designing the Perfect Exercise Regime Using ChatGPT"
-date: 2025-01-08T22:01:09.061Z
-updated: 2025-01-09T22:05:56.957Z
+date: 2025-01-10T16:55:50.656Z
+updated: 2025-01-15T16:25:13.930Z
 tags:
   - cutting-edge
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 ## AI Personal Trainer: Designing the Perfect Exercise Regime Using ChatGPT
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * You can prompt ChatGPT to create a workout routine as a starting point, being clear about your body type, goals, and equipment.
 * For safety and the input of a true expert, always ask a personal trainer for advice about and alongside ChatGPT's output.
 
  Have you been meaning to start exercising regularly but aren't sure where to get started? You can easily use ChatGPT to create a workout routine. While its suggestions may not be tailored perfectly to everyone’s needs, they serve as a good starting point for anyone wanting to improve their fitness.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  ChatGPT Can Create Workout Routines. They Just Need Some Work Themselves
 
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![Asking ChatGPT to create a workout routine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/asking-chatgpt-to-create-a-workout-routine.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can therefore either reply to the above questions, or you can go ahead from the outset and specify the kind of workout regime you’d like. For example, you can write something along the lines of, "Create a gym workout routine intended to build upper body strength. I'm a beginner and am able to work out three times a week."
@@ -41,14 +41,10 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![ChatGPT creates a workout routine for strength.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/chatgpt-creates-a-workout-routine-for-strength.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It also needs to be stressed that you should make sure to state how experienced and fit you are, while providing your age, height and weight is also a good idea. If the routine ChatGPT produces seems a little too hard (or maybe easy), you should probably start again and make it clear that you want something slightly different.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Always Ask a Personal Trainer First
 
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 ![Changing jogging times with ChatGPT routine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/changing-jogging-times-with-chatgpt-routine.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Secondly, and more generally, they should also ask trainers whether the routines provided by ChatGPT are actually suitable for their needs. In my case, I created a workout routine for myself centered around upper body strength, and the member of staff I spoke to at my gym pointed out how it could potentially benefit from at least one more exercise focused on the chest.
 
  More importantly, while ChatGPT did nothing wrong in itself in terms of outlining a helpful routine for improving upper body strength, it often lacks the context and bigger picture that could provide people with more useful advice. This became clear when the same trainer I spoke to also suggested that I shouldn’t focus only on upper body strength, and that I should also be looking at improving my core and leg strength.
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
  So while ChatGPT did create a decent enough upper body workout, if it were comparable to a qualified professional it would have also recommended a more holistic approach. This becomes particularly important if you’re entering the gym because you’re recovering from a health condition or injury, with experienced trainers likely to ask about such factors and advise accordingly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Hybrid Approach Works Best
@@ -95,17 +95,14 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-iconic-subreddits-and-their-all-time-favorites-list/"><u>[New] Iconic Subreddits & Their All-Time Favorites List</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevate-your-brand-discovering-the-essential-5-youtube-strategies/"><u>[Updated] 2024 Approved Elevate Your Brand Discovering the Essential 5 YouTube Strategies</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/easy-peasy-screen-transitions-for-filmmakers/"><u>Easy-Peasy Screen Transitions for Filmmakers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-ultimate-selection-of-free-slide-show-designs-for-2024/"><u>Explore the Ultimate Selection of Free Slide Show Designs for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y28-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo Y28 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y100i-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y100i Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-2022-olympic-sprint-ice-key-moments-and-winners/"><u>In 2024, 2022 Olympic Sprint Ice Key Moments and Winners</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expanding-creative-horizons-in-obs-studio-using-luts/"><u>In 2024, Expanding Creative Horizons in OBS Studio Using LUTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-steadicams-for-uav-aerial-cinematography/"><u>In 2024, Ideal Steadicams for UAV Aerial Cinematography</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-sj6-mastery-showdown-sjcam-vs-xiaomis-yi-pro-4k/"><u>In 2024, SJ6 Mastery Showdown SJCam Vs. Xiaomi's Yi Pro 4K</u></a></li>
-<li><a href="https://article-helps.techidaily.com/windows-10-protips-the-ultimate-quick-reference-for-2024/"><u>Windows 10 Protips The Ultimate Quick Reference for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wireless-linking-ultimate-guide-to-pair-your-samsung-soundbar-with-your-television/"><u>Wireless Linking: Ultimate Guide to Pair Your Samsung Soundbar with Your Television</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-captivating-cinematic-experiences-in-youtube-videos/"><u>[New] 2024 Approved Crafting Captivating Cinematic Experiences in YouTube Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-basic-understanding-of-animate-graphic-content/"><u>[New] Basic Understanding of Animate Graphic Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-access-to-sierras-documents-and-desktop-in-the-cloud/"><u>2024 Approved Full Access to Sierra's Documents and Desktop in the Cloud</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-your-marketing-flame-sparkling-strategies-for-smm-success/"><u>2024 Approved Ignite Your Marketing Flame Sparkling Strategies for SMM Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-recording-roulette-top-strategies-for-tv-show-capture/"><u>2024 Approved Recording Roulette Top Strategies for TV Show Capture</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-comprehensive-look-at-the-newest-updates-of-lg-360-cameras/"><u>A Comprehensive Look at the Newest Updates of LG 360 Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/dive-deep-record-well-2023s-best-cameras-for-sea-journeys/"><u>Dive Deep, Record Well 2023'S Best Cameras for Sea Journeys</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expanding-photography-quality-for-2024/"><u>Expanding Photography Quality for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focal-flares-amplifying-your-footage-visually-for-2024/"><u>Focal Flares Amplifying Your Footage Visually for 2024</u></a></li>
 </ul></div>
 

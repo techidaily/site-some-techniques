@@ -1,7 +1,7 @@
 ---
 title: "7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience"
-date: 2025-01-02T16:33:55.621Z
-updated: 2025-01-09T21:14:33.068Z
+date: 2025-01-12T16:24:48.536Z
+updated: 2025-01-15T17:38:07.661Z
 tags:
   - desktop
 categories:
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 * [Settings, Lots of Settings](https://on-screen-recording.techidaily.com/updated-professional-techniques-editing-and-saving-movies-in-win-11/)
 * [Stability: Generally Good...](https://facebook-videos.techidaily.com/2024-approved-effortless-extraction-of-facebook-hd-vids/)
 * [Will I Stick With Plasma 6.0?](https://facebook-video-content.techidaily.com/in-2024-exploring-facebooks-2023-video-revolution-the-rise-of-compact-clips/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  With [Plasma 6.0 recently released](https://instagram-video-recordings.techidaily.com/new-professional-thumbnails-for-engaging-igtv-posts/), it seemed like a great time to take a serious look at it. I used Plasma exclusively for a week, and this is how it went.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  First Impressions
 
  I installed Plasma on Arch to get a plain-vanilla spin of Plasma. To get work done I need to navigate the file system, launch and install applications, and change settings in the DE.
@@ -67,10 +67,6 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 desktop with several windows open and a panel thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  By default, Plasma windows have their close, minimize, and maximize icons on the top right, and a small application icon on the top left. Clicking the icon and choosing “More Actions” from the menu gives you access to a further set of options for the window, including keeping this window on top of other windows.
@@ -78,7 +74,7 @@ Dave McKay/How-To Geek
 ![The More Actions window menu in KDE Plasma 6.0](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -99,15 +95,15 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma Dolphin file browser with split panes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/9-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  Yes, you can do this in other file browsers, but a small icon labeled "Split" has to be the easiest way to do this. Likewise, the Icons View, Compact View, and Details View icons make these common actions accessible and simple.
 
 ![The KDE Plasma Dolphin file browser in detail View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -116,6 +112,10 @@ Dave McKay/How-To Geek
  A departure from traditional Dolphin behavior actually works in my favor. You now click once to select and click twice to action something, which makes Plasma work the way I’m used to working in GNOME. The previous Plasma scheme used a single click to action a file or folder.
 
 ![The drive capacity infomration in the KDE Plasma Dolphin file browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/11-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -140,7 +140,7 @@ Dave McKay/How-To Geek
 ![The LibreOffice entry in the KDE Plasma 6.0 Discover app store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -150,7 +150,7 @@ Dave McKay/How-To Geek
 ![LibreOffice running on KDE Plasma 6.0 desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -165,15 +165,15 @@ Dave McKay/How-To Geek
 
  In practice, it didn’t make much difference. I’m not rebooting multiple times a day. Once Plasma was up and running it was as fast as I needed it to be.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Settings, Lots of Settings
 
  There are a _lot_ of settings contained within the Settings application. Thankfully, they’re carefully collated into sensible categories, and there’s a search facility too.
 
 ![The KDE Plasma 6.0 Settings application open at the Quick Settings pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/13-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -183,6 +183,10 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 System Settings application open on the General Behavior pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/14-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
 ##  Stability: Generally Good...
@@ -190,10 +194,6 @@ Dave McKay/How-To Geek
  Plasma 6.0 is touted as having much-improved support for Wayland, but I couldn’t get it to work at all. Swapping back to X11 brought everything to life, and no doubt Wayland support will continue to improve. The chatter on forums tells me it works just fine for many people.
 
  I had the Discover app store crash on me a few times, but that was about it. Everything else ran perfectly well, including the applications I manually installed and made heavy use of every day, such as LibreOffice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Will I Stick With Plasma 6.0?
 
@@ -222,19 +222,21 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-tailoring-blends-for-stunning-composite-videos-for-2024/"><u>[New] Tailoring Blends for Stunning Composite Videos for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-eight-supercharged-tablet-models-to-enhance-every-photo-you-edit/"><u>[Updated] 2024 Approved Eight Supercharged Tablet Models to Enhance Every Photo You Edit</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-every-angle-in-a-single-shot-versus-depth-driven-photography/"><u>[Updated] Every Angle in a Single Shot versus Depth-Driven Photography</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[Updated] In 2024, From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-top-10-screen-free-android-apps-for-leisurely-gaming-for-2024/"><u>[Updated] Top 10 Screen-Free Android Apps for Leisurely Gaming for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-avoid-download-hassle-top-5-online-converters-for-gif-to-video/"><u>2024 Approved Avoid Download Hassle Top 5 Online Converters for GIF to Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hand-tracking-insights-and-types/"><u>2024 Approved Hand Tracking Insights and Types</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/first-row-fun-without-football-baseball-or-basketball-for-2024/"><u>First Row Fun Without Football, Baseball, or Basketball for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-daily-use-to-extraordinary-experiences-phones-into-vr-for-2024/"><u>From Daily Use to Extraordinary Experiences Phones Into VR for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-note-50-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme Note 50 Face Lock?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hdrs-edge-pushing-video-production-to-new-heights-for-2024/"><u>HDR's Edge Pushing Video Production to New Heights for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hue-harmony-three-straightforward-tips-to-upgrade-your-photos-for-2024/"><u>Hue Harmony Three Straightforward Tips to Upgrade Your Photos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-faulty-login-recover-your-account-today/"><u>In 2024, Facebook Faulty Login? Recover Your Account Today</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-capture-your-best-moments-top-8-mirrorless-cameras-for-you/"><u>[New] 2024 Approved Capture Your Best Moments Top 8 Mirrorless Cameras For You</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-walkthrough-transferring-visuals-on-apple-devices/"><u>[New] Expert Walkthrough Transferring Visuals on Apple Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-express-creativity-infuse-laughter-kapwing-guide/"><u>[New] Express Creativity, Infuse Laughter - Kapwing Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-monochrome-to-vibrance-a-film-graders-journey/"><u>[New] From Monochrome to Vibrance A Film Grader's Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-getting-acquainted-with-periscope-costs-benefits-and-account-creation/"><u>[New] Getting Acquainted with Periscope Costs, Benefits & Account Creation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-top-20-youtube-friendly-facebook-video-editors/"><u>[New] In 2024, Top 20 YouTube-Friendly Facebook Video Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-magixs-acid-pro-reviewed-comparing-similar-software/"><u>[Updated] Magix's ACID Pro Reviewed Comparing Similar Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-6-tech-for-cross-lingual-content-shift/"><u>2024 Approved Expert 6 Tech for Cross-Lingual Content Shift</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-flying-rivals-dji-drone-vs-gopro/"><u>2024 Approved High-Flying Rivals DJI Drone vs GoPro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streaming-success-starts-here-8-tips-for-beginners/"><u>2024 Approved Streaming Success Starts Here - 8 Tips for Beginners</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-bring-back-faded-watch-icon-artwork/"><u>In 2024, Bring Back Faded Watch Icon Artwork</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-forge-funnies-giphys-playground/"><u>In 2024, Forge Funnies Giphy's Playground</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c300-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C300 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207259541-sticky-keyboard-issues-in-windows-heres-how-you-can-get-them-working-smoothly-again/"><u>Sticky Keyboard Issues in Windows? Here's How You Can Get Them Working Smoothly Again!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-stutter-in-cs2-optimization-techniques-for-better-frame-rates/"><u>Troubleshooting Stutter in CS2: Optimization Techniques for Better Frame Rates</u></a></li>
 </ul></div>
 

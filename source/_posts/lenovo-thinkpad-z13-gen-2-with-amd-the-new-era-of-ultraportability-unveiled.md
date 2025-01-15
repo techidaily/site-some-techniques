@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad Z13 Gen 2 with AMD - The New Era of Ultraportability Unveiled
-date: 2025-01-07T17:11:42.083Z
-updated: 2025-01-09T16:15:38.560Z
+date: 2025-01-14T16:03:57.740Z
+updated: 2025-01-15T17:10:39.276Z
 tags:
   - deals
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  I received the [Z13 Gen 2 model 21JV000GUS](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2F21jv000gus), which comes with 32GB of RAM, an AMD Ryzen 7 Pro processor, a 2.8K OLED display, and 1TB of storage. You can upgrade (or downgrade) your build according to your preferences. In my time spent with the Z13 Gen 2, I wasn't blown out of the water by its overall performance but instead found it a solid laptop that's a fantastic choice for people who want something extremely light and portable that can still handle a lot of processing-heavy work tasks, plus some enjoyable media consumption and casual gaming. And yeah, you might just want to buy it for the 2.8K OLED screen, which makes streaming feel immersive, despite the small 13-inch screen.
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo ThinkPad Z13 Gen 2
 
@@ -124,10 +128,6 @@ Expand
 
 [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073%3ForgRef%3Dhttps%25253A%25252F%25252Fwww.bing.com%25252F%26clickid%3DUSr2MBRYBxyPWchRfv0ZO18OUkHwPjSRQ2wdxw0%26irgwc%3D1%26im_rewards%3D1%26PID%3D2003851%26acid%3Dww%253Aaffiliate%253Abv0as6%26cid%3Dus%253Aaffiliate%253Acxsaam%23tech_specs) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Design: A Tiny but Mighty ThinkPad
 
 ![Rear angled view of the open Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/rear-angled-view-of-the-open-lenovo-z13-gen-2-2jpg_53480774019_o.jpg) 
@@ -142,10 +142,6 @@ Close
 
  The laptop's base houses the large 10keyless chiclet keyboard, which also includes a customizable TrackPoint button. The keyboard takes up about 60% of the surface area, and right below it is a 2.79 by 4.72-inch glass-surface touchpad.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Ports: Two Good Ones... and Nothing Else
 
  By way of ports, this Z13 doesn't offer much to write home about. However, the two ports included are USB4 with a 40Gbps speed. (In case you're unaware of [what USB4 is](https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/), it's basically an upgraded version of a standard USB-C port, comparable to Thunderbolt 4, though in some arguments, USB-4 isn't _quite_ as good as this counterpart due to specific limitations).
@@ -158,9 +154,17 @@ Close
 
  I also had one tiny gripe worth mentioning—the power button below the USB4 port on the right side is tiny and relatively hard to push and hold down if you want to manually turn off the laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Inputs: The Keyboard, Touchpad, and Touchscreen
 
 ![The TrackPoint of the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-trackpoint-of-the-lenovo-z13-gen-2-2jpg_53480774934_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -169,6 +173,10 @@ Sergio Rodriguez / How-To Geek
  The precision touchpad delivered accuracy anytime I used it, whether I was scrolling, clicking, or tapping. Unlike other touchpads, which sometimes miss light taps, the Z13's never failed to recognize a tap.
 
  The touchscreen was also sensitive enough to provide accurate typing and tapping, whether using the touch keyboard or simply hitting the "save" button in my word processor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Display and Graphics: A Bright OLED Beauty
 
@@ -189,20 +197,20 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
 
 ![AMD Ryzen Pro 7 processor sticker on the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/amd-ryzen-pro-7-processor-sticker-on-the-lenovo-z13-gen-2jpg_53480774764_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Sergio Rodriguez / How-To Geek
 
  My model came with the AMD Ryzen 7 Pro 7840U processor, which handled many tasks with ease alongside the 32GB of RAM, but I found that the CPU commonly lacked the speeds I was hoping to find. Starting up the Z13 took longer than other similar ThinkPads and several product downloads took longer than I anticipated. This isn't to say the Z13 was slow by any means, but it wasn't as fast as other Lenovos I've worked with that also had 32GB of memory. For instance, the Z13 began to lag in speed when I had about 20 browser tabs open (with one playing a movie on Peacock), as well as a few office programs, the Xbox app, and the Microsoft store. I should note that you can upgrade the Z13's memory to 64GB, which would make the speed faster for multitasking purposes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Gaming Performance: Only Good for a Small Amount of Casual Gaming
 
@@ -226,24 +234,20 @@ Close
 
 ### 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+### 
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-### 
 
 ##  Battery and Charging: Long-Lasting Battery Life
 
 ![The Lenovo Z13 Gen 2 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-lenovo-z13-gen-2-with-its-chargerjpg_53480870670_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -263,10 +267,6 @@ Sergio Rodriguez / How-To Geek
  If you're ready to call the compact Z13 your own, you can buy the [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073%3ForgRef%3Dhttps%25253A%25252F%25252Fwww.bing.com%25252F%26clickid%3Dxfx2ONQHnxyPWR734TQFI1AsUkHweI3VQ2wdxw0%26irgwc%3D1%26im_rewards%3D1%26PID%3D2003851%26acid%3Dww%253Aaffiliate%253Abv0as6%26cid%3Dus%253Aaffiliate%253Acxsaam) starting at $1,241.40 today.
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #####  Lenovo ThinkPad Z13 Gen 2
 
@@ -291,24 +291,20 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unveiling-8-premium-linux-tools-for-efficient-snaps/"><u>[New] 2024 Approved Unveiling 8 Premium Linux Tools for Efficient Snaps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-foundations-in-creating-animated-imagery/"><u>[New] Foundations in Creating Animated Imagery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hilarity-renderings-kapwings-image-craft/"><u>[New] Hilarity Renderings Kapwing's Image Craft</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-iconic-stock-pictures-from-ordinary-to-internet-fame/"><u>[New] Iconic Stock Pictures From Ordinary to Internet Fame</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-srt-file-conversion-simplified-with-os-support/"><u>[New] SRT File Conversion Simplified with OS Support</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-evaluating-the-storage-power-of-64128gb-units-for-vids/"><u>2024 Approved Evaluating the Storage Power of 64/128GB Units for Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-image-distortion-made-easy/"><u>2024 Approved Image Distortion Made Easy</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-quick-vimeo-transformation-tips-easy-to-create-gifs/"><u>2024 Approved Quick Vimeo Transformation Tips Easy-to-Create GIFs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-lava-storm-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Lava Storm 5G.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/giggles-and-graphics-iphone-edition-for-2024/"><u>Giggles & Graphics IPhone Edition for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-customer-stories-for-brand-growth-for-2024/"><u>Harnessing Customer Stories for Brand Growth for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-honor-x9a-by-drfone-android/"><u>How to Bypass FRP from Honor X9a?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xr-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone XR Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-selections-economical-4k-home-theater-systems-for-2024/"><u>Ideal Selections Economical 4K Home Theater Systems for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/imagery-inspiration-skillful-grading-techniques-for-2024/"><u>Imagery Inspiration Skillful Grading Techniques for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flight-cam-combat-dji-spark-vs-gopro-fury/"><u>In 2024, Flight Cam Combat DJI Spark VS GoPro Fury</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-garagebands-easy-way-to-dull-down-noise-levels/"><u>In 2024, Garageband's Easy Way to Dull Down Noise Levels</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-windows-drivers-hp-officejet-pro-8600-download-guide/"><u>Installing Windows Drivers: HP Officejet Pro 8600 Download Guide</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/synchronizing-your-devices-seamlessly-connecting-windows-10-and-11-laptops-with-desktops/"><u>Synchronizing Your Devices: Seamlessly Connecting Windows 10 & 11 Laptops with Desktops</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-discover-your-new-favorites-with-our-best-offline-ios-games-list-for-2024/"><u>[New] Discover Your New Favorites with Our Best Offline iOS Games List for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-selective-image-editing-in-photo-software/"><u>[New] Expert Tips for Selective Image Editing in Photo Software</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-income-tracking-essential-steps-in-gauging-youtube-earnings/"><u>[New] Streamline Income Tracking Essential Steps in Gauging YouTube Earnings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-front-seat-recreation-10-non-athletic-delights/"><u>[Updated] Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-methods-for-3d-text-illustration/"><u>[Updated] Innovative Methods for 3D Text Illustration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-great-outdoors-choose-between-dji-action-4-gopro-max-360-and-insta360-x3/"><u>2024 Approved Exploring the Great Outdoors Choose Between DJi Action 4, GoPro Max 360 & Insta360 X3</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-iphoneandroid-faceshaping-software/"><u>2024 Approved Ideal iPhone/Android Faceshaping Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-comprehensive-playbook-for-self-branded-content-creators/"><u>2024 Approved The Comprehensive Playbook for Self-Branded Content Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/implementing-gradual-diminishing-techniques-on-soundtracks-with-audacity-for-2024/"><u>Implementing Gradual Diminishing Techniques on Soundtracks with Audacity for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-building-confidence-against-youtube-critiques/"><u>In 2024, Building Confidence Against YouTube Critiques</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-90-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/innovative-prime-lenses-for-professionals-shooting-4k/"><u>Innovative Prime Lenses for Professionals Shooting 4K</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-more-lag-in-video-playback-on-newest-windows-os/"><u>No More Lag in Video Playback on Newest Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fix-for-missing-gpeditmsc-feature-in-windows-home-setup/"><u>Quick Fix for Missing gpedit.msc Feature in Windows Home Setup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/reimagining-gaming-prowess-in-depth-analysis-of-the-refined-razer-blackwidow-v4-keyboard/"><u>Reimagining Gaming Prowess: In-Depth Analysis of the Refined Razer BlackWidow V4 Keyboard</u></a></li>
 </ul></div>
 

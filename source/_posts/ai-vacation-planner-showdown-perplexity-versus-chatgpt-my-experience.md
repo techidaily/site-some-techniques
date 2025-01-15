@@ -1,7 +1,7 @@
 ---
 title: "AI Vacation Planner Showdown: Perplexity Versus ChatGPT - My Experience"
-date: 2025-01-03T22:31:37.221Z
-updated: 2025-01-09T17:45:32.786Z
+date: 2025-01-08T17:21:51.148Z
+updated: 2025-01-15T16:31:09.976Z
 tags:
   - cutting-edge
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
 
 ## AI Vacation Planner Showdown: Perplexity Versus ChatGPT - My Experience
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Perplexity AI excels at research using validated internet results, while ChatGPT is versatile but inconsistent.
@@ -22,21 +18,17 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
 
  ChatGPT and Perplexity AI are both versatile AI-powered chatbots that claim the ability to research relying on an extensive database of existing knowledge supported by limited internet search abilities. I put these claims to the test as these bots help me plan a big multi-generational family vacation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  My Two Favorite AI Chatbots
 
  Perplexity AI is my [go-to AI for research](https://twitter-videos.techidaily.com/new-2024-approved-step-by-step-live-tweeting-tactics/) because it validates its answers with curated internet search results, and provides those sources. ChatGPT, on the other hand, might be the best all-around AI in my opinion. It's certainly the most popular, and this has spawned a growing number of [customized GPTs](https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/) for specific purposes. There are at least three different travel-themed custom GPTs available in the "Explore GPTs" section. I experimented with a few of them, and their performance was poor and inconsistent. I suspect they are each customized to specialize in just one aspect of travel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Choosing a Great Location
 
  My mother is planning a grand multi-generational trip to the Great Smoky Mountains in 2025\. So, I have been studying the area like only a tech journalist can. It includes a plethora of outdoor activities in and around the National Park, and tourist attractions in the nearby towns of Pigeon Forge and Gatlinburg. Most notably, the [Dollywood theme park](https://www.dollywood.com/themepark/), [Ripley's Aquarium](https://www.ripleyentertainment.com/brands/aquariums/), and numerous sky lifts and skywalks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Picking a Campground
 
@@ -53,7 +45,7 @@ Prompt:I'm planning a weeklong trip to the Great Smokies for my young family of 
 ![A screenshot of the prompt and Perplexity AI's sources and Answer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/perplexityquestion1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What to Do?
@@ -67,6 +59,10 @@ Prompt: Please suggest 10 family-friendly things to do or see there. Include a f
 ## ![A screenshot of the short prompt, and the first part of ChatGPT's response.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gptprompt2.png)Itineraries
 
  Aren't itineraries the most tedious part of vacation planning? It's fun to look at all the unique activities and share favorites with your family. It's good to show older kids activities you know they'll like and watch them get excited about the trip. The hard part is planning what to do each day to mix just the right amount of adventure and relaxation. Even exciting dinner shows can be too much for little kids (and moms!) who have already had a full day. This is the part that both first-timers and experienced travelers would appreciate help with. I admit, I did not think AI was up to the challenge.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Basic Itinerary Challenge
 
@@ -85,7 +81,11 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
 ![A screenshot of the challenge prompt and GPT's detailed response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gptbasicchallenge.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Detailed Itinerary Challenge
@@ -99,7 +99,7 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
 ## ![A screenshot of the complex prompt and Perlexity's more vague response.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/perplexitycomplexchallenge.png) And the Winner Is?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AI chatbots work for travel planning! We are the winners! I'll be using AI chatbots to assist with travel planning in the future, especially to new places. Will I tap Perplexity AI or ChatGPT? If I'm looking for one right answer (perhaps anticipating where my mom would like to stay?) I will at least check Perplexity, but ChatGPT surpassed my expectations on this challenge.
@@ -123,19 +123,15 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-experts-pathway-navigating-fullscreen-realms-in-premiere-pro/"><u>[New] Expert's Pathway Navigating Fullscreen Realms in Premiere Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-googles-platform-unveiled-the-ultimate-guide-to-podcast-postings/"><u>[New] Google's Platform Unveiled The Ultimate Guide to Podcast Postings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-how-galaxy-s8-dominates-in-4k-video/"><u>[New] In-Depth Analysis How Galaxy S8 Dominates in 4K Video</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-practical-guide-elevating-your-podcast-with-an-iconic-title/"><u>[Updated] A Practical Guide Elevating Your Podcast with an Iconic Title</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-6-minecraft-village-house-ideas/"><u>[Updated] In 2024, Top 6 Minecraft Village House Ideas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gamers-top-nine-live-video-destinations/"><u>2024 Approved Gamer’s Top Nine Live Video Destinations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-inject-harmony-into-ppt-decks/"><u>2024 Approved Inject Harmony Into PPT Decks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-efficiently-incorporate-media-in-your-tweets/"><u>In 2024, Efficiently Incorporate Media in Your Tweets</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-x6-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco X6 Phone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-14-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 14 Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-y200-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo Y200 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-v27-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo V27 Pro to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-rated-uhd-streaming-software-compatible-with-win11-and-macos-enjoy-h265-hevc-video-playback-free-of-charge/"><u>Top-Rated UHD Streaming Software Compatible with Win11 and macOS - Enjoy H.265 HEVC Video Playback Free of Charge</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-conceptualizing-and-realizing-a-podcast-rss-strategy/"><u>[New] Conceptualizing and Realizing a Podcast RSS Strategy</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-accelerate-keyword-acquisition-the-finest-7-free-taggification-apps-for-youtube-videos/"><u>[Updated] 2024 Approved Accelerate Keyword Acquisition The Finest 7 Free Taggification Apps for YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-golivepod-steps-for-a-hassle-free-podcast-broadcast-experience/"><u>[Updated] GoLivePod Steps for a Hassle-Free Podcast Broadcast Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-freeze-the-action-find-these-top-9-gif-recipes-on-windows-pc/"><u>[Updated] In 2024, Freeze the Action! Find These Top 9 GIF Recipes on Windows PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tips-for-zooming-in-on-superior-skype-meetings/"><u>2024 Approved Top Tips for Zooming in on Superior Skype Meetings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-chatgpt-content-filters-fixing-error-in-moderation-effectively/"><u>Addressing ChatGPT Content Filters: Fixing 'Error in Moderation' Effectively</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/audiovisual-synergy-infusing-music-into-vimeo-creations/"><u>Audiovisual Synergy Infusing Music Into Vimeo Creations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/iconic-image-reimagining-tools-visualmorph-v2-for-2024/"><u>Iconic Image Reimagining Tools VisualMorph V2 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-catalog-budget-friendly-image-treasuries-online/"><u>In 2024, Exclusive Catalog Budget-Friendly Image Treasuries Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-independent-evaluation-the-3dr-solo-experience/"><u>In 2024, Independent Evaluation The '3DR' Solo Experience</u></a></li>
 </ul></div>
 

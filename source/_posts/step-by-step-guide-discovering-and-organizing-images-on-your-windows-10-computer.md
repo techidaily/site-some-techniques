@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer"
-date: 2025-01-02T19:47:50.559Z
-updated: 2025-01-09T22:34:35.734Z
+date: 2025-01-09T16:41:28.295Z
+updated: 2025-01-15T16:32:16.764Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 ---
 
 ## Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
  Have you ever [transferred some pictures to your PC](https://hardware-tips.techidaily.com/master-your-gadgets-with-innovative-solutions-from-toms-hardware-experts/) and then forget where you stored them? Or, maybe you've got a few storage hard drives and don't want to search them manually? Here's a simple way to get Windows to search for all your photos on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Find All Your Photos Manually
 
  Unfortunately, pictures get stored in different places on your PC depending on the where they come from. Windows itself stores images in your "Pictures" folder. Some syncing services try to respect that, but you'll often find pictures transferred from things like DropBox, iCloud, and OneDrive in their own folders. If you transfer pictures from your camera or another device directly to your PC, those pictures also can end up in different places depending on the transfer method. And if you download pictures from the internet, they'll usually end up in whatever download folder your browser is set to use.
@@ -41,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Better Way: Let Windows Search Find All Your Photos
 
  File Explorer has a quick trick for searching for different types of documents. It's not exactly hidden, but most people never bother with it.
@@ -52,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
  Open up File Explorer and navigate to the location you want to search. You can search your entire PC by selecting the "This PC" entry in File Explorer's navigation pane.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also search a particular hard drive or folder. For this example, we're going to search our C: drive.
 
@@ -81,11 +73,19 @@ kind:=picture
 
 ![/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use a Third-Party App
 
  You can also use a third-party app, like [WizTree](https://diskanalyzer.com/), to find image files. Launch or install the app, then click "Scan" to analyze your hard drive and create an index of all of your files.
 
 ![Click the "Scan" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-scan-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once it is done you'll see a colorful array of blocks at the bottom that represent the files and folders on your PC. Click the filter button at the top, enter **\*.** followed by an image file format, then click "Apply Filter." If you wanted to find every PNG file, for example, you'd enter **\*.png** into the filter field. If you wanted to find JPEGs, you'd enter **\*.jpeg** into the filter field instead.
 
@@ -98,7 +98,7 @@ kind:=picture
 ![Individual PNG files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-individual-files.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  PNGs and JPEGs aren't the only image formats, though. Here are some common ones you might want to look for:
@@ -129,17 +129,16 @@ kind:=picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-video-platform-differences-twitch-vs-youtube/"><u>[New] Exploring Video Platform Differences Twitch Vs YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-shadows-to-highlights-the-ultimate-lightroom-hdr-guide/"><u>[New] From Shadows to Highlights The Ultimate Lightroom HDR Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-sites-for-3d-type-artistry/"><u>[New] Leading Sites for 3D Type Artistry</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-15-recommended-stop-motion-films-of-all-time/"><u>2024 Approved 15 Recommended Stop Motion Films of All Time</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/automated-lead-generation-with-the-help-of-cookiebot-technology/"><u>Automated Lead Generation with the Help of Cookiebot Technology</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discovering-the-secrets-to-professional-music-mixing-with-magix/"><u>Discovering the Secrets to Professional Music Mixing with Magix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/handling-iphone-email-problems-heres-what-you-need-to-know/"><u>Handling iPhone Email Problems? Here's What You Need to Know</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-tools-for-saving-your-online-video-presence-for-2024/"><u>Ideal Tools for Saving Your Online Video Presence for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideas-aplenty-crafting-inspirational-photographic-mosaics-for-2024/"><u>Ideas Aplenty Crafting Inspirational Photographic Mosaics for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-the-maze-of-car-audio-encryption-learn-how-to-find-your-radio-security-code-easily/"><u>Navigate the Maze of Car Audio Encryption – Learn How to Find Your Radio Security Code Easily!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-expert-navigating-telegram-web/"><u>[New] From Novice to Expert Navigating Telegram Web</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-screen-pro-tips-and-tricks-for-editors/"><u>[New] Full Screen Pro Tips and Tricks for Editors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-beyond-the-boundaries-limitations-in-vr/"><u>[Updated] 2024 Approved Beyond the Boundaries Limitations in VR</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-eco-film-frameworks-unlimited-free-template-access-for-pros-and-amateurs/"><u>[Updated] In 2024, Eco-Film Frameworks Unlimited Free Template Access for Pros & Amateurs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-studio-vs-bandicam-which-takes-the-crown/"><u>[Updated] OBS Studio Vs. Bandicam Which Takes the Crown?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-animated-graphics/"><u>2024 Approved Harnessing the Power of Animated Graphics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero5-review-capturing-extreme-sports/"><u>2024 Approved Hero5 Review Capturing Extreme Sports</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-invisible-motion-capture-instruction/"><u>2024 Approved Invisible Motion Capture Instruction</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-parchment-creators/"><u>2024 Approved Premier Parchment Creators</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-11-proplus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme 11 Pro+ to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/proven-tactics-for-adjusting-track-pace-on-spotify-app/"><u>Proven Tactics for Adjusting Track Pace on Spotify App</u></a></li>
 </ul></div>
 

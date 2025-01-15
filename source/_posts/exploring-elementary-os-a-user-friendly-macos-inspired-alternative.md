@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative"
-date: 2025-01-04T20:16:34.626Z
-updated: 2025-01-09T22:57:44.250Z
+date: 2025-01-09T16:05:26.938Z
+updated: 2025-01-15T17:02:55.818Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ## Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * elementary OS is an alternative to Windows and macOS that prioritizes ease-of-use over customization.
@@ -18,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 * elementary OS is user-friendly but power users or tinkerers may want to look for a different distro.
 
  Spend enough time looking at lists of "beginner" Linux distributions, and a name you'll notice frequently is elementary OS. Despite reading many of those lists, I hadn't tried it before, so I decided to spend a month with elementary OS as my daily driver desktop. Here's what I learned about the project and how I felt about my experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Is elementary OS?
 
@@ -31,15 +31,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![The elementary OS desktop with the application menu visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_17_06_2024_19_57_11.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Installing elementary OS Is as Easy as It Gets
 
@@ -51,14 +43,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![The boot and install options in an elementary OS live boot menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_04_58.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Like most Linux distros, you have the option to simply try it in demo mode rather than erase anything on your device. If you like what you see, you can proceed with the installation, or if you run into problems, shut down and regroup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Settling in Is Elementary
@@ -67,11 +55,19 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![A setup wizard with a welcome message in elementary OS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_23_00.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you're done with that, you need to do a system update and reboot. I overlooked that task when I first ran elementary OS, and the web browser didn't work at all until I updated. Speaking of updates, I did note that unlike most of the Linux distros I've used, updating elementary OS with the default profile configuration does not require entering the [root](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) password. You should be updating frequently, and frequently reentering a password can be a pain, so I appreciated that small bit of streamlining.
 
  By default, the AppStore is limited to elementary's curated apps. If that's not enough for you, and you need third-party software like Steam and LibreOffice, you'll need to enable [Flathub support](https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/) first. The reason for this extra step is that all that extra software hasn't been checked by the elementary team to integrate fully with the desktop and abide by its privacy and security guidelines. That said, I didn't personally experience any issues with the software I installed that way.
 
  Generally, the experience was far cleaner and more cohesive than most Linux desktops I've used. Navigating the desktop in general was a pleasant experience, without the endless subpages of settings and extravegent context menus some distros come with. I didn't experience unexplained freezes or mysterious blank screens on wake. I was able to connect a second monitor generally hassle-free, which isn't always the case for Linux.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tinkerers Need Not Apply
 
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  As a journalist, I also have specific needs (especially in testing and documenting) that aren't quite met by the basic elementary OS installation. Since there's no task tray, I was a bit annoyed by the fact that bringing background-ed apps like Discord and Nextcloud to the foreground usually required finding it in the application launcher again. When I wanted to check how my hardware was performing or scope out what app was consuming my resources, I had to go find a system monitoring app because elementary OS doesn't include one by default.
 
 [KDE Connect](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/) doesn't work with elementary's "Pantheon" desktop, which is somewhat of a deal-breaker for me and my entrenched workflow. I did some research and found there are some workarounds in development, at least. The workaround was going to be fairly involved, and since it was in alpha I couldn't expect to rely on it for work like I normally do. KDE Connect is meant for power users, so not prioritizing its functionality for elementary OS is understandable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the Operating System That Works for You
 
@@ -102,20 +102,24 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-epiccollab-unify-instagram-videos-on-devices/"><u>[Updated] EpicCollab Unify Instagram Videos on Devices</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-steps-for-transitioning-videos-from-youtube-to-dailymotion/"><u>[Updated] The Essential Steps for Transitioning Videos From YouTube to Dailymotion</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027775220-mp4/"><u>【ダウンロードせずに使える】オンラインMP4動画編集ツール一覧</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-toolwiz-in-a-world-of-mobile-photography-apps/"><u>2024 Approved Evaluating Toolwiz in a World of Mobile Photography Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-freedom-in-viewing-is-vlc-more-powerful-than-mpc/"><u>2024 Approved Freedom in Viewing Is VLC More Powerful Than MPC?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hack-your-way-to-instant-signature-bg-elimination/"><u>2024 Approved Hack Your Way to Instant Signature BG Elimination</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-modify-game-characters-vocal-presence-and-identity-in-free-fire-step-by-step-guide-included-free/"><u>2024 Approved How to Modify Game Characters' Vocal Presence and Identity in Free Fire (Step-by-Step Guide Included, FREE)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-tecno-spark-10-pro-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-apple-iphone-xs-max-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from Apple iPhone XS Max Safe and Legal</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hit-the-mark-video-that-skyrockets-in-popularity-for-2024/"><u>Hit the Mark Video that Skyrockets in Popularity for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-motorola-edge-2023-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Motorola Edge 2023 Location | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-methods-for-time-loop-illusions-for-2024/"><u>Innovative Methods for Time Loop Illusions for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp4-premiere-pro/"><u>MP4ビデオファイルの効率的な書き出し手順 - Premiere Pro</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-video-flip-in-no-time-expert-techniques-made-simple-for-2024/"><u>Updated Video Flip in No Time Expert Techniques Made Simple for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/velvet-vaults-2022-olympic-skaters/"><u>Velvet Vaults 2022 Olympic Skaters</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-comprehensive-study-hero4-black-mechanics/"><u>[New] Comprehensive Study Hero4 Black Mechanics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-reveals-on-securing-high-quality-live-cricket-broadcasting/"><u>[New] Exclusive Reveals on Securing High-Quality Live Cricket Broadcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-generate-giggle-worthy-graphics/"><u>[New] Generate Giggle-Worthy Graphics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-the-power-of-iphones-shutter-speed-for-motion-blurs/"><u>[New] Harness the Power of iPhone’s Shutter Speed for Motion Blurs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-step-into-a-world-of-eye-catching-imagery-at-pexels/"><u>[Updated] Step Into a World of Eye-Catching Imagery at Pexels</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/covid-19-myths-propagated-by-key-influencers/"><u>Covid-19 Myths Propagated by Key Influencers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellence-collection-highest-quality-webcam-supports-for-2024/"><u>Excellence Collection Highest Quality Webcam Supports for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-next-gen-coding-is-av1-superior-to-vp9-for-2024/"><u>Exploring Next-Gen Coding Is AV1 Superior to VP9 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-bland-to-brilliant-elevate-your-images-in-canva-for-2024/"><u>From Bland to Brilliant Elevate Your Images in Canva for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-apples-recent-class-action-resolution-benefits-qualifying-macbook-owners-explore-the-terms-and-entitlement-details/"><u>How Apple's Recent Class Action Resolution Benefits Qualifying MacBook Owners - Explore the Terms and Entitlement Details</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-se-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone SE Location by Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2020-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2020) Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-final-cut-pro-full-using-guide/"><u>In 2024, Final Cut Pro Full Using Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fusion-of-video-files-for-ios-devices/"><u>In 2024, Fusion of Video Files for iOS Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy XCover 6 Pro Tactical Edition Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-htc-u23-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a HTC U23 Phone that is Locked?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-grading-techniques-for-modern-filmmaking-these-7-for-2024/"><u>Innovative Grading Techniques for Modern Filmmaking (These 7) for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-meizu-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Meizu Phones</u></a></li>
 </ul></div>
 

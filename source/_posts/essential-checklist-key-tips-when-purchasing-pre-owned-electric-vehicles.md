@@ -1,7 +1,7 @@
 ---
 title: "Essential Checklist: Key Tips When Purchasing Pre-Owned Electric Vehicles"
-date: 2025-01-02T17:07:29.361Z
-updated: 2025-01-09T19:42:41.596Z
+date: 2025-01-08T16:40:45.180Z
+updated: 2025-01-15T17:04:56.476Z
 tags:
   - cutting-edge
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 ![Close up of the Chevy badge on the back of the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ae55ab54.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -38,7 +38,7 @@ Justin Duino / How-To Geek
  Additionally, most VIN reports will have detailed information about recalls, if any, service records, and other important information that will help you make the most informed decision possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Look Into the Battery Health and Warranty
@@ -56,16 +56,12 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
  Similarly to how your 3-year-old iPhone doesn't hold a charge as well as it did the first year, electric cars experience battery degradation. For example, Tesla claims that after 100,000 miles, you'll still have over 90% battery capacity. Even an aging Tesla Model S with 180K miles should be more than capable, even if you lose around 12-15% of range due to an aging battery. At that point, it doesn't need to be replaced; it just won't charge to 100%, which is perfectly normal. Once you buy a used EV, you'll want to take a few steps to [extend the life of the battery](https://remote-screen-capture.techidaily.com/new-in-2024-top-approaches-to-non-audio-recording/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don't Forget About Charging
 
 ![Rivian R1T plugged into a CCS charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ef2ffd0c.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tyler Hayes / Review Geek
 
@@ -74,6 +70,10 @@ Tyler Hayes / Review Geek
  Do you have enough charging stations around you to drive the vehicle daily? If it's a Tesla, is the free Supercharging transferable? Is your home capable of getting a [level 2 charger](https://visual-screen-recording.techidaily.com/unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc-for-2024/) installed? Even if it is, you may want an installation quote from a certified technician to know what to expect. Almost every EV in the U.S. can plug into a standard home wall plug, but it'll charge slowly, and if you commute more than a few miles per day, you'll eventually need to hit a charging station.
 
  Look into charging accessories, speeds, and port type, then factor all of that into which car is right for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Buy Used EVs From a Dealer or Tesla
 
@@ -84,6 +84,10 @@ Hannah Stryker / How-To Geek
  Tesla vehicles are trendy, and you likely see them on the road everywhere you go. As a result, they're one of the most in-demand used electric cars for sale. Buying a used EV directly from a manufacturer like Tesla is your best bet. They'll do visual and software inspections that a regular person or used car lot won't. In fact, Tesla does a [102-point inspection](https://www.tesla.com/support/ordering-used-tesla) on every used vehicle.
 
  More importantly, buying a vehicle from a manufacturer like Tesla, Chevy, or Rivian will ensure the best experience, extended warranty options, and any issues fixed by a certified mechanic before being sold. Considering how advanced EVs are, you don't want to take any chances.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Take it For a Test Drive
 
@@ -96,10 +100,6 @@ Justin Duino / How-To Geek
  Taking a used vehicle for a test drive isn't just about getting a feel for the car, punching the pedal, or feeling the get-up-and-go. You're listening for funny noises, ensuring everything feels tight, and testing that the brakes, alignment, suspension, and software like autopilot or lane-assist all work as expected.
 
  Run the heater and air conditioning, maybe go somewhere and try charging it for a few minutes, test all the windows, etc. Again, do your due diligence and check anything and everything that's important or could go wrong. Then, you can bring anything up with the seller, use it as a bargaining chip for a lower price, or pass on the vehicle and find something better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Consider Getting a Used Electric Car
 
@@ -122,24 +122,20 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-conquering-chaos-muting-tactics-for-seamless-gmeet-participation/"><u>[New] 2024 Approved Conquering Chaos Muting Tactics for Seamless GMeet Participation</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/et-rid-of-youtube-shorts-a-comprehensible-guide-for-2024/"><u>[New] Get Rid of YouTube Shorts A Comprehensible Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-groundhopping-goals-watch-record-and-cut-games-without-spending/"><u>[Updated] Groundhopping Goals Watch, Record & Cut Games Without Spending</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-how-to-fix-youtube-video-black-screen/"><u>[Updated] How to Fix YouTube Video Black Screen</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-breaking-news-working-obs-cam/"><u>2024 Approved Breaking News Working OBS Cam</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-ranking-the-best-21-hdmi-monitor-models/"><u>2024 Approved Expert Insights Ranking the Best 2.1 HDMI Monitor Models</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-file-sync-solutions-top-ways-to-bring-data-home/"><u>2024 Approved File Sync Solutions Top Ways To Bring Data Home</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-honoring-heritage-photo-conversion-and-visual-storytelling/"><u>2024 Approved Honoring Heritage Photo Conversion and Visual Storytelling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-full-multitasking-in-apple-browsers/"><u>2024 Approved Unlocking Full Multitasking in Apple Browsers</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/itunesiphone/"><u>解決方法：對付不能再輸入iTunes的已停用iPhone。</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopros-newest-clash-max-360-versus-hero-11-showdown-for-2024/"><u>GoPro's Newest Clash Max 360 Versus Hero 11 Showdown for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-snip-save-and-share-high-quality-tamil-ringtones-easily-for-2024/"><u>How to Snip, Save and Share High-Quality Tamil Ringtones Easily for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-video-for-2024/"><u>How to Use GoPro Hero5 Black Tips for Shooting Great Photos and Video for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/humor-in-pixels-kapwings-meme-crafting-app-for-2024/"><u>Humor in Pixels Kapwing’s Meme Crafting App for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-10-drone-fleet-for-professional-photos-and-films/"><u>In 2024, Excellent 10-Drone Fleet for Professional Photos & Films</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-versatility-in-vsco-imagery/"><u>In 2024, Exploring Versatility in VSCO Imagery</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/leading-edge-uninterruptible-power-supply-systems-expert-picks/"><u>Leading Edge Uninterruptible Power Supply Systems - Expert Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726030225956-powerdirector/"><u>PowerDirector 使い方: 高品質な音声を抽出するビデオ編集術</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/verified-checkmark-on-x-master-these-tips-to-authenticate-your-profile-successfully/"><u>Verified Checkmark on X? Master These Tips to Authenticate Your Profile Successfully</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-banishing-bogus-buddies-from-instagram-social-structure/"><u>[Updated] Banishing Bogus Buddies From Instagram Social Structure</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-transferring-instagram-footage-to-pcmac/"><u>[Updated] Mastering the Art of Transferring Instagram Footage to PC/Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-exchanging-visuals-android-iphone-content-transfer/"><u>2024 Approved Exchanging Visuals Android-iPhone Content Transfer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-faqs-of-using-vlc-player-on-mac/"><u>2024 Approved FAQs of Using VLC Player on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focus-on-the-frame-advanced-cropping-tips/"><u>2024 Approved Focus on the Frame Advanced Cropping Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-top-10-subtitles-tools-srt-file-transformers/"><u>2024 Approved Free Top 10 Subtitles Tools SRT File Transformers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-a-video-from-photo-with-music/"><u>2024 Approved How to Make a Video From Photo with Music</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/a-primer-on-dynamic-visual-expression/"><u>A Primer on Dynamic Visual Expression</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-fantasy-universes-with-chatgpt-step-by-step-tips-and-tricks/"><u>Building Fantasy Universes with ChatGPT: Step-by-Step Tips & Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-efficient-video-editing-with-gopro-studio-for-2024/"><u>Expert Strategies for Efficient Video Editing with GoPro Studio for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertly-selected-360-cameras-for-youtube-and-facebook-for-2024/"><u>Expertly Selected 360° Cameras for YouTube & Facebook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-audio-customization-on-sony-playstation-devices-for-2024/"><u>Explore Audio Customization on Sony PlayStation Devices for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-guide-to-facebooks-in-stream-ad-conversion-strategies/"><u>In 2024, The Ultimate Guide to Facebook's In-Stream Ad Conversion Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-disney-content-a-step-by-step-guide-to-removing-copyright-restrictions/"><u>Unlocking Disney Content: A Step-by-Step Guide to Removing Copyright Restrictions</u></a></li>
 </ul></div>
 

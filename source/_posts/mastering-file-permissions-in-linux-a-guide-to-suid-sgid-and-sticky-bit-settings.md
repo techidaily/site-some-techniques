@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings"
-date: 2025-01-02T21:22:16.277Z
-updated: 2025-01-09T19:06:55.017Z
+date: 2025-01-08T17:34:06.785Z
+updated: 2025-01-15T17:28:07.210Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 ---
 
 ## Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 * [Reminders](https://on-screen-recording.techidaily.com/in-2024-achieving-seamless-group-discussions-in-google-chat/)
 
  SUID, SGID, and Sticky Bits are powerful special permissions you can set for executables and directories on Linux. We'll share the benefits—and potential pitfalls—of using them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  They're Already in Use
 
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
  The above scenario is precisely what the Set User ID bit (`SUID`) does. It runs programs and commands with the permissions of the file owner, rather than the permissions of the person who launches the program.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You're Elevating the Program's Status
 
  There is another quandary, though. The person has to be prevented from meddling with anyone else's password. Linux incorporates the `SUID` scheme which allows it to run applications with a set of temporarily borrowed permissions—but that's only half of the security story.
@@ -60,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
 ![Source code snippet from passwd.c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/0a.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The following is an example in which that's taken into account. Because `root` can change any password, the program doesn't have to bother with the checks it usually performs to see which passwords the person has permission change. So, for `root`, it [skips those checks and exits the checking function](https://github.com/shadow-maint/shadow/blob/master/src/passwd.c#L0397).
 
 ![Source code snippet from passwd.c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/0b.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With the core Linux commands and utilities, you can be confident they've got security baked into them and that the code has been reviewed many times. Of course, there's always the threat of as-yet-unknown exploits. However, patches or updates are quick to appear to counter any newly identified vulnerabilities.
 
@@ -101,6 +97,10 @@ ls -l /usr/bin/passwd
 passwd
 
 ![passwd command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/2-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The `passwd` command prompts `dave` for his new password. We can use the `ps` command [to see the details of running processes](http://man7.org/linux/man-pages/man1/ps.1.html).
 
@@ -146,21 +146,25 @@ ls -hl /usr/local/bin/htg
 
 ![sudo cp htg /usr/local/bin in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/5-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So, the program is copied, and the SUID bit is set. We'll run it again, but this time we'll run the copy in the `/usr/local/bin` folder:
 
 htg
 
 ![The htg program running in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/6-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Even though `dave` launched the program, the effective ID is set to the `root` user. So, if `mary` launches the program, the same thing happens, as shown below:
 
 htg
 
 ![htg launched by user mary in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The real ID is `mary`, and the effective ID is `root`. The program runs with the permissions of the root user.
 
@@ -181,7 +185,7 @@ ls -lh /usr/local/bin/htg
 ![sudo chown root:mary /usr/local/bin/htg in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can see the `SGID` bit denoted by the "s" in the group permissions. Also, note the group is set to `mary` and the file name is now highlighted in yellow.
@@ -217,7 +221,7 @@ ls -lh -d work
 ![sudo mkdir work in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/12-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The `SGID` bit and "geek" group are set. These will affect any items created within the `work` directory.
@@ -242,14 +246,10 @@ ls -lh useful.sh
 
 ![touch useful.sh in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The group of the new file is automatically set to "geek."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Sticky Bit
@@ -308,21 +308,18 @@ ls -lh -d /var/tmp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-uniting-slack-and-filmora-for-ultimate-collaborative-gatherings/"><u>[New] In 2024, Uniting Slack and Filmora for Ultimate Collaborative Gatherings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>[New] In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigate-to-visibility-a-compreayer-of-youtube-live-imagery-standards-for-2024/"><u>[Updated] Navigate to Visibility A Compreayer of YouTube Live Imagery Standards for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-costs-without-compromising-on-youtube-intros-quality-for-2024/"><u>Cutting Costs without Compromising on YouTube Intros Quality for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-list-of-cost-free-video-downloaders-from-pinterest-for-2024/"><u>Exclusive List of Cost-Free Video Downloaders From Pinterest for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/grasping-fcp-obtain-it-at-no-cost-for-2024/"><u>Grasping FCP Obtain It at No Cost for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-formulating-gripping-narratives-for-your-vlogs/"><u>In 2024, Formulating Gripping Narratives for Your Vlogs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-fixed-frame-to-fluid-motion-live-photo-transformation/"><u>In 2024, From Fixed Frame to Fluid Motion Live Photo Transformation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-standard-definition-to-high-dynamic-range-mastery/"><u>In 2024, From Standard Definition to High Dynamic Range Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-the-art-of-photo-editing-workflow/"><u>In 2024, In-Depth The Art of Photo Editing Workflow</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/jriver-media-centre-non-microsoft-media-option/"><u>JRiver Media Centre Non-Microsoft Media Option</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamline-your-gameplay-professional-ps4-recording-tips/"><u>Streamline Your Gameplay Professional PS4 Recording Tips</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/streamlining-production-workflow-extracting-audio-separately-on-a-mac-with-imovie-for-2024/"><u>Streamlining Production Workflow Extracting Audio Separately on a Mac with iMovie for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-direct-directions-simple-techniques-for-laptop-screening-dell/"><u>[New] Direct Directions Simple Techniques for Laptop Screening (Dell)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-the-elite-audiovideo-makers-web/"><u>[Updated] Guide to the Elite Audio/Video Makers Web</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hunt-down-these-10-vectors-stock-image-websites/"><u>[Updated] Hunt Down These 10 Vectors Stock Image Websites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-boost-engagement-with-tailored-templates-for-video-info/"><u>[Updated] In 2024, Boost Engagement with Tailored Templates for Video Info</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-crafting-charismatic-videos-with-diy-camera-setups/"><u>[Updated] In 2024, Crafting Charismatic Videos with DIY Camera Setups</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210717353-9781685264413-a-case-for-faith-sharing-ancient-secrets-for-longer-life-health-and-happiness/"><u>A Case for Faith Sharing Ancient Secrets for Longer Life, Health and Happiness | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonious-messages-on-whatsapp-status-for-2024/"><u>Harmonious Messages on WhatsApp Status for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-realme-12plus-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme 12+ 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-microsoft-edge-from-crashing-in-windows-(title)10-issue-resolved/"><u>How to Stop Microsoft Edge From Crashing in Windows <Title>10 [Issue Resolved]</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-13-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 13 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-asus-rog-phone-8-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Asus ROG Phone 8 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-top-10-mobile-photography-tools-for-superior-slo-mo-effects/"><u>In 2024, Exclusive Top 10 Mobile Photography Tools for Superior Slo-Mo Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-graphic-goldmine-a-roadmap-to-premium-visuals/"><u>In 2024, Free Graphic Goldmine A Roadmap to Premium Visuals</u></a></li>
 </ul></div>
 

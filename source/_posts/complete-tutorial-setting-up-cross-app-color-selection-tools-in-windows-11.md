@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Setting Up Cross-App Color Selection Tools in Windows 11"
-date: 2025-01-07T18:50:28.374Z
-updated: 2025-01-09T17:43:22.867Z
+date: 2025-01-12T17:13:54.434Z
+updated: 2025-01-15T17:12:39.752Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 ---
 
 ## Complete Tutorial: Setting Up Cross-App Color Selection Tools in Windows 11
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![Right-click the PowerToys icon on the taskbar and select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/launch-powertoy-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Color Picker" in the sidebar, then make sure that the "Enable Color Picker" switch is in the "On" position.
 
 ![Ensure the PowerToys color picker is enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/power-toy-color-picker.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By default, you'll use Windows+Shift+C to activate the color picker. You can change this keyboard shortcut to your preferred one from this screen, if you like.
 
@@ -56,39 +52,43 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 ![Using Color Picker to identify a color in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/firefox_color_picker_1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can point your cursor at any color on screen that you want, including icons, applications, images, desktop backgrounds, the taskbar, and more. If you want more info on the color, click the left mouse button while hovering over it, and a window will pop up.
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This window displays the hex color code, the RGB (red, green, blue) value, and the HSL (hue, saturation, lightness) value of the color you just selected. If you'd like to copy one of those values (as a text string) to the clipboard, hover over it and click the "copy" icon that appears.
 
 ![To copy a color value to the clipboard, click the "copy" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/copy_to_clipboard.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Also, you can adjust the color value you just selected within Color Picker by clicking the center of the large color bar near the top of the window.
 
 ![In Color Picker, click the color bar to adjust the color values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/click_color_bar.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After clicking the color bar, you'll see another screen with sliders that allow you to adjust the color with your mouse or by entering values with your keyboard.
 
 ![The Color Picker color adjustment window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_adjust_window.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you're done, click "OK," and then the color will be added to your saved color palette, which is the vertical column of boxes along the left side of the window. If you need to remove a color from the palette on the side of the window, right-click the color square and select "Remove."
 
  If you'd like to leave this window and pick another color, click the eyedropper icon in the upper-left corner of the window.
 
 ![In Color Picker, click the eyedropper button to pick another color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/pick_color_again.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The detail window will close and you can repeat the process again, selecting any color you'd like.
 
@@ -111,18 +111,24 @@ thumbnail: https://thmb.techidaily.com/83ad07fb3b3903af9b11edf490a1269ded4203aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-highlights-the-5-most-advanced-low-speed-recorders/"><u>[New] Highlights The 5 Most Advanced Low-Speed Recorders</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-snowrunner-keeps-crashing-on-pc/"><u>[SOLVED] SnowRunner Keeps Crashing on PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-to-optimal-vr-headset-selection-freedom-or-connection/"><u>[Updated] Guide to Optimal VR Headset Selection Freedom or Connection?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-quick-guide-to-restore-video-sharing-in-fb-messengers-iosandroid-for-2024/"><u>[Updated] Quick Guide to Restore Video Sharing in FB Messengers (iOS/Android) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-church-platforms-for-global-audience/"><u>2024 Approved Explore Top Church Platforms for Global Audience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-google-photos-complete-guide/"><u>2024 Approved How to Google Photos [Complete Guide]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-top-5-non-samsung-360-cameras-today-for-2024/"><u>Explore Top 5 Non-Samsung 360 Cameras Today for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/6-best-youtube-to-mp3-downloader-for-android/"><u>FREE 6 Best YouTube to MP3 Downloader for Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-superiority-gopros-max-and-hero-11-face-off/"><u>In 2024, Evaluating Superiority GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/overcoming-airborne-vibration-phenomenon-for-2024/"><u>Overcoming Airborne Vibration Phenomenon for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tackling-the-problem-proven-strategies-to-get-your-overwatch-n-game-running-again/"><u>Tackling the Problem: Proven Strategies to Get Your Overwatch N Game Running Again</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-10-drone-set-professional-filming-and-photography/"><u>[New] Excellent 10-Drone Set Professional Filming & Photography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-meme-matrix-perfect-pratfalls-for-parties/"><u>[New] Meme Matrix Perfect Pratfalls for Parties</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-understanding-instagram-video-count-constraints/"><u>[New] Understanding Instagram Video Count Constraints</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-elevate-gaming-on-tv-obs-guide/"><u>[Updated] 2024 Approved Elevate Gaming on TV - OBS Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-high-capacity-drives-how-many-vids-can-a-64128gb-hold/"><u>[Updated] Evaluating High-Capacity Drives How Many Vids Can a 64/128GB Hold?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-types-and-methods-of-touchless-technology/"><u>[Updated] Exploring Types and Methods of Touchless Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-future-virtual-frontiers-in-depth-comparison-of-meta-and-omniverse-worlds/"><u>[Updated] Future Virtual Frontiers In-Depth Comparison of Meta & Omniverse Worlds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-and-yi-clash-a-new-look-at-action-cams-best-version/"><u>[Updated] GoPro & Yi Clash A New Look at Action Cams' Best Version</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-speaking-directly-to-text-mastering-the-art-of-voice-to-text-ms-word-for-2024/"><u>[Updated] Speaking Directly to Text Mastering the Art of Voice-to-Text (MS Word) for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-your-potential-in-free-youtube-transcription-techniques-for-2024/"><u>[Updated] Unlocking Your Potential in Free YouTube Transcription Techniques for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-find-x6-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo Find X6 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-iphone-wont-connect-to-itunes-on-windows-11-solutions-guide/"><u>Fix: IPhone Won't Connect to iTunes on Windows 11 - Solutions Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/get-ahead-with-these-must-know-pixlr-techniques-for-2024/"><u>Get Ahead with These Must-Know Pixlr Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-camcorder-selections-for-snowboardingskiing/"><u>In 2024, Best Camcorder Selections for Snowboarding/Skiing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-examining-the-best-technology-for-crystal-clear-4k-visuals/"><u>In 2024, Examining the Best Technology for Crystal-Clear 4K Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fixing-skewed-views-in-internet-based-videos/"><u>In 2024, Fixing Skewed Views in Internet-Based Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-generate-official-travel-ready-portraits-download-10-free-photos-today/"><u>In 2024, Generate Official Travel-Ready Portraits – Download 10 FREE Photos Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-safaris-picture-in-picture-feature-usage-guide/"><u>In 2024, Safari's Picture-in-Picture Feature Usage Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-ranked-cloud-stores-analysis-and-pricing-insights-for-2024/"><u>Top-Ranked Cloud Stores Analysis & Pricing Insights for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Finally, the Windows Release: My Journey with GoodNotes on PC Proves Worthy"
-date: 2025-01-07T17:50:21.999Z
-updated: 2025-01-09T22:53:08.740Z
+date: 2025-01-11T17:08:02.526Z
+updated: 2025-01-15T16:25:57.011Z
 tags:
   - deals
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ## Finally, the Windows Release: My Journey with GoodNotes on PC Proves Worthy
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Signing Up for Goodnotes](https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-13-mini-activation-lock-without-previous-owner-by-drfone-ios/)
@@ -23,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
  Goodnotes gained popularity among the younger generation of iPad users because it makes note-taking fun and keeps files organized. The only downside was that the app was only compatible with iOS devices. Luckily, Goodnotes finally released a Windows version, and here are the things you need to know.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Signing Up for Goodnotes
 
  You can sign up or log in to the Goodnotes app on Windows with Google, Microsoft, or Apple. So, if you've signed up to Goodnotes in the past, you can use the same account on your Windows PC. Additionally, you can sign in to multiple accounts and easily switch between profiles, making your note-taking experience smoother than ever.
@@ -34,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 ![The sign-in options for Goodnotes on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sign-in-goodnotes.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It comes as no surprise that to enjoy all the features on Goodnotes for Windows, you’ll need to subscribe to the premium version. For example, the free version has a notebook limit of three, meaning you can only get three documents or notes. So, if you need more notes, you’ll have to upgrade to one of the paid subscriptions.
@@ -48,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 ![Tap or click 'Goodnotes Pro.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/goodnotes-pro-option.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Goodnotes on Windows Has Incredible Note-Taking Features
@@ -58,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 ###  Multiple Page Formats
 
 ![A variety of paper formats displayed in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/paper-formats.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After launching the Goodnotes app and setting it up, you’ll need a notebook to start taking notes. Much like the iOS versions, Goodnotes for Windows offers many different page formats for taking notes and even daily planning to stay organized. I was very impressed to see different music sheet options, so you can write music using the app.
 
@@ -69,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ###  Planners And To-Do Templates![The Planner page in Goodnotes, with a few different views visible.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/planner-option-for-goodnotes.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The planner and to-do templates in Goodnotes might be the least exciting feature to many, but if you love [digital planners and organization tools](https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-g22-drfone-by-drfone-virtual-android/) like myself, Goodnotes has plenty of options.
 
  From accounting sheets to planning your finances, a variety of monthly and weekly planner sheets and a standard to-do sheet to keep your day organized. The templates are quite basic, but they give you the creative room to customize them and make them your own.
@@ -77,15 +77,15 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ![Selecting the heart diagram in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-diagram.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are a student and deal with many charts and diagrams while studying and taking notes, the lasso tool in Goodnotes is like having a rope for your diagrams and charts. If you are unfamiliar with it, the lasso tool, represented by lines forming a rope, lets you select and move multiple elements simultaneously. This makes it easy to copy and paste elements onto your notes or rearrange notes.
 
  It's as simple as selecting the lasso tool and drawing a line around the diagram. Then, you can move and drag the diagram to any part of the page you like.
 
  Another benefit of the lasso tool is if you have a more complex diagram and want to adjust a few things. Instead of erasing and redrawing, you can use the lasso tool to grab what you want and move it around easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Sharing Docs And Collaborating
 
@@ -97,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
  Note that the sharing feature on your Windows computer is only available with paid subscriptions to Goodnotes for Windows or Goodnotes Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Beta Testing Marketplace
 
 ![Tap or click 'Marketplace' to check out new features, templates, formats, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/marketplace-option-goodnotes-1.png) 
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
  Goodnotes on the Windows version is beta testing a marketplace where you can explore and download a wide range of paper templates, notebook covers, and tools to amp up your note-taking experience.
 
  You also have the option to join as a creator and show off your skills, which is a plus. All the templates currently listed in the marketplace section are free for users with a paid subscription to either Goodnotes on Windows or Goodnotes Pro.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What We’d Like To See
 
@@ -132,19 +132,19 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-essential-8-strategies-for-digital-sound-recording/"><u>[New] Essential 8 Strategies for Digital Sound Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fastest-on-ice-olympic-highlights-in-short-track-events/"><u>[New] Fastest on Ice Olympic Highlights in Short Track Events</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-find-your-got-ringtone-leading-online-retailers/"><u>[New] Find Your GoT Ringtone - Leading Online Retailers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-sharpen-your-vision-in-the-world-of-roblox/"><u>[New] How to Sharpen Your Vision in the World of Roblox</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-revolutionize-iphone-images-turn-them-sideways-and-upside-down/"><u>[New] Revolutionize iPhone Images Turn Them Sideways & Upside Down</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bridging-the-audience-gap-successful-multi-streaming-approaches-on-youtube-and-twitch/"><u>[Updated] 2024 Approved Bridging the Audience Gap Successful Multi-Streaming Approaches on Youtube & Twitch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immediate-access-best-5-convertors-no-download-required/"><u>[Updated] Immediate Access Best 5 Convertors, No Download Required</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-rise-to-fame-comprehensive-youtube-creators-series/"><u>[Updated] In 2024, Rise to Fame Comprehensive YouTube Creator's Series</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-8-image-collections-for-macbook-screens/"><u>[Updated] Innovative 8 Image Collections for MacBook Screens</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-art-of-adjustment-elevating-your-photography/"><u>[Updated] The Art of Adjustment Elevating Your Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-waves-to-words-navigating-the-world-of-audio-editing-in-garageband/"><u>2024 Approved From Waves to Words Navigating the World of Audio Editing in GarageBand</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagrowth-hack-secrets-for-scaling-to-1000month-fans/"><u>InstaGrowth Hack Secrets for Scaling to 1,000/Month Fans</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mirthful-machine-musings-can-computers-create-gags/"><u>Mirthful Machine Musings: Can Computers Create Gags?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonious-audio-pathway-guidebook/"><u>[New] Harmonious Audio Pathway Guidebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-your-step-by-step-path-to-a-top-facebook-music-video/"><u>[Updated] 2024 Approved Your Step-by-Step Path to a Top Facebook Music Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unifying-zoom-meeting-dates-across-phone-tablet-and-computer/"><u>[Updated] In 2024, Unifying Zoom Meeting Dates Across Phone, Tablet, and Computer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mystery-reader-fb-narratives-explorer-for-2024/"><u>[Updated] Mystery Reader FB Narratives Explorer for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-imagination-drought-hindering-vr-development-for-2024/"><u>[Updated] The Imagination Drought Hindering VR Development for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>2024 Approved From Zip to Sub Transforming Compressed Texts to SRT Format</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-and-yi-clash-a-new-look-at-action-cams-best-version/"><u>2024 Approved GoPro & Yi Clash A New Look at Action Cams' Best Version</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-tips-for-srt-file-production-mastery/"><u>2024 Approved In-Depth Tips for SRT File Production Mastery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-a-malfunctioning-steam-voice-chat-service/"><u>DIY Fixes for a Malfunctioning Steam Voice Chat Service</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-f54-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy F54 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-strategies-for-online-video-photo-effects-implementation-for-2024/"><u>Ideal Strategies for Online Video Photo Effects Implementation for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/innovative-approaches-to-keeping-your-snaps-connected-for-2024/"><u>Innovative Approaches to Keeping Your Snaps Connected for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/tactics-for-excising-background-melodies-from-visual-media-for-2024/"><u>Tactics for Excising Background Melodies From Visual Media for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ultimate-guide-transferring-your-dual-boot-setup-from-hdd-to-solid-state-ssd/"><u>Ultimate Guide: Transferring Your Dual-Boot Setup From HDD to Solid State SSD</u></a></li>
 </ul></div>
 

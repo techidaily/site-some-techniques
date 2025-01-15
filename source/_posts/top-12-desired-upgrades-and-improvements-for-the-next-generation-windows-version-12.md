@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12"
-date: 2025-01-05T19:26:25.048Z
-updated: 2025-01-09T17:44:26.094Z
+date: 2025-01-12T16:36:10.853Z
+updated: 2025-01-15T16:21:57.762Z
 tags:
   - deals
 categories:
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
 ![The legacy Control Panel in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_47.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Expand Phone Link's Usefulness
 
 [Phone Link](https://data-safeguard.techidaily.com/automated-data-gathering-with-cookiebot-solutions/), formerly Your Phone, has steadily improved over the years, but it is still a far cry from the sort of seamless integration Apple users have access to if they combine a Mac and an iPhone.
@@ -45,11 +49,7 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Universal Noise Cancellation Built-in
@@ -62,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Andrew Heinzman / How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Live and Dynamic Backgrounds
 
@@ -75,7 +75,7 @@ Andrew Heinzman / How-To Geek
  In the interim, [Wallpaper Engine](https://www.wallpaperengine.io/en) or [Lively](https://apps.microsoft.com/detail/9ntm2qc6qws7) are great, low-cost ways to get your animated background fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  More Useful Widgets
@@ -91,6 +91,10 @@ Andrew Heinzman / How-To Geek
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Control Over the Right-Click Menu
 
@@ -113,7 +117,7 @@ Andrew Heinzman / How-To Geek
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Better Control Over the Start Menu
@@ -122,6 +126,10 @@ Andrew Heinzman / How-To Geek
 
  Live tiles were a bit of a bust, but allowing users to integrate their favorite widgets into the Start Menu would be a nice start. The ability to toggle between a list display and an icon grid array would also be really nice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Xbox App Needs a Rework
 
  The Xbox app is notoriously buggy and has been for years. Sometimes it works, sometimes, inexplicably, it doesn’t.
@@ -129,10 +137,6 @@ Andrew Heinzman / How-To Geek
  It also lacks basic functionality that other game distribution platforms support, like the ability to limit your bandwidth within the actual app, among others. You shouldn’t need to fiddle around in the Windows Settings app to achieve something basic like that.
 
  The Xbox app needs some TLC from Microsoft to reach its maximum potential. Hopefully we’ll see that with Windows 12 (or sooner!)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Better Device Backup Options in Windows Backup
 
@@ -150,10 +154,6 @@ Andrew Heinzman / How-To Geek
 [Microsoft’s PowerToys utility](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/) also contains a feature called Run that can launch apps, open files, and do math, but it isn’t quite up to par with what you get from Spotlight Search.
 
 ![The Run feature from Windows PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h17_07.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We’d love to see something that combines the best of Windows Search (live results, like weather) with PowerToys' Run integrated into Windows 12.
 
@@ -182,17 +182,22 @@ Andrew Heinzman / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cant-see-cursor-only-sony-a6400-glitch/"><u>[New] 2024 Approved Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-essential-guide-to-cinematic-instagram-videos/"><u>[New] 2024 Approved The Essential Guide to Cinematic Instagram Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-create-unique-endings-anytime-its-free-my-friends/"><u>[New] Create Unique Endings Anytime - It's FREE, My Friends</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-expertly-charged-hero5-black-batteries-authenticity-and-counterparts/"><u>[Updated] In 2024, Expertly Charged Hero5 Black Batteries - Authenticity & Counterparts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-tech-gems-best-desktops-revealed/"><u>[Updated] Ultimate Tech Gems - Best Desktops Revealed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-diy-approach-downloading-and-personalizing-your-whatsapp-ringtone/"><u>2024 Approved A DIY Approach Downloading & Personalizing Your WhatsApp Ringtone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-into-the-world-of-google-photos/"><u>2024 Approved Expert Insights Into the World of Google Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-video-player-face-off-vlc-versus-mpc/"><u>2024 Approved Free Video Player Face-Off VLC Versus MPC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-haven-memes-for-iphones/"><u>2024 Approved Humor Haven Memes for iPhones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-isolate-frames-as-photos-in-windows-11-for-2024/"><u>How to Isolate Frames as Photos in Windows 11 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-to-android-time-lapse-video-magic/"><u>In 2024, Expert Guide to Android Time-Lapse Video Magic</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/superior-video-recording-apps-on-mac-not-bandicam/"><u>Superior Video Recording Apps on Mac, Not Bandicam</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-xml-to-srt-a-step-by-step-solution-approach/"><u>[New] From XML to SRT A Step-by-Step Solution Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-cost-calculation-estimating-a-podcasts-price-tag/"><u>[New] In-Depth Cost Calculation Estimating a Podcast's Price Tag</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-smart-way-to-enhance-your-youtube-presence-legally/"><u>[Updated] 2024 Approved The Smart Way to Enhance Your YouTube Presence Legally</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-optimal-android-apps-for-clear-screen-recordings-for-2024/"><u>[Updated] Optimal Android Apps for Clear Screen Recordings for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chortlecraft-funny-visuals-for-social-engagement/"><u>2024 Approved ChortleCraft Funny Visuals for Social Engagement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/breaking-the-boundaries-of-processor-performance-overclocked-ryzen-9-9950x-achieves-unprecedented-67ghz-with-ln2-cooling/"><u>Breaking the Boundaries of Processor Performance: Overclocked Ryzen 9 9950X Achieves Unprecedented 6.7GHz with LN2 Cooling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-applications-for-video-from-pics-for-2024/"><u>Expert Applications for Video From Pics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-start-to-end-mastering-the-art-of-fading-in-pro-for-2024/"><u>From Start to End Mastering the Art of Fading in Pro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/glimpsing-beyond-virtual-reality-the-pros-and-cons-spectrum-for-2024/"><u>Glimpsing Beyond Virtual Reality The Pros & Cons Spectrum for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-strategies-in-photo-editing-for-profound-impact/"><u>In 2024, Expert Strategies in Photo Editing for Profound Impact</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-best-gopro-cases-rated-1-10/"><u>In 2024, Explore Best GoPro Cases Rated #1-10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flipping-photo-lightness-for-an-alternate-look/"><u>In 2024, Flipping Photo Lightness for an Alternate Look</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-recommendation-best-websites-to-download-game-of-thrones-ringtones/"><u>In 2024, Recommendation Best Websites to Download Game of Thrones Ringtones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972432286-latest-drivers-for-hp-laserjet-1018-safe-to-download-now/"><u>Latest Drivers for HP LaserJet 1018 - Safe to Download Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-streamlining-your-interactions-with-chatgpt-using-folder-techniques/"><u>Step-by-Step Guide to Streamlining Your Interactions with ChatGPT Using Folder Techniques</u></a></li>
+<li><a href="https://fox-place.techidaily.com/the-ultimate-trio-of-techniques-for-saving-hotmail-emails-directly-to-your-hard-disk/"><u>The Ultimate Trio of Techniques for Saving Hotmail Emails Directly to Your Hard Disk</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-twitters-unresponsive-video-content-across-multiple-gadgets/"><u>Troubleshooting Twitters' Unresponsive Video Content Across Multiple Gadgets</u></a></li>
 </ul></div>
 

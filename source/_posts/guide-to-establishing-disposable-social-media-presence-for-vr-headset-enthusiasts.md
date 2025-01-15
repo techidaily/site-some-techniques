@@ -1,7 +1,7 @@
 ---
 title: Guide to Establishing Disposable Social Media Presence for VR Headset Enthusiasts
-date: 2025-01-06T22:37:18.847Z
-updated: 2025-01-09T19:42:23.967Z
+date: 2025-01-14T16:43:53.903Z
+updated: 2025-01-15T17:03:26.033Z
 tags:
   - cutting-edge
 categories:
@@ -26,12 +26,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  The [Oculus Quest 2](https://www.amazon.com/dp/B099VMT8VZ/?tag=htg-v2-3lqek2p-20&ascsubtag=UUhtgUeUpU208100&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F765034%2Fhow-to-create-a-throwaway-facebook-account-for-oculus-quest%2F&asc%5Fcampaign=Short-Term) is the [best all-around VR headset](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) you can buy, but that recommendation comes with a huge asterisk. In order to use a Quest 2, you need a Facebook account! Luckily, you can minimize that hassle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 8/24/22
 
 [Quest headsets no longer require Facebook accounts](https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/), so there's no need to create a "throwaway" one. You still have to create a Meta account to keep track of your purchases, but it doesn't have to be linked to Facebook.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Make a Throwaway Account?
 
@@ -55,15 +59,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Quest Privacy Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Quest-Privacy-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The safest option is to choose "only me" for all types of activity. This means that although your activity will be on your timeline, no one besides you can see or interact with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  If You Have to Create an Account
 
@@ -81,25 +77,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Facebook Privacy Checkup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Privacy-Checkup.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the next screen, change every setting to "Only Me" and then select "Next."
 
 ![Enter Facebook profile information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Facebook-Viewable-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Under Posts and stories, set Future posts to "Only Me." Since this profile won't have any friends, you can leave stories on "Friends." And, since there should be no past posts, there's no need to use the "Limit past posts" option.
 
 ![Posts and Stories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Posts-and-Stories.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The final step involves blocking specific users, but for this account that's irrelevant, so just complete the wizard. Now you should have an account that's Facebook policy-compliant but is locked down as much as possible.
 
 ![Account Quest 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Account-Quest-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Modding Your Quest 2
 
@@ -120,22 +120,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-money-tips-for-reddit-novices-13-best-ways/"><u>[New] Free Money Tips for Reddit Novices (13 Best Ways!)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-iphone-footage-like-a-pro/"><u>[New] Harmonizing iPhone Footage Like a Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-frolics-in-film-an-analytical-review-on-vhs/"><u>[Updated] 'Frolics in Film' An Analytical Review on VHS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-converting-xmlssattml-into-srt/"><u>[Updated] Expert Guide to Converting XML/SSA/TTML Into SRT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extended-exploration-gopro-slr4-silver-edition/"><u>[Updated] Extended Exploration GoPro SLR4 Silver Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hdr-tech-review-auroras-place-among-leaders/"><u>[Updated] HDR Tech Review Aurora's Place Among Leaders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-imovie-harmony-blending-visuals-and-melodies/"><u>[Updated] IMovie Harmony Blending Visuals and Melodies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pioneering-rpgs-rogelikes-and-their-descendants/"><u>[Updated] In 2024, Pioneering RPGs Rogelikes & Their Descendants</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovations-in-hand-tracking-and-gesture-detection/"><u>[Updated] Innovations in Hand Tracking and Gesture Detection</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-insider-advice-efficiently-amassing-stock-visuals-for-use/"><u>2024 Approved Insider Advice Efficiently Amassing Stock Visuals for Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fortnite-mastery-a-step-by-step-tutorial-for-newbies-starting-on-pc/"><u>Fortnite Mastery: A Step-by-Step Tutorial for Newbies Starting on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/insider-tips-what-to-evaluate-before-picking-up-an-used-ipad/"><u>Insider Tips: What to Evaluate Before Picking Up an Used iPad</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/mastery-guide-installing-snapchat-on-mac-os-for-2024/"><u>Mastery Guide Installing Snapchat on Mac OS for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95642494-9781786780713-soul-story/"><u>Soul Story | Free Book</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-upgrade-your-video-game-top-software-for-higher-resolution/"><u>Updated In 2024, Upgrade Your Video Game Top Software for Higher Resolution</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-recording-skype-meetings-on-modern-operating-systems-for-2024/"><u>[New] Recording Skype Meetings on Modern Operating Systems for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instagrams-video-limit-regulations-for-2024/"><u>[Updated] Navigating Instagram's Video Limit Regulations for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ffmpegs-audio-recapture-challenge/"><u>2024 Approved FFmpeg's Audio Recapture Challenge</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-expert-a-comprehensible-guide-to-final-cut-pro/"><u>2024 Approved From Novice to Expert A Comprehensible Guide to Final Cut Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-evolution-a-step-by-step-comparison-tutorial/"><u>2024 Approved Gopro Evolution A Step-by-Step Comparison Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminating-your-space-naturally-interior-wise/"><u>2024 Approved Illuminating Your Space Naturally, Interior-Wise</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-does-it-impose-text-length-restrictions-for-responses/"><u>ChatGPT: Does It Impose Text Length Restrictions for Responses?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-konica-minolta-printer-drivers-updated-software-for-windows-os-download-now/"><u>Download Konica Minolta Printer Drivers: Updated Software for Windows OS - Download Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-picks-top-10-live-broadcast-apps-for-basketball-and-soccer-fans-for-2024/"><u>Expert Picks Top 10 Live-Broadcast Apps for Basketball and Soccer Fans for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expertly-managed-with-cookiebot-a-new-era-in-seo-optimization/"><u>Expertly Managed with Cookiebot: A New Era in SEO Optimization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-best-15-cost-free-photo-editors-for-2024/"><u>Explore Best 15 Cost-Free Photo Editors for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos-for-2024/"><u>Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-11-proplus-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme 11 Pro+</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-rated-flv-editor-for-windows-8-edit-videos-like-a-pro/"><u>New Top-Rated FLV Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-mystery-of-error-code-0x80004005-a-comprehensive-guide/"><u>Resolving the Mystery of Error Code 0X80004005: A Comprehensive Guide</u></a></li>
 </ul></div>
 

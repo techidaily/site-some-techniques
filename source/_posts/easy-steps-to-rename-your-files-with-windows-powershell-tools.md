@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Rename Your Files with Windows PowerShell Tools
-date: 2025-01-03T17:37:46.817Z
-updated: 2025-01-09T20:27:51.305Z
+date: 2025-01-09T17:36:50.538Z
+updated: 2025-01-15T16:04:10.864Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Easy Steps to Rename Your Files with Windows PowerShell Tools
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
@@ -55,11 +51,11 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
- PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 ##  How to Rename Files in a Folder With an Increasing Number
 
@@ -72,7 +68,7 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -85,6 +81,10 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -94,7 +94,7 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
@@ -118,18 +118,24 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-call-customization-applications-ranked/"><u>[New] 2024 Approved Essential Call Customization Applications Ranked</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ipad-audio-excellence-top-3-techniques/"><u>[New] In 2024, IPad Audio Excellence Top 3 Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-chrome-to-iphone-a-guide-to-stripping-youtube-ads/"><u>[Updated] 2024 Approved Chrome to iPhone A Guide to Stripping YouTube Ads</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-ultimate-conversational-ais-on-discord/"><u>[Updated] 2024 Approved Ultimate Conversational AIs on Discord</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-7-tips-for-capturing-live-online-classes-gratis/"><u>[Updated] In 2024, 7 Tips for Capturing Live Online Classes Gratis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fusing-film-and-frequencies-win11-edition/"><u>2024 Approved Fusing Film & Frequencies Win11 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/9-ways-to-facebook-video-black-screen-issues-on-chromesafarifir-for-2024/"><u>9 Ways to Facebook Video Black Screen Issues on Chrome/Safari/Fir for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ancient-aesthetics-public-domain-pieces-for-2024/"><u>Ancient Aesthetics Public Domain Pieces for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-capture-the-magic-our-list-of-top-12-cameras-for-exceptional-vlogs/"><u>In 2024, Capture the Magic Our List of Top 12 Cameras for Exceptional Vlogs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-iphone-filming-software-list/"><u>In 2024, Exclusive iPhone Filming Software List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-tech-marvel-of-lg-ud88-w-monitors/"><u>In 2024, Exploring the Tech Marvel of LG UD88-W Monitors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focus-and-frame-essential-iphone-tools-for-cropping-photos/"><u>In 2024, Focus & Frame Essential iPhone Tools for Cropping Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-glide-and-glory-short-track-highlights-from-22/"><u>In 2024, Glide and Glory Short Track Highlights From '22</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-maximizing-spotifys-playback-rate-without-sacrificing-sound-for-2024/"><u>[New] Maximizing Spotify's Playback Rate Without Sacrificing Sound for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-lgs-ultra-hd-tech-27ud68-monitor-deep-dive/"><u>2024 Approved Exploring LG's Ultra HD Tech 27UD68 Monitor Deep Dive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-sites-for-digital-type-creation/"><u>2024 Approved Foremost Sites for Digital Type Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-and-easy-explore-the-top-webm-video-tools/"><u>2024 Approved Free and Easy Explore the Top WebM Video Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frozen-frustrations-addressing-stutter-in-photobooth-videos/"><u>2024 Approved Frozen Frustrations Addressing Stutter in Photobooth Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-luts-refine-image-details-and-contrast-in-photos/"><u>2024 Approved How LUTs Refine Image Details and Contrast in Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-image-magic-top-10-frame-enhancement-tools-online/"><u>2024 Approved Image Magic Top 10 Frame-Enhancement Tools Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-lg-bp350s-visual-clarity-and-color-range/"><u>2024 Approved In-Depth Analysis LG BP350's Visual Clarity and Color Range</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-lensflexmax-7-superior-image-enlargement-tool/"><u>2024 Approved LensFlexMax 7 Superior Image Enlargement Tool</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-storm-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Storm 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/authenticate-and-engage-meta-us-awaits-you/"><u>Authenticate and Engage – Meta US Awaits You</u></a></li>
+<li><a href="https://win-hot.techidaily.com/essential-marketing-techniques-for-mobile-disc-jockeys-mastering-the-craft-with-pcdj-tools/"><u>Essential Marketing Techniques for Mobile Disc Jockeys: Mastering the Craft with PCDJ Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellent-pictorial-archive-networks-for-2024/"><u>Excellent Pictorial Archive Networks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-airplay-to-download-effortless-apods-access-for-2024/"><u>From AirPlay to Download Effortless APods Access for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oneplus-12r-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked OnePlus 12R Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-13-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 13 with iTunes</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-the-best-ai-translator-to-translate-videos-online/"><u>In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rating-your-day-job-with-passionate-online-content/"><u>Integrating Your Day Job with Passionate Online Content</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/nintendo-faceoff-unveiling-the-features-and-functionality-of-switch-lite-vs-switch-oled/"><u>Nintendo Faceoff: Unveiling the Features and Functionality of Switch Lite Vs. Switch OLED</u></a></li>
 </ul></div>
 

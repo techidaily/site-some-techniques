@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2025-01-03T22:37:33.787Z
-updated: 2025-01-09T22:41:41.966Z
+date: 2025-01-10T16:52:39.831Z
+updated: 2025-01-15T16:47:49.080Z
 tags:
   - desktop
 categories:
@@ -20,11 +20,11 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Apple Mail App showing File Explorer to select an attachment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-4-23-26-pm-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Erase Junk Mail (Command+Option+J) 
@@ -32,6 +32,10 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  Got lots of junk mail taking up space in your inbox? Apple Mail lets you clear it fast. By pressing Command+Option+J, a popup window will appear confirming you want to permanently delete everything in your junk folder. It might be worth checking that nothing was mistakenly flagged as junk before doing so.
 
 ![Pop up message in Apple Mail confirming user wants to permanently delete all items in Junk folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshotmacjunkclear.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  Undo Send (Command+Z) 
 
@@ -42,7 +46,7 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  There are many reasons you might want to mark an email as read or unread, like clicking on it by accident or wanting to have another look later on. Apple Mail makes it easy to do so with a simple shortcut. After selecting the email or emails that you want to change the read status for, press Command+Shift+U. This will automatically designate the email to the opposite of its current read status, from read to unread and vice versa.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Move to Junk (Command+Shift+J) 
@@ -52,7 +56,7 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  If you see an email that has ended up in the wrong place, you can move it with a simple keyboard shortcut. To do so, select the email or emails you want to use, and press Command+Shift+J. This will move folders from your inbox into the junk folder, or vice versa.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Hide/Show Sidebar (Control+Command+S) 
@@ -62,10 +66,6 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  But, it isn't always necessary. If you want to condense your email window, you can hide this sidebar with a keyboard shortcut. By pressing Control+Command+S, you can hide the sidebar from view, and bring it back again the same way.
 
 ![Apple Mail app with Sidebar, including folders, highlighted with a red box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-5-16-59-pm.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -88,18 +88,15 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-transforming-youtube-videos-bars-free-vision/"><u>[New] 2024 Approved Transforming YouTube Videos Bars-Free Vision</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-apex-elite-comprehensive-4k-touch-desktops-for-2024/"><u>[New] Apex Elite Comprehensive 4K Touch Desktops for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-want-to-send-snaps-from-camera-roll-see-how-it-is-done/"><u>[Updated] 2024 Approved Want to Send Snaps From Camera Roll? See How It Is Done</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-fine-tuning-your-videos-for-viral-instagram-moments/"><u>[Updated] Fine-Tuning Your Videos for Viral Instagram Moments</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comprehensive-techniques-to-downsize-android-footage-without-compromising-image-clarity/"><u>Comprehensive Techniques to Downsize Android Footage Without Compromising Image Clarity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/game-masters-guide-to-4k-monitors-for-2024/"><u>Game Masters' Guide to 4K Monitors for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-designing-direct-access-to-your-channels-subscribe-page/"><u>In 2024, Designing Direct Access to Your Channel's Subscribe Page</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-freely-stream-your-films-easy-to-use-mov-player-software/"><u>In 2024, Freely Stream Your Films Easy-to-Use MOV PLAYER Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guard-your-gallery-with-gratis-cloud-and-paid-storage-tiers/"><u>In 2024, Guard Your Gallery with Gratis Cloud & Paid Storage Tiers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-iphones-shutter-speed-for-movement/"><u>In 2024, Harnessing the Power of iPhone's Shutter Speed for Movement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-attention-grabber-designer/"><u>In 2024, Innovative Attention Grabber Designer</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/navigating-digital-earnings-a-side-by-side-comparison/"><u>Navigating Digital Earnings A Side-by-Side Comparison</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-most-anticipated-facebook-trends-for-24/"><u>The Most Anticipated Facebook Trends for '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incredible-method-unlock-mac-using-apple-watch/"><u>[New] Incredible Method Unlock Mac Using Apple Watch</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cutting-edge-motion-cameras-12-now-with-accurate-location-tracking-for-2024/"><u>[Updated] Cutting-Edge Motion Cameras 12 Now With Accurate Location Tracking for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-efficient-youtube-ad-blocking-on-chromefirefoxandroid-devices/"><u>[Updated] In 2024, Efficient YouTube Ad Blocking on Chrome/Firefox/Android Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-reviews-top-5-high-performance-video-devices/"><u>[Updated] In 2024, Expert Reviews Top 5 High-Performance Video Devices</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-samsung-galaxy-z-flip-5-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Samsung Galaxy Z Flip 5? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/foundations-of-fluid-graphics-a-primer-for-2024/"><u>Foundations of Fluid Graphics A Primer for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1716777278294-how-to-reverse-videos-on-android-in-2024/"><u>How to Reverse Videos on Android, In 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-13t-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi 13T</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oneplus-open-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On OnePlus Open</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-sites-convert-your-favorite-youtube-moments-into-ringtones/"><u>In 2024, Ideal Sites Convert Your Favorite YouTube Moments Into Ringtones</u></a></li>
 </ul></div>
 

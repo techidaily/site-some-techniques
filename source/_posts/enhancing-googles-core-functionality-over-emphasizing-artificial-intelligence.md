@@ -1,7 +1,7 @@
 ---
 title: Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
-date: 2025-01-02T19:38:14.883Z
-updated: 2025-01-09T19:25:48.687Z
+date: 2025-01-14T16:37:31.876Z
+updated: 2025-01-15T16:44:44.483Z
 tags:
   - mobile
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Google Goes All In on Generative AI](https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-spark-10c-drfone-by-drfone-virtual-android/)
@@ -22,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Consumers Need a Focus on Data Security More Than Gimmicks](https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-c33-2023-drfone-by-drfone-virtual-android/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,11 +36,19 @@ Justin Duino / How-To Geek
 
 ![Rick Osterloh on stage at MBG 24 discussing Gemini AI](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rick-ohsterloh.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Google
 
  “It's a complete end-to-end experience that only Google can deliver,” Rick Osterloh, Senior Vice President, Platforms & Devices at Google, told the assembled crowd. “For years, we've been pursuing our vision of a mobile AI assistant that you can work with as you work with a real-life personal assistant, but we've been limited by the bounds of what existing technologies could do.”
 
  In order to exceed those limits, “we've completely rebuilt the entire system experience around our Gemini models,” he continued. “The new Gemini system can go beyond understanding your words to understanding your intent and communicate more naturally.”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google Goes All In on Generative AI
 
@@ -53,7 +57,7 @@ Google
 ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -67,10 +71,6 @@ Justin Duino / How-To Geek
  Take the new Add Me feature, for example. It allows you to merge two photographs—one of the larger group, the other of the lone photographer—into a single image. “One of the biggest problems with group photos is how to include the entire group at times,” Pixel Product Manager, Shenaz Zack, said onstage. “You end up taking a photo that you also want to be in. The new Add Me fixes that so you can be included in your family vacation photo.”
 
 ![The on-stage Add Me demo at MBG 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/add-me.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Google
 
@@ -89,7 +89,7 @@ Justin Duino / How-To Geek
  Screenshots bears more than a passing resemblance to the defunct [Microsoft Recall feature](https://learn.microsoft.com/en-us/windows/ai/apis/recall) that was recently [shut down amid personal data privacy outcries](https://venturebeat.com/ai/microsofts-recall-feature-will-now-be-opt-in-and-double-encrypted-after-privacy-outcry/) by users—though, unlike Recall, it only ingests images taken directly by the user and can be manually toggled. Call Notes users will have to give Google real-time access to their phone calls in order for the feature to work. This opens up yet another source of your personal data that can (and likely will at some point) be leaked online. It’s not like the AI industry [has a particularly stellar track record](https://www.infosecurity-magazine.com/blogs/accidental-data-exposure-gen-ai/) for [maintaining data security](https://www.spiceworks.com/tech/artificial-intelligence/news/chatgpt-leaks-sensitive-user-data-openai-suspects-hack/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Consumers Need a Focus on Data Security More Than Gimmicks
@@ -113,24 +113,16 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-free-minecraft-youtube-banners-with-templates/"><u>[New] 2024 Approved Free Minecraft YouTube Banners with Templates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hitbox-vs-twitch-which-is-better/"><u>[New] Hitbox Vs Twitch Which Is Better?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-initiate-now-a-comprehensive-plan-for-beginning-a-review-broadcast/"><u>[New] Initiate Now! A Comprehensive Plan for Beginning a Review Broadcast</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-cultivating-a-brand-identity-youtube-visibility-without-spending/"><u>[Updated] 2024 Approved Cultivating a Brand Identity YouTube Visibility without Spending</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-lurk-to-leader-a-guide-to-impactful-reddit-interaction/"><u>[Updated] From Lurk to Leader A Guide to Impactful Reddit Interaction</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-get-started-signing-up-for-a-youtube-channel/"><u>[Updated] How to Get Started Signing Up for a YouTube Channel</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-full-screen-capture-excellence-4-leading-pcmac-programs/"><u>[Updated] In 2024, Full Screen Capture Excellence 4 Leading PC/Mac Programs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-virtual-havens-of-adventure-but-not-like-gta-for-2024/"><u>[Updated] Virtual Havens of Adventure (But Not Like GTA) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-capability-assessment-of-sony-fdr-x1000-videography/"><u>2024 Approved Full Capability Assessment of Sony FDR-X1000 Videography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-build-a-showstopper-iphone-photomosaic-with-ease-and-fun/"><u>2024 Approved How to Build a Showstopper iPhone Photomosaic with Ease and Fun</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-google-pixel-8-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Google Pixel 8 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/advanced-bootstrap-5-admin-design-with-argon-high-quality-framework-by-creative-tim/"><u>Advanced Bootstrap 5 Admin Design with Argon: High-Quality Framework by Creative Tim</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/all-about-pubg-mobile-comprehensive-tips-and-tricks-for-top-level-gameplay/"><u>All About PUBG Mobile: Comprehensive Tips & Tricks for Top-Level Gameplay</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-world-of-digital-color-grading/"><u>In 2024, Exploring the World of Digital Color Grading</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-zero-to-hero-mastering-memes-in-kinemaster/"><u>In 2024, From Zero to Hero Mastering Memes in KineMaster</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>In 2024, From Zip to Sub Transforming Compressed Texts to SRT Format</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-approaches-for-clearing-background-elements-in-figma-for-2024/"><u>Innovative Approaches for Clearing Background Elements in Figma for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2616808-9781409167501-mindful-relationships/"><u>Mindful Relationships | Free Book</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-c55-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C55 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-transforming-videos-using-vida/"><u>[New] From Novice to Pro Transforming Videos Using Vida</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-cutting-edge-techniques-in-vivacut-detailed-review-and-guide-2024/"><u>[Updated] Explore Cutting Edge Techniques in VivaCut Detailed Review & Guide 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hacking-back-photo-viewing-in-windows-11-easily/"><u>[Updated] Hacking Back Photo Viewing in Windows 11 Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-realm-of-free-c-span-video-archives/"><u>2024 Approved Explore the Realm of Free C-Span Video Archives</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-turn-viewers-into-vendors-yielding-wealth-with-youtube-analytics/"><u>2024 Approved Turn Viewers Into Vendors Yielding Wealth with YouTube Analytics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/computex-2024-leak-reveals-asus-rog-ally-and-qualcomm-equipped-notebooks-new-graphics-cards-missing-from-the-list/"><u>Computex 2024 Leak Reveals ASUS ROG Ally and Qualcomm-Equipped Notebooks — New Graphics Cards Missing From the List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-zte-nubia-flip-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any ZTE Nubia Flip 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-playlist-rearrangement-made-simple/"><u>In 2024, YouTube Playlist Rearrangement Made Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-perfect-pokemon-on-android-devices/"><u>Pixel-Perfect Pokémon on Android Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unplugged-nvidia-dilemma-discover-reliable-fixing-methods-now/"><u>Unplugged Nvidia Dilemma: Discover Reliable Fixing Methods Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Nokia G22 | Dr.fone</u></a></li>
 </ul></div>
 

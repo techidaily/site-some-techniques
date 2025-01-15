@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions"
-date: 2025-01-03T18:38:22.821Z
-updated: 2025-01-09T19:10:46.202Z
+date: 2025-01-11T16:42:03.164Z
+updated: 2025-01-15T16:27:12.549Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 ---
 
 ## Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
  You installed a new hard drive in your computer and, to your dismay, it's nowhere to be found. Don't panic, you just need to give Windows a little nudge to bring it online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Most Common Reason Your Disk Is Missing
 
  You grabbed a nice big hard disk on sale, you cracked open your computer case, plugged the drive into the motherboard and power supply with the appropriate cables (no? better double check that before you keep reading), and when you booted your computer back up the new hard drive was nowhere to be found.
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
  As such, when you put the drive in your system, Windows simply waits for you to decide what to do with the drive instead of automatically formatting and adding it to the drive list. If you've never added a hard drive to your computer before, however, it can be pretty disconcerting when it appears like the drive is missing (or, worse, dead). Have no fear, though! It's easy to bring your hard drive out of hiding.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Bring Your Missing Drive Online
 
  Assuming that the hard drive is installed properly, and is not, (by some horrible dumb luck) defective out of the gate, bringing it online is a very simple process. To do so, you first need to pull up the Windows Disk Management tool.
@@ -51,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 ![img_57c452aa264cd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c452aa264cd.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Before we proceed, we want to appropriately warn you: Do not play around in Disk Management. Although the task we're about to perform is very straightforward and simple to do, if you muck around with this tool you will have a very bad time. Double check every step. Make sure you're selecting the correct disk, or you can lose lots of data.
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 ![Select 'GPT (GUID Partition Table),' then click 'OK.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-hdd-auto-detected.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it doesn't show up, you just need to initialize it manually. In Disk Management, scroll down through the list of disks in the bottom pane. These disks will be labeled "Disk 1" through however many disks you have. Windows assigns a number to all hard disks, solid state disks, USB drives, and card readers, so don't be surprised if you have to scroll down a bit—in our case the new drive was "Disk 10" as seen below.
@@ -82,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 ![img_57c45c0ad925a](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45c0ad925a.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will launch the New Simple Volume Wizard to guide you through the process of setting up the disk. In the first step, select how much space you want to include in the volume. By default the number is the full amount of available disk space--unless you're planning on reserving space for additional partitions, there's no reason to change this. Click "Next".
 
 ![img_57c45c8fc3c3e](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45c8fc3c3e.png) 
@@ -98,9 +90,17 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 ![img_57c45d3ae14d7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45d3ae14d7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the process is complete, you'll see your new drive--allocated, formatted, and ready for action--in the Disk Management disk list.
 
 ![img_57c45e2278bff](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45e2278bff.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now use the disk like any other on your system for media storage, games, and other purposes.
 
@@ -119,24 +119,22 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fading-out-the-louder-end-techniques-using-lumafusion/"><u>[New] Fading Out the Louder End Techniques Using Lumafusion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-finding-sound-in-silence-3-cost-free-methods-to-music-enrich-your-videos/"><u>[New] Finding Sound in Silence 3 Cost-Free Methods to Music-Enrich Your Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-friendly-frontier-metaverse-multiplayer-wonders/"><u>[New] Friendly Frontier Metaverse Multiplayer Wonders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hasten-your-windows-doc-analysis-process/"><u>[New] Hasten Your Windows Doc Analysis Process</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-with-technology-advanced-gopro-4k-editing-techniques/"><u>[New] Innovating with Technology Advanced GoPro 4K Editing Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-obs-full-screen-fix-announced/"><u>[New] Obs Full-Screen Fix Announced</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-radial-blur-techniques-in-photoshop/"><u>[Updated] Expert Tips for Radial Blur Techniques in Photoshop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-top-9-iphone-applications-for-adding-photo-water-marks/"><u>[Updated] Exploring Top 9 iPhone Applications for Adding Photo Water Marks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-the-potential-apple-devices-on-your-youtube-channel/"><u>[Updated] In 2024, Discovering the Potential Apple Devices on Your YouTube Channel</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-turbo-testing-our-compreenas-five-best-racing-games/"><u>[Updated] Turbo Testing Our Compreenas Five Best Racing Games</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-affordable-video-enhancement-websites-for-2024/"><u>A Comprehensive Guide to Affordable Video Enhancement Websites for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertise-in-iphones-macro-photography-secrets-revealed-for-2024/"><u>Expertise in iPhone's Macro Photography Secrets Revealed for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-13c-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 13C 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-10-prime-online-stores-for-curious-gift-boxes/"><u>In 2024, Explore 10 Prime Online Stores for Curious Gift Boxes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-tecno-pop-8-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Tecno Pop 8 Lock Screen Password?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-free-4k-video-converter-roundup-the-best-for-2024/"><u>New Free 4K Video Converter Roundup The Best for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/reach-out-to-our-creative-tech-experts-get-started-with-digiarty-today/"><u>Reach Out To Our Creative Tech Experts - Get Started with Digiarty Today!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-excel-processes-using-chatgpt-ai/"><u>Streamlining Excel Processes Using ChatGPT AI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/supercharge-window-management-with-ingenious-hotkey-steps/"><u>Supercharge Window Management with Ingenious Hotkey Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-forge-business-identity-no-cost-customizable-logo-templates-available/"><u>[New] Forge Business Identity No-Cost Customizable Logo Templates Available</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-get-your-free-passport-photos-with-our-easy-tool/"><u>[New] Get Your FREE Passport Photos with Our Easy Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grasping-core-principles-in-narrative-designs/"><u>[New] Grasping Core Principles in Narrative Designs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-loop-friendly-tv-setups-integrating-youtube-videos/"><u>[Updated] 2024 Approved Loop-Friendly TV Setups Integrating YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-turn-up-your-pexels-photo-game/"><u>[Updated] How to Turn Up Your Pexels Photo Game</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-elite-media-reader-unmatched-for-all-devices-type/"><u>[Updated] In 2024, Elite Media Reader - Unmatched for All Devices Type</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-visual-deformation-photoshops-distortion-guide/"><u>2024 Approved Exploring Visual Deformation Photoshop's Distortion Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-gifs-to-videos-in-a-snap-top-online-platforms-for-content-upgraders/"><u>2024 Approved From GIFs to Videos in a Snap Top Online Platforms for Content Upgraders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-8-desktop-images-to-personalize-your-mbp/"><u>2024 Approved Ideal 8 Desktop Images to Personalize Your MBP</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/crafting-facebook-videos-a-step-by-step-guide-for-2024/"><u>Crafting Facebook Videos A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dynamic-duo-of-collage-and-creativity-light-up-your-world/"><u>Dynamic Duo of Collage & Creativity Light Up Your World</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-iphone-and-android-gopro-apps-cutting-edge-edits-for-2024/"><u>Ideal iPhone & Android GoPro Apps Cutting-Edge Edits for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-discord-spoiler-tag-all-you-need-to-know/"><u>In 2024, Discord Spoiler Tag All You Need to Know</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-for-elevating-windows-11-backgrounds/"><u>In 2024, Expert Advice for Elevating Windows 11 Backgrounds</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-apple-watch-series-4-an-evolutionary-upgrade/"><u>In-Depth Analysis of Apple Watch Series ‪4: An Evolutionary Upgrade</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/optimize-broadcasting-twitch-sessions-on-fb-for-2024/"><u>Optimize Broadcasting Twitch Sessions on FB for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-gsdll32dll-could-not-be-found-issues-on-your-pc/"><u>Troubleshooting and Resolving 'gSdll32.dll' Could Not Be Found Issues on Your PC</u></a></li>
 </ul></div>
 

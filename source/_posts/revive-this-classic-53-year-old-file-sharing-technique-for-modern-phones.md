@@ -1,7 +1,7 @@
 ---
 title: Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!
-date: 2025-01-03T16:09:19.189Z
-updated: 2025-01-09T16:26:27.135Z
+date: 2025-01-09T16:13:14.862Z
+updated: 2025-01-15T17:33:21.657Z
 tags:
   - desktop
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Revive This Classic 53-Year-Old File Sharing Technique for Modern Phones!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is FTP?](https://instagram-clips.techidaily.com/updated-spotting-the-top-10-covert-instagram-story-spectators-for-2024/)
 * [Download an Alternative File Manager](https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y28-5g-drfone-by-drfone-virtual-android/)
 * [How to Activate the FTP Server](https://extra-information.techidaily.com/best-buddy-list-in-the-virtual-realm-games/)
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,7 +31,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is FTP?
@@ -41,7 +41,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  FTP involves sending files from a server device to a client. This can take place over the internet or a local area network. For our purposes, we'll be using FTP to send files from one device (the server) to another (the client) connected to the same Wi-Fi network.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Download an Alternative File Manager
@@ -53,7 +53,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
@@ -80,13 +80,13 @@ Close
 
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
 
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
 
@@ -111,19 +111,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-unleashing-potential-advanced-xbox-live-captures/"><u>[New] Unleashing Potential Advanced Xbox Live Captures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-five-trailblazers-shaping-the-webs-audiovideo-landscape/"><u>[Updated] Five Trailblazers Shaping the Web's Audio/Video Landscape</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-colorseeker-pro-discovering-lightroom-alternatives/"><u>2024 Approved ColorSeeker Pro Discovering Lightroom Alternatives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovate-laughter-through-adobe-creation/"><u>2024 Approved Innovate Laughter, Through Adobe Creation</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-your-aoc-monitor-back-online-expert-fixes-for-windows-10-connectivity-problems/"><u>Getting Your AOC Monitor Back Online: Expert Fixes for Windows 10 Connectivity Problems</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/guia-paso-a-paso-trasladando-la-particion-de-arranque-de-windows-10-al-ssd-sin-reinstalacion/"><u>Guía Paso a Paso: Trasladando La Partición De Arranque De Windows 10 Al SSD Sin Reinstalación</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/heartfelt-gratitude-paidfree-creative-templates-for-2024/"><u>Heartfelt Gratitude Paid/Free Creative Templates for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-techniques-for-garnering-background-visuals-for-2024/"><u>Ideal Techniques for Garnering Background Visuals for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-imaginarium-collagecraft-cutting-edge-assembler/"><u>In 2024, Imaginarium CollageCraft Cutting-Edge Assembler</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-ideas-to-boost-package-prelude-joy/"><u>In 2024, Innovative Ideas to Boost Package Prelude Joy</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-editing-mastery-on-mac-os-x-mavericks-edition/"><u>New In 2024, Video Editing Mastery on Mac OS X Mavericks Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-steps-to-pair-your-samsung-soundbar-with-your-tv-set/"><u>Simple Steps to Pair Your Samsung Soundbar With Your TV Set</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-art-of-disguise-in-online-consent-forms/"><u>The Art of Disguise in Online Consent Forms</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-economical-choice-in-depth-review-of-the-tp-link-archer-c5email-protectedhttpsursimepxfior5bm57/"><u>The Economical Choice: In-Depth Review of the TP-Link Archer C5([email Protected](https://ursime.pxf.io/r5bm57)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-adobe-tactics-for-dynamic-3d-text-design/"><u>[New] Adobe Tactics for Dynamic 3D Text Design</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-building-bonds-before-buying-subscription-strategies/"><u>[New] In 2024, Building Bonds Before Buying Subscription Strategies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-essential-techniques-for-sizing-up-your-instagram-video-reach/"><u>[New] In 2024, Essential Techniques for Sizing Up Your Instagram Video Reach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-the-best-approaches-to-live-cricket-broadcasting/"><u>[Updated] Expert Insights The Best Approaches to Live Cricket Broadcasting</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-free-digital-artistry-the-meme-generator-for-2024/"><u>[Updated] Free Digital Artistry The Meme Generator for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ice-acceleration-showdown-at-the-olympics-2022/"><u>2024 Approved Ice Acceleration Showdown at the Olympics, 2022</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-introduces-revolutionary-ai-benchmarking-tool-for-evaluating-rag-scores-tech-news/"><u>Amazon Introduces Revolutionary AI Benchmarking Tool for Evaluating RAG Scores | Tech News</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/cloner-facilement-votre-disque-sabrent-techniques-fiables-pour-sauvegarder-vos-donnees-et-os/"><u>Cloner Facilement Votre Disque Sabrent : Techniques Fiables Pour Sauvegarder Vos Données Et OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/facile-conversion-dimage-en-croquis-transformez-vos-photographies-en-desseins-artistiques/"><u>Facile Conversion D'Image en Croquis: Transformez Vos Photographies En Desseins Artistiques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-examining-the-efficacy-of-toolwiz-for-image-enhancement/"><u>In 2024, Examining the Efficacy of Toolwiz for Image Enhancement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-use-of-multimedia-in-modern-classrooms-for-2024/"><u>Innovative Use of Multimedia in Modern Classrooms for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/keeping-memories-afloat-the-top-selection-of-cloud-services-reviewed/"><u>Keeping Memories Afloat The Top Selection of Cloud Services Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-speech-in-a-music-video-ultimate-guide-to-using-a-voice-changer/"><u>Transform Your Speech in a Music Video: Ultimate Guide to Using a Voice Changer</u></a></li>
 </ul></div>
 

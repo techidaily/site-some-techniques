@@ -1,7 +1,7 @@
 ---
 title: "Nostalgia for the '90S Internet: Exploring VRML, the Precursor to Modern Metaverses"
-date: 2025-01-02T19:46:10.095Z
-updated: 2025-01-09T19:52:01.947Z
+date: 2025-01-10T17:27:44.841Z
+updated: 2025-01-15T16:26:12.479Z
 tags:
   - cutting-edge
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![People demonstrating VPL virtual reality in the late 1980s.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nasa_vr.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _NASA_
@@ -38,6 +38,10 @@ _NASA_
 Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) 
 
  In 1992, Neil Stephenson [coined the term "metaverse"](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) in his sci-fi novel Snow Crash. It crystallized ideas about the alternate realities in worldwide computer networks that originated from various sources, including William Gibson's [Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441007465/?tag=htg-v2-1o0vieq-20&ascsubtag=UUhtgUeUpU207342&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778554%2Fremembering-vrml-the-metaverse-of-1995%2F&asc%5Fcampaign=Short-Term) (1984), another influential cyberpunk novel. Without much delay or hesitation, computer engineers who read these books [set out](http://hyperreal.org/~mpesce/interview.html) to turn these dystopian cyberpunk visions into reality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Enter VRML
 
@@ -51,13 +55,13 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 
 ![A vintage VRML logo circa 1995-96](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/vrml_logo.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After picking up support from other developers, the VRML standard debuted in November 1994\. At first, VRML only supported 3D static objects, but over time the standard grew to encompass avatars, animations, pulling in multimedia, and more. Early on, VRML [drew support](https://www.cnet.com/tech/services-and-software/vrml-support-building/) from major corporations such as Microsoft, Netscape, Silicon Graphics, and dozens of others. For a short time, its future seemed pretty solid.
 
  VRML files (which usually use the .WRL file extension), store three-dimensional geometric shapes using a text-based language that describes the geometrical properties of the objects. Much like a [2D vector graphics file](https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-g22-drfone-by-drfone-virtual-android/) that contains instructions on how to draw an image, VRML files include instructions needed to render a 3D scene, which makes the format relatively compact, data-wise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Applications of VRML
 
@@ -72,7 +76,7 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 ![Sony SAPARi VRML chat world graphics.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/sapari_shot.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sony
@@ -86,10 +90,6 @@ Sony
  In 1996, [CNET wrote](https://www.cnet.com/tech/services-and-software/vrml-not-quite-ready-for-real-world/) about VRML's failure to meet expectations, saying, "Bandwidth constraints, hardware limitations, and, worst of all, lack of compelling applications may make the 3D technology more virtual than real for the time being."
 
 ![A woman using a Virtuality headset in the 1990s.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/virtuality_1990s.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Virtuality_
 
@@ -106,7 +106,7 @@ Related: [There Is No Metaverse (Yet)](https://extra-guidance.techidaily.com/new
  Ultimately VRML was superseded by the [X3D standard](https://en.wikipedia.org/wiki/X3D) in 2001 (and some others), but generally, the "platform-independent web 3D" ship had sailed by then, and the buzz had moved on to other technologies and platforms. Hey, [remember Second Life](https://www.nbcnews.com/id/wbna17538999)?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3D Archeology: How to View VRML Files Today
@@ -138,24 +138,22 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-crafting-captivating-vlog-narratives-for-2024/"><u>[New] Crafting Captivating Vlog Narratives for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expressive-photography-techniques-applying-motion-blur-to-faces/"><u>[New] Expressive Photography Techniques Applying Motion Blur to Faces</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-extensive-review-gopro-hero4-silver/"><u>[New] Extensive Review GoPro HERO4 Silver</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-chortlecraft-funny-visuals-for-social-engagement/"><u>[Updated] ChortleCraft Funny Visuals for Social Engagement</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-discovering-the-prime-stardew-modifications-for-perfection/"><u>[Updated] Discovering the Prime Stardew Modifications for Perfection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-eyeview-scrutiny-exploration/"><u>[Updated] Eyeview Scrutiny Exploration</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-create-square-videos-to-gain-more-likes-on-facebook-for-2024/"><u>[Updated] How to Create Square Videos to Gain More Likes on Facebook for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-stay-grounded-in-virtual-reality-spaces/"><u>[Updated] How to Stay Grounded in Virtual Reality Spaces</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-review-mastering-facetunes-complete-features/"><u>[Updated] In-Depth Review Mastering Facetune's Complete Features</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-content-kings-chronicle-mastering-youtube-monetization-no-ads-involved/"><u>[Updated] The Content King's Chronicle Mastering YouTube Monetization, No Ads Involved</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tracking-payment-for-consumer-feedback-vlogs/"><u>[Updated] Tracking Payment for Consumer Feedback Vlogs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-file-funneling-transfer-techniques-for-your-computer/"><u>2024 Approved File Funneling Transfer Techniques for Your Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-utilization-of-final-cut-pro-an-in-depth-guide/"><u>2024 Approved Full Utilization of Final Cut Pro An In-Depth Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-silence-to-sonata-cropping-and-mixing-music-into-video-content-for-2024/"><u>From Silence to Sonata Cropping & Mixing Music Into Video Content for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-xiaomi-redmi-13c-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-cut-to-the-chase-managing-twitch-streams/"><u>In 2024, Cut to the Chase Managing Twitch Streams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illustration-elevation-incorporating-text-into-3d-artwork/"><u>In 2024, Illustration Elevation Incorporating Text Into 3D Artwork</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/understanding-and-executing-photo-gender-modification-online-for-2024/"><u>Understanding and Executing Photo Gender Modification Online for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-take-your-videos-to-the-next-level-professional-results-guaranteed-for-2024/"><u>Updated Take Your Videos to the Next Level Professional Results Guaranteed for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-complete-examination-screenflow-full-features-for-mac/"><u>[Updated] 2024 Approved Complete Examination ScreenFlow Full Features for Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-sharing-photos-and-videos-between-android-and-iphone/"><u>[Updated] In 2024, Sharing Photos & Videos Between Android & iPhone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-blending-calendar-coordination-with-mobile-and-computing-zoom-times/"><u>2024 Approved Blending Calendar Coordination with Mobile & Computing Zoom Times</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-picks-top-1-cookie-cutter-list-of-10-apps-for-basketball-and-rugby-streaming/"><u>2024 Approved Expert Picks Top 1 Cookie Cutter List of 10 Apps for Basketball and Rugby Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-review-of-vivacuts-latest-edits-and-enhancements/"><u>2024 Approved Expert Review of VivaCut's Latest Edits and Enhancements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-yuneec-typhoon-h-expert-drone-review/"><u>2024 Approved Exploring the Yuneec Typhoon H Expert Drone Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-memery-masters-explore-and-share-joy/"><u>2024 Approved Free Memery Masters Explore & Share Joy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-on-with-mastery-the-2023-review-of-kinemaster-for-android/"><u>2024 Approved Game On with Mastery The 2023 Review of KineMaster for Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/editor-essentials-17-critically-acclaimed-programs-to-enhance-photos/"><u>Editor' Essentials 17 Critically-Acclaimed Programs to Enhance Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focus-on-you-iphone-and-android-photo-trimmers-for-2024/"><u>Focus On You IPhone & Android Photo Trimmers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/formulating-intriguing-podcast-openers-for-2024/"><u>Formulating Intriguing Podcast Openers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-isolated-snaps-to-awe-inspiring-mosaic-symphony-for-2024/"><u>From Isolated Snaps to Awe-Inspiring Mosaic Symphony for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-e13-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto E13 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-methods-from-pin-based-tunes-to-audio-downloads/"><u>Key Methods From Pin-Based Tunes to Audio Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-mp4m4a/"><u>Movavi MP4/M4A フリーオンライン変換サービス - 簡単ガイド</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-for-efficient-ipad-screen-recordings/"><u>Step-by-Step for Efficient iPad Screen Recordings</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/top-10-besplatnyh-instrumentov-dlya-migracii-dannyh-s-hdd-na-ssd-i-obratno-2024-god/"><u>Топ-10 Бесплатных Инструментов Для Миграции Данных С HDD На SSD И Обратно: 2024 Год</u></a></li>
 </ul></div>
 

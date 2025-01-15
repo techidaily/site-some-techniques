@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Renaming: A Comprehensive Guide Using PowerShell"
-date: 2025-01-02T17:23:36.412Z
-updated: 2025-01-09T18:41:40.364Z
+date: 2025-01-10T17:27:33.395Z
+updated: 2025-01-15T16:14:49.301Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 ---
 
 ## Mastering File Renaming: A Comprehensive Guide Using PowerShell
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
@@ -37,10 +33,14 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Rename a Specific File
@@ -59,6 +59,10 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 ##  How to Rename Files in a Folder With an Increasing Number
@@ -72,7 +76,7 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -92,10 +96,6 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -118,20 +118,19 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-share-screen-on-google-meet/"><u>[New] 2024 Approved How to Share Screen on Google Meet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-premium-vr-showrooms/"><u>[New] Guide to Premium VR Showrooms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-view-comments-on-youtube/"><u>[New] How to View Comments on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-identifying-high-impact-hdr-photography-tools/"><u>[New] Identifying High-Impact HDR Photography Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-plot-coders-space/"><u>[New] Leading Plot Coders Space</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-maximizing-viewability-and-engagement-understanding-facebook-video-ratios/"><u>[New] Maximizing Viewability & Engagement Understanding Facebook Video Ratios</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-step-by-step-process-high-dynamic-range-hdr-portraiture-for-2024/"><u>[New] Step-by-Step Process High Dynamic Range (HDR) Portraiture for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-inject-harmony-into-ppt-decks/"><u>[Updated] Inject Harmony Into PPT Decks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-high-quality-gopro-4k-footage-editing-for-2024/"><u>Expert Strategies for High-Quality GoPro 4K Footage Editing for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-your-usb-problems-in-windows-11-step-by-step-solution/"><u>Fixing Your USB Problems in Windows 11 - Step-by-Step Solution</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-top-affordable-online-resources-your-dream-toolkit-for-visual-filmmaking/"><u>In 2024, Explore Top Affordable Online Resources - Your Dream Toolkit for Visual Filmmaking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero-10-secrets-for-flawless-long-exposure-films/"><u>In 2024, GoPro Hero 10 Secrets for Flawless Long-Exposure Films</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-g310-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia G310 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-artisans-guide-to-snapchat-filters-mastery-for-2024/"><u>The Artisan's Guide to Snapchat Filters Mastery for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/omplete-youtube-video-editor-reference-manual-for-2024/"><u>The Complete YouTube Video Editor Reference Manual for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-at-djis-drone-model-3/"><u>2024 Approved In-Depth Look at DJI's Drone Model 3</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-tips-on-filming-with-drone/"><u>2024 Approved Tips on Filming with Drone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adobes-photo-jiggle-decrease-enhancing-or-eliminating-in-2024/"><u>Adobe's Photo Jiggle Decrease Enhancing or Eliminating, In 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fix-for-non-functional-mics-caused-by-oxidation-the-latest-strategies-guide-for-2e4/"><u>DIY Fix for Non-Functional Mics Caused by Oxidation: The Latest Strategies (Guide for 2E4)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-does-the-fitbit-charge-6-stack-up-detailed-comparison-and-review/"><u>How Does the Fitbit Charge 6 Stack Up? Detailed Comparison and Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-zoom-in-tiktok-creation/"><u>In 2024, Harnessing the Power of Zoom in TikTok Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-speed-windows-photoviewer/"><u>In 2024, High-Speed Windows Photoviewer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-holographic-horizons-trendsetting-wallpapers/"><u>In 2024, Holographic Horizons Trendsetting Wallpapers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-tecno-spark-20-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Tecno Spark 20 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-inactive-hp-printing-units/"><u>Reviving Inactive HP Printing Units</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplified-steps-for-placing-several-locations-in-google-maps-at-once/"><u>Simplified Steps for Placing Several Locations in Google Maps at Once</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-request-modification-authorization-from-trustedinstaller/"><u>Steps to Request Modification Authorization From TrustedInstaller</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/successfully-addressed-break-the-startup-loop-on-windows-server-2019-post-update/"><u>Successfully Addressed: Break the Startup Loop on Windows Server 2019 Post-Update</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-guide-fixing-unrecognized-hardware-problems-with-network-cards-on-windows-os-by-yl-software-experts/"><u>Troubleshooting Guide: Fixing Unrecognized Hardware Problems with Network Cards on Windows OS by YL Software Experts</u></a></li>
 </ul></div>
 

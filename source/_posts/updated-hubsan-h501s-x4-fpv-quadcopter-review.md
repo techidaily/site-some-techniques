@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Hubsan H501S X4 FPV Quadcopter Review"
-date: 2024-07-26T15:32:38.734Z
-updated: 2024-07-27T15:32:38.734Z
+date: 2025-01-10T17:23:52.636Z
+updated: 2025-01-15T16:24:19.787Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 
 # Hubsan H501S X4 FPV Quadcopter Review
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -34,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 **You may also like:**
 [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![hubsan h501S x4](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4.jpg) ](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
 
@@ -44,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 )
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pros and Cons
 
  **Pros:**
@@ -67,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 
  Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Complete Review for Hubsan H501S X4
 
 #### 1. Basic Specs info
@@ -126,14 +118,19 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
 
 #### 7. Camera
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
 
@@ -141,18 +138,6 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 
  Wide range of impressive features have been covered in Hubsan H501S X4 review above so that buyers can make best decision about whether it fits their needs or not. Are you a beginner in the drone world? Then you may need to learn few tactics before arranging your first flight. This specially designed drone unit can also be a good choice for gift to someone you really love. Update your opinion so that we can have discussions about what drones are suitable for your general needs. Also, prefer to bookmark our page so that you can easily go through regular updates about drones and their flying tips. Have a great time with your new drone.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -170,14 +155,6 @@ Follow @Max Wales
 **You may also like:**
 [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 [![hubsan h501S x4](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4.jpg) ](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
 
@@ -255,23 +232,20 @@ Follow @Max Wales
 
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
 
 #### 7. Camera
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
@@ -325,8 +299,9 @@ Follow @Max Wales
  Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Complete Review for Hubsan H501S X4
 
 #### 1. Basic Specs info
@@ -375,16 +350,21 @@ Follow @Max Wales
 
 #### 5. Transmitter
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
 
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
 
@@ -398,9 +378,6 @@ Follow @Max Wales
 
  Wide range of impressive features have been covered in Hubsan H501S X4 review above so that buyers can make best decision about whether it fits their needs or not. Are you a beginner in the drone world? Then you may need to learn few tactics before arranging your first flight. This specially designed drone unit can also be a good choice for gift to someone you really love. Update your opinion so that we can have discussions about what drones are suitable for your general needs. Also, prefer to bookmark our page so that you can easily go through regular updates about drones and their flying tips. Have a great time with your new drone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -418,11 +395,12 @@ Follow @Max Wales
 **You may also like:**
 [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![hubsan h501S x4](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4.jpg) ](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B019FHMZD8/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019FHMZD8&linkId=9d34fd5276ff2e7909e54006b25f45fa
 )
@@ -498,6 +476,10 @@ Follow @Max Wales
 
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
@@ -516,9 +498,6 @@ Follow @Max Wales
 
  Wide range of impressive features have been covered in Hubsan H501S X4 review above so that buyers can make best decision about whether it fits their needs or not. Are you a beginner in the drone world? Then you may need to learn few tactics before arranging your first flight. This specially designed drone unit can also be a good choice for gift to someone you really love. Update your opinion so that we can have discussions about what drones are suitable for your general needs. Also, prefer to bookmark our page so that you can easily go through regular updates about drones and their flying tips. Have a great time with your new drone.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -549,7 +528,21 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-movement-with-music-instagrams-reel-synergy-guide/"><u>[New] Harmonizing Movement with Music Instagram's Reel Synergy Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incredibly-swift-blackouts/"><u>[New] Incredibly Swift Blackouts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-for-iphone-image-compilation/"><u>[New] Innovative Techniques for iPhone Image Compilation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-benchmark-of-best-4k-youtube-to-mp3-video-processors/"><u>[Updated] 2024 Approved Benchmark of Best 4K YouTube to MP3 Video Processors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-boost-your-channels-top-5-youtube-tricks-for-increased-visibility/"><u>[Updated] Boost Your Channels Top 5 YouTube Tricks for Increased Visibility</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-get-winxvideo-ai-now-ultimate-app-for-android-and-ios-mobile-devices/"><u>1. Get WinxVideo AI Now: Ultimate App for Android and iOS Mobile Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/enthralling-soundscapes-win/"><u>Enthralling Soundscapes, WIN</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flipping-srt-to-sub-easy-conversion-techniques-for-2024/"><u>Flipping SRT to SUB Easy Conversion Techniques for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elite-picks-best-5-cloud-based-recording-platforms/"><u>In 2024, Elite Picks Best 5 Cloud-Based Recording Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-search-of-the-ideal-soundtrack-for-your-boxings-for-2024/"><u>In Search of the Ideal Soundtrack for Your Boxings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-the-power-of-quantum-hdr-for-2024/"><u>In-Depth Analysis The Power of Quantum HDR for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-easy-steps-to-create-talking-memoji-on-iphone-free-for-2024/"><u>New Easy Steps To Create Talking Memoji on iPhone Free for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-essential-free-laughter-music-collections-for-easy-to-use-film-and-media-projects-for-2024/"><u>New Essential Free Laughter Music Collections for Easy-to-Use Film and Media Projects for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-setting-up-database-snapshots-in-microsoft-sql-server-versions-2012-through-2nineteen/"><u>Step-by-Step Guide: Setting Up Database Snapshots in Microsoft SQL Server Versions 2012 Through 2Nineteen</u></a></li>
+</ul></div>
 

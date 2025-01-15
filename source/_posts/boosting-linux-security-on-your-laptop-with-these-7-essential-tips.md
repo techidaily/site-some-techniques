@@ -1,7 +1,7 @@
 ---
 title: Boosting Linux Security on Your Laptop with These 7 Essential Tips
-date: 2025-01-02T16:28:27.351Z
-updated: 2025-01-09T16:41:02.057Z
+date: 2025-01-14T17:09:38.050Z
+updated: 2025-01-15T17:29:06.944Z
 tags:
   - desktop
 categories:
@@ -15,10 +15,6 @@ Chances are that part of the reason you broke away from Microsoft and switched t
 
  If you’re still looking to make the jump, check out our selection of the [best Linux laptops](https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1  Encrypt Your Hard Drive 
 
  One of the most important steps you can take to secure your Linux laptop is also one of the easiest, namely to encrypt your hard drive. With most distros, while setting up your OS you will be prompted to encrypt your hard drive and set a password.
@@ -26,7 +22,7 @@ Chances are that part of the reason you broke away from Microsoft and switched t
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/penguins.jpg)](https://extra-resources.techidaily.com/your-journey-through-telegrams-web-functionality/) Related 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### [How to Install Linux](https://howto.techidaily.com/what-to-do-if-your-xiaomi-14-ultra-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
@@ -40,7 +36,7 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
  Note that on most distros, full-disk encryption is only possible during setup. While we recommend encrypting the whole hard drive, you can also choose to just [secure partitions or folders](https://article-helps.techidaily.com/updated-personal-exploration-of-3d-printing-in-3dr-for-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Set a System Password 
@@ -54,7 +50,7 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
 ![Kubuntu Focus laptop with the screen lock user login visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/53783375832_459504dab4_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -62,10 +58,6 @@ Jerome Thomas / How-To Geek
  With the system password set up, you should also make sure screen lock activates after a period of inactivity, and also commit the manual screen lock command (Ctrl+Alt+L) to memory. We can’t stress enough how important it is to do this if you’re in a shared space; not locking your screen opens you up to all kinds of mischief.
 
  If you’re with coworkers they could try and play a prank and send a message over your Slack account to a coworker, while at university a colleague could try and take a peek at your research. In a coworking space, somebody may try to gain access to confidential information. Locking your screen prevents all these scenarios.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4  Install a VPN 
 
@@ -75,6 +67,10 @@ Jerome Thomas / How-To Geek
 
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_444293932.jpg)](https://some-guidance.techidaily.com/updated-kinemasters-journey-for-seamless-scene-transitions/) Related 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### [Here's What a VPN Can't Protect You From](https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/) 
 
 VPNs are great privacy tools, but they're not perfect. They can't protect you from everything.
@@ -82,6 +78,10 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
 [](https://win-dash.techidaily.com/how-to-get-the-latest-amd-vega-groovy-drivers-win-compatible-software/) 
 
  This encryption makes it much harder to track you, meaning anybody that may want to do you harm online will have a tougher time finding you. It also protects your laptop if a network you’re connected to gets hijacked, so you don’t have to worry about your data being stolen in that way. As an added bonus, the [best VPNs](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/) all offer anti-malware capabilities, too, cutting off that attack vector.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  Set Up a Firewall 
 
@@ -126,18 +126,24 @@ sudo apt-get update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-funnyframeforge-picfunnyfactory/"><u>[New] FunnyFrameForge PicFunnyFactory</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-revel-in-richness-of-ranks-the-top-25-instagram-titans-unveiled-for-2024/"><u>[New] Revel in Richness of Ranks The Top 25 Instagram Titans Unveiled for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-edit-and-add-music-to-video-on-windows-11/"><u>[Updated] How to Edit & Add Music to Video on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-going-back-with-android-video-editing/"><u>2024 Approved Going Back with Android Video Editing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-quick-fix-13-solutions-for-windows-system-repair/"><u>A Quick Fix: 13 Solutions for Windows System Repair</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/foremost-suggestions-premium-iphone-tone-makers-for-2024/"><u>Foremost Suggestions Premium iPhone Tone Makers for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-and-downloading-personalized-insta-ringtones/"><u>In 2024, Crafting & Downloading Personalized Insta Ringtones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fixing-curved-video-gopros-fisheye-issue/"><u>In 2024, Fixing Curved Video GoPro's Fisheye Issue</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-holistic-motion-analysis-2023/"><u>In 2024, Holistic Motion Analysis 2023</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-13t-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi 13T to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reliable-strategy-to-infuse-direct-urls-in-tiktok-bio/"><u>In 2024, Reliable Strategy to Infuse Direct URLs in TikTok Bio</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-realme-c51-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Realme C51</u></a></li>
-<li><a href="https://facebook.techidaily.com/triggering-resurrection-of-trumps-twitter-handle/"><u>Triggering Resurrection of Trump's Twitter Handle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-in-audio-on-windows-best-8-podcast-apps-compiled/"><u>[New] Excellence in Audio on Windows Best 8 Podcast Apps Compiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-compression-to-clarity-the-zip-srt-conversion/"><u>[New] From Compression to Clarity The ZIP-SRT Conversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-add-subtitles-to-windows-media-player/"><u>[New] How to Add Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-guide-to-understanding-and-leveraging-instagrams-reels/"><u>[New] The Ultimate Guide to Understanding and Leveraging Instagram's Reels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-top-10-mobile-photography-tools-for-superior-slo-mo-effects/"><u>[Updated] Exclusive Top 10 Mobile Photography Tools for Superior Slo-Mo Effects</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-breaking-news-working-obs-cam/"><u>[Updated] In 2024, Breaking News Working OBS Cam</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-innovating-advertising-on-facebook-the-most-effective-videography/"><u>[Updated] Innovating Advertising on Facebook The Most Effective Videography</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-video-content-defeating-10-vlogging-hurdles/"><u>[Updated] Mastering Video Content Defeating 10 Vlogging Hurdles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-mastery-the-ultimate-speed-controller-guidebook/"><u>2024 Approved Gaming Mastery The Ultimate Speed Controller Guidebook</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-set-of-hp-laserjet-1018-printing-drivers-free-download/"><u>Complete Set of HP LaserJet 1018 Printing Drivers - Free Download</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-recommendations-the-highest-rated-18-video-recorders-now-for-2024/"><u>Expert Recommendations The Highest-Rated 18 Video Recorders Now for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminating-insights-for-iphone-night-photos-for-2024/"><u>Illuminating Insights for iPhone Night Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-zoom-guidance-for-virtual-team-spaces-in-msteams/"><u>In 2024, In-Depth Zoom Guidance for Virtual Team Spaces in MSTEAMS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photo-editing-basics-unveiled-dive-into-lunapic/"><u>In 2024, Photo Editing Basics Unveiled Dive Into LunaPic</u></a></li>
+<li><a href="https://facebook.techidaily.com/including-all-even-the-hidden-faces-of-your-group/"><u>Including All, Even the Hidden Faces of Your Group</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infinite-possibilities-with-ai-generating-viral-video-titles-for-2024/"><u>Infinite Possibilities with AI Generating Viral Video Titles for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-reinstating-a-hidden-windows-service/"><u>Quick Steps for Reinstating a Hidden Windows Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/successful-guide-how-to-install-directx-12-on-windows-10/"><u>Successful Guide: How to Install DirectX 12 on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-strategies-to-find-someones-position-using-an-iphone/"><u>Unveiling Strategies to Find Someone's Position Using an iPhone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Acquiring Personalized Tracks for Beat Saber - Compatible with PC and Quest Earphones"
-date: 2025-01-06T16:49:27.437Z
-updated: 2025-01-09T19:33:16.448Z
+date: 2025-01-14T17:43:01.087Z
+updated: 2025-01-15T16:07:08.777Z
 tags:
   - cutting-edge
 categories:
@@ -41,6 +41,10 @@ Nalin Rawat / How-To Geek
 
 ![Sideloading apps to the Quest 2 using Sidequest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/custom-songs-for-beat-saber-on-quest.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nalin Rawat / How-To Geek
 
  Search for "BMBF" on SideQuest and select "Sideload" to install it on your Quest headset.
@@ -48,7 +52,7 @@ Nalin Rawat / How-To Geek
 ![Download BMBF from Sidequest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/download-bmbf-from-sidequest.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nalin Rawat / How-To Geek
@@ -56,10 +60,6 @@ Nalin Rawat / How-To Geek
  Once downloaded on your headset, go to App Library > Search Apps > Switch All to Unknown Sources > BMBF.
 
 ![BMBF For Quest 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/bmbf-for-quest-2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Nalin Rawat / How-To Geek
 
@@ -85,10 +85,6 @@ Nalin rawat / How-To Geek
 
  We highly recommend using the in-built BMBF Browser to install additional mods. Many popular custom maps use mods like Chroma, Map Extensions, and Noodle Extensions. Once downloaded, click on Sync to Beat Saber to install these mods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Add Custom Songs on Beat Saber for PC
 
  Adding custom songs for Beat Saber on PC is significantly easier when compared to a Quest headset. Adding songs manually is as simple as downloading a song from a website and placing it in the right folder. However, you can also use a third-party software called BSManager to download custom songs, mods, and even downgrade Beat Saber to an older version.
@@ -100,13 +96,13 @@ Nalin rawat / How-To Geek
 ![Beat Saber Custom Songs File Location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/beat-saber-custom-level-location.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nalin Rawat / How-To Geek 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How to Use BSManager to Add Songs for Beat Saber on PC
@@ -114,6 +110,10 @@ Nalin Rawat / How-To Geek
  BSManager is an application that lets you download custom songs, mods, and avatars. You can also downgrade Beat Saber to an older version to run particular mods. You can download the latest version of BSManager from their [GitHub page](https://github.com/Zagrios/bs-manager/releases) by selecting a setup EXE file like "BSManager-Setup-1.3.0.exe". Once installed, open the app and choose which version of Beat Saber you want to run. We recommend version 1.29.1 because, as of August 2023, the latest versions don't support all mods. The best part is that the application allows you to keep different versions of the game with a shared library.
 
 ![BSManager Beat Saber Versions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/bsmanager.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Nalin Rawat / How-To Geek
 
@@ -136,16 +136,22 @@ Nalin Rawat / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-captivating-video-characters-through-free-animation/"><u>[New] Captivating Video Characters Through Free Animation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-tiny-vid-creators/"><u>[New] Tiny Vid Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-experience-unparalleled-text-design-with-top-5-downloadable-platforms/"><u>[Updated] Experience Unparalleled Text Design with Top 5 Downloadable Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-to-free-music-for-mindfulness-and-serenity/"><u>[Updated] Guide to Free Music for Mindfulness & Serenity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flash-frame-fable-framework/"><u>2024 Approved Flash Frame Fable Framework</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-rewind-with-ease-iphone-video-restoration-methods/"><u>2024 Approved Rewind with Ease IPhone Video Restoration Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000378468-fix-chrome-lag-issues-fast-simple-solutions/"><u>Fix Chrome Lag Issues Fast: Simple Solutions!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-selecting-the-perfect-4k-camera-lens-for-2024/"><u>Guide to Selecting the Perfect 4K Camera Lens for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-hdr-in-portrait-photography/"><u>In 2024, Harnessing the Power of HDR in Portrait Photography</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/optimal-low-price-nintendo-simulations-for-2024/"><u>Optimal Low-Price Nintendo Simulations for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mpeg-aiff/"><u>인터넷으로 제공 MPEG AIFF 바이네이트화 - 모보아비</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-from-videos-to-vibrant-gifs-youtube-conversion-techniques/"><u>[New] 2024 Approved From Videos to Vibrant GIFs YouTube Conversion Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-the-art-of-instagram-video-bordering/"><u>[New] In 2024, Mastering the Art of Instagram Video Bordering</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-balance-tint-editor-pro/"><u>[Updated] Balance Tint Editor Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-crafting-high-end-gopro-vlogs/"><u>2024 Approved Expert Techniques for Crafting High-End GoPro Vlogs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funniest-memes-born-select-the-best-generators/"><u>2024 Approved Funniest Memes Born Select the Best Generators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gimp-tutorial-mastering-filters-and-layers/"><u>2024 Approved GIMP Tutorial Mastering Filters & Layers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-legally-downloading-and-watching-c-span-videos/"><u>2024 Approved Guide to Legally Downloading and Watching C-Span Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-resolution-revelations-comparing-ultrawide-and-uhd-4k-screens/"><u>2024 Approved High-Resolution Revelations Comparing UltraWide and UHD 4K Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hue-mastery-interface/"><u>2024 Approved Hue Mastery Interface</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-viral-beats-cutting-edge-music-for-youtube-short-videos/"><u>2024 Approved Viral Beats Cutting-Edge Music for YouTube Short Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-low-to-high-a-beginners-guide-to-video-frame-rates-and-resolutions-for-2024/"><u>From Low to High A Beginner's Guide to Video Frame Rates & Resolutions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-newbie-to-zoom-whiz-in-no-time-for-2024/"><u>From Newbie to Zoom Whiz in No Time for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/history-enthusiasts-guide-to-inspiring-youtube-channels/"><u>History Enthusiasts' Guide to Inspiring YouTube Channels</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-shooting-canons-time-lapse-techniques/"><u>In 2024, Streamline Your Shooting Canon's Time-Lapse Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-steam-cannot-sync-with-cloud-storage-errors-quickly-and-easily/"><u>Resolving 'Steam Cannot Sync with Cloud Storage' Errors Quickly and Easily</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/solving-the-non-responsive-printer-issue-expert-tips-from-yl-computing/"><u>Solving the Non-Responsive Printer Issue: Expert Tips From YL Computing</u></a></li>
 </ul></div>
 

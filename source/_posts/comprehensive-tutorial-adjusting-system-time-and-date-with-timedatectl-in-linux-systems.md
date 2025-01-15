@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems"
-date: 2025-01-05T21:28:47.976Z
-updated: 2025-01-09T21:47:35.263Z
+date: 2025-01-13T16:24:11.439Z
+updated: 2025-01-15T17:12:53.667Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 ---
 
 ## Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 * [Set It and Forget It](https://on-screen-recording.techidaily.com/updated-2024-approved-mp4-screen-grabber-free-easy-access/)
 
  The Linux `timedatectl` command lets you set your time, date, and timezone for your system clock and your real-time clock. Spare a moment, and we'll show you how it all works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  It's All Relative
 
@@ -54,6 +54,10 @@ timedatectl status
 
 ![The output from the tidedatectl command using the status operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/1-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Actually, you can drop the status and you'll still get the same output.
 
 timedatectl
@@ -75,10 +79,6 @@ timedatectl
 timedatectl list-timezones | wc -l
 
 ![Counting the timedatectl time zones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/3-5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's way more than there are [timezones in the world](https://www.timeanddate.com/time/current-number-time-zones.html). If we [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) into `grep` and filter out the entries for "America" and pipe that [into less](https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/), we can scroll through a more manageable list.
 
@@ -104,11 +104,11 @@ timedatectl
 
 ![New time zone and time settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/6-4.png) 
 
- Our time zone has been changed, our local time has altered, and our offset from UTC has increased.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Our time zone has been changed, our local time has altered, and our offset from UTC has increased.
 
 ##  Manually Setting the Time and Date
 
@@ -133,7 +133,7 @@ timedatectl
 ![Manually setting the time and date](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/8-5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The date and time have changed. Also, note the computer is using a false UTC time. We're also informed that the system clock is not being synchronized and the NTP service is inactive.
@@ -147,7 +147,11 @@ timedatectl
 ![Restarting the NTP service and restoring the correct time values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  RTC: UTC or LTZ?
@@ -172,10 +176,6 @@ timedatectl
 
 timedatectl set-local-rtc 0
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Set It and Forget It
 
  Unless you made an error during the installation of your Linux distribution, or you relocate there's usually no reason to be modifying the settings of your system and real-time clocks.
@@ -199,16 +199,22 @@ timedatectl set-local-rtc 0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flight-finesse-and-colorful-charm-bebop-2s-parrot-showcase/"><u>[New] Flight Finesse and Colorful Charm – Bebop 2’S Parrot Showcase</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-handheld-smooth-movies-maker/"><u>[New] Handheld Smooth Movies Maker</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-critical-review-of-vlcs-capture-tools/"><u>[Updated] Critical Review of VLC's Capture Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humorhexagon-snappysatirespace/"><u>[Updated] HumorHexagon SnappySatireSpace</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-playback-lags-in-the-2022-update-of-spotifys-desktop-application-expert-tips-and-tricks/"><u>Fixing Playback Lags in the 2022 Update of Spotify's Desktop Application - Expert Tips and Tricks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/foremost-top-5-lightweight-video-capturers-guide/"><u>Foremost Top 5 Lightweight Video Capturers Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-a2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Redmi A2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-15-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 15</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-play-7t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor Play 7T to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-going-back-in-time-your-android-movie-method/"><u>In 2024, Going Back in Time Your Android Movie Method</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-for-smooth-playback-of-cyberpunk-2077-and-virtues-last-reward-on-desktop/"><u>Troubleshooting Steps for Smooth Playback of Cyberpunk 2077 & Virtue's Last Reward on Desktop</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-engaging-with-audio-attenuation-procedures-in-audacity/"><u>[Updated] Engaging with Audio Attenuation Procedures in Audacity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-for-beginners-top-8-point-and-shoot-and-35mm-cameras/"><u>[Updated] For Beginners Top 8 Point-and-Shoot and 35Mm Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-formulating-a-thrilling-film-outtakes-package/"><u>[Updated] Formulating a Thrilling Film Outtakes Package</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-free-tools-for-effortless-video-image-retrieval/"><u>[Updated] Free Tools for Effortless Video Image Retrieval</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-winning-window-sniping-tools-ranked-best-five/"><u>[Updated] In 2024, Winning Window Sniping Tools Ranked Best Five</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-experiences-top-15plus-virtual-reality-tales-on-cardboard/"><u>2024 Approved Exclusive Experiences Top 15+ Virtual Reality Tales on Cardboard</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-sites-for-youtube-content-surge/"><u>2024 Approved Exclusive Sites For YouTube Content Surge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automatic-restart-the-windows-10-and-11-power-down-protocol/"><u>Automatic Restart: The Windows 10 & 11 Power-Down Protocol</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/facing-the-falls-top-action-cameras-2023-for-2024/"><u>Facing the Falls Top Action Cameras 2023 for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-configure-time-triggered-file-syncs-in-aomei-backupper/"><u>How to Configure Time-Triggered File Syncs in AOMEI Backupper</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guidelines-for-selecting-an-engaging-movie-trailer-song/"><u>In 2024, Guidelines for Selecting an Engaging Movie Trailer Song</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hand-in-the-wind-understanding-its-types/"><u>In 2024, Hand-In-The-Wind Understanding Its Types</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-lut-creation/"><u>In 2024, Innovative Approaches to LUT Creation</u></a></li>
+<li><a href="https://win-latest.techidaily.com/komplette-anleitung-furs-kostenlose-migrations-upgrade-zu-windows-11/"><u>Komplette Anleitung Fürs Kostenlose Migrations-Upgrade Zu Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfect-snapshot-seeker-commercial-abolished/"><u>Perfect Snapshot Seeker - Commercial Abolished</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-get-comprehensive-guide-for-ft2nanoft232r-uart-driver-download/"><u>Quick Get: Comprehensive Guide for FT2nano/FT232R UART Driver Download</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Using Pipx for Easy Python App Deployment
-date: 2025-01-04T20:00:21.704Z
-updated: 2025-01-09T17:04:38.064Z
+date: 2025-01-13T17:29:22.640Z
+updated: 2025-01-15T17:04:00.261Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Master the Art of Using Pipx for Easy Python App Deployment
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * With pipx, you can install Python CLI apps, run them just like standard Linux commands, and even uninstall them easily. It's a convenient tool for managing and expanding your app library.
 
  There are a ton of useful Python CLI apps out there, but installation isn't always as easy as it seems. Let's take a look at how pipx can make it easy to install and manage them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Python Apps Are Tricky
 
@@ -51,15 +47,15 @@ sudo apt update && sudo apt install python3-venv python3-pip
 
 ![installing python3-venv and python3-pip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx01_update_install_deps-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will install the core packages for virtual environments and the pip package manager. Many Linux distributions will have these preinstalled, but not all. Crucially, versions of Debian and Ubuntu don't guarantee those packages will be preinstalled, so if you're on those distros you should run the above commands. If you're on a different distribution, use your relevant package manager, whether that's yum, pacman, or even brew.
 
  Next, we can install the pipx package itself.
 
 ![terminal window showing 'sudo apt install pipx' command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx03_install_pipx.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 sudo apt install pipx
 
@@ -83,6 +79,10 @@ pipx install cowsay
 
 ![terminal window that shows the output of the cowsay command, a cow saying 'Welcome to How-To Geek!'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx07_cowsay_command.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can use the Python app just as if it was a standard Linux command or app we installed. Under the hood, it's running in its own virtual environment, and any dependencies are separated and kept away from our core operating system.
 
  If you need to run an app just once, and you don't want to worry about installing and uninstalling, pipx has a run mode that handles that for you as well.
@@ -90,6 +90,10 @@ pipx install cowsay
 pipx run speedtest-cli
 
 ![terminal output of the speedtest command showing the bandwidth of the internet connection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx08_run.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also provide arguments for the app, so you can run specific commands. There are some caveats to the formatting, so be sure to check out the [official pipx documentation](https://pipx.pypa.io/stable/docs/#pipx-run).
 
@@ -100,7 +104,7 @@ pipx list
 ![terminal window with the output of the pipx list command which shows only cowsay is installed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx09_list.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can see that **speedtest-cli** is not installed, but **cowsay** is still present on our system.
@@ -110,10 +114,6 @@ pipx list
 pipx uninstall cowsay
 
 ![terminal window showing the pipx uninstall command output, which says it successfully uninstalled the cowsay app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx07a_uninstall_cowsay.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Where pipx really helps is in managing more complex applications. As an example, you can easily write [simple bash scripts](https://common-error.techidaily.com/rebooting-woes-windows-10-troubleshooting/) to launch and maintain the calibre-web app to host your own ebook library because you can treat it as just another command. Without pipx, the service files you need to write would be much trickier for someone who doesn't know Python and its deployment practices.
 
@@ -136,24 +136,20 @@ pipx uninstall cowsay
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-top-ringtones-for-pixel-devices/"><u>[New] Explore Top Ringtones for Pixel Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-definitive-guide-to-valheim-agriculture/"><u>[New] The Definitive Guide to Valheim Agriculture</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-list-facebooks-top-10-vids/"><u>[New] The Ultimate List Facebook's Top 10 Vids</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ideal-websites-for-painless-jpeg-to-gif-changeover/"><u>[Updated] 2024 Approved Ideal Websites for Painless JPEG to GIF Changeover</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flair-filled-images-top-10-screenshot-sticker-addons-on-iphonesandroids/"><u>[Updated] Flair-Filled Images – Top 10 Screenshot Sticker Addons on iPhones/Androids</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-unveiling-the-secrets-of-adobe-cloud-and-alternative-storage-solutions/"><u>[Updated] In 2024, Unveiling the Secrets of Adobe Cloud & Alternative Storage Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-wirecasts-features-against-competitors/"><u>2024 Approved Examining WireCast's Features Against Competitors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-new-design-dimensions-integrating-typesetting-into-ae/"><u>2024 Approved Exploring New Design Dimensions Integrating Typesetting Into AE</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gpodcs-ultimate-list-of-premium-podcasts/"><u>2024 Approved GPodC's Ultimate List of Premium Podcasts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-masterclass-refining-youtube-videos-through-imovie/"><u>2024 Approved Masterclass Refining YouTube Videos Through iMovie</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-15-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 15 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypassing-imessage-hiccups-effective-tips-for-iphone-ipad-and-mac-users/"><u>Bypassing iMessage Hiccups: Effective Tips for iPhone, iPad & Mac Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-add-an-email-signature-in-your-godaddy-webmail-account/"><u>Easy Steps to Add an Email Signature in Your GoDaddy Webmail Account</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evening-stories-visualized-evaluations-for-2024/"><u>Evening Stories Visualized Evaluations for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-transform-your-shopping-adventures-into-haul-masterpieces-for-2024/"><u>How to Transform Your Shopping Adventures Into Haul Masterpieces for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-selection-of-cost-effective-4k-projection-screens-for-2024/"><u>Ideal Selection of Cost-Effective 4K Projection Screens for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-depth-perception-iphone-xs-advantage/"><u>In 2024, Harnessing the Power of Depth Perception IPhone X's Advantage</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-camera-roll-export-to-snapchat-a-step-by-step-guide/"><u>In 2024, Mastering Camera Roll Export to Snapchat A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-mac-video-editor-mkvtoolnix-features/"><u>The Ultimate Mac Video Editor MKVtoolnix Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/21-edition-examination-the-gamblers-guide-to-vegas-pro/"><u>'21 Edition Examination – The Gambler’s Guide to Vegas Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extensive-appraisal-the-essence-of-hero4-black/"><u>[New] Extensive Appraisal The Essence of Hero4 Black</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-transform-your-youtube-vids-a-guide-to-softened-screens/"><u>[Updated] How to Transform Your Youtube Vids A Guide to Softened Screens</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-a-comprehensive-tutorial-changing-gender-in-social-media-images/"><u>2024 Approved A Comprehensive Tutorial Changing Gender in Social Media Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-visuals-enhancing-pictures-with-words/"><u>2024 Approved Expertise in Visuals Enhancing Pictures with Words</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-examination-hero4-black-designs/"><u>2024 Approved Full Examination Hero4 Black Designs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/get-ready-to-win-more-with-this-purely-gratis-voice-modifier-for-2024/"><u>Get Ready to Win More with This Purely Gratis Voice Modifier for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/imovie-why-does-it-alter-my-videos-for-2024/"><u>IMovie Why Does It Alter My Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-snapshots-to-spectacular-exploring-polarrs-edits-deeply/"><u>In 2024, From Snapshots to Spectacular Exploring Polarr's Edits Deeply</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-kinetics-evaluation-2023/"><u>In 2024, In-Depth Kinetics Evaluation 2023</u></a></li>
+<li><a href="https://win-online.techidaily.com/movavipefjpg/"><u>Movaviの使いやすいPEFからJPGへの無償オンライン変換サービス</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-writing-with-undiscovered-markdownnote-taking-masterpiece/"><u>Revolutionize Your Writing with Undiscovered Markdown/Note Taking Masterpiece</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-redmi-12-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi Redmi 12 FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-a-non-functional-laptop-microphone/"><u>Troubleshooting & Repairing a Non-Functional Laptop Microphone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-6-tech-for-subtitle-creation-in-video/"><u>Ultimate 6 Tech for Subtitle Creation in Video</u></a></li>
 </ul></div>
 

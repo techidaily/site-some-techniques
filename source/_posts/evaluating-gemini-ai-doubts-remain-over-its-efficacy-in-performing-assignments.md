@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Gemini AI: Doubts Remain Over Its Efficacy in Performing Assignments"
-date: 2025-01-07T20:30:16.371Z
-updated: 2025-01-09T16:08:34.413Z
+date: 2025-01-09T17:03:24.664Z
+updated: 2025-01-15T17:43:10.183Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 ## Evaluating Gemini AI: Doubts Remain Over Its Efficacy in Performing Assignments
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
  Google is now trying to push generative AI as a more complete virtual assistant, capable of completing some tasks with minimal or no human intervention. Google Assistant, Siri, and other earlier virtual assistants could handle some basic tasks, like finding a nearby restaurant and starting navigation directions. Google wants to push that even further with its Gemini AI technology, taking over tasks that would normally require human overview and logic processing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  When Summaries Go Wrong
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 ![Conversation with Gemini summarizing 3 different bids for home repair.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-05-14-2024-135913.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Google
@@ -56,7 +56,7 @@ Google
  There have been other attempts at using generative AI to accomplish real-life tasks. OpenTable was one of the first plugins for ChatGPT, potentially allowing you to book dinner reservations through the AI chatbot. You can find [a few reports](https://www.reddit.com/r/ChatGPT/comments/14rn74v/opentable%5Fplugin%5Fproblem/) of that not working, though it’s unclear if the AI or the underlying API integrations are to blame.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don’t Trust It
@@ -80,22 +80,21 @@ Google
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-chromebook-voice-alteration-guide-essential-online-reverb-and-pitch-tools-for-2024/"><u>[New] Chromebook Voice Alteration Guide Essential Online Reverb & Pitch Tools for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-best-videographer-selection/"><u>[New] In-Depth Look at Best Videographer Selection</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-premium-camcorders-head-on-video-sharing-for-2024/"><u>[New] Premium Camcorders Head-On Video Sharing for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram/"><u>[New] Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fotor-pro-advanced-workflow/"><u>[Updated] Fotor Pro Advanced Workflow</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ghastly-graphics-maker/"><u>[Updated] Ghastly Graphics Maker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-top-9-best-watermark-apps-for-iphone-how-to-watermark-photos-on-iphone/"><u>2024 Approved FREE Top 9 Best Watermark Apps for iPhone - How to Watermark Photos on iPhone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-learn-to-turn-videos-on-the-fly-using-vlc/"><u>2024 Approved Learn to Turn Videos on the Fly Using VLC</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-selection-7-best-mac-video-apps-for-2024/"><u>Ideal Selection 7 Best Mac Video Apps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humorhatchery-app/"><u>In 2024, HumorHatchery App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-top-tier-virtual-reality-films/"><u>In 2024, Iconic Top-Tier Virtual Reality Films</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y78-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y78 5G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-slow-motion-mobile-recording-solutions-iphoneandroid-for-2024/"><u>Innovative Slow Motion Mobile Recording Solutions iPhone/Android for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-hardware-innovations-with-toms-computing-corner/"><u>Navigating Hardware Innovations with Tom's Computing Corner</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-pixel-slate-examined-confronting-the-disarray-within-chromeos/"><u>The Pixel Slate Examined: Confronting the Disarray Within ChromeOS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/top-25-instagram-hashtags-to-get-more-likes-and-followers-for-2024/"><u>Top 25 Instagram Hashtags to Get More Likes and Followers for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-revolutionize-tiktok-live-top-techniques-from-desktop-viewers/"><u>[New] 2024 Approved Revolutionize TikTok Live Top Techniques From Desktop Viewers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snapchat-to-smiles-phones/"><u>[New] Snapchat to Smiles Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fighting-vibration-in-iphone-videos-a-threefold-approach/"><u>2024 Approved Fighting Vibration in iPhone Videos A Threefold Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-figure-skatings-top-talent-review-of-22-moments/"><u>2024 Approved Figure Skating's Top Talent Review of '22 Moments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guidance-to-rectify-youtube-video-scaling-issues/"><u>2024 Approved Guidance to Rectify YouTube Video Scaling Issues</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-moto-g04-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Moto G04 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-hub-free-images-galore-across-the-web-for-2024/"><u>Exclusive Hub Free Images Galore Across the Web for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-roundup-10-essential-cost-free-iphone-selfie-editors-for-2024/"><u>Exclusive Roundup 10 Essential, Cost-Free iPhone Selfie Editors for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/exploring-the-google-pixel-8-experience-where-perception-meets-innovation/"><u>Exploring the Google Pixel 8 Experience: Where Perception Meets Innovation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fast-forwarding-fundamentals-a-novices-guide-to-snapchat-for-2024/"><u>Fast Forwarding Fundamentals A Novice's Guide to Snapchat for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/financial-insights-how-much-does-pewdopeep-make-for-2024/"><u>Financial Insights How Much Does PewDoPeep Make for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-m54-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy M54 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-jumpstarting-video-communication-a-3-step-guide-for-snapchat-users/"><u>In 2024, Jumpstarting Video Communication A 3-Step Guide for Snapchat Users</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/las-formas-mas-eficaces-y-gratuitas-de-comprimir-archivos-video-en-formato-mkv-top-5-recomendaciones/"><u>Las Formas Más Eficaces Y Gratuitas De Comprimir Archivos Vídeo en Formato MKV - Top 5 Recomendaciones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/nine-key-points-before-investing-in-a-new-4k-lens-for-2024/"><u>Nine Key Points Before Investing in a New 4K Lens for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-google-pixel-8-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Google Pixel 8 Pro IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

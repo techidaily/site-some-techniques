@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Latest Innovation for Prime Day: Mastering Sales with Rufus - The Advanced AI Assistant Bot"
-date: 2025-01-05T21:36:30.284Z
-updated: 2025-01-09T20:23:42.460Z
+date: 2025-01-12T16:39:39.629Z
+updated: 2025-01-15T17:07:30.626Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ## Amazon's Latest Innovation for Prime Day: Mastering Sales with Rufus - The Advanced AI Assistant Bot
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -27,17 +27,9 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
  The original [Rufus (1994-2009)](https://www.amazon.com/gp/help/customer/display.html?nodeId=3711811&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003905&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-get-ready-for-prime-day-with-rufus-amazon-shoppings-new-ai-assistant-chatbot%2F&asc%5Fcampaign=Short-Term) was a beloved Welsh Corgi who seems to have morphed into a bit of a legend at Amazon and is credited with starting Amazon's dog-friendly workplace culture. Released in February, Amazon's new AI shopping assistant is named in his honor. Rufus, the AI, is trained in Amazon's product catalog, customer reviews, and product Q & As.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Where Is Rufus?
 
  When preparing to write this article, I opened the Amazon website [on my second monitor](https://youtube-sure.techidaily.com/r-the-art-of-subtitlecc-integration-in-youtube-with-this-guide-for-2024/) and was surprised that Rufus wasn't there. I shrugged, opened up my iPad, and settled on the couch with my little dogs. OG Rufus would be proud! To my surprise, Rufus wasn't on my iPad, either. It turns out Rufus is still only available on [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003905/https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping&hl=en%5FUS) and [iPhone](https://apps.apple.com/us/app/amazon-shopping/id297606951) mobile Amazon Shopping apps, and only in the U.S.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Rufus Searches for General Product Ideas
 
@@ -51,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
 ![A screenshot of the above prompt and Rufus' response. Only the suggestion of a large outdoor basketball hoop is shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_200000_amazon-shopping.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Follow-up Questions
 
  After the list of ideal products, Rufus also offered a list of suggestions for follow-up questions. Again, some of the questions were more suited to younger kids. However, I clicked on "What outdoor toys foster teamwork among kids"? While I'm always hesitant to get toys with lots of pieces, I thought the suggestions of _Cornhole_ and _Giant Jenga_ were good. I should note that all of Rufus' "product suggestions" are actually product searches for a specific product. Clicking the suggestion doesn't take you to the product shown, but to an Amazon search for that product, usually listed first in the resulting search.
@@ -58,7 +54,11 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ![A side-by-side of screenshots of Rufus' follow-up questions and its response to the follow-up question "What outdoor toys foster teamwork among kids?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_215749_amazon-shopping.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specific Product Searches
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
  My next prompt was "What is the most powerful portable power station for under $1000?" Rufus came through again. It made good suggestions about what to look for when shopping for power stations and suggested five products. Two of them have been on my wish list for some time.
 
 ![A screenshot of the prompt "What is the most powerful portable power station for under $1000" and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204656_amazon-shopping.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I notice that Rufus' product suggestions do not include prices. This is because they are product searches for a specific product instead of the product information page. You have to leave Rufus by clicking on one of the product search suggestions to see pricing information.
 
@@ -79,19 +83,15 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
 ![A side-by-side screenshot of the Chrome book prompt and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204847_amazon-shopping.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Data Privacy and Security
 
  Customer interactions with Rufus are used for 28 days for additional testing and training to improve Rufus. After 28 days, the conversations are deleted and inaccessible by Amazon or the customer. An alternative for customers who want more data privacy is to delete their chat history immediately after use to prevent the chat from being reviewed by Amazon. You can do this by tapping the three dots in the right-hand corner of Rufus and accessing the "Manage Chats" options.
 
 ![Three screenshots that highlight the steps of tapping the three dots, tapping "Manage chat", and "Clear chat history".](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_225642_amazon-shopping.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other Rufus Notes
 
@@ -122,17 +122,24 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-definition-gaming-with-lg-27ud68-monitor-review/"><u>[New] High Definition Gaming with LG 27UD68 Monitor Review</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-pinnacle-selector-your-personal-video-vault/"><u>[New] The Pinnacle Selector Your Personal Video Vault</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-turn-your-videos-into-a-revenue-stream-with-these-tips/"><u>[New] Turn Your Videos Into a Revenue Stream with These Tips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-6-best-4k-full-frame-camera/"><u>[Updated] 2024 Approved Top 6 Best 4K Full Frame Camera</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-find-x7-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo Find X7 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fine-tune-your-cinematography-mastering-kinemaster-zoom-features-for-2024/"><u>Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-face-to-face-video-glitch-9-quick-fixes-for-fir-chrome-safari-users/"><u>In 2024, Face-to-Face Video Glitch 9 Quick Fixes for Fir, Chrome, Safari Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illustrate-instantly-image-to-illustration-on-any-device/"><u>In 2024, Illustrate Instantly Image to Illustration on Any Device</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-beginners-guide-to-straightforward-hdr-techniques/"><u>In 2024, The Beginner's Guide to Straightforward HDR Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-war-thunder-from-crashing-with-these-proven-fixes/"><u>Stop War Thunder From Crashing with These Proven Fixes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-the-potential-of-hero5-black-for-stunning-visuals-for-2024/"><u>Unlock the Potential of Hero5 Black for Stunning Visuals for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-narzo-60-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme Narzo 60 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ideal-indoor-delights-mastering-mobile-lassitude/"><u>[New] In 2024, Ideal Indoor Delights Mastering Mobile Lassitude</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-macbook-airs-hidden-potential-expertise-in-screen-capturing/"><u>[New] MacBook Air's Hidden Potential Expertise in Screen Capturing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-strategies-to-improve-seamless-broadcasts-in-obs/"><u>[Updated] 2024 Approved Strategies to Improve Seamless Broadcasts in OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-youtube-content-with-free-music-sources-for-2024/"><u>[Updated] Enhancing YouTube Content with Free Music Sources for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-masterpiece-makers-discovering-these-6-unmatched-nft-tools/"><u>[Updated] In 2024, Masterpiece Makers Discovering These 6 Unmatched NFT Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-seo-power-play-strategies-to-amplify-your-podcasts-impact-for-2024/"><u>[Updated] SEO Power Play Strategies To Amplify Your Podcast's Impact for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expand-your-creative-toolkit-incorporating-custom-fonts-into-after-effects/"><u>2024 Approved Expand Your Creative Toolkit Incorporating Custom Fonts Into After Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fitness-frontiers-unveiling-premier-virtual-reality-walkers/"><u>2024 Approved Fitness Frontiers Unveiling Premier Virtual Reality Walkers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-amateurs-to-experts-shooting-spectacentic-photos-and-videos/"><u>2024 Approved From Amateurs to Experts Shooting Spectacentic Photos & Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-mere-color-to-spectacle-hdr-vs-sdr-in-editing/"><u>2024 Approved From Mere Color to Spectacle HDR vs SDR in Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-motion-assessment-2023/"><u>2024 Approved Full Motion Assessment 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamental-tactics-converting-pin-based-videos-to-mp3s/"><u>2024 Approved Fundamental Tactics Converting Pin-Based Videos To MP3s</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-going-viral-nine-techniques-to-cement-your-status-on-instagram/"><u>2024 Approved Going Viral Nine Techniques to Cement Your Status on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-pro-grade-gopro-videography/"><u>2024 Approved Mastering the Art of Pro-Grade Gopro Videography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-with-tomtom-actioncam-new-year-for-2024/"><u>Exploring with TomTom ActionCam New Year for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-impressions-intova-x-in-the-spotlight-for-2024/"><u>First Impressions Intova X in the Spotlight for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/speed-up-your-media-conversion-winxvideo-ais-fast-gpu-boosted-video-and-audio-editing/"><u>Speed Up Your Media Conversion: Winxvideo AI's Fast, GPU-Boosted Video & Audio Editing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlock-the-magic-crafting-impactful-photos-for-insta-cover-highlights-for-2024/"><u>Unlock the Magic Crafting Impactful Photos for Insta Cover Highlights for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Clipboard Privacy: How to Securely Wipe Out Past Copied Data"
-date: 2025-01-08T20:18:22.711Z
-updated: 2025-01-09T21:28:03.779Z
+date: 2025-01-14T16:11:24.283Z
+updated: 2025-01-15T17:33:20.303Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 ## Windows 11 Clipboard Privacy: How to Securely Wipe Out Past Copied Data
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 * [How to Disable Clipboard History in Windows 10](https://android-frp.techidaily.com/top-5-meizu-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 * To disable Clipboard history, go to Windows Settings > System > Clipboard and toggle the switch to "Off."
 
  If you have Clipboard history enabled in Windows 10, the feature keeps a record of items you have recently copied to the Clipboard while using copy and paste. Here's how to clear your Clipboard history—or disable it if you prefer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Gets Stored in Clipboard History?
 
@@ -51,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 ![The Clipboard history pop-up window on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/clipboard_history_plain.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove individual items from Clipboard history, call up the list with Windows+V and then click the three dots (ellipses) beside the item you'd like to delete.
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
 ![Click 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
 
 ![Select 'Clipboard' to the left, then disable 'Clipboard History.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard.png) 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 ![Can't show Clipboard history message in Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/cant_show_history.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you're free to copy and paste in privacy once again.
@@ -115,21 +115,18 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fixing-flipped-videography-on-the-social-network/"><u>[New] Fixing Flipped Videography on the Social Network</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-illuminating-the-sensor-rich-world-of-iphone-x-photos/"><u>[New] Illuminating the Sensor-Rich World of iPhone X Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-to-view-performances-film-cast-permissions/"><u>[Updated] Free-to-View Performances Film Cast Permissions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-achieve-sharpness-camera-tips-without-a-tripod/"><u>[Updated] In 2024, Achieve Sharpness Camera Tips Without a Tripod</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-holy-hymns-for-mobile-phones/"><u>2024 Approved Exploring Holy Hymns for Mobile Phones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-professional-edge-adding-letterbox-frame-to-your-fb-videos/"><u>2024 Approved Professional Edge Adding Letterbox Frame to Your FB Videos</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effective-techniques-for-erasing-the-timestamp-from-images/"><u>Effective Techniques for Erasing the Timestamp From Images</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tless-entrepreneurship-top-10-easy-to-create-biz-channels-on-youtotube-for-2024/"><u>Effortless Entrepreneurship Top 10 Easy-to-Create Biz Channels on YouToTube for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-metaverse-versus-omniverse-landscapes-for-2024/"><u>Exploring Metaverse Versus Omniverse Landscapes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-12-best-video-players-and-apps-for-pc-and-mobile-devices-for-2024/"><u>FREE 12 Best Video Players and Apps for PC and Mobile Devices for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-last-epoch-failure-to-start-on-pc-essential-guide-for-gaming-enthusiasts/"><u>How to Fix Last Epoch Failure to Start on PC - Essential Guide for Gaming Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-becoming-a-voice-alteration-virtuoso-with-morphvox/"><u>In 2024, Becoming a Voice Alteration Virtuoso with MorphVOX</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focused-adventure-getting-up-close-in-roblox-landscapes/"><u>In 2024, Focused Adventure Getting Up Close in Roblox Landscapes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/kensuns-rugged-and-handy-portable-pneumatic-tire-inflator-critique/"><u>Kensun's Rugged and Handy Portable Pneumatic Tire Inflator Critique</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/optimizing-business-efficiency-leveraging-data-driven-insights-from-process-and-task-analysis-join-the-upcoming-abbyy-expert-session/"><u>Optimizing Business Efficiency: Leveraging Data-Driven Insights From Process & Task Analysis - Join the Upcoming ABBYY Expert Session</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-the-mechanics-behind-instagrams-content-curation/"><u>[New] In 2024, Unveiling the Mechanics Behind Instagram’s Content Curation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-initiate-your-journey-a-straightforward-nft-blueprint/"><u>[New] Initiate Your Journey A Straightforward NFT Blueprint</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-formula-for-youtube-money-decoding-revenue-and-cpm-rates-for-2024/"><u>[New] The Formula for YouTube Money Decoding Revenue and CPM Rates for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-beat-cutting-editing-music-videos-on-ios-for-2024/"><u>[Updated] Beat Cutting Editing Music Videos on iOS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hear-the-vibe-no-cost-online-tempo-trackers/"><u>[Updated] Hear the Vibe – No Cost Online Tempo Trackers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unbeatable-titles-the-creme-de-la-liste-of-10-vimeo-extractors-for-2024/"><u>[Updated] Unbeatable Titles The Crème De La Liste of 10 Vimeo Extractors for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-correcting-and-confirming-your-age-information-on-tiktok/"><u>2024 Approved Guide to Correcting & Confirming Your Age Information on TikTok</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-hidden-paths-techniques-to-skip-without-watching-edgenuity-videos/"><u>2024 Approved The Hidden Paths Techniques to Skip Without Watching Edgenuity Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317648-9781781805121-deliberate-receiving/"><u>Deliberate Receiving | Free Book</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/dive-into-fb-360-videos-recording-and-sharing-secrets-for-2024/"><u>Dive Into FB 360 Videos Recording and Sharing Secrets for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finding-balance-the-art-of-choosing-video-dimensions-for-2024/"><u>Finding Balance The Art of Choosing Video Dimensions for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-enhancing-computer-performance-with-a-bios-upgrade-advice-from-yl-software/"><u>Step-by-Step Guide: Enhancing Computer Performance with a BIOS Upgrade - Advice From YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-installing-and-updating-scansnap-software-on-windows/"><u>Step-by-Step Instructions: Installing & Updating ScanSnap Software on Windows</u></a></li>
 </ul></div>
 

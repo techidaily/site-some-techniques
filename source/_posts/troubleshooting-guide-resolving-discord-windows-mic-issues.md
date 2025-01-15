@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2025-01-07T16:28:41.617Z
-updated: 2025-01-09T20:08:40.415Z
+date: 2025-01-12T17:21:49.949Z
+updated: 2025-01-15T16:09:05.148Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ---
 
 ## Troubleshooting Guide: Resolving Discord Windows Mic Issues
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select "Yes" in the User Account Control prompt.
@@ -47,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Record' highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-record-voice-sound-recorder.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the app records your voice, the mic is functional. In this case, use the further fixes below. If the app doesn’t record your voice, the mic might be disabled in Windows Settings. [Enable the mic](https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-best-windows-10-photos-alternatives/) using the following steps.
 
  On a Windows 11 PC, head into Settings > Privacy & Security > Microphone. Turn on "Microphone Access" and "Let Apps Access Your Microphone."
@@ -62,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Select the Correct Mic in Discord
@@ -86,7 +78,11 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Reset Discord's Voice Settings
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  Open Discord and navigate to the User Settings page (the gear icon in the bottom-left). Select "Voice & Video" in the left sidebar, then scroll down in the right pane and choose "Reset Voice Settings."
 
 !['Voice & Video' and 'Reset Voice Settings' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-reset-voice-settings-discord.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the open prompt, select "Okay."
 
@@ -122,20 +122,22 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/levating-your-videos-status-on-youtube/"><u>[New] Elevating Your Video's Status on YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-film-editing-made-easy-with-fcps-top-10-tools/"><u>[New] Expert Film Editing Made Easy with FCP's Top 10 Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-end-vector-sites-ranked-1-to-10/"><u>[New] High-End Vector Sites Ranked 1 to 10</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-tapping-income-through-thoughtful-product-examinations/"><u>[New] In 2024, Tapping Income Through Thoughtful Product Examinations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-sunlit-scenes-android-brighten-tips/"><u>[New] Sunlit Scenes Android Brighten Tips</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-facebooks-auto-play-feature-for-youtube-clips/"><u>[New] Unleashing Facebook's Auto-Play Feature for YouTube Clips</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-craft-your-own-film-finale-templates-no-cost-for-2024/"><u>[Updated] Craft Your Own Film Finale Templates, No Cost for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-featured-sierra-drives-files-and-more/"><u>[Updated] Full-Featured Sierra Drives, Files, and More</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovate-in-note-taking-with-mematic-platform/"><u>[Updated] Innovate in Note-Taking with Mematic Platform</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-for-xbox-one-zooming-pros/"><u>2024 Approved Expert Advice for Xbox One Zooming Pros</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-frame-your-life-with-iphones-top-10-photo-rules/"><u>2024 Approved Frame Your Life with iPhone's Top 10 Photo Rules</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-final-verdict-dji-action-vs-gopro-360-and-insta360-x3/"><u>In 2024, Final Verdict DJi Action Vs. GoPro 360 & Insta360 X3</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infusing-humor-into-your-social-media-posts-for-2024/"><u>Infusing Humor Into Your Social Media Posts for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/g-your-channels-subscribe-button-pop/"><u>Making Your Channel's Subscribe Button Pop!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/first-steps-in-high-quality-youtubing/"><u>Your First Steps in High-Quality YouTubing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-required-for-mastery-of-ios-11s-camera/"><u>[New] Expertise Required for Mastery of iOS 11'S Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-reality-the-vr-story/"><u>[New] From Concept to Reality The VR Story</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-legacy-os-to-innovative-windows-11/"><u>[New] From Legacy OS to Innovative Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guiding-through-graphic-image-alteration/"><u>[New] Guiding Through Graphic Image Alteration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-video-potential-with-fraps-recorder-for-2024/"><u>[Updated] Unlocking Video Potential with Fraps Recorder for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/compress-videos-from-h264-to-mp4-smaller-sizes-unchanged-excellence-in-quality/"><u>Compress Videos From H264 to MP4: Smaller Sizes, Unchanged Excellence in Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expedite-your-artistic-expression-fast-collages-on-the-fly-for-2024/"><u>Expedite Your Artistic Expression Fast Collages on the Fly for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-on-google-podcast-upload-for-2024/"><u>Guide on Google Podcast Upload for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/holistic-iphone-use-images-and-videos-fused-together/"><u>Holistic iPhone Use Images & Videos Fused Together</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-redmi-a2plus-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Redmi A2+</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-high-definition-chroma-blade-photography/"><u>In 2024, Exploring High-Definition Chroma Blade Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-groundbreaking-screenplays-in-8-movie-categories/"><u>In 2024, Groundbreaking Screenplays in 8 Movie Categories</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategies-for-filtering-out-the-pesky-promos-on-your-feed/"><u>Strategies for Filtering Out the Pesky Promos on Your Feed</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/upgrade-your-experience-10-high-performance-drives/"><u>Upgrade Your Experience #10 High-Performance Drives</u></a></li>
 </ul></div>
 

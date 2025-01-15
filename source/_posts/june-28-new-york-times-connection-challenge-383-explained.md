@@ -1,7 +1,7 @@
 ---
 title: June 28 - New York Times Connection Challenge #383 Explained
-date: 2025-01-06T19:43:16.338Z
-updated: 2025-01-09T16:24:15.939Z
+date: 2025-01-09T17:06:01.791Z
+updated: 2025-01-15T16:09:09.696Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## June 28 - New York Times Connection Challenge #383 Explained
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -46,6 +46,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![June 28th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-28th-connections.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Types of Bags
@@ -54,16 +58,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Purple:** Underwear in the Singular
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![June 28th Connections words sorted into groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/june-28th-connections-filled.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Types of Bags (Yellow):** 
 
@@ -125,15 +125,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-humorhatchery-studio/"><u>[New] HumorHatchery Studio</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-high-impact-imaging-our-favorite-7-4k-cameras/"><u>[Updated] 2024 Approved High-Impact Imaging Our Favorite 7 4K Cameras</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-crafting-sequential-visual-narratives-with-photos-for-2024/"><u>[Updated] Crafting Sequential Visual Narratives with Photos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellence-written-segmented-by-film-categories/"><u>[Updated] Excellence Written, Segmented by Film Categories</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-xs-100-is-journey-into-the-world-of-professional-filming/"><u>[Updated] In 2024, XS 100 I's Journey Into the World of Professional Filming</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-inside-vivas-video-app-a-complete-analysis-for-2024/"><u>[Updated] Inside Viva's Video App A Complete Analysis for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/film-lovers-answers-repository-for-2024/"><u>Film Lovers' Answers Repository for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/focus-on-subjects-methods-for-editing-out-photography-backgrounds-for-2024/"><u>Focus on Subjects Methods for Editing Out Photography Backgrounds for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-se-2020-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone SE (2020) to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-giggle-generators-online/"><u>In 2024, Giggle Generators Online</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-ultimate-checklist-for-nfl-live-broadcasting/"><u>[New] 2024 Approved The Ultimate Checklist for NFL Live Broadcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-file-logistics-unlocked-five-streamlined-techniques-for-computer-upload/"><u>[New] File Logistics Unlocked Five Streamlined Techniques for Computer Upload</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-screen-to-editors-desk-top-movie-moments/"><u>[New] From Screen to Editor's Desk Top Movie Moments</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-chrome-users-explore-our-curated-list-of-voice-modification-apps-for-2024/"><u>[Updated] Chrome Users, Explore Our Curated List of Voice Modification Apps for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-cutting-edge-techniques-to-elevate-your-tiktok-visual-storytelling-for-2024/"><u>[Updated] Cutting-Edge Techniques to Elevate Your TikTok Visual Storytelling for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-eliminating-red-eye-on-your-iphone-shots-for-free/"><u>[Updated] Expert Guide to Eliminating Red Eye on Your iPhone Shots for Free</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-legal-aspects-and-ethical-considerations-of-recording-whatsapp/"><u>[Updated] In 2024, Legal Aspects and Ethical Considerations of Recording WhatsApp</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incremental-sound-softening-for-professional-productions/"><u>[Updated] Incremental Sound Softening for Professional Productions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-0-to-million-views-the-ultimate-content-blueprint-for-2024/"><u>From 0 to Million Views The Ultimate Content Blueprint for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-f34-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy F34 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hue-harmony-translating-theory-into-artistry/"><u>In 2024, Hue Harmony Translating Theory Into Artistry</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-y200-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo Y200 with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
 

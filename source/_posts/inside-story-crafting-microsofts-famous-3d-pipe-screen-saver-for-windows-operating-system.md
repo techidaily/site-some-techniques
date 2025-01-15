@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2025-01-03T21:19:38.687Z
-updated: 2025-01-09T19:29:16.369Z
+date: 2025-01-11T16:27:49.300Z
+updated: 2025-01-15T16:23:55.036Z
 tags:
   - deals
 categories:
@@ -40,24 +40,22 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-grid-gurus-the-leading-photo-organizers-reviewed/"><u>[New] Grid Gurus - The Leading Photo Organizers Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-humor-hub-for-apple-devices/"><u>[New] Humor Hub for Apple Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elevate-zoom-sound-a-guide-to-exceptional-quality/"><u>[Updated] 2024 Approved Elevate Zoom Sound A Guide to Exceptional Quality</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>[Updated] How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-audio-customization-on-sony-playstation-devices/"><u>2024 Approved Explore Audio Customization on Sony PlayStation Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-evaluation-gopro-slr4-silver-hero4-model/"><u>2024 Approved In-Depth Evaluation GoPro SLR4 Silver HERO4 Model</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-things-you-can-do-with-chatgpts-code-interpreter/"><u>6 Things You Can Do with ChatGPT's Code Interpreter</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-fixes-for-realtek-wifi-connectivity-problems-in-windows-versions-11107/"><u>Comprehensive Fixes for Realtek WiFi Connectivity Problems in Windows Versions (11/10/7)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-its-inception-to-modern-marvels-a-thorough-exploration-into-every-update-of-apples-ios-v10-v180/"><u>From Its Inception to Modern Marvels: A Thorough Exploration Into Every Update of Apple's iOS (v1.0 - V18.0)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-hero-session-vs-polaroid-cubeplus-which-one-is-better-for-you-in-2024/"><u>GoPro Hero Session Vs Polaroid Cube+ Which One Is Better for You, In 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-on-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers on Windows 11</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-15-pro-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 15 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immerse-in-innovation-the-ultimate-vr-gear-guide/"><u>In 2024, Immerse in Innovation - The Ultimate VR Gear Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-online-tools-for-converting-images-to-videos-for-2024/"><u>Updated Top-Rated Online Tools for Converting Images to Videos for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-decoding-the-mystery-of-youtube-shorts/"><u>[New] Decoding the Mystery of YouTube Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonious-hush-managing-music-on-pc-mac/"><u>[New] Harmonious Hush Managing Music on PC, Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-precision-in-practice-tailoring-ps4-recordings-to-suit-your-style-for-2024/"><u>[Updated] Precision in Practice Tailoring PS4 Recordings to Suit Your Style for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-new-frontier-of-android-gaming-with-kinemaster/"><u>2024 Approved Exploring the New Frontier of Android Gaming with KineMaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-do-live-streaming-with-periscope/"><u>2024 Approved How to Do Live Streaming with Periscope</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-upgrades-in-apples-airpods-4-comprehensive-guide-to-distinguish-between-models/"><u>Exploring The Upgrades in Apple's AirPods 4: Comprehensive Guide to Distinguish Between Models</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-5-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 5 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-details-on-creating-effective-yt-shorts/"><u>In 2024, Essential Details on Creating Effective YT Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-formulating-a-thrilling-film-outtakes-package/"><u>In 2024, Formulating a Thrilling Film Outtakes Package</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Phones with/without a PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ice-acceleration-showdown-at-the-olympics-2022/"><u>In 2024, Ice Acceleration Showdown at the Olympics, 2022</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-insight-the-ultimate-guide-to-choosing-a-stunning-4k-screen/"><u>In 2024, Illuminating Insight The Ultimate Guide to Choosing a Stunning 4K Screen</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "2. Step-by-Step Guide: Leveraging Windows Backup Functionality for Hassle-Free PC Migration"
-date: 2025-01-08T18:01:47.820Z
-updated: 2025-01-09T21:00:43.747Z
+date: 2025-01-12T17:23:15.031Z
+updated: 2025-01-15T17:25:01.722Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 * [Step 3: Backup Your Old PC](https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/)
 * [Step 4: Restore to Your New PC](https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Sign in to your Microsoft account to use Windows Backup for an easy transfer process.
@@ -25,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 * Backup your old PC, then restore the data to your new PC after signing in with your Microsoft account.
 
  We all know that feeling of getting a new PC and wanting to get straight into things. I remember the old days, spending hours transferring my files and trying to replicate my settings. Among the many ways to transfer your data nowadays, Windows Backup offers a simple and reliable solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 1: Sign in to Your Microsoft Account
 
@@ -38,15 +38,27 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, click "Accounts" and follow the on-screen instructions to sign in.
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
 
  Once you've signed in to your Microsoft account, there are two different ways to transfer your data from your old computer to your new one—OneDrive Backup and Windows Backup.
 
  Always back up your most important files manually to multiple places and don't trust automated tools to do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  OneDrive or Windows Backup?
 
@@ -55,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
  The benefit of using OneDrive Backup is that it automatically backs up these folders to your OneDrive account whenever you make changes (as long as you've signed in and activated those folders), so you know that they'll be up-to-date when you set up your new PC. And because you're only backing up a few folders, it'll take less time than using Windows Backup.
 
  The drawback—and it's a big one—is that it doesn't let you transfer your apps, your settings, or your credentials, so you'll have to set these up again on your new computer. Also, bear in mind that you're limited to 5GB of storage if you have a free Microsoft account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Use Windows Backup
 
@@ -74,18 +82,10 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
 * The Settings option will let you copy your accessibility settings, any elements you have personalized on your old PC, your language and dictionary preferences, and any other settings you've adjusted.
 * The Credentials drop-down will help you to transfer your account details, Wi-Fi networks, and passwords.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 3: Backup Your Old PC
 
@@ -95,15 +95,15 @@ thumbnail: https://thmb.techidaily.com/71f9ba458987ad5a7e10d53ccc27db4550bc2d9a8
 
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Step 4: Restore to Your New PC
 
  When setting up your new computer, when prompted, login with the same Microsoft account you used to create your backup on your old computer. You will then be able to select your old PC's details, which includes the backup you performed, and click "Restore From This PC."
 
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Microsoft
 
@@ -128,14 +128,18 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-zero-cost-custom-video-conclusions/"><u>[New] Exclusive, Zero-Cost Custom Video Conclusions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gifs-that-speak-volumes-unveiling-6-critical-strategies-for-memetic-design/"><u>[New] GIFs That Speak Volumes Unveiling 6 Critical Strategies for Memetic Design</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-zipped-source-sorted-srt-converting-with-ease-for-2024/"><u>[New] Zipped Source, Sorted Srt Converting with Ease for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-iphoneutility-mirror-photo-mastery-tips/"><u>[Updated] Exploring iPhone'utility Mirror Photo Mastery Tips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-top-8-free-vids-tools-superior-windows-and-mac-3d-player-plugins/"><u>[Updated] Top 8 FREE Vids Tools Superior Windows & Mac 3D Player Plugins</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/before-making-a-printing-device-investment-essential-tips-and-advice/"><u>Before Making a Printing Device Investment: Essential Tips and Advice</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-skyboxes-to-studio-walls-top-9-drone-software-showdowns-for-2024/"><u>From Skyboxes to Studio Walls Top 9 Drone Software Showdowns for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kinemasters-complete-guide-to-flawless-transitions-for-2024/"><u>Kinemaster's Complete Guide to Flawless Transitions for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-hardware-reviews-and-guides/"><u>Tom's Tech Insights: Comprehensive Hardware Reviews & Guides</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-demystifying-igtv-a-compreayers-guide-to-social-media/"><u>[New] 2024 Approved Demystifying IGTV A Compreayer's Guide to Social Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-audio-and-visuals-in-win11/"><u>[New] Harmonizing Audio and Visuals in Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>[New] In the Editor's Shadows Top Tips for Outstanding Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-your-videos-shape-with-aspect-ratio/"><u>[Updated] Fine-Tuning Your Video's Shape with Aspect Ratio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-webcams-to-upgrade-your-zoom-video-quality/"><u>2024 Approved Ideal Webcams to Upgrade Your Zoom Video Quality</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/windows-1140xc1900101/"><u>如何在Windows 11上简单修复4个常见的0xC1900101崩溃 - 有效解决方案</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169517737-discover-and-join-youtubes-latest-minigame-testing/"><u>Discover & Join YouTube's Latest Minigame Testing!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-safeguard-your-live-streams-on-periscope-for-2024/"><u>How To Safeguard Your Live Streams on Periscope for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-note-50-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme Note 50 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-picsart-complete-guide-2024/"><u>Mastering the Art of PicsArt (Complete Guide 2024)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlock-the-power-of-your-camera-with-snapchats-tools-for-2024/"><u>Unlock the Power of Your Camera with Snapchat's Tools for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-paramount-practices-in-gathering-your-precious-collection-of-high-fidelity-youtube-audio/"><u>Updated 2024 Approved Paramount Practices in Gathering Your Precious Collection of High-Fidelity YouTube Audio</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/windowed-guide-windows-movie-maker-60-preparation-for-2024/"><u>Windowed Guide Windows Movie Maker 6.0 Preparation for 2024</u></a></li>
 </ul></div>
 

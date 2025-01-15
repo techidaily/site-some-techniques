@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2025-01-03T22:51:19.209Z
-updated: 2025-01-09T17:03:27.132Z
+date: 2025-01-11T17:18:55.250Z
+updated: 2025-01-15T17:34:26.783Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
@@ -34,7 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _AMD_
@@ -57,6 +61,10 @@ _AMD_
 
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -66,7 +74,7 @@ _AMD_
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Intel
@@ -74,10 +82,6 @@ Intel
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
@@ -88,10 +92,6 @@ Intel
  The thing that’s interesting to me is Qualcomm’s focus on gaming, with the company [claiming](https://www.theverge.com/24107331/qualcomm-gdc-2024-snapdragon-on-windows-games) at this year’s Game Developers Conference that many games “should just work” on devices equipped with the Snapdragon X Elite SoC. This is great news that shows Qualcomm is serious about the gaming prowess of the upcoming ARM-based Windows laptops. Qualcomm has also shown its reference design laptops [running](https://www.pcworld.com/article/2284554/qualcomm-says-snapdragon-x-elite-kicks-intel-core-ultras-butt-too.html)[_Control_](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers)[and _Baldur’s Gate 3_](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers) at playable frame rates, another proof that they are taking this seriously.
 
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Qualcomm 
 
@@ -124,22 +124,20 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-high-quality-speech-to-text-solutions/"><u>[New] High-Quality Speech-to-Text Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-steps-in-digital-content-top-10-easy-to-make-youtube-projects/"><u>[New] In 2024, First Steps in Digital Content Top 10 Easy-to-Make YouTube Projects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-combine-videos-into-one-on-iphone/"><u>[Updated] How to Combine Videos Into One on iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-infusing-life-into-ig-story-posts-a-guide-to-dynamic-animated-text/"><u>[Updated] Infusing Life Into IG Story Posts A Guide to Dynamic, Animated Text</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-frame-freezing-banishing-blurry-bites/"><u>2024 Approved Frame Freezing Banishing Blurry Bites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-spectrum-analysis-unpacking-xstudio-video-workshop-essentials/"><u>2024 Approved Full Spectrum Analysis Unpacking XStudio Video Workshop Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-have-a-products-sponsorship-in-youtube/"><u>2024 Approved How to Have a Products Sponsorship in Youtube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/definitive-troubleshooting-steps-for-fixing-non-working-vlc-streams-on-chromecast-devices/"><u>Definitive Troubleshooting Steps for Fixing Non-Working VLC Streams on Chromecast Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/embrace-the-eclipse-with-iphone-night-vision/"><u>Embrace the Eclipse with iPhone Night Vision</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-androids-best-collage-creators-our-choices-for-2024/"><u>Explore Android's Best Collage Creators – Our Choices for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-maximize-focus-with-enhanced-zoom-on-google-meet-for-2024/"><u>How to Maximize Focus with Enhanced Zoom on Google Meet for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nokia-130-music-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nokia 130 Music</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-s18-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo S18</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-craft-visionary-videos-from-start-to-finish-using-youtube-studio-editor/"><u>In 2024, Craft Visionary Videos From Start to Finish Using YouTube Studio Editor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>In 2024, How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-your-icloud-sync-difficulties-expert-tips-and-techniques/"><u>Resolving Your iCloud Sync Difficulties - Expert Tips and Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/rhythms-of-romance-most-beloved-ballads-for-engagement-for-2024/"><u>Rhythms of Romance Most Beloved Ballads for Engagement for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-visual-stories-insights-into-the-vida-app/"><u>[New] Crafting Visual Stories Insights Into the Vida App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-enhance-video-impact-two-tiktok-techniques-for-2024/"><u>[New] Enhance Video Impact Two TikTok Techniques for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-does-rapid-subscription-improve-video-watching/"><u>[New] In 2024, Does Rapid Subscription Improve Video Watching?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-make-your-own-meme/"><u>[New] Make Your Own Meme</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-quick-route-to-true-profile-ages-on-tiktok/"><u>[Updated] In 2024, The Quick Route to True Profile Ages on TikTok</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-beginners-guide-to-pioneering-minecraft-recordings-on-mac-for-2024/"><u>[Updated] The Beginner's Guide to Pioneering Minecraft Recordings on Mac for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-perfect-green-screen-cinematography/"><u>2024 Approved Expert Techniques for Perfect Green-Screen Cinematography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-premium-free-lut-options-a-guide-to-quality-tools/"><u>2024 Approved Exploring Premium-Free LUT Options A Guide to Quality Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-technological-splendor-m1-pro-vs-m1-max/"><u>2024 Approved Exploring the Technological Splendor M1 Pro Vs. M1 Max</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-feast-filming-101-essential-food-videography-skills/"><u>2024 Approved Feast Filming 101 Essential Food Videography Skills</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-film-timeframe-determining-gb-storage-requirement/"><u>2024 Approved Film Timeframe Determining GB Storage Requirement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-pinnacle-of-photography-frames-for-2024/"><u>Explore the Pinnacle of Photography Frames for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-perfect-drivers-for-your-logitech-momo-steering-wheel-on-a-pc/"><u>Find and Install the Perfect Drivers for Your Logitech Momo Steering Wheel on a PC!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-11-pro-max-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 11 Pro Max? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-poco-x5-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Poco X5</u></a></li>
 </ul></div>
 

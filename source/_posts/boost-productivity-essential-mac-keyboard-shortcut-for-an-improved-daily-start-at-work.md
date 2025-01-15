@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2025-01-05T19:55:02.766Z
-updated: 2025-01-09T19:51:27.826Z
+date: 2025-01-10T16:20:31.986Z
+updated: 2025-01-15T17:13:21.307Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ## Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,19 +90,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-masterful-phone-apps-altering-speech-patterns-for-2024/"><u>[New] Masterful Phone Apps Altering Speech Patterns for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-selecting-superior-4k-camera-stands/"><u>[Updated] Expert Insights Selecting Superior 4K Camera Stands</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-insta-photo-carousel-magic-for-2024/"><u>[Updated] Insta-Photo Carousel Magic for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-chic-characters-enhancing-facial-photo-appeal-with-picsart-motion-blur/"><u>2024 Approved Chic Characters Enhancing Facial Photo Appeal with Picsart Motion Blur</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-genesis-and-evolution-of-windows-movie-maker/"><u>2024 Approved Exploring the Genesis and Evolution of Windows Movie Maker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hero5-black-or-yi-comparing-top-actions-cameras/"><u>2024 Approved Hero5 Black or YI Comparing Top Actions Cameras</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-huawei-nova-y91-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Huawei Nova Y91 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-v27-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo V27 Phone that is Locked?</u></a></li>
-<li><a href="https://win-popular.techidaily.com/identifying-signs-of-a-faulty-graphics-card-insights-from-yl-computing-and-software-solutions/"><u>Identifying Signs of a Faulty Graphics Card: Insights From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-setup-for-high-quality-video-transmission/"><u>In 2024, Expert Setup for High-Quality Video Transmission</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-frame-tools-and-websites-image-editors/"><u>In 2024, Innovative Frame Tools and Websites Image Editors</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-v30-lite-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo V30 Lite 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/quick-and-easy-video-subtitle-tutorial-using-imovie/"><u>Quick and Easy Video Subtitle Tutorial Using iMovie</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-into-the-future-jaunt-vrs-potential-explored/"><u>[New] 2024 Approved Into the Future Jaunt VR's Potential Explored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-srt-translator-showdown-the-best-eight-in-ranking/"><u>[New] Free SRT Translator Showdown The Best Eight in Ranking</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-crafting-an-authentic-online-presence-in-the-world-of-fb/"><u>[New] In 2024, Crafting an Authentic Online Presence in the World of FB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-facetune-a-photographers-best-friend/"><u>[New] In-Depth Look at Facetune A Photographer’s Best Friend</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incremental-sound-softening-for-professional-productions/"><u>[New] Incremental Sound Softening for Professional Productions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/evolutionize-your-youtube-content-with-advanced-video-editing-in-sony-vegas-for-2024/"><u>[New] Revolutionize Your YouTube Content with Advanced Video Editing in Sony Vegas for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-hassle-free-tactics-sharing-igtv-in-insta-stories-for-2024/"><u>[Updated] Hassle-Free Tactics Sharing IGTV in Insta Stories for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-high-quality-video-capture-for-tech-enthusiasts/"><u>[Updated] High-Quality Video Capture for Tech Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-avi-player-pcmobile-compatibility/"><u>2024 Approved Excellent AVI Player - PC/Mobile Compatibility</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-setup-downloading-and-installing-brother-dcp-l2540dw-drivers-for-windows-users/"><u>Easy Setup: Downloading and Installing Brother DCP-L2540DW Drivers for Windows Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-11-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 11 Pro Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-secretly-share-moments-with-instagram-live/"><u>In 2024, How to Secretly Share Moments with Instagram Live</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-powerdirectors-2024-mastery-edition/"><u>Ultimate Guide PowerDirector's 2024 Mastery Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlock-your-viewing-pleasure-with-budget-friendly-recording-tools-for-2024/"><u>Unlock Your Viewing Pleasure with Budget-Friendly Recording Tools for 2024</u></a></li>
 </ul></div>
 

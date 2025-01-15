@@ -1,7 +1,7 @@
 ---
 title: Guide to Hiding Your File Activity From Others Using Windows N 11 Settings
-date: 2025-01-05T16:29:04.745Z
-updated: 2025-01-09T17:03:35.685Z
+date: 2025-01-08T17:37:07.930Z
+updated: 2025-01-15T16:57:29.790Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Guide to Hiding Your File Activity From Others Using Windows N 11 Settings
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -20,10 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Manually Remove Recently Accessed Items](https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-8-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/)
 * [Stop Windows From Keeping Recent Items History](https://techidaily.com/unlock-android-phone-if-you-forget-the-oppo-reno-11-pro-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/)
 * [Clear the Entire History of Recent Items](https://extra-lessons.techidaily.com/2024-approved-accelerating-fb-video-optimal-speeds-unveiled/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,27 +29,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you're using a shared PC and don't want Windows to show the files and folders you've recently accessed in File Explorer, you have several options. You can either remove specific items from the list, clear the entire list, or stop Windows from showing this history in File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Manually Remove Recently Accessed Items
 
  To selectively remove recently accessed files and folders, [open File Explorer](https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/) by clicking on the folder icon in the taskbar. Then, navigate to the "Home" tab on the left. Check the box(es) next to the files you want to remove from the history, right-click on the selected files, and select "Remove From Recent."
 
 ![Removing some recent items from the Quick Access in Windows File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-removing-some-recent-items-from-the-quick-access-in-windows-file-explorer.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To selectively remove items from the jump list of File Explorer, right-click on the File Explorer icon in the taskbar, right-click on the item you want to remove, and select "Remove From This List."
 
 ![Removing a recently accessed folder from the File Explorer's Jump List.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-removing-a-recently-accessed-folder-from-the-file-explorer-s-jump-list.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It's important to note that removing items in this way only removes them from the Recent section in File Explorer and the jump list; they will remain intact in the Recent Items folder, where the record is stored. If you want to ensure others don't know what files and folders you've accessed, remove them from there as well.
 
@@ -65,6 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Windows doesn't display a confirmation popup when removing items from the Recent Items folder or Recent section in File Explorer, so proceed with caution while removing items.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Stop Windows From Keeping Recent Items History
 
  You can stop Windows from keeping a record of recently visited items in the Recent section of File Explorer. Open File Explorer, click on the See More menu, represented by three horizontal dots at the top, and select "Options."
@@ -73,9 +61,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Disabling privacy features in the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disabling-privacy-features-in-the-folder-options-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While the above process stops Windows from displaying recently accessed items in the Recent section of File Explorer, it will still record them in the Recent Items folder. This means that anyone using your PC can still view those records. So, what's the best way to maintain the privacy of this data?
 
  The best way is to [clear your File Explorer history](https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-avi-video-cutters-trim-and-edit-on-any-device/) after using your PC. Doing so will erase the entire history, ensuring no traces are left for anyone to see.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Clear the Entire History of Recent Items
 
@@ -86,6 +82,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To clear the File Explorer History, click on the folder icon on the taskbar to open File Explorer. Click on the See More menu, represented by three horizontal dots at the top, and select "Options."
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Navigate to the "General" tab in the Folder Options window and click the "Clear" button next to "Clear File Explorer History."
 
@@ -108,17 +108,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-highlighting-heroics-at-the-x-olympics-2022/"><u>[Updated] Highlighting Heroics at the X-Olympics 2022</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-a-comparative-look-at-rgb-and-srgb-for-designers/"><u>[Updated] In 2024, A Comparative Look at Rgb and Srgb for Designers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-live-link-luxuries-are-codes-more-crucial-than-cables/"><u>[Updated] In 2024, Live Link Luxuries Are Codes More Crucial Than Cables?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovate-iconoclastic-images-using-giphy/"><u>[Updated] Innovate Iconoclastic Images Using Giphy</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-harmonizing-hearts-interacting-with-a-diverse-subscriber-base/"><u>2024 Approved Harmonizing Hearts Interacting with a Diverse Subscriber Base</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illumination-innovations-advanced-lighting-in-video-making/"><u>2024 Approved Illumination Innovations Advanced Lighting in Video Making</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-your-top-tools-for-facebook-video-retrieval-revealed/"><u>2024 Approved Your Top Tools for Facebook Video Retrieval Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-original-ai-artwork-with-microsoft-copilot-a-step-by-step-guide/"><u>Creating Original AI Artwork with Microsoft Copilot: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-steadicams-for-uav-aerial-cinematography-for-2024/"><u>Ideal Steadicams for UAV Aerial Cinematography for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/issue-with-iphone-wi-fi-try-these-five-methods-for-a-stable-connection/"><u>Issue with iPhone Wi-Fi? Try These Five Methods for a Stable Connection</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/macos-11-big-sur-a-complete-hardware-overview-for-2024/"><u>MacOS 11 Big Sur A Complete Hardware Overview for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-master-the-art-of-eye-catching-short-videos/"><u>[New] 2024 Approved Master the Art of Eye-Catching Short Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-ultimate-cheat-sheet-inserting-vimeo-videos-into-slides/"><u>[Updated] 2024 Approved The Ultimate Cheat Sheet Inserting Vimeo Videos Into Slides</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-dji-phantom-3s-advanced-video-capture-tech/"><u>2024 Approved Examining DJI Phantom 3’S Advanced Video Capture Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extracting-stills-for-windows-11-video-projects/"><u>2024 Approved Extracting Stills for Windows 11 Video Projects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focusing-on-fine-details-a-minecraft-journey/"><u>2024 Approved Focusing on Fine Details A Minecraft Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-easy-and-fun-top-15-ways-to-watch-nba-online/"><u>2024 Approved Free, Easy & Fun Top 15 Ways to Watch NBA Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-digital-to-physical-crafting-flawless-dvds-on-a-mac/"><u>2024 Approved From Digital to Physical Crafting Flawless DVDs on a Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-performance-low-price-excellent-asmr-mics/"><u>2024 Approved High Performance, Low Price Excellent ASMR Mics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-activities-for-the-modern-podcaster/"><u>2024 Approved Innovative Activities for the Modern Podcaster</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-news-endings-as-a-narrative-tool/"><u>2024 Approved News Endings as a Narrative Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-top-5-iphone-podcast-apps-guide-for-2024/"><u>Exclusive Top 5 iPhone Podcast Apps Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-flights-made-simple-kid-approved-beginner-drones-for-2024/"><u>First Flights Made Simple Kid-Approved Beginner Drones for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-behind-the-scenes-crafting-confidential-snap-narratives/"><u>In 2024, Behind the Scenes Crafting Confidential Snap Narratives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-a23-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy A23 5G? Try These Fixes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-s17-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo S17 Pro FRP Locks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-bluescreenviews-capabilities/"><u>Navigating Through BlueScreenView's Capabilities</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-steps-when-minecraft-wont-install-on-windows-11/"><u>Resolved: Troubleshooting Steps When Minecraft Won't Install on Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210297535-9781990346033-eshyo-odin-spravochnik-ce-5/"><u>ЕЩЁ ОДИН СПРАВОЧНИК CE-5 | Free Book</u></a></li>
 </ul></div>
 

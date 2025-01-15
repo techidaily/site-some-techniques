@@ -1,7 +1,7 @@
 ---
 title: "Electric Innovation Showdown: Rivian R1S Vs. Electric Trucks - Which Reigns Supreme?"
-date: 2025-01-08T19:08:19.532Z
-updated: 2025-01-09T16:08:42.985Z
+date: 2025-01-13T16:33:26.092Z
+updated: 2025-01-15T16:10:05.090Z
 tags:
   - cutting-edge
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 * [R1S Price and Availability](https://youtube-stream.techidaily.com/in-2024-the-artful-swap-from-cold-scenes-to-cozy-vlogs/)
 * [Should You Buy the Rivian R1S or R1T?](https://screen-video-capture.techidaily.com/updated-in-2024-achieving-auditory-perfection-zooming-up-your-sound-quality/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Rivian R1S is a versatile all-electric SUV that is ready for any adventure, with features like quad-motor AWD, a range of up to 321 miles, and a towing capacity of up to 7,700lbs.
@@ -33,11 +37,11 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 ![R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/r1s-fgr-cropped_nz94tr-removebg-preview.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Rivian R1S
 
@@ -94,6 +98,10 @@ Expand
 
  The Rivian R1S starts at $78,000 and includes a 260-mile range, being able to seat seven passengers. The quad-motor AWD trim I tested had a top range of 303 miles because it added a large battery pack, which was slightly offset by its 22-inch sport wheels. The review unit had a retail price of $95,500.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  R1S External Design and Features
 
 ![Rivian R1S in silver facing away from view](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/ab2d9268-0aa3-4b68-bddb-7db4d3473049.JPG) 
@@ -128,10 +136,6 @@ Tyler Hayes / How-To Geek
 
 ![Rivian R1S third-row seats have storage and a USB-C charging port in the armrests](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/cc261bbe-af7e-4a91-96d2-048dd116d765.JPG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tyler Hayes / How-To Geek
 
 Storage and USB-C charging port in the armrests for the third-row
@@ -148,11 +152,19 @@ Peaking into the third-row seats
 
 ![Rivian R1S has power and an air compressor in the trunk area](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/b67322fe-cfa6-490c-9fac-efe5a1d295e8.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
 Power and seat-release buttons are on the top control panel while the air compressor is underneath.
 
  Packed into the trunk area is an air compressor and a 120V power outlet. Each one is protected by a sliding cover which also hides it away. Under the false trunk floorboard, where several extra inches of storage reside, also housed the hose for the compressor. I didn’t have a chance to use the compressor this time around. But when I did in the truck, I found it incredibly helpful to pump up the tires of bikes that I also carried in the bed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Driving: A Quick and Nimble 7-Seater
 
@@ -173,12 +185,16 @@ Tyler Hayes / How-To Geek
  The great part of the R1S’s hard regen braking is how natural one-pedal driving feels. In hindsight, it made me wish that Tesla’s regen was a touch stronger on its highest setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  R1S Technology and Infotainment
 
 ![The large 15.3-inch display in the Rivian R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/32a07ad3-f53a-4cb1-a4bf-fc37817d38b7.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -206,20 +222,20 @@ Tyler Hayes / How-To Geek
 
 ![Screenshots from the Rivian App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/rivian-app-shots.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Rivian
 
  I had to use a keyfob for this review because of an issue gaining access to the Rivian app—available for [iPhone](https://apps.apple.com/us/app/rivian/id1570215232) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2000533/https://play.google.com/store/apps/details?id=com.rivian.android.consumer&hl=en%5FUS&gl=US). I did use the app as my vehicle key for my previous review, and it worked great. The app allows for most of the interactions you'd want for your car remotely, like setting a charging schedule, setting a charging limit, unlocking it, opening the hood, controlling the climate, and so on. This is a modern vehicle app, similar to Tesla's, unlike the myVW one offered for the ID.4.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  R1S Charging: Stuck Between Now and the Future
 
 ![Rivian R1S plugged into a charging cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/5a610b3a-82e5-4a05-94d1-0a45e3cda10f.JPG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
@@ -260,25 +276,13 @@ Tyler Hayes / How-To Geek
 * Storage space: 104cu-ft \[more\]
 * Outlets: Two 120V outlets \[fewer\]
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  R1S Price and Availability
 
  The R1S is currently available to order through [Rivian’s website](http://rivian.com). New builds currently have about a four-month wait, while new inventory vehicles are available within one to six weeks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Should You Buy the Rivian R1S or R1T?
 
 ![Rivian R1S from the rear showing the trunk open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/3b8a8a65-f097-409c-a036-8e1dfbd721ea.JPG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -289,10 +293,6 @@ Tyler Hayes / How-To Geek
  I do think there are more people who will want the option for more than five seats, which makes the R1S the best bet for most people. I thought Rivian’s SUV drove great while providing enough room for people and their baggage without being too overbearing. The R1S might be the quintessential modern American vehicle.
 
 ![R1S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/r1s-fgr-cropped_nz94tr-removebg-preview.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
@@ -319,24 +319,24 @@ From city streets to far-off trails, explore all types of terrain through all ki
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-success-stories-leveraging-highlights-for-growth/"><u>[New] Instagram Success Stories Leveraging Highlights for Growth</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fiscal-football-freedom-capturing-contests-without-cash/"><u>[Updated] Fiscal Football Freedom Capturing Contests Without Cash</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funnybox-simple-setup-for-content-creators/"><u>[Updated] FunnyBox Simple Setup for Content Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-vanish-obscuring-elements-and-sharpen-your-images-in-affinity-photo/"><u>[Updated] How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-ram-management-in-minecraft/"><u>[Updated] In 2024, Mastering RAM Management in Minecraft</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovating-virtual-reality-gaming-the-2023-update/"><u>[Updated] Innovating Virtual Reality Gaming - The 2023 Update</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-snapedit-fundamentals-for-amateur-photographers-for-2024/"><u>[Updated] Snapedit Fundamentals for Amateur Photographers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-selfies-to-skies-uncovering-the-intricacies-with-the-dji-spark/"><u>2024 Approved From Selfies to Skies Uncovering The Intricacies with the DJI Spark</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-still-to-moving-adding-animated-effects-to-your-text-ig-stories/"><u>2024 Approved From Still to Moving Adding Animated Effects to Your Text IG Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-go-live-on-youtube-from-a-phone-no-need-for-huge-fans-yet/"><u>2024 Approved Go Live on YouTube From a Phone, No Need for Huge Fans Yet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hasty-yet-stunning-the-quick-path-to-perfect-collage-pics/"><u>2024 Approved Hasty, Yet Stunning The Quick Path to Perfect Collage Pics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/boosting-your-videos-a-guide-to-upgrading-quality-with-adobe-premiere-pro/"><u>Boosting Your Videos: A Guide to Upgrading Quality with Adobe Premiere Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-asus-usb-bt500-bluetooth-drivers-compatible-with-windows-11-10-and-8/"><u>Download Asus USB-BT500 Bluetooth Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-free-photo-upscaler-for-modern-devices-for-2024/"><u>Exclusive Free Photo Upscaler for Modern Devices for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-adjust-your-photo-and-video-with-3dlut-mobile-for-2024/"><u>How to Adjust Your Photo & Video with 3DLUT Mobile for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-7t-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 7T PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-number-8s-expert-image-fusion-web-utility/"><u>In 2024, Number 8'S Expert Image Fusion Web Utility</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-essential-marketing-lexicon-20-pivotal-words-and-phrases/"><u>In 2024, The Essential Marketing Lexicon 20 Pivotal Words & Phrases</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/outlook-oops-learn-how-to-restore-unintentionally-deleted-emails-with-these-tips/"><u>Outlook Oops: Learn How to Restore Unintentionally Deleted Emails with These Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/irect-music-upload-top-tools-for-turning-spotify-into-youtube-listings-for-2024/"><u>[New] Direct Music Upload Top Tools for Turning Spotify Into YouTube Listings for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-the-potential-of-feast-filled-videography/"><u>[New] Unlocking the Potential of Feast-Filled Videography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-fundamentals-made-simple-top-8-learning-resources/"><u>[New] YouTube Fundamentals Made Simple Top 8 Learning Resources</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-gopros-camera-faceoff-master-360-versus-hero-11-pro-for-2024/"><u>[Updated] GoPro's Camera Faceoff Master 360 versus Hero 11 Pro for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-guide-to-finding-free-westeros-ringtones/"><u>[Updated] The Ultimate Guide to Finding Free Westeros Ringtones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-luts-for-lightroom-enthusiasts/"><u>2024 Approved Explore the Best LUTs for LightRoom Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-virtual-reality-bike-adventures/"><u>2024 Approved Explore Top Virtual Reality Bike Adventures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finest-5-cameras-for-low-speed-recording/"><u>2024 Approved Finest 5 Cameras for Low Speed Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flawless-endgame-in-vr-worlds/"><u>2024 Approved Flawless Endgame in VR Worlds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focused-frame-capture-leading-cams-for-slow-movement-recording/"><u>2024 Approved Focused Frame Capture Leading Cams for Slow Movement Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-monotonous-to-magnificent-font-integration-in-ae/"><u>2024 Approved From Monotonous to Magnificent Font Integration in AE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-definition-stream-cameras-explored/"><u>2024 Approved High Definition Stream Cameras Explored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-fidelity-transformation-choosing-the-best-video-converters/"><u>2024 Approved High Fidelity Transformation Choosing the Best Video Converters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-transitions-for-professional-videos/"><u>2024 Approved Innovative Transitions for Professional Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-s23plus-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy S23+ Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-auto-coding-tools-7-alternatives-to-chatgpt-explored/"><u>Best Auto-Coding Tools: 7 Alternatives to ChatGPT Explored</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/paper-playground-fun-and-effective-collage-making/"><u>Paper Playground Fun & Effective Collage Making</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-chromebook-flip-c302ca-great-performance-at-an-unbeatable-price/"><u>The Ultimate Guide to the Asus Chromebook Flip C302CA: Great Performance at an Unbeatable Price</u></a></li>
 </ul></div>
 

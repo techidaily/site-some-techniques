@@ -1,7 +1,7 @@
 ---
 title: Reviving Classic File Explorer on Your New Windows 11 System
-date: 2025-01-04T19:09:53.769Z
-updated: 2025-01-09T22:31:17.743Z
+date: 2025-01-13T16:04:33.206Z
+updated: 2025-01-15T16:55:11.115Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Reviving Classic File Explorer on Your New Windows 11 System
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,10 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Opening Control Panel from Search on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/opening-control-panel-from-search-on-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Press the up arrow button repeatedly. Alternatively, hit Alt+Up Arrow on your keyboard.
 
 ![An instance of the Windows 11 Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-11-control-panel.png) 
@@ -37,16 +37,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows 10 File Explorer in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-file-explorer-in-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can explore different drives and folders. The Windows 10 File Explorer will remain as long as you continue surfing inside this window. However, once you exit the window and open a new window as you usually do, it will go back to the [Windows 11 File Explorer](https://twitter-videos.techidaily.com/efficiency-in-social-media-sharing-tweets-with-snapchat/).
 
  So, this isn't a permanent solution, nor is it convenient to [open the Control Panel](https://facebook-clips.techidaily.com/seamless-media-exchange-transferring-facebook-content-to-whatsapp-for-2024/) whenever you'd like to use the old File Explorer. That's where ExplorerPatcher and StartAllBack, two handy tools, will help you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use ExplorerPatcher to Bring Back Windows 10's File Explorer
@@ -62,7 +58,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows 10 Taskbar in Windows 11 using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-taskbar-in-windows-11-using-explorerpatcher.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now let's change the File Explorer. To access ExplorerPatcher, go to Search and enter **Properties**, then select the top result.
@@ -81,15 +77,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An instance of ExplorerPatcher update settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/explorerpatcher-updates.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To uninstall the app, open the app and go to "Settings And Uninstall." Then click "Uninstall ExplorerPatcher."
 
 ![Uninstalling ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/uninstalling-explorerpatcher.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you see the uninstalling prompt, press "Yes." If you'd like to learn more about what you can do with ExplorerPatcher, check out [the official wiki](https://github.com/valinet/ExplorerPatcher/wiki/All-features).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using StartAllBack
 
@@ -99,13 +103,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Downloading StartAllBack from the official website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/downloading-startallback.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  During installation, you'll be asked to install it for either the current user or all users. You also have the option to turn automatic updates on and off. For this guide, I'll only install it for the current user.
 
 ![Installing StartAllBack on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/installing-startallback-on-windows-11.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, it will be automatically installed, and you'll immediately notice your Taskbar change. The StartAllBack configuration window will also pop up. Go to "Explorer," then, if it's not chosen by default, choose "Win10 Ribbon UI" under Choose Explorer Style.
 
@@ -114,10 +118,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Open a new window to see the new look.
 
 ![Windows 10 File Explorer in Windows 11 using StartAllBack](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-file-explorer-in-windows-11-using-startallback.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You may notice that the default Windows 10 File Explorer in StartAllBack isn't 100% faithful. You can play with the different settings to make it look exactly like Windows 10\. If you'd like to access StartAllBack later, right-click the Taskbar and click on "Properties."
 
@@ -144,16 +144,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fun-at-no-cost-top-quality-gratuitous-meme-templates/"><u>[New] Fun at No Cost Top Quality, Gratuitous Meme Templates</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-different-fb-video-proportions/"><u>[New] In 2024, Different FB Video Proportions</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-transform-your-tiktok-videos-immediate-backdrop-changes-explored-for-2024/"><u>[New] Transform Your TikTok Videos Immediate Backdrop Changes Explored for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-gifs-to-stickers-full-guide-for-social-channels/"><u>2024 Approved From GIFs to Stickers Full Guide for Social Channels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hue-harmonies-crafting-visual-balance/"><u>2024 Approved Hue Harmonies Crafting Visual Balance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-solutions-to-stop-microsoft-edge-from-crashing-in-windows-11/"><u>Comprehensive Solutions to Stop Microsoft Edge From Crashing in Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-raw-to-polished-a-complete-picture-guide-for-2024/"><u>From Raw to Polished A Complete Picture Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-savings-in-cloud-data-services/"><u>In 2024, Unlocking Savings in Cloud Data Services</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/maximize-your-streams-impact-our-recommendations-for-best-9-filters/"><u>Maximize Your Stream's Impact Our Recommendations for Best 9 Filters</u></a></li>
-<li><a href="https://solve-info.techidaily.com/successful-transition-expanding-storage-from-2tb-mbr-to-3tb-gpt-without-loss-expert-guide/"><u>Successful Transition: Expanding Storage From 2TB MBR to 3TB GPT without Loss - Expert Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/k-professional-video-quality-with-top-youtube-to-webm-tools-for-2024/"><u>Unlock Professional Video Quality with Top YouTube-to-WebM Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-capture-and-replay-top-tools-to-secure-every-web-moment-for-2024/"><u>[New] Capture & Replay Top Tools to Secure Every Web Moment for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mac-enhancement-synchronized-screen-plus-audio-tracking-for-2024/"><u>[New] Mac Enhancement Synchronized Screen + Audio Tracking for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/peeding-up-youtube-quick-video-rendering-and-transfer-tips-for-2024/"><u>[New] Speeding Up YouTube Quick Video Rendering & Transfer Tips for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-quick-route-to-your-latest-fb-video-viewings/"><u>[Updated] In 2024, Quick Route to Your Latest FB Video Viewings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-four-essential-tips-for-acquiring-youtube-srt/"><u>2024 Approved Four Essential Tips for Acquiring YouTube SRT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-tools-for-efficient-screen-recording-on-windows-os/"><u>2024 Approved Free Tools for Efficient Screen Recording on Windows OS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-highly-ranked-drone-selections-for-gopro-videos-and-shoots/"><u>2024 Approved Highly Ranked Drone Selections for GoPro Videos & Shoots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>2024 Approved Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-the-powerhouse-that-is-dji-phantom-3/"><u>2024 Approved In-Depth Analysis The Powerhouse That Is DJI Phantom 3</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infuse-humor-in-content-simple-text-meme-creation/"><u>2024 Approved Infuse Humor in Content Simple Text Meme Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-fatal-windows-errors-the-0xf0831-guide/"><u>Avoiding Fatal Windows Errors: The 0xF0831 Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-review-of-advanced-parrot-ar-drone-for-2024/"><u>Expert Review of Advanced Parrot AR Drone for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-frontier-top-360-cameras-for-industry-pros-2023-for-2024/"><u>Exploring the Frontier Top 360° Cameras for Industry Pros, 2023 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/eye-catching-graphic-principles-for-podcast-titles-for-2024/"><u>Eye-Catching Graphic Principles for Podcast Titles for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nokia-c210-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nokia C210 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-interactive-insights-archive/"><u>In 2024, Interactive Insights Archive</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unveiling-the-top-5-non-youtube-editing-choices/"><u>In 2024, Unveiling the Top 5 Non-YouTube Editing Choices</u></a></li>
 </ul></div>
 

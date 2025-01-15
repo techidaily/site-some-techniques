@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Bring Back Your Preferred Photo Viewer in Win 11"
-date: 2025-01-02T21:05:19.809Z
-updated: 2025-01-09T22:46:55.976Z
+date: 2025-01-08T16:48:05.718Z
+updated: 2025-01-15T17:15:13.630Z
 tags: 
   - screen-recording
   - ai video
@@ -37,7 +37,7 @@ Stay tuned to learn more!
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why you prefer Windows Photo Viewer
@@ -59,10 +59,6 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 ## Method 1 to restore Windows Photo Viewer
@@ -74,7 +70,7 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
@@ -100,7 +96,11 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -112,7 +112,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -130,22 +130,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-detailed-analysis-and-expert-tutorials-for-powerdirector-2024/"><u>[New] Detailed Analysis and Expert Tutorials for PowerDirector 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-selection-ranking-the-finest-6-head-mounted-gopros/"><u>[Updated] Expert Selection Ranking the Finest 6 Head-Mounted GOPROs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-schedule-and-dive-into-virtual-gatherings-with-zoom-on-an-android-platform/"><u>[Updated] How to Schedule and Dive Into Virtual Gatherings with Zoom on an Android Platform</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-orbitmaster-high-definition-full-touch-desktops/"><u>[Updated] OrbitMaster High Definition Full Touch Desktops</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-editors-showdown-filmora-vs-democracy-creator-features-for-2024/"><u>[Updated] Professional Editors Showdown Filmora Vs. Democracy Creator Features for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fostering-fun-with-metaverse-satirical-artifacts/"><u>2024 Approved Fostering Fun with Metaverse Satirical Artifacts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-snap-and-share-smoothly-androids-most-reliable-screen-capture-tools-of-the-eight-best/"><u>2024 Approved Snap & Share Smoothly - Android's Most Reliable Screen Capture Tools of the Eight Best</u></a></li>
-<li><a href="https://win-able.techidaily.com/discord-display-problems-heres-how-you-can-get-your-screen-share-audio-working-again/"><u>Discord Display Problems? Here's How You Can Get Your Screen Share Audio Working Again!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/file-streamlining-top-strategies-for-smooth-pc-integration-for-2024/"><u>File Streamlining Top Strategies for Smooth PC Integration for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-for-the-endless-loop-of-configuring-windows-a-comprehensive-walkthrough/"><u>Fixes for the Endless Loop of 'Configuring Windows': A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gleeful-loginsign-up-step-guide-for-2024/"><u>Gleeful Login/Sign Up Step Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/go-incognito-with-instagram-live-streaming-tips-for-2024/"><u>Go Incognito with Instagram Live Streaming Tips for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-greatest-copyright-free-pubg-image-anthology/"><u>In 2024, Greatest Copyright-Free PUBG Image Anthology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incandescent-ideas-innovations-for-stellar-cinematography/"><u>In 2024, Incandescent Ideas Innovations for Stellar Cinematography</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/pro-level-efficiency-with-get-shtdone-pro-top-pick-premium-bootstrap-themes-by-creative-tim/"><u>Pro-Level Efficiency with Get Sh!tDone PRO: Top Pick Premium Bootstrap Themes by Creative Tim</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-netgear-orbi-mesh-router-analysis-why-its-a-must-have-in-your-home-network/"><u>Top Netgear Orbi Mesh Router Analysis: Why It's a Must-Have in Your Home Network</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-on-acquiring-royalty-free-high-quality-graphics/"><u>[New] Expert Advice on Acquiring Royalty-Free, High-Quality Graphics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fresh-selection-of-engagement-prompts-for-audio-audiences/"><u>[New] Fresh Selection of Engagement Prompts for Audio Audiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-text-to-screen-srt-to-subc-transformation-tips/"><u>[New] From Text to Screen SRT-to-SUBC Transformation Tips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ioneering-proficiency-the-complete-guide-to-music-and-media-fusion-on-youtube-for-2024/"><u>[New] Pioneering Proficiency The Complete Guide to Music & Media Fusion on YouTube for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-bold-creation-mastering-timelapses-and-animations-with-movie-maker/"><u>[Updated] Bold Creation Mastering Timelapses & Animations with Movie Maker</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-quick-guide-to-video-extraction-from-youtube/"><u>[Updated] Quick Guide to Video Extraction From YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chime-catcher-where-to-securely-download-tones/"><u>2024 Approved Chime Catcher Where to Securely Download Tones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-nubia-red-magic-9-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-a-beginners-pathway-to-iphone-audio-memos/"><u>In 2024, A Beginner's Pathway to iPhone Audio Memos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-aspects-of-inexpensive-asmr-microphones/"><u>In 2024, Exceptional Aspects of Inexpensive ASMR Microphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-formula-field-report-game-reviews/"><u>In 2024, FORMULA FIELD REPORT Game Reviews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-run-a-giveaway-facebook-post/"><u>In 2024, How to Run a Giveaway Facebook Post</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-clarity-combatting-unwanted-motion/"><u>In 2024, Image Clarity Combatting Unwanted Motion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-youtube-studio-edits-demystified-for-aspiring-filmmakers/"><u>In 2024, YouTube Studio Edits Demystified for Aspiring Filmmakers</u></a></li>
+<li><a href="https://win-popular.techidaily.com/master-guide-optimizzazione-e-installazione-di-un-nuovo-ssd-su-alienware-m17-r5/"><u>Master Guide: Optimizzazione E Installazione Di Un Nuovo SSD Su Alienware M17 R5</u></a></li>
 </ul></div>
 

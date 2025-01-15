@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Arch Linux Experience: How to Prevent 'Pacman' Mishaps with Smart Mirror Update Automation"
-date: 2025-01-05T16:25:20.347Z
-updated: 2025-01-09T16:28:12.964Z
+date: 2025-01-10T16:53:49.902Z
+updated: 2025-01-15T17:35:25.672Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 ---
 
 ## Streamline Your Arch Linux Experience: How to Prevent 'Pacman' Mishaps with Smart Mirror Update Automation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
  It’s important to make sure the list of mirrors your computer uses is up-to-date because application installations and [system updates](https://fox-access.techidaily.com/expert-picks-11-easy-waterproof-kids-camcorders-for-vlogging/) depend on them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Updating the Arch Mirror List Manually
 
  By default, Arch doesn’t automatically update the mirrors list. It creates a mirror list at install time, but unless you take action yourself, that list is never changed.
@@ -48,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
  The place to start is the Arch Linux [Pacman Mirrorlist Generator](https://archlinux.org/mirrorlist/). Our objective is to get a list of the mirrors in your region and some from other regions for redundancy.
 
 ![The Arch Linux mirror list generator web page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I’m selecting "United Kingdom" from the scrolling list and "HTTPS" and "IPV4" from the checkboxes. I’ve selected the "Use Mirror Status" checkbox, so only active mirrors are included in the results.
 
@@ -69,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
  pacman will now use our new list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Reflector, and What Does It Do?
 
  Reflector is a utility for generating mirror lists, and optionally updating the mirrorlist file. You can use it on the command line, or as a service.
@@ -76,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
  You can pass parameters to it to choose the regions you want to use mirrors from, and you can have the results ranked by, say, download speed.
 
  In Arch Linux, Reflector isn’t installed by default, but in other Arch-based distributions, it might be.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Installing Reflector on Arch Linux
 
@@ -92,11 +104,7 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 ![Installing Reflector on Arch Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using Reflector on the Command Line
@@ -107,11 +115,19 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
     
 ![Making a copy of the mirrorlist file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This example _doesn’t_ overwrite your mirror list.
 
         `reflector --verbose --ipv4 --protocol https --score 10 --sort rate`
     
 ![A mirror list generated by Reflector in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The options we used were:
 
@@ -133,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
     
 ![Reflector generating a mirror list in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Our new options are:
 
 * **country**: Select the regions we wish to include mirrors from. You can use country codes or country names.
@@ -154,14 +166,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
 ![The contents of the mirrorlist file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Using the Reflector Service
 
  Reflector provides a service and a timer. If you enable and start the reflector.service, it’ll update your mirror list whenever you boot your computer. The downside is slower boot times.
@@ -175,10 +179,6 @@ sudo systemctl enable reflector.timer
 
 ![Enabling and starting the Reflector timer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To edit the Reflector configuration file, use your favorite editor in this command:
 
         `sudo gedit /etc/xdg/reflector/reflector.conf`
@@ -186,7 +186,7 @@ sudo systemctl enable reflector.timer
 ![Editing the Reflector configuration file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can see that the command-line options are listed on separate lines.
@@ -222,16 +222,14 @@ sudo systemctl enable reflector.timer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ips-for-youtube-thumbnail-size-aspect-ratio-included-for-2024/"><u>[New] Tips for YouTube Thumbnail Size [Aspect Ratio Included] for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highest-quality-costless-clocks/"><u>[Updated] Highest Quality Costless Clocks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-conquer-small-screen-navigate-through-these-best-free-and-online-downloader-tools/"><u>[Updated] In 2024, Conquer Small Screen Navigate Through These Best Free & Online Downloader Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovating-imagery-through-curve-adjustment/"><u>[Updated] Innovating Imagery Through Curve Adjustment</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-unboxing-game-crafting-winning-strategies/"><u>[Updated] The Unboxing Game Crafting Winning Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-image-colors-pro-techniques-revealed/"><u>2024 Approved Expertise in Image Colors Pro Techniques Revealed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-premier-3d-blu-ray-systems-of-today/"><u>2024 Approved Explore The Premier 3D Blu-Ray Systems of Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-history-best-theme-songs-in-anime-for-2024/"><u>Harmonizing History Best Theme Songs in Anime for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/illusions-realized-what-is-augmented-reality/"><u>Illusions Realized What Is Augmented Reality?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/solid-features-in-bose-wireless-headphone-exploration/"><u>Solid Features in Bose Wireless Headphone Exploration</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-issues-when-phasmophobia-in-vr-stops-responding/"><u>Troubleshooting Tips: Resolving Issues When Phasmophobia in VR Stops Responding</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-ways-to-screen-record-on-android/"><u>[New] Best Ways to Screen Record on Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-your-syma-x8c-flight-patterns/"><u>[New] Mastering Your Syma X8C Flight Patterns</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-glide-and-glory-short-track-highlights-from-22/"><u>[Updated] Glide and Glory Short Track Highlights From '22</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-uncomplicated-approaches-to-saving-gameplay-for-2024/"><u>[Updated] Uncomplicated Approaches to Saving Gameplay for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-premium-photography-without-spending/"><u>2024 Approved Finding Premium Photography Without Spending</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concept-to-reality-top-7-gadgets-for-metaverse-success/"><u>2024 Approved From Concept to Reality Top 7 Gadgets for Metaverse Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-flawlessly-post-srt-files-in-multiple-social-environments-for-2024/"><u>How to Flawlessly Post SRT Files in Multiple Social Environments for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/steps-for-hyperlapse-photography-magic/"><u>Steps for Hyperlapse Photography Magic</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-smart-choice-for-savvy-shoppers-iphone-eby-phones-unmatched-battery-life-and-features-at-low-cost-techradar/"><u>The Smart Choice for Savvy Shoppers: IPhone Eby Phone's Unmatched Battery Life & Features at Low Cost | TechRadar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fast Windows Quick Skim  A Step-by-Step Guide\""
-date: 2024-07-26T15:34:59.430Z
-updated: 2024-07-27T15:34:59.430Z
+date: 2025-01-14T17:25:48.154Z
+updated: 2025-01-15T17:13:00.273Z
 tags: 
   - screen-recording
   - ai video
@@ -30,25 +30,24 @@ Below is how to install and use QuickLook by Paddy Xu:
 
 Step1 Open Microsoft Store and search for QuickLook. Make sure you select the option published by Paddy Xu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![search for quicklook for windows on Microsoft store](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Once you find QuickLook, click “Get it” to download and install the app in your Windows operating system. At around 60MB, installing this preview app should be quick and easy.
 
 Step3 After successfully installing QuickLook, head to File Explorer and select any file you want to preview. Press the “Space” bar on your keyboard to view the file.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![preview video on quicklook for windows](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -57,10 +56,11 @@ So, without wasting time, let’s go through the steps to download the QuickLook
 
 Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and then navigate to Releases. Click the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
@@ -68,14 +68,19 @@ Step2 Scroll down and download the .msi file. After downloading the installation
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
@@ -99,9 +104,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 This guidepost is another testament that your PC has massive hidden abilities. With QuickLook for Windows, you can preview any document, image, or media file with a single click. And don’t forget to install the QuickLook plugins from GitHub to unlock the program’s full potential.
@@ -134,7 +136,24 @@ This guidepost is another testament that your PC has massive hidden abilities. W
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-audio-input-assessment-report-for-2024/"><u>[New] Audio Input Assessment Report for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonious-photographic-overlays-guide/"><u>[New] Harmonious Photographic Overlays Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-building-bonds-before-buying-subscription-strategies/"><u>[Updated] Building Bonds Before Buying Subscription Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-round-up-premium-vr-tools/"><u>2024 Approved Exclusive Round-Up Premium VR Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boosting-safari-speeds-top-4-fixes-for-a-faster-iphone-browser/"><u>Boosting Safari Speeds: Top 4 Fixes for a Faster iPhone Browser</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-nuances-of-advanced-nlp-what-sets-gpt-email-protected-apart-from-its-successors/"><u>Decoding the Nuances of Advanced NLP: What Sets GPT-([email Protected]) Apart From Its Successors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-artificision-exploring-the-depths-of-transfer-learning-in-ai/"><u>Dissecting Artificision: Exploring the Depths of Transfer Learning in AI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experts-choice-best-vr-handh-written-by-assistant-for-2024/"><u>Expert's Choice Best VR Handh Written by Assistant for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flight-cam-combat-dji-spark-vs-gopro-fury-for-2024/"><u>Flight Cam Combat DJI Spark VS GoPro Fury for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-12-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 12</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-behind-glasses-and-screens-vrs-evolutionary-tale/"><u>In 2024, Behind Glasses and Screens VR’s Evolutionary Tale</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-everything-you-need-to-know-about-making-a-photomontage/"><u>In 2024, Everything You Need to Know About Making a PhotoMontage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exemplary-video-capture-top-5-slow-motion-cams/"><u>In 2024, Exemplary Video Capture Top 5 Slow Motion Cams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insights-the-best-approaches-to-live-cricket-broadcasting/"><u>In 2024, Expert Insights The Best Approaches to Live Cricket Broadcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heartfelt-gratitude-paidfree-creative-templates/"><u>In 2024, Heartfelt Gratitude Paid/Free Creative Templates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/regione-free-dvds-strategie-per-aggirare-i-codici-regionali-e-convertire-i-tuoi-filmati/"><u>Regione-Free DVDs: Strategie per Aggirare I Codici Regionali E Convertire I Tuoi Filmati!</u></a></li>
+</ul></div>
 

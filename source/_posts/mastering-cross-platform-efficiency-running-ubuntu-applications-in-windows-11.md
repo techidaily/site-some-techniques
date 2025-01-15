@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11"
-date: 2025-01-04T20:10:55.087Z
-updated: 2025-01-09T20:50:36.188Z
+date: 2025-01-13T16:59:46.902Z
+updated: 2025-01-15T16:53:25.669Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ## Mastering Cross-Platform Efficiency: Running Ubuntu Applications in Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Install WSL2 Kernel, activate Virtual Machine Platform, and make sure you have Admin rights before getting Ubuntu on Windows 11.
@@ -19,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
@@ -66,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 ##  Basic Configuration Tips
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
@@ -116,6 +116,10 @@ sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Starting and Using Ubuntu
 
  Ubuntu in Windows 11 has a terminal interface with WSL. WSL is a Linux system layer that is accessible directly from Windows, rather than a Linux desktop on top of the Windows Desktop.
@@ -136,21 +140,17 @@ nohup program_name & disown
 
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
- Alternatively, applications can be started from the Windows 11 start menu.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Alternatively, applications can be started from the Windows 11 start menu.
 
 ##  Integration with Windows 11
 
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
 
@@ -179,21 +179,22 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-funniest-memes-to-download-iphone/"><u>[New] Funniest Memes to Download (iPhone)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-twist-your-content-strategy-inverting-videos-for-instagram/"><u>[New] In 2024, Twist Your Content Strategy Inverting Videos for Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-high-definition-mastery-best-hd-screen-recorder-selections/"><u>[Updated] 2024 Approved High Definition Mastery Best HD Screen Recorder Selections</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filmoras-top-10-for-seamless-image-transitions/"><u>[Updated] Filmora's Top 10 for Seamless Image Transitions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-future-filmmaking-favorites-2024s-best-cameras/"><u>[Updated] Future Filmmaking Favorites 2024'S Best Cameras</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-url-integration-in-ig-stories-and-posts/"><u>2024 Approved Navigating URL Integration in IG Stories and Posts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/complete-examination-the-video-show-app/"><u>Complete Examination The Video Show App</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-realme-11-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Realme 11 Pro</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/te-your-filming-flair-with-free-green-screen-insights-from-4-youtube-authorities/"><u>Elevate Your Filming Flair with Free Green Screen Insights From 4 YouTube Authorities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experience-the-next-level-of-virtual-reality-with-htcs-vive-headset-for-2024/"><u>Experience the Next Level of Virtual Reality with HTC's Vive Headset for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experiential-playground-vr-innovations-for-2024/"><u>Experiential Playground VR Innovations for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/get-seamless-internet-with-the-miniature-ourlink-u631-wifi-usb-dongle/"><u>Get Seamless Internet with the Miniature Ourlink U631 WiFi USB Dongle</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-simple-curvature-alteration-in-pics/"><u>In 2024, Guide to Simple Curvature Alteration in Pics</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-3-sites-to-find-free-huawei-unlock-codes-to-unlock-your-huawei-phone-by-drfone-android/"><u>In 2024, Top 3 Sites to Find Free Huawei Unlock Codes to Unlock Your Huawei Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-broadcasting-a-guide-to-chroma-key-excellence-for-2024/"><u>Innovative Broadcasting A Guide to Chroma Key Excellence for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/solution-de-depannage-pour-les-fichiers-excel-non-ouverrables-sous-windows-11/"><u>Solution De Dépannage Pour Les Fichiers Excel Non Ouverrables Sous Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-complete-tutorial-to-turn-gif-to-stickers-discordwhatsapptelegram/"><u>[New] Complete Tutorial to Turn GIF to Stickers [Discord/WhatsApp/Telegram]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-pioneering-excellence-leading-vr-creators/"><u>[Updated] 2024 Approved Pioneering Excellence Leading VR Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-football-filming-and-editing-essentials/"><u>[Updated] Free-Football Filming & Editing Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gamers-pot-review-a-deep-dive/"><u>[Updated] GAMER'S POT REVIEW A Deep Dive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-iphone-tips-change-image-dimensions-proficiently/"><u>2024 Approved Expert iPhone Tips Change Image Dimensions Proficiently</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ink-your-photos-leading-apps-for-captioning-iosandroid/"><u>2024 Approved Ink Your Photos Leading Apps for Captioning (iOS/Android)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-android-podcast-apps/"><u>2024 Approved Leading Android Podcast Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-converter-change-vob-files-into-mjpeg-format-with-ease/"><u>Free Online Converter: Change VOB Files Into MJPEG Format with Ease!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ice-arena-intensity-the-fastest-moments-in-olympics-for-2024/"><u>Ice Arena Intensity The Fastest Moments in Olympics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/improving-hues-a-beginners-approach-to-ps-grading-for-2024/"><u>Improving Hues A Beginner's Approach to PS Grading for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-5-superior-ways-to-record-sound-with-windows-11/"><u>In 2024, Explore 5 Superior Ways to Record Sound with Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-find-n3-flip-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo Find N3 Flip FRP Without Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-s18e-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo S18e</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-astro-a50-mic-isnt-recognized-by-the-astro-command-hub/"><u>Troubleshooting Steps When Your Astro A50 Mic Isn't Recognized by the Astro Command Hub</u></a></li>
 </ul></div>
 

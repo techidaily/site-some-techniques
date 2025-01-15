@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden System Files in Windows 11: A Comprehensive Guide"
-date: 2025-01-06T22:07:33.445Z
-updated: 2025-01-09T20:23:26.355Z
+date: 2025-01-09T16:27:43.071Z
+updated: 2025-01-15T17:23:27.347Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ---
 
 ## Unveiling Hidden System Files in Windows 11: A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,17 +35,21 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![On Windows 11, click the File Explorer icon in the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/win11_file_explorer_taskbar.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have File Explorer open, you can proceed with the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Show Hidden Files on Windows 11 the Easy Way
 
  To show hidden files on recent versions of Windows 11, you can simply click the View button on the File Explorer toolbar and then select Show -> Hidden items from the menu.
 
 ![show hidden files on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/Screenshot-2022-12-22-at-2.06.44-PM.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll immediately be able to start seeing regular hidden files this way. You won't, however, be able to see protected operating system files. To see those, keep reading below.
 
@@ -51,25 +59,13 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![Click the three-dot menu icon in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/click-the-three-dot-menu-icon-then-click-options.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the "Folder Options" window that opens, click the "View" tab. In the "Advanced Settings" list, locate the "Hidden Files and Folders" option. Using the radio buttons, select "Show hidden files, folders, and drives." Then click "OK" or "Apply" at the bottom of the window.
 
 ![Click the "View" tab, then select "Show Hidden Files and folders."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/go-to-view-tba.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hidden files and folders will instantly become visible in File Explorer and on your desktop. When you see them, their icons will have a slightly translucent or faded appearance.
 
 ![A hidden folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hidden-folder.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to hide them again later, use "Options" in File Explorer to open Folder Options again, click "View," select "Don't show hidden files, folders, or drives," and click "OK."
 
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![Unhide protected system files on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hide-protected-files.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As soon as you click the check box, a new dialog window will open that warns you about the dangers of revealing protected operating system files.
 
  You are about to reveal sensitive operating system files. If you move or delete hidden system files, it could break your Windows 11 installation or potentially cause data loss. So proceed with extreme caution.
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ![Click "Yes" to confirm that you want to reveal protected files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/click-yes.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then close the Folder Options window by pressing "OK." As with the hidden files revealed in the section above, protected operating system files will appear translucent on your desktop and in File Explorer.
@@ -112,20 +112,24 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-digital-designs-to-emoji-delights-making-the-most-of-your-gifs/"><u>[New] From Digital Designs to Emoji Delights Making the Most of Your GIFs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-generate-hits-adobe-made-memes/"><u>[New] Generate Hits Adobe-Made Memes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-switch-on-windows-11s-hdr-functionality/"><u>[New] How to Switch On Windows 11'S HDR Functionality</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-obs-vs-streamlabs/"><u>[New] In 2024, OBS vs Streamlabs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ecuring-your-digital-dividends-a-no-ads-youtube-money-manual-for-2024/"><u>[New] Securing Your Digital Dividends A No Ads YouTube Money Manual for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-crystal-clear-capture-amping-up-your-home-studio-recordings/"><u>2024 Approved Crystal Clear Capture Amping Up Your Home Studio Recordings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-invest-in-quality-best-4k-mirrorless-under-1000/"><u>2024 Approved Invest in Quality Best 4K Mirrorless Under $1,000</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-identifying-lowest-cloud-data-rates/"><u>2024 Approved Strategies for Identifying Lowest Cloud Data Rates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/framework-for-cost-analysis-in-music-video-making-for-2024/"><u>Framework for Cost Analysis in Music Video Making for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-canons-power-explore-10-basic-free-luts-and-more-for-2024/"><u>Harness Canon's Power Explore 10 Basic Free LUTs and More for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-summertime-screens-top-10-family-vacay-movies-for-2024/"><u>Ideal Summertime Screens Top 10 Family Vacay Movies for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-high-fps-impacts-slow-motion-movie-quality/"><u>In 2024, How High FPS Impacts Slow Motion Movie Quality</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-syma-x5c-review-best-drone-for-beginner/"><u>In 2024, Syma X5C Review Best Drone for Beginner</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlined-techniques-for-accumulating-large-tiktok-datasets/"><u>Streamlined Techniques for Accumulating Large TikTok Datasets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-shortcomings-of-automated-copy-detection-tools-in-ai-systems/"><u>Unveiling the Shortcomings of Automated Copy Detection Tools in AI Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-craft-channels-with-flair-unveiling-10-innovative-design-platforms/"><u>[New] 2024 Approved Craft Channels with Flair Unveiling 10 Innovative Design Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/reating-content-with-purpose-balancing-job-and-youtube/"><u>[New] Creating Content with Purpose Balancing Job & YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-filming-friends-directly-share-videos-on-twitter-for-2024/"><u>[Updated] Filming Friends Directly Share Videos on Twitter for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-sound-in-silence-3-cost-free-methods-to-music-enrich-your-videos/"><u>[Updated] Finding Sound in Silence 3 Cost-Free Methods to Music-Enrich Your Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-raw-footage-to-final-cut-adopting-luts-in-premiere/"><u>[Updated] From Raw Footage to Final Cut Adopting LUTs in Premiere</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-zero-to-hero-in-the-youtube-world-starting-your-channel-and-earning-money-for-2024/"><u>[Updated] From Zero to Hero in the Youtube World Starting Your Channel & Earning Money for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-much-money-can-a-podcaster-make/"><u>[Updated] How Much Money Can a Podcaster Make?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-checklist-for-optimizing-videos-with-pro-tags/"><u>[Updated] In 2024, The Ultimate Checklist for Optimizing Videos with Pro Tags</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2023-download-all-favorites-without-spending-for-2024/"><u>2023 Download All Favorites Without Spending for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-ultimate-selection-of-free-slide-show-designs/"><u>2024 Approved Explore the Ultimate Selection of Free Slide Show Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-face-unlock-tech-iphone-xs-face-id-versus-samsung/"><u>2024 Approved Face Unlock Tech IPhone X's Face ID Versus Samsung'</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finns-fiscal-flow-income-insights-from-youtube-icon/"><u>2024 Approved Finn's Fiscal Flow Income Insights From YouTube Icon</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-vrs-winning-features-and-faults/"><u>2024 Approved In-Depth Review VR's Winning Features & Faults</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellence-in-video-selecting-peak-frame-rates-for-slow-motion-effects-for-2024/"><u>Excellence in Video Selecting Peak Frame Rates for Slow-Motion Effects for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-6s-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 6s Plus Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-sell-your-brand-through-innovative-youtuber-collaborations-for-2024/"><u>How To Sell Your Brand Through Innovative YouTuber Collaborations for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/keep-your-pics-safe-without-costing-a-penny-effortless-auto-upload-on-google-photos/"><u>Keep Your Pics Safe Without Costing a Penny - Effortless Auto-Upload on Google Photos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-windows-error-minecraft-crashing-with-exit-code-1/"><u>Resolving Windows Error: Minecraft Crashing with Exit Code 1</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-seo-firms-in-oslo-premium-search-engine-optimization-services-norway/"><u>Top SEO Firms in Oslo - Premium Search Engine Optimization Services Norway</u></a></li>
 </ul></div>
 

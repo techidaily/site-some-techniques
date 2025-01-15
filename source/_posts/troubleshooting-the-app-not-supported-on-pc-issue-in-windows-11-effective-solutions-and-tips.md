@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2025-01-04T20:21:28.011Z
-updated: 2025-01-09T20:36:43.696Z
+date: 2025-01-14T16:09:24.151Z
+updated: 2025-01-15T16:03:56.477Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you’ve encountered a “This app can't run on your PC” error, the app you’re trying to launch is likely incompatible with your system. There are other reasons this issue occurs, and we’ll show you various ways to fix it on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Review Your Startup App List
@@ -35,9 +31,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Startup Apps' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-startup-apps-task-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the right pane, review each app. If you find an unwanted app on the list, prevent it from running automatically on your PC’s boot by right-clicking it and choosing "Disable."
 
 !['Disable' highlighted for an app in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-disable-startup-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
 
@@ -48,6 +52,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To do that, right-click the app on your desktop or Start Menu and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
 
@@ -60,16 +68,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Activate Developer Mode
 
@@ -84,10 +88,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
 
  Quit Settings and launch your app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Remove and Reinstall the App
 
@@ -108,7 +108,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If the app doesn’t work even after reinstalling, it may not be compatible with your Windows 11 version. This usually happens when the developer doesn’t add support for the latest Windows version to their apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The App Can't Run on Your PC's Hardware
@@ -134,24 +134,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-examining-dji-phantom-3s-advanced-video-capture-tech/"><u>[New] Examining DJI Phantom 3’S Advanced Video Capture Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exquisite-solution-for-vr-adventures/"><u>[New] Exquisite Solution for VR Adventures</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mega-popular-youtube-vids-everlasting-titles/"><u>[Updated] 2024 Approved Mega-Popular YouTube Vids Everlasting Titles</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-endless-video-recording-program/"><u>[Updated] Endless Video Recording Program</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-freezing-fun-at-the-beijing-olympics-2022/"><u>[Updated] Freezing Fun at the Beijing Olympics 2022</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[Updated] In 2024, Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-guide-on-starting-private-live-streams-on-youtube/"><u>A Guide on Starting Private Live Streams on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hubsan-x4-quadcopter-examination-an-in-depth-guide-for-2024/"><u>Hubsan X4 Quadcopter Examination An In-Depth Guide for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-app-analysis-vll-perspective/"><u>In 2024, App Analysis VLL Perspective</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-sns-hdrs-value-and-alternatives-for-hdr-editing/"><u>In 2024, Evaluating SNS HDR's Value & Alternatives for HDR Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evolving-shopper-behavior-in-vr-realms/"><u>In 2024, Evolving Shopper Behavior in VR Realms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-advanced-a-polarr-photo-editor-journey/"><u>In 2024, From Basics to Advanced A Polarr Photo Editor Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gourmet-visuals-in-motion-food-shot-tips-and-tricks/"><u>In 2024, Gourmet Visuals in Motion Food Shot Tips & Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hot-oculus-vr-games-that-everyones-playing/"><u>In 2024, Hot Oculus VR Games That Everyone's Playing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-horizons-in-computing-a-look-at-toms-hardware-discoveries/"><u>Navigating New Horizons in Computing - A Look at Tom's Hardware Discoveries</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-auteurs-toolkit-5-critical-cinematographic-insights/"><u>The Auteur's Toolkit 5 Critical Cinematographic Insights</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transform-your-desktop-into-an-economical-streaming-station-simple-steps-inside/"><u>Transform Your Desktop Into an Economical Streaming Station - Simple Steps Inside!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-new-potentials-with-macos-11-big-sur-for-2024/"><u>Unlocking New Potentials with macOS 11 Big Sur for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-reverse-a-video-on-iphone/"><u>[New] How to Reverse a Video on iPhone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-ignite-interest-top-tier-content-to-motivate-viewers/"><u>[New] In 2024, Ignite Interest Top-Tier Content to Motivate Viewers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unwinding-utopia-premier-idle-games/"><u>[New] In 2024, Unwinding Utopia Premier Idle Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-for-mosaic-photography/"><u>[Updated] Innovative Approaches for Mosaic Photography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essentials-of-efficient-video-tagging-methods/"><u>[Updated] The Essentials of Efficient Video Tagging Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-achieve-lightning-fast-periscope-transmission/"><u>2024 Approved How to Achieve Lightning-Fast Periscope Transmission</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-pastimes-pairing-with-your-favorite-audio-shows/"><u>2024 Approved Ideal Pastimes Pairing with Your Favorite Audio Shows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-protection-features-in-windows-11-with-rufus-expertise/"><u>Bypassing Protection Features in Windows 11 with Rufus Expertise</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capture-your-overwatch-saga-effortlessly-for-2024/"><u>Capture Your Overwatch Saga Effortlessly for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/foremost-top-5-lightweight-video-capturers-guide-for-2024/"><u>Foremost Top 5 Lightweight Video Capturers Guide for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-v27-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V27 to Protect Your Individual Information</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-the-storage-power-of-64128gb-units-for-vids/"><u>In 2024, Evaluating the Storage Power of 64/128GB Units for Vids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/restful-reelings-audiovisual-storytelling-for-2024/"><u>Restful Reelings Audiovisual Storytelling for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-using-macbook-air-in-picture-in-picture-mode/"><u>Step-by-Step Guide to Using MacBook Air in Picture-in-Picture Mode</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset"
-date: 2025-01-06T21:07:30.286Z
-updated: 2025-01-09T21:35:15.251Z
+date: 2025-01-11T16:25:23.575Z
+updated: 2025-01-15T16:53:38.574Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
 ## Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is an SMC, and What Does It Do?](https://win-dash.techidaily.com/how-to-overcome-windows-10-bluetooth-drivers-errors-with-easy-to-follow-solutions/)
@@ -23,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 * [How to Reset the SMC on Older Intel Macs](https://youtube-data.techidaily.com/ed-profit-making-techniques-for-beauty-vloggers/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  If you're experiencing weird Mac behavior, like a computer that's not responding properly when you press the power button or open the lid or the backlight is playing up, one solution is to reset the system management controller or SMC. It sounds technical, but it actually isn't. Let's take a closer look.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is an SMC, and What Does It Do?
 
  The SMC is a dedicated chip on Intel Macs that manages lots of low-level hardware functions. It enables certain hardware features to work regardless of whether the Mac is powered on. The LED indicator on your charger will change color when you plug it in, even if your Mac is turned off, for example.
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  If you're experiencing problems in any of these areas and other attempts to fix them haven't worked, resetting the SMC is worth trying.
 
  The way to perform the reset is different on MacBooks and desktops, as well as models with the T2 Security Chip. On Macs with Apple Silicon, there is no dedicated system management controller. All the functions of the SMC are built into the main chip.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Reset the SMC on an Apple Silicon Mac
 
@@ -59,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  On Intel MacBooks with the T2 chip, which means most models from 2018 or later, Apple recommends an extra step before resetting the SMC. Shut down your Mac and press and hold the power button for 10 seconds. Wait a few extra seconds and then turn your Mac back on to see if the problem has been fixed.
 
 ![The key combination to reset the SMC on a MacBook with the T2 chip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-a-macbook-with-the-t2-chip.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -73,7 +73,7 @@ Hannah Stryker / How-To Geek
  On desktop Macs with the T2 chip, it's far simpler. Just shut the Mac down and unplug the power cord. After 15 seconds, plug the power cord back in, wait another five seconds, and then power on your Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Reset the SMC on Older Intel Macs
@@ -83,7 +83,7 @@ Hannah Stryker / How-To Geek
 ![The key combination to reset the SMC on an older Intel MacBook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-an-older-intel-macbook.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -118,17 +118,19 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-strategy-for-intertwining-gopro-footage-in-full-circle-cinematographic-works/"><u>[New] Expert Strategy for Intertwining GoPro Footage in Full-Circle Cinematographic Works</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-apple-macbook-air-vs-pro-which-m1-laptop-is-better/"><u>[New] In 2024, Apple MacBook Air Vs. Pro Which M1 Laptop Is Better?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unbeatable-reflections-best-4k-mirrorless-cameras-today/"><u>[Updated] 2024 Approved Unbeatable Reflections Best 4K Mirrorless Cameras Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero-session-vs-polaroid-cubeplus-which-one-is-better-for-you/"><u>[Updated] GoPro Hero Session Vs Polaroid Cube+ Which One Is Better for You?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-effectively-move-files-between-two-ios-units/"><u>2024 Approved How to Effectively Move Files Between Two iOS Units</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/common-troubleshooting-tips-when-your-logitech-mouse-fails-to-work-on-windows-10/"><u>Common Troubleshooting Tips When Your Logitech Mouse Fails to Work on Windows 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-mozilla-revolutionized-screen-splitting-with-ffxp-for-2024/"><u>How Mozilla Revolutionized Screen Splitting with FFXP for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-optimize-your-presence-on-spotify-ads/"><u>In 2024, How to Optimize Your Presence on Spotify Ads</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-your-ultimate-guide-to-choosing-the-right-virtual-reality-headset-for-you-mobile-vs-tethered/"><u>In 2024, Your Ultimate Guide to Choosing the Right Virtual Reality Headset for You Mobile vs Tethered?</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/pcwin-111087-hdd/"><u>PC用Win 11/10/8/7 における早送り方法:外付けHDDへのファイル転送テクニックとセキュリティチェック</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-camon-30-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Camon 30 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-office-solving-windows-activation-issues/"><u>Unlocking Office: Solving Windows Activation Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guidelines-for-selecting-an-engaging-movie-trailer-song/"><u>[New] Guidelines for Selecting an Engaging Movie Trailer Song</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-much-does-pewdiepie-make/"><u>[New] How Much Does PewDiePie Make</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-masterclass-in-business-creating-an-enterprise-instagram-profile/"><u>[New] In 2024, Masterclass in Business Creating an Enterprise Instagram Profile</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-top-25-instagram-hashtags-to-get-likes-and-followers-for-2024/"><u>[New] Top 25 Instagram Hashtags to Get Likes and Followers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluation-of-viewing-seconds-in-a-20mb-videography/"><u>[Updated] Evaluation of Viewing Seconds in a 20MB Videography</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-picture-a-review-of-dji-inspire-2/"><u>2024 Approved Full Picture A Review of DJI Inspire 2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-quality-speech-to-text-solutions/"><u>2024 Approved High-Quality Speech-to-Text Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/dominion-of-thought-metas-global-ai-titan-emerges/"><u>Dominion of Thought: Meta's Global AI Titan Emerges</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-error-0x8024402c-solved/"><u>How to Fix Windows Update Error 0X8024402c [Solved]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exquisite-series-for-animating-fonts/"><u>In 2024, Exquisite Series for Animating Fonts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-s18-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo S18 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-visual-delight-expertly-ranked-top-8k-televisions-reviewed/"><u>In 2024, Visual Delight Expertly Ranked Top 8K Televisions Reviewed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972064344-installing-the-latest-hp-laserjet-pro-m4-n-drivers-get-started/"><u>Installing the Latest HP LaserJet Pro M4지도력좋은 N Drivers - Get Started</u></a></li>
 </ul></div>
 

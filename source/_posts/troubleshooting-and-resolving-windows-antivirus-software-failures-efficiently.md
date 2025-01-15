@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Resolving Window's Antivirus Software Failures Efficiently
-date: 2025-01-05T18:52:36.102Z
-updated: 2025-01-09T20:47:00.987Z
+date: 2025-01-10T16:52:38.226Z
+updated: 2025-01-15T16:42:51.926Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Temporarily Disable or Delete Third-Party Antivirus Software](https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Repair the Corrupt System Files](https://visual-screen-recording.techidaily.com/updated-in-2024-the-zen-of-zoom-talk-top-strategies-for-smooth-virtual-dialogue/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To repair and reset the Windows Security app, go to Settings > Apps > Installed Apps > Advanced Options > Repair (or Reset).
@@ -31,7 +35,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Experiencing issues with the Windows Security app? Is it not opening, displaying a black screen, or showing an error like "Windows Security Center service is turned off?" These problems can stem from a faulty Windows update, infection, and corrupted files. Here are a few ways to fix it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Perform Some Preliminary Checks
@@ -46,10 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Opening the file location of a process from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-opening-the-file-location-of-a-process-in-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the process is associated with an unfamiliar app you don't recall installing, proceed to delete that app from your device. If you want to dig deeper, you can also search online for more information about the process and its authenticity.
 
 ##  2\. Repair and Reset the Windows Security App
@@ -61,7 +61,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Opening the installed apps settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-opening-the-installed-apps-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type "Windows Security" in the search field. If the Windows Security app doesn't appear in the search results, click "System Components" under "Related Settings."
@@ -85,7 +85,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Checking for the available updates in the Settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/checking-for-the-available-updates-in-settings-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows will then search for any available updates, download them, and proceed to install them.
@@ -93,14 +93,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows downloading and installing an update.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/windows-downloading-and-installing-an-update.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In some cases, you may need to restart your device to install updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Delete the Recently Installed Windows Update
 
@@ -109,7 +105,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Opening the update history from the settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-opening-the-update-history-from-the-settings-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here, open the recently installed updates, particularly the "Quality Updates" and "Driver Updates," and note their version or any other details you find. After that, search for more information about the update online, especially on the [Microsoft Community forum](https://answers.microsoft.com/en-us).
@@ -147,7 +143,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Changing the data value of a key in registry editor on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-changing-the-data-value-of-a-key-in-registry-editor-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Temporarily Disable or Delete Third-Party Antivirus Software
@@ -157,6 +157,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If it does, then your antivirus app is likely the cause of the problem. In that case, you can keep it disabled, as Windows Defender is a reliable built-in antivirus solution, and in most cases, there's no real need for additional third-party software.
 
  If you prefer using a third-party security suite for additional security, consider switching to a different antivirus program that doesn't interfere with the Windows Security app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Repair the Corrupt System Files
 
@@ -169,10 +173,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The scan will either identify and automatically fix the corrupt system files or provide guidance on repairing them manually. Follow the on-screen instructions carefully throughout the process.
 
 ![Sfc scan command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/sfc-scan-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the SFC scan fails to find and repair the corrupted system files or presents errors during the process, you can [run the DISM scan](https://some-guidance.techidaily.com/twirl-forge-instruments-for-2024/).
 
@@ -195,21 +195,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-the-best-17-image-editing-utilities/"><u>[New] Guide to the Best 17 Image Editing Utilities</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-crescent-casts-the-art-of-shaping-focal-points-with-light/"><u>[New] In 2024, Crescent Casts The Art of Shaping Focal Points with Light</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ingenious-ways-to-change-song-duration-in-spotify/"><u>[New] Ingenious Ways to Change Song Duration in Spotify</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unlock-video-communication-using-whatsapp-browser-on-your-notebook-pc/"><u>[New] Unlock Video Communication Using WhatsApp Browser on Your Notebook PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-disjointed-to-harmonious-the-logic-pro-x-transition-tale/"><u>2024 Approved From Disjointed to Harmonious The Logic Pro X Transition Tale</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beat-junkies-essentials-online-cost-free-software-for-2024/"><u>Beat Junkies' Essentials Online, Cost-Free Software for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhancing-link-quality-between-epson-devices/"><u>Enhancing Link Quality Between Epson Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-video-performance-vlc-versus-mx-for-2024/"><u>Evaluating Video Performance VLC Versus MX for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/explore-essential-accessibility-innovations-discover-the-best-of-whats-new-in-ios-18/"><u>Explore Essential Accessibility Innovations: Discover the Best of What's New in iOS 18!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-easily-fix-the-d3dx939dll-file-is-missing-problem-on-windows-systems/"><u>How to Easily Fix the d3dx9_39.dll File Is Missing Problem on Windows Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-video-tools-working-across-systems-seamlessly/"><u>In 2024, Free VIDEO Tools Working Across Systems Seamlessly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-boredom-to-chuckles-generating-funny-memes/"><u>In 2024, From Boredom to Chuckles Generating Funny Memes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-hot-30i-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Hot 30i Easily?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/initial-glimpse-at-vectors-classifying-and-choosing-right-tech-for-2024/"><u>Initial Glimpse at Vectors Classifying and Choosing Right Tech for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/physxloaderdll-error-troubleshooting-a-comprehensive-solution-for-file-unavailability/"><u>PhysXLoader.dll Error Troubleshooting: A Comprehensive Solution for File Unavailability</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-dvd-to-matroska-mkv-transformation-for-windows-users/"><u>Step-by-Step Tutorial: DVD to Matroska (MKV) Transformation for Windows Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-iphoneandroid-blur-application-guide/"><u>[New] Expert iPhone/Android Blur Application Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-black-vs-yi-4k-action-camera-which-is-better/"><u>[New] GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fresh-talent-and-stunts-in-skating-highlights/"><u>[Updated] Fresh Talent and Stunts in Skating Highlights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fundamentals-of-motion-design-and-practical-application/"><u>[Updated] Fundamentals of Motion Design & Practical Application</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-exposure-the-art-of-applying-youtube-tags/"><u>[Updated] Maximizing Exposure The Art of Applying YouTube Tags</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-basic-shapes-to-complex-realistic-3d-text-in-photos/"><u>2024 Approved From Basic Shapes to Complex, Realistic 3D Text in Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-heroic-duel-noir-knights-vs-aurora-guardians/"><u>2024 Approved Heroic Duel Noir Knights Vs Aurora Guardians</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-zooming-experience-with-microsoft-teams/"><u>2024 Approved Immersive Zooming Experience with Microsoft Teams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-role-of-competitive-intelligence-in-effective-market-research/"><u>2024 Approved The Role of Competitive Intelligence in Effective Market Research</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-photos-jpg-png-on-ios-to-pdf-the-easy-steps-for-2024/"><u>From Photos (JPG, PNG) on iOS to PDF The Easy Steps for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-calculating-best-podcast-debut-days/"><u>In 2024, Calculating Best Podcast Debut Days</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-stabilization-for-mirrorless-with-gimbals/"><u>In 2024, Optimal Stabilization for Mirrorless with Gimbals</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-zte-axon-40-lite-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For ZTE Axon 40 Lite Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-problems-with-the-microphone-on-your-logitech-g533-device/"><u>Resolving Problems with the Microphone on Your Logitech G533 Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/wipe-away-wacky-vids-sticker-removal-on-tiktok/"><u>Wipe Away Wacky Vids Sticker Removal on TikTok</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC"
-date: 2025-01-09T17:27:48.449Z
-updated: 2025-01-15T17:37:44.558Z
+date: 2025-01-15T19:42:53.299Z
+updated: 2025-01-21T16:38:47.542Z
 tags:
   - desktop
 categories:
@@ -11,19 +11,11 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
 ## Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Try a Keyboard Shortcut](https://instagram-clips.techidaily.com/the-key-to-viral-instagram-posts/)
 * [Force Quit Using Task Manager](https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-s24-pattern-lock-screen-by-drfone-android/)
 * [Force Quit an App Using Command Prompt](https://fox-links.techidaily.com/expertly-crafted-images-with-lut-techniques-in-photoshop-cs6-for-2024/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 * Run "tasklist" in Command Prompt find tasks, and then use "taskkill /im <program>.exe" to force quit the app.
 
  It’s not uncommon for an application to stop responding on Windows 10\. When it happens, you can force the app to shut down, effectively unfreezing said application. Here’s how to force quit an app on Windows 10.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Try a Keyboard Shortcut
 
@@ -46,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
  This won't always work—some frozen applications just won't respond.
 
 ![Press Alt+F4 to force close an app. If you press Alt+F4 while the desktop is selected, you'll see a 'Shut Down Windows' window appear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0-altf4-restart-okay-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Force Quit Using Task Manager
 
@@ -62,10 +54,14 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 ![Select the app you want to force quit, then click 'End Task.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-select-the-app-and-hit-end-task.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The frozen program will now close.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Force Quit an App Using Command Prompt
 
@@ -73,9 +69,17 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 
 ![Search 'cmd' in the Start Menu search, then launch Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-launch-command-prompt.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Command Prompt, type **tasklist** and press "Enter." Once executed, Command Prompt will display a list of currently running programs, services, and tasks.
 
 ![The tasklist command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-tasklist.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The list can admittedly be a bit overwhelming, so just remember to append .exe to the end of the program name. Once you’re ready to force quit the program, execute this command:
 
@@ -86,10 +90,6 @@ taskkill /im <program>.exe
 taskkill /im notepad.exe
 
 ![Ending the Notepad process with the taskkill command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-kill-notepad.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A success message will be returned, letting you know you’ve successfully force quit the problematic application.
 
@@ -112,22 +112,22 @@ taskkill /im notepad.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-chuckle-inducing-snaps-applying-the-cartoon-face-effect-on-snapchat/"><u>[Updated] Chuckle-Inducing Snaps Applying the Cartoon Face Effect on Snapchat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-recommendations-10-high-end-podcast-mics/"><u>[Updated] Expert Recommendations 10 High-End Podcast Mics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopros-best-underwater-enhancement-filters/"><u>[Updated] GoPro's Best Underwater Enhancement Filters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-make-brands-see-you-as-a-valuable-youtube-sponsorship-candidate/"><u>[Updated] How to Make Brands See You as a Valuable Youtube Sponsorship Candidate</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-10-best-classic-family-vacation-movie-for-this-summer/"><u>2024 Approved 10 Best Classic Family Vacation Movie for This Summer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-gospel-music-how-to-download-and-modify-your-ringtone/"><u>2024 Approved Exploring Gospel Music How to Download & Modify Your Ringtone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-strategies-to-improve-seamless-broadcasts-in-obs/"><u>2024 Approved Strategies to Improve Seamless Broadcasts in OBS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/adding-movies-to-your-playlist-an-intuitive-process-for-youtube-users/"><u>Adding Movies to Your Playlist An Intuitive Process for YouTube Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-your-hands-on-apples-new-macbook-air-with-m2-chip-for-a-steal-at-800-on-amazon-beating-the-prime-day-rush/"><u>Get Your Hands on Apple's New MacBook Air with M2 Chip for a Steal at $800 on Amazon – Beating the Prime Day Rush!</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-unlock-windows-after-failed-sign-in/"><u>How to Unlock Windows After Failed Sign-In</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hiring-guide-locating-excellent-film-capturers/"><u>In 2024, Hiring Guide Locating Excellent Film Capturers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-snip-save-and-share-high-quality-tamil-ringtones-easily/"><u>In 2024, How to Snip, Save and Share High-Quality Tamil Ringtones Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instantaneous-installation-laugh-with-ifunny-memes-easily/"><u>In 2024, Instantaneous Installation Laugh with iFunny Memes Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovating-temporal-displacement-effects-for-2024/"><u>Innovating Temporal Displacement Effects for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/introduction-to-professional-audio-recording-a-mac-and-audacity-approach-for-2024/"><u>Introduction to Professional Audio Recording A Mac & Audacity Approach for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-bluetooth-missing-from-windows-device-manager/"><u>Resolving the Issue: Bluetooth Missing From Windows Device Manager</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-gt-neo-5-se-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme GT Neo 5 SE to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-easy-way-to-mix-and-match-youtube-playlist-order/"><u>[New] 2024 Approved The Easy Way to Mix and Match YouTube Playlist Order</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmony-in-hues-and-beats-the-top-5-pioneering-professionals-in-visuals-and-audio/"><u>[New] Harmony in Hues and Beats The Top 5 Pioneering Professionals in Visuals & Audio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infuse-sound-with-microsoft-powerpoint-decks/"><u>[New] Infuse Sound with Microsoft PowerPoint Decks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-best-way-to-stitch-gopro-clips-into-360-videos/"><u>[Updated] Best Way to Stitch GoPro Clips Into 360 Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategy-seamlessly-integrating-subtitles-in-videos/"><u>[Updated] Expert Strategy Seamlessly Integrating Subtitles in Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-zero-to-hero-in-instagram-world-top-9-pathways-unveiled/"><u>[Updated] From Zero to Hero in Instagram World Top 9 Pathways Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-potential-how-to-excel-on-spotify-ads/"><u>[Updated] Harnessing Potential How to Excel on Spotify Ads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-apps-to-transform-vtuber-speech-patterns/"><u>[Updated] Ideal Apps to Transform Vtuber Speech Patterns</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-initial-cinematographers-work-scrutiny-and-replacement-ideas/"><u>2024 Approved Initial Cinematographer's Work Scrutiny & Replacement Ideas</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mellowing-sound-piece-by-piece-in-fl/"><u>2024 Approved Mellowing Sound Piece-by-Piece in FL</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-ways-to-adjust-speed-on-snapchat-videos-and-the-best-alternative/"><u>Best Ways to Adjust Speed on Snapchat Videos (And the Best Alternative</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-quantum-hdrs-impact-on-photography-for-2024/"><u>Exploring Quantum HDR's Impact on Photography for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-amplify-online-impact-through-savvy-templates-design/"><u>In 2024, Amplify Online Impact Through Savvy Templates Design</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-expert-tips-harnessing-full-capabilities-of-aiseesoft-screen-tech/"><u>In 2024, Expert Tips Harnessing Full Capabilities of Aiseesoft Screen Tech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-incorporating-keywords-for-seo/"><u>In 2024, Incorporating Keywords for SEO</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959876378-localized-tumors-may-be-cured-with-surgical-resection-while-advanced-cases-require-systemic-therapy-or-palliative-care/"><u>Localized Tumors May Be Cured with Surgical Resection, While Advanced Cases Require Systemic Therapy or Palliative Care</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-techniques-for-overcoming-this-application-failed-to-start-messages/"><u>Troubleshooting Techniques for Overcoming 'This Application Failed to Start' Messages</u></a></li>
 </ul></div>
 

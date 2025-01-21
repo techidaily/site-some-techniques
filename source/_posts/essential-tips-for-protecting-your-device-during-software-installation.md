@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Protecting Your Device During Software Installation
-date: 2025-01-10T16:35:09.345Z
-updated: 2025-01-15T17:27:02.884Z
+date: 2025-01-20T21:49:50.783Z
+updated: 2025-01-21T19:46:46.103Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Essential Tips for Protecting Your Device During Software Installation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -26,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The malicious search ads are just one way hackers can trick you into installing maclicious software, on top of all the other classic methods: fake emails, ads on other web content, social media, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Don't Download from Mirror Sites
 
  There are many sites that host copies of popular free software, which were especially popular in the 1990s and early 2000s. They were helpful in the era before search engines became more prevelant, but many of them used custom installers for software that would load up your PC with extra junk. Back in 2015, [we tried downloading the top 10 apps from Download.com](https://extra-approaches.techidaily.com/2024-approved-pinnacle-playwriting-sanctuary/), which installed conflicting malware/virus protection software and browser redirects.
@@ -37,7 +29,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Some popular download sites have cleaned up their act since then, while others have shut down entirely, but it's still not a good idea to download software from anywhere other than the original source or an approved mirror. For example, if you want VLC Media Player, you should be downloading directly from [VideoLAN.org](https://www.videolan.org/) or the project's own listings on the [Google Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://play.google.com/store/apps/details?id=org.videolan.vlc), [Apple App Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://itunes.apple.com/app/apple-store/id650377962), or other official sources linked from that website.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Avoid Search Engine Ads
@@ -47,10 +39,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Screenshot of a Google search for "Chevy", with a sponsored link for Ford at the top, followed by another sponsored link for Chevrolet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-4-52-47-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Google, Bing, and other search engines are not great at validating these links, so sponsored/ad links for software could lead you to malware. It's safer to scroll past them and check the top non-sponsored results for a given search query.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check App Stores
 
@@ -61,12 +57,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![A screenshot of the Mac App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-5-08-00-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are definitely apps in both stores that can be regarded as spam or not useful, but actual malware is exceedingly rare. The Microsoft Store has [occasional problems with sketchy software](https://screen-recording.techidaily.com/quick-tips-for-iphones-screen-recording-for-2024/), but they are removed when issues are discovered, and it has definitely been cleaned up over the past few years. Most big app developers ignored the Store for its first few years of existence, but now there are official listings for [Adobe Photoshop](https://apps.microsoft.com/detail/XPFD4T9N395QN6), [iTunes](https://apps.microsoft.com/detail/9PB2MZ1ZMB1S), [TikTok](https://apps.microsoft.com/detail/9NH2GPH4JZS4), [VLC Media Player](https://apps.microsoft.com/detail/XPDM1ZW6815MQM), [Mozilla Firefox](https://apps.microsoft.com/detail/9NZVDKPMR9RD), and more.
 
  Most desktop Linux distributions have integrated software repositories and package managers that effectively act like app stores, and there are third-party software repositories for many platforms . [Homebrew](https://brew.sh/) is a popular software repository for macOS, primarily aimed at command-line tools and developer utilities, and [Chocolatey](https://chocolatey.org/) is a similar alternative for Windows. However, you have to trust that malware isn't sneaking into those repositories.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Scan Your Downloads with VirusTotal
 
@@ -91,21 +91,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-icebound-duelists-celebrating-the-best-of-winter-olympics-snowboard-x/"><u>[New] Icebound Duelists Celebrating the Best of Winter Olympics Snowboard X</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-prime-videobg-selections-enhancing-remote-collaboration/"><u>[New] Prime Videobg Selections Enhancing Remote Collaboration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-everything-you-need-to-know-about-3d-lut-creator/"><u>[Updated] Everything You Need to Know About 3D LUT Creator</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-mobiles-for-cutting-and-enhancing-dji-media/"><u>[Updated] Ultimate Mobiles for Cutting & Enhancing DJi Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-face-to-face-conferencing-woes-9-fixes-for-clear-video-chats/"><u>2024 Approved Face-to-Face Conferencing Woes? 9 Fixes for Clear Video Chats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-focus-on-the-essentials-mastering-close-up-in-videoleap-videos/"><u>2024 Approved Focus on the Essentials Mastering Close-Up in Videoleap Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gifs-and-graphics-iphone-laughter/"><u>2024 Approved GIFs & Graphics IPhone Laughter</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-improving-zoom-picture-quality-quick-solutions/"><u>2024 Approved Improving Zoom Picture Quality Quick Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-navigating-10-essential-stages-for-proficient-smm-expertise/"><u>2024 Approved Navigating 10 Essential Stages for Proficient SMM Expertise</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation/"><u>2024 Approved The Ultimate Action Plan From TTML & XML to SRT Translation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-plate-to-screen-perfecting-the-art-of-food-cinema-for-2024/"><u>From Plate to Screen Perfecting the Art of Food Cinema for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y100-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y100 Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-meizufrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your MeizuFRP Lock</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-cell-references-seamlessly-linking-data-across-excel-workbooks/"><u>Mastering Cell References: Seamlessly Linking Data Across Excel Workbooks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/stay-connected-anywhere-with-the-tp-link-tl-wr902ac-pocketable-travel-router/"><u>Stay Connected Anywhere with the TP-Link TL-WR902AC Pocketable Travel Router</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-spark-20c-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Spark 20C Screen | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grasping-the-balance-positives-and-negatives-of-vr/"><u>[New] Grasping the Balance Positives and Negatives of VR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immediate-image-revamp-the-six-top-iphone-object-removal-apps/"><u>[New] Immediate Image Revamp The Six Top iPhone Object-Removal Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovations-in-motion-capture-for-enhanced-ux/"><u>[New] Innovations in Motion Capture for Enhanced UX</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcasting-made-simple-easy-steps-to-capture-live-streams/"><u>[New] Podcasting Made Simple Easy Steps to Capture Live Streams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-the-world-of-ustream-plus-alternatives/"><u>[Updated] Inside the World of Ustream, Plus Alternatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experience-nba-like-a-pro-master-these-top-15-livestream-methods/"><u>2024 Approved Experience NBA Like a Pro - Master These Top 15 Livestream Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-strategies-in-post-processing-colors/"><u>2024 Approved Expert Strategies in Post-Processing Colors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foundations-in-creating-animated-imagery/"><u>2024 Approved Foundations in Creating Animated Imagery</u></a></li>
+<li><a href="https://win11.techidaily.com/amplify-creativity-best-writing-software-for-windows/"><u>Amplify Creativity: Best Writing Software For Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/conveying-where-you-are-via-facebook-messenger/"><u>Conveying Where You Are via Facebook Messenger</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/farewell-to-errors-a-step-by-step-fix-for-cyberpunk-2077-downloads-via-steam/"><u>Farewell to Errors: A Step-by-Step Fix for Cyberpunk 2077 Downloads via Steam</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/get-acquainted-a-quick-guide-to-windows-11-basics-for-2024/"><u>Get Acquainted A Quick Guide to Windows 11 Basics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-10-video-subtitling-services-online/"><u>In 2024, Foremost 10 Video Subtitling Services Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-game-changing-homes-in-blocktown/"><u>In 2024, Game Changing Homes in Blocktown</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-itel-p55t-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Itel P55T Phone Screen?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-navigating-the-world-of-sound-symbols-on-instagram-platform/"><u>In 2024, Navigating the World of Sound Symbols on Instagram Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-techniques-for-your-windows-11-walls-for-2024/"><u>Innovative Techniques for Your Windows 11 Walls for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-computer-gear-with-toms-hardware-wisdom/"><u>Navigate Through Computer Gear with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-checklist-for-saving-and-recovering-notes/"><u>The Ultimate Checklist for Saving and Recovering Notes</u></a></li>
 </ul></div>
 

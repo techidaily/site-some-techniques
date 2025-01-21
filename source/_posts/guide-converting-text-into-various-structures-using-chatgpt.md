@@ -1,7 +1,7 @@
 ---
 title: "Guide: Converting Text Into Various Structures Using ChatGPT"
-date: 2025-01-13T16:38:07.974Z
-updated: 2025-01-15T16:22:52.541Z
+date: 2025-01-14T16:56:57.610Z
+updated: 2025-01-21T20:49:02.174Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 ## Guide: Converting Text Into Various Structures Using ChatGPT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 * [What to Watch Out For](https://youtube-zero.techidaily.com/024-approved-navigating-through-youtubes-metrics-a-ranking-analysis/)
 
  While most people think of ChatGPT as a way to generate new text, one of its most powerful abilities is to transform existing text into another format. Whether this is text that you have written, or text from another source.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Getting Your Text Into ChatGPT
 
@@ -90,6 +86,10 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 
  The resulting output should be a reader-friendly article that conveys the essence of the technical document in simpler terms. Remember that you can prompt ChatGPT to write text at a particular level, such as a specific grade level in school.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Example 3: Turning a Short Story Into a Movie Script
 
  With ChatGPT, you can even turn a short story into a movie script. Input your short story and prompt the model like so:
@@ -103,7 +103,7 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 ![ChatGPT Emperor's New Suit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/8.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don't forget that you can be very specific in your prompt, asking ChatGPT to alter the tone or transform the story somehow. You can also specify what sort of script format you want. For example, a spec script or a shooting script.
@@ -111,13 +111,13 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 ![ChatGPT Emperor's New Suit Script](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/9-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While ChatGPT is unlikely to produce something of final usable quality right off the bat, it's much easier to edit a script than format and write one from scratch. It's a great way to extract the parts of the story relevant to the script, such as separating dialogue from inner thoughts, or descriptions of locations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What to Watch Out For
@@ -145,22 +145,19 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-guide-to-kinemasters-android-gameplay-for-2024/"><u>[New] The Ultimate Guide to KineMaster's Android Gameplay for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-chromebook-webcam-usage-recording-made-easy/"><u>[Updated] 2024 Approved Chromebook Webcam Usage Recording Made Easy</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-examining-storage-space-for-bulk-movie-files-64128gb/"><u>[Updated] Examining Storage Space for Bulk Movie Files, 64/128Gb</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-ultimate-gear-for-youtube-content-makers/"><u>[Updated] Ultimate Gear for YouTube Content Makers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-selection-of-8-online-sites-featuring-golden-text-in-3d/"><u>2024 Approved Exclusive Selection of 8 Online Sites Featuring Golden Text in 3D</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-guide-to-enhancing-video-controls-and-performance/"><u>2024 Approved Expert Guide to Enhancing Video Controls and Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-meme-makers-the-ultimate-resource-guide/"><u>2024 Approved Free Meme Makers – The Ultimate Resource Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglegrid-create-social-media-laughs-in-seconds/"><u>2024 Approved GiggleGrid Create Social Media Laughs in Seconds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-techniques-in-picking-the-best-fpv-drone-propellers/"><u>2024 Approved Innovative Techniques in Picking the Best FPV Drone Propellers</u></a></li>
-<li><a href="https://facebook.techidaily.com/enhanced-interoperability-integrating-fb-content-to-leading-apps/"><u>Enhanced Interoperability: Integrating Fb Content to Leading Apps!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellent-cameras-facing-panel-first-choice-for-2024/"><u>Excellent Cameras Facing Panel First Choice for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-breakdown-of-adobe-cloud-plus-alternative-methods-for-2024/"><u>Expert Breakdown of Adobe Cloud, Plus Alternative Methods for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-peak-tv-service-providers-comparative-insights-for-2024/"><u>Explore the Peak TV Service Providers Comparative Insights for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-realme-12-proplus-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Realme 12 Pro+ 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/mac-dvd-mojave/"><u>Mac 環境における DVD 再生課題：Mojave以上へ対応した対策とテクニック</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976925974-newest-hp-scanjet-driver-updates-for-improved-performance-on-windows-11-7-and-nw/"><u>Newest HP Scanjet Driver Updates for Improved Performance on Windows 11, 7 & Nw!</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-automate-playlist-retrieval-from-youtube-directly/"><u>[New] 2024 Approved Automate Playlist Retrieval From YouTube Directly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-extra-storage-for-sony-a7s-ii/"><u>[New] Excellent Extra Storage for Sony A7S II</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-volume-dial-down-with-fl-studio-features/"><u>[New] Harmonizing Volume Dial-Down with FL Studio Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bypassing-buffer-blocks-in-photo-booth-videos/"><u>[Updated] Bypassing Buffer Blocks in Photo Booth Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-film-makers-guide-to-selecting-between-hero-and-cube-videos/"><u>[Updated] Film Maker's Guide to Selecting Between Hero and Cube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-image-mastery-through-top-rated-grid-makers/"><u>[Updated] Image Mastery Through Top-Rated Grid Makers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-best-hash-tracking-apps-a-comprehensive-review-fbtwitterinsta/"><u>[Updated] The Best Hash Tracking Apps A Comprehensive Review (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-best-introduction-editors-apps/"><u>[Updated] Top 10 Best Introduction Editors (Apps)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-selections-best-mac-applications-for-videography/"><u>[Updated] Top Selections Best Mac Applications for Videography</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-musical-pieces-with-cross-sound-techniques-for-2024/"><u>Harmonizing Musical Pieces with Cross-Sound Techniques for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-14-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi 14 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-v-purse-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor V Purse</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screen-recorder-apps-for-iphoneipad-users/"><u>Screen Recorder Apps for iPhone/iPad Users</u></a></li>
 </ul></div>
 

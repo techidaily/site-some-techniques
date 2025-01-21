@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset"
-date: 2025-01-11T16:25:23.575Z
-updated: 2025-01-15T16:53:38.574Z
+date: 2025-01-19T17:09:02.107Z
+updated: 2025-01-21T16:31:47.169Z
 tags:
   - desktop
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 * [How to Reset the SMC on an Intel Mac with a T2 Security Chip](https://techidaily.com/undelete-lost-messages-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-messages/)
 * [How to Reset the SMC on Older Intel Macs](https://youtube-data.techidaily.com/ed-profit-making-techniques-for-beauty-vloggers/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The SMC manages hardware functions like power, charging, and fans even when the Mac is off.
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  If you're experiencing weird Mac behavior, like a computer that's not responding properly when you press the power button or open the lid or the backlight is playing up, one solution is to reset the system management controller or SMC. It sounds technical, but it actually isn't. Let's take a closer look.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is an SMC, and What Does It Do?
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  Click the Apple menu in the top left corner of your screen, then either select "Restart," or choose "Shut Down" and hit the power button once it is done. The Apple Silicon equivalent of an SMC reset will happen automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Reset the SMC on an Intel Mac with a T2 Security Chip
 
  On Intel MacBooks with the T2 chip, which means most models from 2018 or later, Apple recommends an extra step before resetting the SMC. Shut down your Mac and press and hold the power button for 10 seconds. Wait a few extra seconds and then turn your Mac back on to see if the problem has been fixed.
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 ![The key combination to reset the SMC on a MacBook with the T2 chip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-a-macbook-with-the-t2-chip.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -73,7 +73,7 @@ Hannah Stryker / How-To Geek
  On desktop Macs with the T2 chip, it's far simpler. Just shut the Mac down and unplug the power cord. After 15 seconds, plug the power cord back in, wait another five seconds, and then power on your Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Reset the SMC on Older Intel Macs
@@ -83,7 +83,7 @@ Hannah Stryker / How-To Geek
 ![The key combination to reset the SMC on an older Intel MacBook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-an-older-intel-macbook.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -118,19 +118,22 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-guidelines-for-selecting-an-engaging-movie-trailer-song/"><u>[New] Guidelines for Selecting an Engaging Movie Trailer Song</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-much-does-pewdiepie-make/"><u>[New] How Much Does PewDiePie Make</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-masterclass-in-business-creating-an-enterprise-instagram-profile/"><u>[New] In 2024, Masterclass in Business Creating an Enterprise Instagram Profile</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-top-25-instagram-hashtags-to-get-likes-and-followers-for-2024/"><u>[New] Top 25 Instagram Hashtags to Get Likes and Followers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluation-of-viewing-seconds-in-a-20mb-videography/"><u>[Updated] Evaluation of Viewing Seconds in a 20MB Videography</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-picture-a-review-of-dji-inspire-2/"><u>2024 Approved Full Picture A Review of DJI Inspire 2</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-quality-speech-to-text-solutions/"><u>2024 Approved High-Quality Speech-to-Text Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/dominion-of-thought-metas-global-ai-titan-emerges/"><u>Dominion of Thought: Meta's Global AI Titan Emerges</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-error-0x8024402c-solved/"><u>How to Fix Windows Update Error 0X8024402c [Solved]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exquisite-series-for-animating-fonts/"><u>In 2024, Exquisite Series for Animating Fonts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-s18-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo S18 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-visual-delight-expertly-ranked-top-8k-televisions-reviewed/"><u>In 2024, Visual Delight Expertly Ranked Top 8K Televisions Reviewed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972064344-installing-the-latest-hp-laserjet-pro-m4-n-drivers-get-started/"><u>Installing the Latest HP LaserJet Pro M4지도력좋은 N Drivers - Get Started</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-restful-reelings-audiovisual-storytelling/"><u>[New] In 2024, Restful Reelings Audiovisual Storytelling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-incorporate-your-podcast-into-app-store/"><u>[Updated] How To Incorporate Your Podcast Into App Store</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-curated-webcams-for-ultimate-zoom-video-conferencing/"><u>2024 Approved Expertly Curated Webcams for Ultimate Zoom Video Conferencing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-on-latest-windows-10-gaming-and-application-hits/"><u>2024 Approved Game On Latest Windows 10 Gaming & Application Hits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grid-gurus-find-the-ultimate-photo-organizing-apps/"><u>2024 Approved Grid Gurus Find the Ultimate Photo Organizing Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photoshop-basics-for-beginners-10-must-know-tricks/"><u>2024 Approved Photoshop Basics for Beginners 10 Must-Know Tricks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unmasking-the-significance-of-snapchat-emojis/"><u>2024 Approved Unmasking the Significance of Snapchat Emojis</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v29-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V29 Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/galaxy-visionhub-premium-integrated-4k-all-in-one-panels/"><u>Galaxy VisionHub Premium Integrated 4K All-in-One Panels</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-with-polaroid-camplus-ultimate-action-footage/"><u>In 2024, Exploring with Polaroid Cam+ Ultimate Action Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-20-anime-music-opener-list/"><u>In 2024, Foremost 20 Anime Music Opener List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-pro-to-max-the-evolutionary-journey-in-apples-m-chips/"><u>In 2024, From Pro to Max The Evolutionary Journey in Apple's M Chips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-identifying-10-leading-vr-devices-for-your-pc/"><u>In 2024, Identifying 10 Leading VR Devices for Your PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-master-the-art-of-instagram-looped-footage/"><u>In 2024, Master the Art of Instagram Looped Footage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-system-no-more-easy-steps-to-revive-sound-on-your-device/"><u>Silent System, No More! Easy Steps to Revive Sound on Your Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/supreme-mac-video-encoder-for-2024/"><u>Supreme Mac Video Encoder for 2024</u></a></li>
 </ul></div>
 

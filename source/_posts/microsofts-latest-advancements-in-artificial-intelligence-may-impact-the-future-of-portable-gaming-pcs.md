@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2025-01-11T17:18:55.250Z
-updated: 2025-01-15T17:34:26.783Z
+date: 2025-01-16T17:36:43.117Z
+updated: 2025-01-21T18:50:54.320Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
@@ -38,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _AMD_
@@ -62,7 +58,7 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
@@ -74,7 +70,7 @@ _AMD_
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Intel
@@ -92,6 +88,10 @@ Intel
  The thing that’s interesting to me is Qualcomm’s focus on gaming, with the company [claiming](https://www.theverge.com/24107331/qualcomm-gdc-2024-snapdragon-on-windows-games) at this year’s Game Developers Conference that many games “should just work” on devices equipped with the Snapdragon X Elite SoC. This is great news that shows Qualcomm is serious about the gaming prowess of the upcoming ARM-based Windows laptops. Qualcomm has also shown its reference design laptops [running](https://www.pcworld.com/article/2284554/qualcomm-says-snapdragon-x-elite-kicks-intel-core-ultras-butt-too.html)[_Control_](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers)[and _Baldur’s Gate 3_](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers) at playable frame rates, another proof that they are taking this seriously.
 
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Qualcomm 
 
@@ -124,20 +124,20 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-visual-stories-insights-into-the-vida-app/"><u>[New] Crafting Visual Stories Insights Into the Vida App</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-enhance-video-impact-two-tiktok-techniques-for-2024/"><u>[New] Enhance Video Impact Two TikTok Techniques for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-does-rapid-subscription-improve-video-watching/"><u>[New] In 2024, Does Rapid Subscription Improve Video Watching?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-make-your-own-meme/"><u>[New] Make Your Own Meme</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-quick-route-to-true-profile-ages-on-tiktok/"><u>[Updated] In 2024, The Quick Route to True Profile Ages on TikTok</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-beginners-guide-to-pioneering-minecraft-recordings-on-mac-for-2024/"><u>[Updated] The Beginner's Guide to Pioneering Minecraft Recordings on Mac for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-perfect-green-screen-cinematography/"><u>2024 Approved Expert Techniques for Perfect Green-Screen Cinematography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-premium-free-lut-options-a-guide-to-quality-tools/"><u>2024 Approved Exploring Premium-Free LUT Options A Guide to Quality Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-technological-splendor-m1-pro-vs-m1-max/"><u>2024 Approved Exploring the Technological Splendor M1 Pro Vs. M1 Max</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-feast-filming-101-essential-food-videography-skills/"><u>2024 Approved Feast Filming 101 Essential Food Videography Skills</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-film-timeframe-determining-gb-storage-requirement/"><u>2024 Approved Film Timeframe Determining GB Storage Requirement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-pinnacle-of-photography-frames-for-2024/"><u>Explore the Pinnacle of Photography Frames for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-perfect-drivers-for-your-logitech-momo-steering-wheel-on-a-pc/"><u>Find and Install the Perfect Drivers for Your Logitech Momo Steering Wheel on a PC!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-11-pro-max-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 11 Pro Max? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-poco-x5-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Poco X5</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-music-migration-from-one-service-to-another/"><u>[New] Harmonizing Music Migration From One Service to Another</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-implementing-video-timelines-on-youtube/"><u>[New] Implementing Video Timelines on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/uick-captioning-method-for-enhanced-youtube-video-quality-for-2024/"><u>[New] Quick Captioning Method for Enhanced YouTube Video Quality for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-superior-workplace-data-cloud-hubs/"><u>[New] Superior Workplace Data Cloud Hubs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-background-video-to-enrich-primary-scenes/"><u>[Updated] Harnessing Background Video to Enrich Primary Scenes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-search-of-greatness-top-15-timeless-stop-motion-films/"><u>2024 Approved In Search of Greatness Top 15 Timeless Stop Motion Films</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-virtual-broadcast-archivers/"><u>2024 Approved Virtual Broadcast Archivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-apple-watch-savings-for-july-2e-unmissable-deals-curated-from-zdnet/"><u>Best Apple Watch Savings for July 2E: Unmissable Deals Curated From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fast-cash-on-reddit-check-out-these-top-13-skillless-strategies-for-2024/"><u>Fast Cash on Reddit? Check Out These Top 13 Skillless Strategies for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-pngjpg-movavi/"><u>Google에서 찾기 쉬운 오픈 소스 PNG/JPG 변환 도구 - Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-audio-enhancement-toolkit/"><u>In 2024, Expert Audio Enhancement Toolkit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-audit-unveiling-the-dji-inspire-1-drone/"><u>In 2024, Extensive Audit Unveiling the DJI Inspire 1 Drone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-optimal-obs-configuration-for-budget-pcs/"><u>In 2024, Optimal OBS Configuration for Budget PCs</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/is-it-safe-to-alter-your-computers-registry-settings-a-guide-by-yl-software-experts/"><u>Is It Safe to Alter Your Computer's Registry Settings? A Guide by YL Software Experts</u></a></li>
 </ul></div>
 

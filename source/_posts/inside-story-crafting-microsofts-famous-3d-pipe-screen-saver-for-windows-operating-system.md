@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2025-01-11T16:27:49.300Z
-updated: 2025-01-15T16:23:55.036Z
+date: 2025-01-19T21:23:03.830Z
+updated: 2025-01-21T18:35:49.704Z
 tags:
   - deals
 categories:
@@ -40,22 +40,26 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-decoding-the-mystery-of-youtube-shorts/"><u>[New] Decoding the Mystery of YouTube Shorts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonious-hush-managing-music-on-pc-mac/"><u>[New] Harmonious Hush Managing Music on PC, Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-precision-in-practice-tailoring-ps4-recordings-to-suit-your-style-for-2024/"><u>[Updated] Precision in Practice Tailoring PS4 Recordings to Suit Your Style for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-new-frontier-of-android-gaming-with-kinemaster/"><u>2024 Approved Exploring the New Frontier of Android Gaming with KineMaster</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-do-live-streaming-with-periscope/"><u>2024 Approved How to Do Live Streaming with Periscope</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-upgrades-in-apples-airpods-4-comprehensive-guide-to-distinguish-between-models/"><u>Exploring The Upgrades in Apple's AirPods 4: Comprehensive Guide to Distinguish Between Models</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-5-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 5 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-details-on-creating-effective-yt-shorts/"><u>In 2024, Essential Details on Creating Effective YT Shorts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-formulating-a-thrilling-film-outtakes-package/"><u>In 2024, Formulating a Thrilling Film Outtakes Package</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Phones with/without a PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ice-acceleration-showdown-at-the-olympics-2022/"><u>In 2024, Ice Acceleration Showdown at the Olympics, 2022</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-insight-the-ultimate-guide-to-choosing-a-stunning-4k-screen/"><u>In 2024, Illuminating Insight The Ultimate Guide to Choosing a Stunning 4K Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-expense-of-youtube-channel-growth/"><u>[New] Exploring the Expense of YouTube Channel Growth</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-discord-message-pinning-essentials/"><u>[New] Mastering Discord Message Pinning Essentials</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-chromebook-audio-revamp-guide-selecting-the-leading-speech-converters-online/"><u>[Updated] 2024 Approved Chromebook Audio Revamp Guide Selecting the Leading Speech Converters Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-deciding-on-the-best-videography-camera-type-dslr-or-mirrorless/"><u>[Updated] 2024 Approved Deciding on the Best Videography Camera Type DSLR or Mirrorless?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-phones-apps-for-masterful-gopro-edits/"><u>[Updated] Excellent Phones' Apps for Masterful GoPro Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expanding-creative-horizons-in-obs-studio-using-luts/"><u>[Updated] Expanding Creative Horizons in OBS Studio Using LUTs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-10-best-photo-layering-and-editing-apps-iosandroid/"><u>2024 Approved Explore Top 10 Best Photo Layering & Editing Apps iOS/Android</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-the-oneplus-8t-impressive-speed-overshadowed-by-patchy-photography/"><u>Analyzing the OnePlus 8T: Impressive Speed Overshadowed by Patchy Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-recommended-filmmaking-equipment-roundup-for-2024/"><u>Expert-Recommended Filmmaking Equipment Roundup for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/facial-lockout-a-deep-dive-into-iphones-face-id-vs-galaxys-recognition-for-2024/"><u>Facial Lockout A Deep Dive Into iPhone's Face ID Vs. Galaxy’s Recognition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fixing-the-facial-flaws-in-iphone-xs-security-feature-for-2024/"><u>Fixing the Facial Flaws in iPhone X's Security Feature for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/frame-your-life-with-iphones-top-10-photo-rules/"><u>Frame Your Life with iPhone's Top 10 Photo Rules</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-versions-unveiled-an-analytical-review-for-2024/"><u>Gopro Versions Unveiled An Analytical Review for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-honor-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Honor on Mac?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-f14-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy F14 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-movie-magic-made-simple-a-step-by-step-guide/"><u>New Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/445261-9780974470658-the-yamas-amp-niyamas/"><u>The Yamas &amp; Niyamas | Free Book</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

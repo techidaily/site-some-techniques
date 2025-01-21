@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips"
-date: 2025-01-13T17:04:28.276Z
-updated: 2025-01-15T17:36:12.318Z
+date: 2025-01-16T21:49:52.566Z
+updated: 2025-01-21T20:01:38.776Z
 tags:
   - desktop
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 * [M4 on MacBooks? It Might Happen Soon](https://games-able.techidaily.com/compact-your-collection-smart-iso-size-cutting-via-chdman-method/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
  Apple's M4 system-on-chip is the first M chip to launch outside of a MacBook, debuting in the 2024 iPad Pro. So how does it compare to its replacement, the M3?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Introducing Apple M4 Silicon
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
  On the surface, the M4 is the fourth iteration of Apple's M-branded system-on-a-chip (SoC) that houses a nine or 10-core CPU, a 10-core GPU, and a 16-core Neural Engine. Currently, it is only available in two configurations (where one variant has more processing cores than the other) [on the 2024 iPad Pro](https://some-guidance.techidaily.com/new-transform-your-note-habits-with-mematics-tools/). However, Apple could soon add more variants to the M4 lineup.
 
 ![Apple's M4 Silicon mascot on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-chip-announced-with-2024-ipad-pro.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -57,10 +61,6 @@ Apple
  The new Apple M4 Silicon comes in two variants: one with a nine-core CPU with three performance and four efficiency cores, and another with a 10-core CPU with one additional performance core. Compared to the M4, [the M3 only ships with eight cores](https://screen-sharing-recording.techidaily.com/updated-obs-clash-livestream-prodigies-for-2024/), half of which tackle performance, while the other half looks after lighter tasks.
 
 ![Apple M4 Silicon's representative image highlighting the number of performance and efficiency cores.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-s-m4-chip-gets-more-efficiency-cores.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Apple
 
@@ -87,7 +87,7 @@ Apple
 ![Image of the Apple M4 Silicon's 16-core Neural Engine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-silicon-s-16-core-neural-engine.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
@@ -103,7 +103,7 @@ Apple
 ![Screenshot of Apple M2 Silicon's features and specifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m2-chip-on-the-new-ipad-air.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
@@ -143,15 +143,24 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-androids-elite-10-gb-games-simulators/"><u>[New] Android's Elite 10 GB Games Simulators</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-heroic-showdown-gopro-writes-new-footage-rule-with-hero5-and-hero4/"><u>[New] HEROic Showdown GoPro' Writes New Footage Rule with Hero5 and Hero4</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-macos-converters-top-5-picklist/"><u>[Updated] Excellent macOS Converters Top 5 Picklist</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-key-approaches-to-convert-youtube-videos-to-mp4/"><u>[Updated] Key Approaches to Convert YouTube Videos to MP4</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funnyframefactory-imggigglesworkshop-for-2024/"><u>FunnyFrameFactory ImgGigglesWorkshop for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-the-potential-of-chatgpt-developing-interactive-narratives-for-text-based-rpg-enthusiasts/"><u>Harnessing the Potential of ChatGPT: Developing Interactive Narratives for Text-Based RPG Enthusiasts.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exemplar-storyboard-creators-circle/"><u>In 2024, Exemplar Storyboard Creator's Circle</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-start-kit-top-gopro-supplementary-gear/"><u>In 2024, Ideal Start Kit Top GoPro Supplementary Gear</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-of-eternal-return-the-resilience-saga-continues/"><u>Unraveling the Mystery of 'Eternal Return': The Resilience Saga Continues</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/1728490455801-onedrive/"><u>シンプルな手順：OneDriveをファイルエクスプローラに統合し、効率的なバックアップ</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-obtain-exclusive-free-media-from-elite-4-youtube-clips/"><u>[New] In 2024, Obtain Exclusive Free Media From Elite 4 YouTube Clips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ailoring-a-unique-identity-a-roadmap-to-more-youtube-followers/"><u>[New] Tailoring a Unique Identity A Roadmap to More YouTube Followers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funimate-masterclass-gameplay-enhancement/"><u>[Updated] Funimate Masterclass Gameplay Enhancement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-create-an-nft-easily-an-ultimate-guide-for-beginners/"><u>[Updated] How to Create an NFT Easily An Ultimate Guide for Beginners</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-identifying-the-optimal-cloud-data-vaults/"><u>[Updated] Identifying the Optimal Cloud Data Vaults</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-secrets-of-phantoms-time-reversal-mode/"><u>[Updated] The Ultimate Secrets of Phantom's Time Reversal Mode</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-choosing-your-stream-mvp-analyzing-xsplit-and-obs-features/"><u>2024 Approved Choosing Your Stream MVP Analyzing XSplit and OBS Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hues-harmony-crafting-colorful-artistry/"><u>2024 Approved Hues Harmony Crafting Colorful Artistry</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sharpening-your-zoom-images-for-professional-conferencing/"><u>2024 Approved Sharpening Your Zoom Images for Professional Conferencing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/comprehensive-guide-to-multitasking-audience-interactions-via-fb-live-for-2024/"><u>Comprehensive Guide to Multitasking Audience Interactions via FB Live for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficient-methods-for-high-fidelity-mkv-to-avi-conversion-on-macos-and-windows-platforms/"><u>Efficient Methods for High-Fidelity MKV to AVI Conversion on macOS and Windows Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grow-picture-dimensions-maintain-fidelity-for-2024/"><u>Grow Picture Dimensions, Maintain Fidelity for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-correct-age-information-for-tiktok-users-for-2024/"><u>Guide to Correct Age Information for TikTok Users for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/head-to-head-comparison-nintendo-switch-lite-versus-nintendo-switch-oled/"><u>Head-to-Head Comparison: Nintendo Switch Lite Versus Nintendo Switch OLED</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-s24plus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy S24+ Phone?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-tos-for-immersive-nba-livestream-watching-for-2024/"><u>How-To's for Immersive NBA Livestream Watching for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expressive-emojis-and-images-kinemaster-tips/"><u>In 2024, Expressive Emojis & Images KineMaster Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-cloud-storage-solutions-mematic-app/"><u>In 2024, Innovative Cloud Storage Solutions Mematic App</u></a></li>
+<li><a href="https://article-tips.techidaily.com/perfect-guide-iosipad-podcast-recording-tips-for-engaging-interviews-for-2024/"><u>Perfect Guide IOS/iPad Podcast Recording Tips for Engaging Interviews for 2024</u></a></li>
 </ul></div>
 

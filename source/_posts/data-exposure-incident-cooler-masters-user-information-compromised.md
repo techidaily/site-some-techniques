@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2025-01-09T17:12:56.973Z
-updated: 2025-01-15T16:23:59.337Z
+date: 2025-01-14T16:39:21.336Z
+updated: 2025-01-21T17:21:50.693Z
 tags:
   - web
 categories:
@@ -38,25 +38,22 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-second-count-for-a-20mb-visual-file/"><u>[New] Evaluating Second Count for a 20MB Visual File</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-betting-basement-bookmarks-for-2024/"><u>[Updated] BETTING BASEMENT BOOKMARKS for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-foremost-sites-for-digital-type-creation/"><u>[Updated] Foremost Sites for Digital Type Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovating-highest-quality-canon-sequences/"><u>[Updated] Innovating Highest Quality Canon Sequences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-football-footage-fundamentals-without-finances/"><u>2024 Approved Football Footage Fundamentals Without Finances</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-definition-videography-unveiled-by-yi/"><u>2024 Approved High Definition Videography Unveiled by Yi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-digital-talk-initiator/"><u>2024 Approved Ideal Digital Talk Initiator</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/effective-strategies-for-protecting-your-pc-against-malware-and-security-risks-expert-tips-from-yl-computing/"><u>Effective Strategies for Protecting Your PC Against Malware & Security Risks: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/ensuring-perfect-harmony-verifying-your-printers-compatibility-with-pc-tips-from-yl-computing/"><u>Ensuring Perfect Harmony: Verifying Your Printer's Compatibility with PC - Tips From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-improve-your-youtube-description-using-amazing-templates/"><u>In 2024, Improve Your YouTube Description Using Amazing Templates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-the-rings-rhythm-a-clash-with-streamers/"><u>In 2024, In the Ring's Rhythm A Clash with Streamers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-s17e-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo S17e</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/play-anything-watch-everything-mastering-cross-platform-streaming-with-google-chromecast/"><u>Play Anything, Watch Everything: Mastering Cross-Platform Streaming with Google Chromecast</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/precision-problem-solving-for-youtube-short-success/"><u>Precision Problem-Solving for YouTube Short Success</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unlocking-the-power-of-instagrams-visual-storytelling-covers-edition-for-2024/"><u>Unlocking the Power of Instagram's Visual Storytelling Covers Edition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-potential-of-color-grading-through-luts-and-ar/"><u>[New] Explore the Potential of Color Grading Through LUTs and AR</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-moment-of-glory-snapshots-in-win-os/"><u>[New] In 2024, Moment of Glory Snapshots in Win OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-high-res-displays-the-best-5-for-ps5/"><u>[Updated] Ideal High-Res Displays The Best 5 For PS5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/asf/"><u>無造作ASFファイルを簡単に変換する方法：詳細ガイド</u></a></li>
+<li><a href="https://games-able.techidaily.com/disassemble-and-repair-a-frozen-steam-application/"><u>Disassemble and Repair a Frozen Steam Application</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-analysis-full-potential-of-bublcams-360-degree-scope-for-2024/"><u>Exclusive Analysis Full Potential of Bublcam's 360-Degree Scope for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/final-cut-pros-top-effect-enhancers-the-essential-10-for-2024/"><u>Final Cut Pro's Top Effect Enhancers The Essential 10 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/future-of-games-analyzing-htc-vive-vs-oculus-rift-and-ps-vr-for-2024/"><u>Future of Games Analyzing HTC Vive vs Oculus Rift & PS VR for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-excessive-cpu-drain-by-wudfhostexe-process-on-windows-10/"><u>How to Fix Excessive CPU Drain by wudfhost.exe Process on Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oneplus-ace-2-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from OnePlus Ace 2 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-8-web-sites-for-accessing-3d-text-psds/"><u>In 2024, Explore the Best 8 Web Sites for Accessing 3D Text PSDs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-package-presentation-transformative-openings/"><u>In 2024, Perfect Package Presentation Transformative Openings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-macpaws-innovative-ipad-application-solution-amidst-stricter-guidelines-an-insight-on-zdnet/"><u>Introducing MacPaw's Innovative iPad Application Solution Amidst Stricter Guidelines - An Insight on ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

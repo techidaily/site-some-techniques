@@ -1,7 +1,7 @@
 ---
 title: "Mastering MidJourney: A Guide to Producing Perfect Visuals Using These 6 Tips"
-date: 2025-01-09T16:47:57.490Z
-updated: 2025-01-15T16:40:58.544Z
+date: 2025-01-16T18:00:58.110Z
+updated: 2025-01-21T18:00:52.642Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 ---
 
 ## Mastering MidJourney: A Guide to Producing Perfect Visuals Using These 6 Tips
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 ![An example of MidJourney sticking correctly to a prompt with a man and woman smiling at each other in a garden.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-26-at-23-21-12.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see MidJourney pretty much nailed it with all four images generated from the prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the Right Style Modifier
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
  Nothing will create bigger headaches for you than giving MidJourney a prompt without some sort of indication of the style you want. A huge part of an image's appeal or final result is the style that it's mimicking. This is like saying you want to watch a movie, but you don't specify whether it should be a romance or a horror film—you'll probably get something you dislike!
 
  I've written about some of my [favorite Midjourney style modifiers](https://extra-lessons.techidaily.com/in-2024-compact-movie-story-proposal/) before, but these are just examples to get you thinking about style. It's definitely worth doing some research on the various art styles, or to find out what the art style is called for your favorite pieces. It's quite often the missing ingredient in a prompt that makes all the difference.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Negative Prompts
 
@@ -70,7 +70,7 @@ Sydney Louw Butler/How-To Geek/Midjourney
  The power of negative prompts can't be overstated, and it's a good way to take control of what's in your image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Let ChatGPT Write or Polish Your Prompt
@@ -85,6 +85,10 @@ Sydney Louw Butler/How-To Geek/Midjourney
 
 ![A Midjourney image in Discord with the modification buttons visible beneath it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-27-at-09-53-22.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler/How-To Geek/Midjourney
 
  This is what they look like in the Alpha web interface that's only open to users with more than 1000 images under the belt as of this writing.
@@ -96,10 +100,6 @@ Sydney Louw Butler/How-To Geek/Midjourney
  One of the best is "Vary Region", which is Midjourney's name for its inpainting feature. This allows you to make parts of the image you're not happy with, and re-generate those portions without affecting the rest of the picture.
 
 ![A MidJourney image marked with the  Vary Region function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/midjourney-vary-region.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The [panning and zooming tools](https://some-skills.techidaily.com/2024-approved-total-insight-into-vscos-photography-ecosystem/) are also invaluable, especially if something in your image has been cut off, or the framing is too close. None of these tools alter your original image, so it's perfectly safe to experiment with them.
 
@@ -122,18 +122,24 @@ Sydney Louw Butler/How-To Geek/Midjourney
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-navigating-the-landscape-smm-best-practices/"><u>[Updated] In 2024, Navigating the Landscape SMM Best Practices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-diy-dynamics-unlock-creative-animation-potential/"><u>2024 Approved DIY Dynamics Unlock Creative Animation Potential</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/"><u>2024 Approved How to Download, Process, and Save YouTube-Hosted Tweet Videos as MP3s</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964478822-discover-the-best-value-deal-top-rated-5-star-fractal-design-north-tower-case-for-your-pc-now-only-1ebn/"><u>Discover the Best Value Deal: Top-Rated 5 Star Fractal Design North Tower Case for Your PC, Now Only $1Ebn!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722974079306-download-and-install-the-latest-hp-officejet-5255-printer-drivers/"><u>Download and Install the Latest HP Officejet 5255 Printer Drivers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-asmrists-praised-by-insomniacs-for-2024/"><u>Expert ASMRists Praised by Insomniacs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/five-iphone-podcast-services-to-streaming-for-2024/"><u>Five iPhone Podcast Services to Streaming for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/focused-adventure-getting-up-close-in-roblox-landscapes-for-2024/"><u>Focused Adventure Getting Up Close in Roblox Landscapes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-fix-swiftly-vanish-coffee-stains-from-your-iphone-pics-for-2024/"><u>Free Fix Swiftly Vanish Coffee Stains From Your iPhone Pics for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-no-expense-required-grab-your-custom-outro-scene/"><u>In 2024, No Expense Required - Grab Your Custom Outro Scene</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/mastering-vcenter-agent-configuration-and-restart-procedures-for-enhanced-system-management/"><u>Mastering vCenter Agent Configuration & Restart Procedures for Enhanced System Management</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tcl-50s425-50-inch-roku-tv-2019-review-a-4k-tv-big-on-value/"><u>TCL 50S425 50-Inch Roku TV (2019) Review: A 4K TV Big on Value</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015945832-troubleshoot-audio-on-windows-11-quick-solutions-no-more-silence/"><u>Troubleshoot Audio on Windows 11 - Quick Solutions, No More Silence!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-podcast-platforms-for-windows-users/"><u>[Updated] Excellent Podcast Platforms for Windows Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-talk-to-text-proven-strategies-for-quality-recordings/"><u>[Updated] From Talk To Text Proven Strategies for Quality Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-game-on-and-store-more-top-5-ssd-reviews-for-xbox/"><u>[Updated] Game On & Store More Top 5 SSD Reviews for Xbox</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maestro-of-visual-and-sonic-harmony-creation/"><u>[Updated] Maestro of Visual & Sonic Harmony Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-picks-for-high-resolution-4k-panels/"><u>2024 Approved Explore Top Picks for High-Resolution 4K Panels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-end-horizons-the-elite-8k-camera-selection/"><u>2024 Approved High-End Horizons The Elite 8K Camera Selection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-secure-free-fcp-software/"><u>2024 Approved How to Secure Free FCP Software</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fading-sounds-gently-a-guide-to-softening-audibility-in-lumafusion-for-2024/"><u>Fading Sounds Gently A Guide to Softening Audibility in Lumafusion for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frequency-fluctuations-for-game-mastery-for-2024/"><u>Frequency Fluctuations for Game Mastery for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-amateurs-to-artists-the-complete-polarr-editor-journey-for-2024/"><u>From Amateurs to Artists The Complete Polarr Editor Journey for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-tecno-spark-20-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Tecno Spark 20 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-to-hear-podcasts-on-iphone/"><u>In 2024, Innovative Methods to Hear Podcasts on iPhone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-instagram-edge-rotating-videos-like-a-pro/"><u>In 2024, The Instagram Edge Rotating Videos Like a Pro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/er-secrets-to-properly-tag-your-youtube-videos/"><u>Insider Secrets to Properly Tag Your YouTube Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-showing-hidden-files-on-your-mac-via-simple-terminal-commands/"><u>Master the Art of Showing Hidden Files on Your Mac via Simple Terminal Commands</u></a></li>
+<li><a href="https://discover-community.techidaily.com/platinum-gutscheincode-fur-officiell-55-rabatt-auf-den-winx-dvd-ripper/"><u>Platinum Gutscheincode Für [OFFICIELL]: 55%-Rabatt Auf Den WinX DVD Ripper</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oneplus-12-by-drfone-android/"><u>Top 10 Password Cracking Tools For OnePlus 12</u></a></li>
 </ul></div>
 

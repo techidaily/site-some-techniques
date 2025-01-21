@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments"
-date: 2025-01-13T17:03:08.871Z
-updated: 2025-01-15T17:17:21.462Z
+date: 2025-01-19T16:43:25.555Z
+updated: 2025-01-21T19:48:25.817Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ---
 
 ## Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  If you browse the "Explore GPTs" section of ChatGPT, you'll find a near-endless selection of custom GPTs for everything you can think of and at least a few things you'd never think of!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Astrology Birth Chart GPT
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 ![A screenshot of the response including Sun sign and moon sign explanations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225219_chatgpt.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is a detailed birth chart! However, it doesn't take AI to do a birth chart, just an extensive database. A real test would be to prompt the GPT to apply this chart to a specific scenario.
 
 ###  Prompt: What Would Be a Good Career for Me Based on This Info?
@@ -69,22 +69,22 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  Overall, I thought this AI was knowledgeable about astrology and good fun for someone with a casual interest. A serious student of astrology probably doesn't need this AI, and may find minor inaccuracies, like with any AI. However, it was fun and interesting for this skeptic to get a little extra insight.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rizz GPT
 
  My kids have been telling me to write about the Rizz GPT for a while. They keep saying, "It's hilarious!" I'd ask for an example, but they'd inevitably just tell me, "It boosts your Rizz!" In hindsight, I think they thought it was hilarious because they'd seen examples of its use on TikTok and YouTube. Now I know why the videos are funny, because anyone actually using anything out of this AI in real life would, indeed, be hilarious.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Prompt: What is Rizz?
 
  The one quality answer I got out of this AI was with this prompt. It gave an excellent definition of this Gen Z slang in layperson terms.
 
 "Rizz" is a slang term that refers to someone's charisma or ability to attract and charm others, especially in a romantic context. It's short for "charisma," and is often used to describe someone with a smooth, confident, and engaging personality. If someone is said to have "rizz," it means they can easily flirt or make connections with people through their charm and wit."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Prompt: Give 5 Good Pickup Lines for a 73-Year-Old to Use at the Nursing Home
 
@@ -99,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  If I were involved in training this AI, I'd consider this response a failure. In addition to the fact that many of these aren't especially witty, funny, or well-written, some aren't relevant to the prompt. That's a big miss! Is the "senior" prom line supposed to be a play on words or did the AI confuse both uses of the word? The inclusion of the "BINGO" piece at the end of the "U" and "I" line doesn't quite make sense, and the magician and map lines aren't relevant at all.
 
 ![Screenshot of GPTs response to the prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225152_chatgpt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Despite this red flag, I pressed on. I described my work, hobbies, kids, and preferences, and asked it to write me a dating profile. The resulting response was poorly written, formulaic, cheesy, and exactly what one would expect from the author of those pickup lines. It later occurred to me that using that profile as an obvious joke on a dating site might actually generate interest. I didn't test it out, but it made me wonder if I was taking the AI too seriously. Is this AI supposed to be a caricature of Gen Z? Perhaps I'm too old to get the joke. However, not meeting the basic standards of AI we've come to expect from GPTs means the joke is poorly executed, in my opinion.
 
@@ -121,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  Without missing a beat, Deep Game continued the story, "The sun blazes high in the sky, its relentless heat beating down on the small, desolate island. Palm trees sway gently in the breeze, their fronds rustling softly. The sand beneath your feet is hot, almost unbearable. You've managed to set up a small camp using the few supplies you had, but with no rain in days, your collected water is dangerously low."
 
 ![Screenshot of prompt and the first part of the GPT response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225031_chatgpt.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The writing is verbose and the story lines are archaic. However, that's typical of AI writing, in my experience. This AI is as good as ChatGPT gets. Of the three GPTs I tried, this is the only one I can see myself using again. I'm thoroughly a non-fiction writer. However, if I did start writing fiction and inevitably got stuck, I think I could enter the plot I had so far to see what it suggested. It could be fun to do with kids. It might also be useful for fantasy tabletop role-playing games like _Dungeons & Dragons_, because the user can direct the story while Deep Game paints the scenes both with words and art. For those with [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/) accounts, it can generate an image of the scene just described. Just use the command "/visualize".
 
@@ -143,19 +143,24 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-time-taken-to-watch-an-example-of-a-20mb-video/"><u>[New] 2024 Approved Time Taken to Watch An Example of a 20MB Video</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-10-best-flvto-alternatives-youtube-converter-you-can-try/"><u>[New] Top 10 Best Flvto Alternatives YouTube Converter You Can Try</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-explore-djis-aesthetics-first-20-no-cost-drone-vfx-trials-for-2024/"><u>[Updated] Explore DJI's Aesthetics – First 20 No-Cost Drone VFX Trials for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveil-the-leading-10-hidden-story-viewers-for-2024/"><u>[Updated] Unveil the Leading 10 Hidden Story Viewers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-smooth-video-trimming-in-photos/"><u>2024 Approved Expert Tips for Smooth Video Trimming in Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-final-cut-pros-top-effect-enhancers-the-essential-10/"><u>2024 Approved Final Cut Pro's Top Effect Enhancers The Essential 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-inspection-gopro-silver-hero4-detailed-review/"><u>2024 Approved Full Inspection GoPro Silver Hero4 Detailed Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-many-videos-fit-in-64128gb-data-insight/"><u>2024 Approved How Many Videos Fit In 64/128GB? Data Insight</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-15-pro-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 15 Pro Activation Lock</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discover-popular-online-channels-faceybook-youtube-tweetspace-snapgram/"><u>Discover Popular Online Channels: FaceyBook, Youtube, TweetSpace, Snapgram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-to-view-performances-film-cast-permissions-for-2024/"><u>Free-to-View Performances Film Cast Permissions for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-infusing-your-reels-with-soundscape-elements/"><u>In 2024, Infusing Your Reels with Soundscape Elements</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-social-footprints-how-to-pinpoint-people-who-shared-your-post-on-facebook/"><u>Navigating Social Footprints: How to Pinpoint People Who Shared Your Post on Facebook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-top-10-techniques-live-cricket-broadcasting/"><u>Unveiling Top 10 Techniques Live Cricket Broadcasting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-transform-your-youtube-presence-mastering-featured-channel-spotlight-techniques/"><u>[New] 2024 Approved Transform Your YouTube Presence Mastering Featured Channel Spotlight Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-correcting-obs-darkness-during-live-streams-for-2024/"><u>[New] Correcting OBS Darkness During Live Streams for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freedomsongextractors-evolution-in-the-2024-landscape/"><u>[New] FreedomSongExtractor's Evolution in the 2024 Landscape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-increasing-interior-vibrancy-suns-role-inside/"><u>[New] Increasing Interior Vibrancy Sun's Role Inside</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-make-your-favorite-tiktok-sound-a-phones-custom-ringtone-for-2024/"><u>[New] Make Your Favorite TikTok Sound a Phone's Custom Ringtone for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-11-cutting-edge-techniques-for-optimizing-your-fb-videos-for-2024/"><u>[Updated] 11 Cutting-Edge Techniques for Optimizing Your FB Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hear-and-hold-the-2024iphone-memo-feature/"><u>[Updated] Hear & Hold - The 2024iPhone Memo Feature</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommended-8-filters-for-webcam-sharpening/"><u>2024 Approved Expert-Recommended 8 Filters for Webcam Sharpening</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-algorithm-change-are-you-ready/"><u>2024 Approved Facebook Algorithm Change Are You Ready？</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-windows-music-mastery/"><u>2024 Approved Immersive Windows Music Mastery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/digiarty-software-inc/"><u>公開された Digiarty Software, Inc. のプライベート・セキュリティ・ポリシー:デジタルプライバシーに関する厳格なガイドライン</u></a></li>
+<li><a href="https://extra-information.techidaily.com/alternatives-to-googles-ar-interactive-graphics/"><u>Alternatives to Google's AR Interactive Graphics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/everything-you-need-to-know-about-making-a-photomontage-for-2024/"><u>Everything You Need to Know About Making a PhotoMontage for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/eyeem-pro-your-ultimate-guide-to-freepaid-substitutes-for-2024/"><u>EyeEm Pro Your Ultimate Guide to Free/Paid Substitutes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-by-frame-excellence-selecting-webcams-for-podcasts-for-2024/"><u>Frame-by-Frame Excellence Selecting Webcams for Podcasts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-gaming-unlocked-by-htcs-revolutionary-vr-headset/"><u>In 2024, Immersive Gaming Unlocked by HTC's Revolutionary VR Headset</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unravel-the-mysteries-of-morphvox-the-ultimate-guide-to-voice-modification/"><u>In 2024, Unravel the Mysteries of MorphVOX The Ultimate Guide to Voice Modification</u></a></li>
 </ul></div>
 

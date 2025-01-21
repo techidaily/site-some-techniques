@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2025-01-10T16:20:31.986Z
-updated: 2025-01-15T17:13:21.307Z
+date: 2025-01-14T20:05:29.791Z
+updated: 2025-01-21T16:09:27.029Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ## Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,19 +90,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-into-the-future-jaunt-vrs-potential-explored/"><u>[New] 2024 Approved Into the Future Jaunt VR's Potential Explored</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-srt-translator-showdown-the-best-eight-in-ranking/"><u>[New] Free SRT Translator Showdown The Best Eight in Ranking</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-crafting-an-authentic-online-presence-in-the-world-of-fb/"><u>[New] In 2024, Crafting an Authentic Online Presence in the World of FB</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-facetune-a-photographers-best-friend/"><u>[New] In-Depth Look at Facetune A Photographer’s Best Friend</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incremental-sound-softening-for-professional-productions/"><u>[New] Incremental Sound Softening for Professional Productions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/evolutionize-your-youtube-content-with-advanced-video-editing-in-sony-vegas-for-2024/"><u>[New] Revolutionize Your YouTube Content with Advanced Video Editing in Sony Vegas for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-hassle-free-tactics-sharing-igtv-in-insta-stories-for-2024/"><u>[Updated] Hassle-Free Tactics Sharing IGTV in Insta Stories for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-high-quality-video-capture-for-tech-enthusiasts/"><u>[Updated] High-Quality Video Capture for Tech Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-avi-player-pcmobile-compatibility/"><u>2024 Approved Excellent AVI Player - PC/Mobile Compatibility</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-setup-downloading-and-installing-brother-dcp-l2540dw-drivers-for-windows-users/"><u>Easy Setup: Downloading and Installing Brother DCP-L2540DW Drivers for Windows Users</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-11-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 11 Pro Max Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-secretly-share-moments-with-instagram-live/"><u>In 2024, How to Secretly Share Moments with Instagram Live</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-guide-powerdirectors-2024-mastery-edition/"><u>Ultimate Guide PowerDirector's 2024 Mastery Edition</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unlock-your-viewing-pleasure-with-budget-friendly-recording-tools-for-2024/"><u>Unlock Your Viewing Pleasure with Budget-Friendly Recording Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-rotational-rigging-solutions/"><u>[New] Full-Rotational Rigging Solutions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-my-lost-followers-insta-unfollow-check-for-2024/"><u>[New] Unveiling My Lost Followers Insta Unfollow Check for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-on-mending-iphone-xs-identity-check/"><u>[Updated] Expert Advice on Mending iPhone X's Identity Check</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-no-fog-only-clarity-gopro-lens-care-essentials-for-2024/"><u>[Updated] No Fog, Only Clarity GoPro Lens Care Essentials for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-excellent-zooid-formats-for-creation/"><u>2024 Approved Excellent Zooid Formats for Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-kept-secrets-ios-10-best-no-cost-collages-and-edits/"><u>2024 Approved Explore the Best-Kept Secrets IOS' 10 Best, No-Cost Collages & Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-much-a-youtube-promotion/"><u>2024 Approved How Much a YouTube Promotion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cryptic-control-center-elusive-power-button-on-desktop/"><u>Cryptic Control Center: Elusive Power Button on Desktop</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-12-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-moto-g23-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Moto G23 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/iconic-discussions-in-history-top-10-on-reddit-for-2024/"><u>Iconic Discussions in History - Top 10 on Reddit for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-user-experience-apple-enhances-siri-with-innovative-home-screen-reading-ai-tech/"><u>Transforming User Experience: Apple Enhances Siri with Innovative Home Screen-Reading AI Tech</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lag-issues-in-fortnite-a-comprehensive-guide/"><u>Troubleshooting Lag Issues in Fortnite: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-does-the-blue-screen-of-death-mean-for-your-pc/"><u>What Does the Blue Screen of Death Mean for Your PC?</u></a></li>
 </ul></div>
 

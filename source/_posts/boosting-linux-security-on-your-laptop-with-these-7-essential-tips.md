@@ -1,7 +1,7 @@
 ---
 title: Boosting Linux Security on Your Laptop with These 7 Essential Tips
-date: 2025-01-14T17:09:38.050Z
-updated: 2025-01-15T17:29:06.944Z
+date: 2025-01-18T21:18:19.968Z
+updated: 2025-01-21T19:13:30.550Z
 tags:
   - desktop
 categories:
@@ -21,10 +21,6 @@ Chances are that part of the reason you broke away from Microsoft and switched t
 
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/penguins.jpg)](https://extra-resources.techidaily.com/your-journey-through-telegrams-web-functionality/) Related 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### [How to Install Linux](https://howto.techidaily.com/what-to-do-if-your-xiaomi-14-ultra-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
 Want to install Linux on your PC? We'll walk you through everything you need to know.
@@ -34,10 +30,6 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
  Doing this will mean that nobody who gains access to your laptop while it is off will be able to access your files. If your laptop gets stolen or lost, you won’t have to worry about any data stored on it. It’s a very easy way to greatly reduce risk.
 
  Note that on most distros, full-disk encryption is only possible during setup. While we recommend encrypting the whole hard drive, you can also choose to just [secure partitions or folders](https://article-helps.techidaily.com/updated-personal-exploration-of-3d-printing-in-3dr-for-2024/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2  Set a System Password 
 
@@ -49,15 +41,15 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
 
 ![Kubuntu Focus laptop with the screen lock user login visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/53783375832_459504dab4_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  With the system password set up, you should also make sure screen lock activates after a period of inactivity, and also commit the manual screen lock command (Ctrl+Alt+L) to memory. We can’t stress enough how important it is to do this if you’re in a shared space; not locking your screen opens you up to all kinds of mischief.
 
  If you’re with coworkers they could try and play a prank and send a message over your Slack account to a coworker, while at university a colleague could try and take a peek at your research. In a coworking space, somebody may try to gain access to confidential information. Locking your screen prevents all these scenarios.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4  Install a VPN 
 
@@ -66,10 +58,6 @@ Jerome Thomas / How-To Geek
  A VPN is a service that lets you reroute your internet connection to anywhere in the world while also securing it in a so-called [VPN tunnel](https://extra-resources.techidaily.com/cross-service-playlist-exchange-simplified/). While rerouting your connection is fun and gets you access to different streaming libraries and the like, the benefit to security comes from the tunnel as it encrypts your connection.
 
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_444293932.jpg)](https://some-guidance.techidaily.com/updated-kinemasters-journey-for-seamless-scene-transitions/) Related 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### [Here's What a VPN Can't Protect You From](https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/) 
 
@@ -80,7 +68,7 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
  This encryption makes it much harder to track you, meaning anybody that may want to do you harm online will have a tougher time finding you. It also protects your laptop if a network you’re connected to gets hijacked, so you don’t have to worry about your data being stolen in that way. As an added bonus, the [best VPNs](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/) all offer anti-malware capabilities, too, cutting off that attack vector.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Set Up a Firewall 
@@ -89,15 +77,27 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
 
  Most VPNs have some kind of limited firewall functionality, but you can also opt to use other software. We have a [guide on using firewalld on Linux](https://instagram-video-files.techidaily.com/updated-in-2024-examining-the-usefulness-of-instagrams-selfie-validation/), a free and open source firewall that we have found easy to use and set up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Disable Root Login Over SSH 
 
 ![Linux Konsole Terminal open on the Kubuntu Focus Ir14 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/52971071687_d038f51da7_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
  The penultimate piece of advice is a little exotic, but useful. As you probably know, root privileges let you do anything you want on a Linux machine. The problem is that under very specific circumstances anybody accessing the device remotely through an [SSH tunnel](https://extra-approaches.techidaily.com/2024-approved-mastering-viral-potential-in-tiktok-unboxer-videos/) can gain those privileges and thus do whatever they want on your laptop.
 
  If you’re not planning to access your device remotely, you may want to consider [disabling root login over SSH](https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-n55-frp-bypass-with-best-methods-by-drfone-android/) and prevent this from happening. Though the chances are slim, it doesn’t hurt to be a little cautious.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7  Keep Your System Updated 
 
@@ -126,24 +126,20 @@ sudo apt-get update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-audio-on-windows-best-8-podcast-apps-compiled/"><u>[New] Excellence in Audio on Windows Best 8 Podcast Apps Compiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-compression-to-clarity-the-zip-srt-conversion/"><u>[New] From Compression to Clarity The ZIP-SRT Conversion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-add-subtitles-to-windows-media-player/"><u>[New] How to Add Subtitles to Windows Media Player</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-guide-to-understanding-and-leveraging-instagrams-reels/"><u>[New] The Ultimate Guide to Understanding and Leveraging Instagram's Reels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-top-10-mobile-photography-tools-for-superior-slo-mo-effects/"><u>[Updated] Exclusive Top 10 Mobile Photography Tools for Superior Slo-Mo Effects</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-breaking-news-working-obs-cam/"><u>[Updated] In 2024, Breaking News Working OBS Cam</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-innovating-advertising-on-facebook-the-most-effective-videography/"><u>[Updated] Innovating Advertising on Facebook The Most Effective Videography</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-video-content-defeating-10-vlogging-hurdles/"><u>[Updated] Mastering Video Content Defeating 10 Vlogging Hurdles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-mastery-the-ultimate-speed-controller-guidebook/"><u>2024 Approved Gaming Mastery The Ultimate Speed Controller Guidebook</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-set-of-hp-laserjet-1018-printing-drivers-free-download/"><u>Complete Set of HP LaserJet 1018 Printing Drivers - Free Download</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-recommendations-the-highest-rated-18-video-recorders-now-for-2024/"><u>Expert Recommendations The Highest-Rated 18 Video Recorders Now for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminating-insights-for-iphone-night-photos-for-2024/"><u>Illuminating Insights for iPhone Night Photos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-zoom-guidance-for-virtual-team-spaces-in-msteams/"><u>In 2024, In-Depth Zoom Guidance for Virtual Team Spaces in MSTEAMS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-photo-editing-basics-unveiled-dive-into-lunapic/"><u>In 2024, Photo Editing Basics Unveiled Dive Into LunaPic</u></a></li>
-<li><a href="https://facebook.techidaily.com/including-all-even-the-hidden-faces-of-your-group/"><u>Including All, Even the Hidden Faces of Your Group</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infinite-possibilities-with-ai-generating-viral-video-titles-for-2024/"><u>Infinite Possibilities with AI Generating Viral Video Titles for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-steps-for-reinstating-a-hidden-windows-service/"><u>Quick Steps for Reinstating a Hidden Windows Service</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/successful-guide-how-to-install-directx-12-on-windows-10/"><u>Successful Guide: How to Install DirectX 12 on Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-strategies-to-find-someones-position-using-an-iphone/"><u>Unveiling Strategies to Find Someone's Position Using an iPhone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-tips-for-adding-visual-impact-in-google-meet/"><u>[New] Essential Tips for Adding Visual Impact in Google Meet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hero5-and-yi-4k-face-off-action-cam-wars/"><u>[New] Hero5 and Yi 4K Face-Off Action Cam Wars</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-secret-sauce-for-successful-youtubers-channel-featuring-techniques/"><u>[Updated] 2024 Approved The Secret Sauce for Successful YouTubers Channel Featuring Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-zooming-ahead-with-excellent-video-quality/"><u>[Updated] 2024 Approved Zooming Ahead with Excellent Video Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-for-transforming-mp4-files-with-vlc/"><u>[Updated] Expert Techniques for Transforming MP4 Files with VLC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-master-your-online-presence-the-ultimate-guide-to-effective-freefire-tags/"><u>[Updated] Master Your Online Presence The Ultimate Guide to Effective FreeFire Tags</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-in-camera-shopping-for-newcomers-to-film/"><u>2024 Approved First Steps in Camera Shopping – For Newcomers to Film</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-from-standard-to-spectaculuxe-video-enhancer-22-upgrade-guide/"><u>2024 Approved From Standard to Spectaculuxe Video Enhancer 2.2 Upgrade Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-visionary-the-ultimate-reddit-marketing-blueprint-for-2024/"><u>From Novice to Visionary The Ultimate Reddit Marketing Blueprint for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/graduating-from-novice-to-3d-lut-maestro-for-2024/"><u>Graduating From Novice to 3D LUT Maestro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-definition-clash-prodigious-sj6-versus-innovative-yi-4k-for-2024/"><u>High Definition Clash Prodigious SJ6 Versus Innovative Yi 4K for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-best-sandbox-games-titles-you-shouldnt-be-missing/"><u>In 2024, Best Sandbox Games Titles You Shouldn’t Be Missing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ultimate-action-camera-duel-hero5-black-vs-hero4-silver/"><u>Ultimate Action Camera Duel Hero5 Black VS Hero4 Silver</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-probe-for-silly-sonic-impressions/"><u>Updated In 2024, Probe for Silly Sonic Impressions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mp4gif/"><u>ガイド: MP4ファイルから完全なGIFアニメーションへの変換手順</u></a></li>
 </ul></div>
 

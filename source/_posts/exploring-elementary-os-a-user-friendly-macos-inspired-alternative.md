@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative"
-date: 2025-01-09T16:05:26.938Z
-updated: 2025-01-15T17:02:55.818Z
+date: 2025-01-20T18:03:57.398Z
+updated: 2025-01-21T17:05:23.082Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ## Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Installing elementary OS Is as Easy as It Gets
 
  I installed [elementary OS version 7.1](https://blog.elementary.io/os-7-1-available-now/) (the latest at the time of writing) in two different ways. I first spun it up as a [virtual machine](https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/) using VirtualBox, which was easy enough, though the installer noticed and warned me elementary isn't meant for use as a VM and may not work properly. I didn't do any intense benchmarking with it, but I didn't notice any issues just clicking around in the VM either. Later I installed it directly onto a hard drive, wiping an installation of Ubuntu that I'd made so many tweaks to it was becoming unwieldy.
@@ -43,21 +47,17 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![The boot and install options in an elementary OS live boot menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_04_58.png) 
 
- Like most Linux distros, you have the option to simply try it in demo mode rather than erase anything on your device. If you like what you see, you can proceed with the installation, or if you run into problems, shut down and regroup.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Like most Linux distros, you have the option to simply try it in demo mode rather than erase anything on your device. If you like what you see, you can proceed with the installation, or if you run into problems, shut down and regroup.
 
 ##  Settling in Is Elementary
 
  Getting started with an alternative operating system like Linux can be intimidating, depending on who you are and what specific distribution you're using. If your distribution is elementary OS, though, you can look forward to a relaxed learning curve. It's clean and polished in its appearance, and things are generally where you expect to find them—so long as you're familiar with the macOS experience. At your first startup, a wizard will walk you through making the desktop your own, like connecting your email account and choosing a color scheme.
 
 ![A setup wizard with a welcome message in elementary OS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_23_00.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you're done with that, you need to do a system update and reboot. I overlooked that task when I first ran elementary OS, and the web browser didn't work at all until I updated. Speaking of updates, I did note that unlike most of the Linux distros I've used, updating elementary OS with the default profile configuration does not require entering the [root](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) password. You should be updating frequently, and frequently reentering a password can be a pain, so I appreciated that small bit of streamlining.
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  Generally, the experience was far cleaner and more cohesive than most Linux desktops I've used. Navigating the desktop in general was a pleasant experience, without the endless subpages of settings and extravegent context menus some distros come with. I didn't experience unexplained freezes or mysterious blank screens on wake. I was able to connect a second monitor generally hassle-free, which isn't always the case for Linux.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Tinkerers Need Not Apply
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 [KDE Connect](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/) doesn't work with elementary's "Pantheon" desktop, which is somewhat of a deal-breaker for me and my entrenched workflow. I did some research and found there are some workarounds in development, at least. The workaround was going to be fairly involved, and since it was in alpha I couldn't expect to rely on it for work like I normally do. KDE Connect is meant for power users, so not prioritizing its functionality for elementary OS is understandable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the Operating System That Works for You
@@ -102,24 +102,24 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-comprehensive-study-hero4-black-mechanics/"><u>[New] Comprehensive Study Hero4 Black Mechanics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-reveals-on-securing-high-quality-live-cricket-broadcasting/"><u>[New] Exclusive Reveals on Securing High-Quality Live Cricket Broadcasting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-generate-giggle-worthy-graphics/"><u>[New] Generate Giggle-Worthy Graphics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harness-the-power-of-iphones-shutter-speed-for-motion-blurs/"><u>[New] Harness the Power of iPhone’s Shutter Speed for Motion Blurs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-step-into-a-world-of-eye-catching-imagery-at-pexels/"><u>[Updated] Step Into a World of Eye-Catching Imagery at Pexels</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/covid-19-myths-propagated-by-key-influencers/"><u>Covid-19 Myths Propagated by Key Influencers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellence-collection-highest-quality-webcam-supports-for-2024/"><u>Excellence Collection Highest Quality Webcam Supports for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-next-gen-coding-is-av1-superior-to-vp9-for-2024/"><u>Exploring Next-Gen Coding Is AV1 Superior to VP9 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-bland-to-brilliant-elevate-your-images-in-canva-for-2024/"><u>From Bland to Brilliant Elevate Your Images in Canva for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-apples-recent-class-action-resolution-benefits-qualifying-macbook-owners-explore-the-terms-and-entitlement-details/"><u>How Apple's Recent Class Action Resolution Benefits Qualifying MacBook Owners - Explore the Terms and Entitlement Details</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-se-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone SE Location by Number | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2020-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2020) Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-final-cut-pro-full-using-guide/"><u>In 2024, Final Cut Pro Full Using Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fusion-of-video-files-for-ios-devices/"><u>In 2024, Fusion of Video Files for iOS Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy XCover 6 Pro Tactical Edition Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-htc-u23-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a HTC U23 Phone that is Locked?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-grading-techniques-for-modern-filmmaking-these-7-for-2024/"><u>Innovative Grading Techniques for Modern Filmmaking (These 7) for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-meizu-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Meizu Phones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-your-video-presentation-with-these-7-free-makers/"><u>[New] 2024 Approved Elevate Your Video Presentation with These 7 Free Makers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-belly-laughs-list-ultimate-guide-to-free-memes-for-2024/"><u>[New] Belly Laughs List Ultimate Guide to Free Memes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gamers-top-picks-1-ranked-4k-laptops/"><u>[New] Gamers' Top Picks #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-holistic-health-approaches-with-tech/"><u>[New] Holistic Health Approaches with Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-10-open-source-media-engines-for-pc-users/"><u>[Updated] Explore 10 Open Source Media Engines for PC Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extensive-movement-review-2023/"><u>[Updated] Extensive Movement Review 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-viral-beats-to-ringtones-transforming-tiktok-sounds/"><u>[Updated] From Viral Beats to Ringtones Transforming TikTok Sounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-handhinas-and-lenses-for-journey-shots/"><u>2024 Approved Handhinas and Lenses for Journey Shots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immerse-slides-with-audio-harmony/"><u>2024 Approved Immerse Slides with Audio Harmony</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/boost-your-brand-visibility-mastering-instagram-hashtags-for-2024/"><u>Boost Your Brand Visibility – Mastering Instagram Hashtags for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/elevate-your-storytelling-with-strategic-video-callouts/"><u>Elevate Your Storytelling with Strategic Video Callouts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/finding-and-following-leading-biz-channels-online/"><u>Finding and Following Leading Biz Channels Online</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-can-you-resolve-your-computers-audio-problems-expert-solutions-from-yl-computing/"><u>How Can You Resolve Your Computer's Audio Problems: Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-ensuring-permanent-absence-from-tiktok-platform/"><u>In 2024, Ensuring Permanent Absence From TikTok Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-videography/"><u>In 2024, High Definition Videography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-fidelity-window-listening-the-ultimate-list-of-the-best-8-podcasts-8/"><u>In 2024, High Fidelity Window Listening The Ultimate List of the Best 8 Podcasts (#8)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/"><u>Navigating Through Excellent HDR Cam Choices for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ricoh-mp-c4503-drivers-for-windows-10-download-and-setup-tutorials/"><u>Ricoh MP C4503 Drivers for Windows 10 - Download & Setup Tutorials</u></a></li>
 </ul></div>
 

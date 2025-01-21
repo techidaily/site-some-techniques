@@ -1,7 +1,7 @@
 ---
 title: "May 21St New York Times Brain Teaser Explained: Hints and Answers for #345"
-date: 2025-01-13T16:02:57.779Z
-updated: 2025-01-15T16:03:23.764Z
+date: 2025-01-14T20:10:30.802Z
+updated: 2025-01-21T18:31:31.317Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 ---
 
 ## May 21St New York Times Brain Teaser Explained: Hints and Answers for #345
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,12 +37,16 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 * **Blue:** Equipment for a game you often play in a bar.
 * **Purple:** A social media company and a laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Are Today's Connections Groups?
 
 ![May 21st's words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -57,16 +57,12 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 * **Purple:** \_\_\_Book (That's Not a Book)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![May 21st Connections groups and words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections-filled.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Smidgen (Yellow):** 
 
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
  Face, Mac, Match, Pocket
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 21st was pretty straightforward. 
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
  That left buy, deal, steal, and value in the Green group, which was "Bargain." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -128,18 +128,22 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-entry-level-camera-for-beginners-2024-reviews/"><u>[New] Best Entry-Level Camera for Beginners 2024 | Reviews</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-disabling-push-notifications-for-commercial-content/"><u>[New] Disabling Push Notifications for Commercial Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-discover-the-best-10-photo-sticker-boosters-for-iphoneandroid-users-for-2024/"><u>[New] Discover the Best 10 Photo Sticker Boosters for iPhone/Android Users for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-mastering-digital-creation-complete-guide-to-picsart-for-2024/"><u>[New] Mastering Digital Creation Complete Guide to PicsArt for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-movavi-transforming-video-editing-in-the-year-2024/"><u>[New] Movavi Transforming Video Editing in the Year 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluating-inshots-capabilities-against-market-leaders/"><u>[Updated] Evaluating InShot's Capabilities Against Market Leaders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flight-finesse-and-colorful-charm-bebop-2s-parrot-showcase/"><u>[Updated] Flight Finesse and Colorful Charm – Bebop 2’S Parrot Showcase</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unlocking-team-potential-harnessing-the-power-of-snap-camera/"><u>2024 Approved Unlocking Team Potential Harnessing the Power of Snap Camera</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-video-edits-is-inshot-top-choice-in-2024/"><u>Exploring Video Edits Is InShot Top Choice, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-selection-8-must-have-image-packs-for-laptops/"><u>In 2024, Ideal Selection 8 Must-Have Image Packs for Laptops</u></a></li>
-<li><a href="https://win-news.techidaily.com/ne-paniquez-pas-les-solutions-pour-traiter-les-fichiers-qui-semblent-vides-sur-le-systeme/"><u>Ne Paniquez Pas! Les Solutions Pour Traiter Les Fichiers Qui Semblent Vides Sur Le Système</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/step-by-step-complete-walkthrough-of-symantec-partition-recovery-with-top-substitute-options/"><u>Step-by-Step Complete Walkthrough of Symantec Partition Recovery with Top Substitute Options</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-ultimate-instructions-for-prolonged-iphone-shots/"><u>The Ultimate Instructions for Prolonged iPhone Shots</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-goovision-elite-next-gen-screen-capture-for-2024/"><u>[New] GooVision Elite Next-Gen Screen Capture for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-performance-graphics-displayed-by-asus-proart/"><u>[New] High-Performance Graphics Displayed by ASUS ProArt</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>[New] How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humor-hub-adobe-meme-manipulation/"><u>[New] Humor Hub Adobe Meme Manipulation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-quick-twitterscape-snag-gifs-with-these-tips/"><u>[New] In 2024, Quick Twitterscape Snag Gifs with These Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-circumference-video-rigging/"><u>[Updated] Full-Circumference Video Rigging</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premium-combo-exclusive-afx-design-tools-for-2024/"><u>[Updated] Premium Combo Exclusive AFX Design Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-notorious-top-20-vlogging-ideas/"><u>2024 Approved From Novice to Notorious Top 20 Vlogging Ideas</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-zte-nubia-flip-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on ZTE Nubia Flip 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-ios-an-unstoppable-combo/"><u>ChatGPT and iOS: An Unstoppable Combo</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-online-tools-perfect-your-beats-like-a-pro-dj-for-2024/"><u>Free Online Tools Perfect Your Beats Like a Pro DJ for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-logitech-g29-racing-wheel-drivers-compatible-with-windows-10-and-above/"><u>Get Your Logitech G29 Racing Wheel Drivers - Compatible with Windows 10 and Above!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-elevating-your-projects-with-movie-maker-in-win11/"><u>In 2024, Expert Tips Elevating Your Projects with Movie Maker in Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-designing-text-in-3d-space-ps/"><u>In 2024, Expert Tips for Designing Text in 3D Space PS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-stock-maintenance-discover-the-power-of-machine-learning-and-computer-vision-in-maintaining-fully-stocked-shelves-at-a-top-retailer/"><u>Innovative Stock Mainten#ance: Discover the Power of Machine Learning and Computer Vision in Maintaining Fully-Stocked Shelves at a Top Retailer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-royalty-free-image-websites-you-need-to-know/"><u>New 10 Royalty-Free Image Websites You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-issues-with-corsair-icue-on-windows-11-a-step-by-step-guide/"><u>Solving Issues with Corsair iCUE on Windows 11: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

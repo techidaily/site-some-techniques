@@ -1,7 +1,7 @@
 ---
 title: "Essential Mac Shortcuts: Mastering the Keyboard for Email Efficiency"
-date: 2025-01-19T19:39:53.957Z
-updated: 2025-01-21T17:47:47.493Z
+date: 2025-01-22T04:32:58.127Z
+updated: 2025-01-29T03:57:09.822Z
 tags:
   - desktop
 categories:
@@ -20,7 +20,11 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Apple Mail App showing File Explorer to select an attachment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-06-at-4-23-26-pm-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Erase Junk Mail (Command+Option+J) 
@@ -30,24 +34,20 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 ![Pop up message in Apple Mail confirming user wants to permanently delete all items in Junk folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshotmacjunkclear.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  Undo Send (Command+Z) 
 
  Ever send an email and think better of it a few seconds later? Or, more likely, ever press send without adding the attachment or CC'ing everyone you needed to? For about 10 seconds after you click send, you can unsend your message the same way you'd undo anything else, by pressing Command+Z. Most major email clients also support undo send, including Gmail, iCloud, Yahoo, and Outlook.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4  Mark as Read/Unread (Command+Shift+U) 
 
  There are many reasons you might want to mark an email as read or unread, like clicking on it by accident or wanting to have another look later on. Apple Mail makes it easy to do so with a simple shortcut. After selecting the email or emails that you want to change the read status for, press Command+Shift+U. This will automatically designate the email to the opposite of its current read status, from read to unread and vice versa.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5  Move to Junk (Command+Shift+J) 
 
@@ -56,7 +56,7 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
  If you see an email that has ended up in the wrong place, you can move it with a simple keyboard shortcut. To do so, select the email or emails you want to use, and press Command+Shift+J. This will move folders from your inbox into the junk folder, or vice versa.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Hide/Show Sidebar (Control+Command+S) 
@@ -88,16 +88,21 @@ Once you integrate shortcuts into your workflow, you'll wonder how you ever work
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fine-tuned-focus-mastering-online-zooms-and-closures/"><u>[New] Fine-Tuned Focus Mastering Online Zooms and Closures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hand-tracking-mastery-all-methods-unveiled/"><u>[New] Hand-Tracking Mastery All Methods Unveiled</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-facetime-audibility-capturing-clear-audio-calls/"><u>[Updated] 2024 Approved FaceTime Audibility Capturing Clear Audio Calls</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-a-deep-dive-into-youtube-view-counts-and-more/"><u>[Updated] A Deep Dive Into YouTube View Counts and More</u></a></li>
-<li><a href="https://win-unique.techidaily.com/fast-and-reliable-methods-for-writing-zeros-to-hddssd-complete-tutorial/"><u>Fast and Reliable Methods for Writing Zeros to HDD/SSD – Complete Tutorial</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-the-right-free-srt-translation-for-you-our-8-picks-for-2024/"><u>Finding the Right FREE SRT Translation for You – Our #8 Picks for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y78plus-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y78+</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-3d-home-theaters-top-blu-ray-player-reviews/"><u>In 2024, Ideal 3D Home Theaters Top Blu-Ray Player Reviews</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-8th-generation-photographic-fusion-app/"><u>In 2024, Innovative 8Th Generation Photographic Fusion App</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-itel-p55-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Itel P55 5G Device</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-hunt-for-heated-online-hearings/"><u>[New] 2024 Approved Hunt for Heated Online Hearings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-collection-advanced-webcam-supports/"><u>[New] Excellent Collection Advanced Webcam Supports</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fusing-fun-and-functionality-top-6-engaging-video-formats/"><u>[New] Fusing Fun and Functionality Top 6 Engaging Video Formats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humorous-harmonics-optimal-ringtone-sites/"><u>[Updated] Humorous Harmonics Optimal Ringtone Sites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-drone-flight-q500-typhoon-review/"><u>[Updated] Innovative Drone Flight - Q500 Typhoon Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-image-transformation-the-best-smartphone-editing-aids-unveiled/"><u>2024 Approved Free Image Transformation The Best Smartphone Editing Aids Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hazy-days-no-more-ensuring-clean-gopro-images/"><u>2024 Approved Hazy Days No More Ensuring Clean GoPro Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-playlists-transitioning-with-confidence/"><u>2024 Approved Pioneering Playlists Transitioning with Confidence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-gratuite-des-fichiers-raw-vers-ligne-de-base-movavi/"><u>Conversion Gratuite Des Fichiers RAW Vers Ligne De Base - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/heaviest-inflight-lifters-unveiled-top-10-list-for-2024/"><u>Heaviest Inflight Lifters Unveiled - Top 10 List for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-drivers-for-your-hyperx-headsets/"><u>How to Update Drivers for Your HyperX Headsets</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastery-in-broadcast-4-approaches-for-televised-facebook-lives-for-2024/"><u>Mastery in Broadcast 4 Approaches for Televised Facebook Lives for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/overcoming-handheld-videography-instability-on-gopro-for-2024/"><u>Overcoming Handheld Videography Instability on GoPro for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209590903-9781473370883-witch-warlock-and-magician-historical-sketches-of-magic-and-witchcraft-in-england-and-scotland/"><u>Witch, Warlock, and Magician - Historical Sketches of Magic and Witchcraft in England and Scotland | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-unveils-the-future-in-your-pocket-why-the-new-iphone-16s-cutting-edge-features-demand-an-immediate-upgrade/"><u>ZDNet Unveils the Future in Your Pocket: Why the New iPhone 16'S Cutting-Edge Features Demand an Immediate Upgrade!</u></a></li>
 </ul></div>
 

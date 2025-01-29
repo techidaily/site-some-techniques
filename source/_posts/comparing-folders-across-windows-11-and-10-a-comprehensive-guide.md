@@ -1,7 +1,7 @@
 ---
 title: Comparing Folders Across Windows 11 & 10 - A Comprehensive Guide
-date: 2025-01-14T16:43:34.890Z
-updated: 2025-01-21T20:12:50.462Z
+date: 2025-01-21T16:00:06.823Z
+updated: 2025-01-29T09:52:38.282Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Comparing Folders Across Windows 11 & 10 - A Comprehensive Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Do you want to compare the number of files or folders or simply visualize the difference between two folders? If so, you have two graphical and one command line method to do that. We’ll show you how to perform the folder comparison task on your Windows 11 or Windows 10 PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Compare Folders From Properties
 
  To compare the number of files, subfolders, the size, and the creation date of two folders, use the Properties option in Windows File Explorer. This lets you quickly glance at the main attributes of a folder.
@@ -43,6 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Properties' windows for two folders in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-compare-folder-properties.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That gives you a general overview of the differences between your folders.
 
 ##  Compare Folders Using Command Prompt
@@ -52,10 +56,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  To use robocopy, first open the Start Menu, search **Command Prompt**, and launch it.
 
 ![Command Prompt highlighted in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In Command Prompt, type the following command. Replace "Folder1" with the path to your first folder and "Folder2" with the path to your second folder. Ensure both folder paths are enclosed in double quotes.
 
@@ -76,7 +76,7 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 * **NS**: This flag excludes file security information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Compare Folders With WinMerge
@@ -94,7 +94,7 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 !['Browse' highlighted for the '1st File or Folder' field in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-add-first-folder-winmerge.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For the "2nd File or Folder" field, click the "Browse" button and choose the second folder to compare.
@@ -106,7 +106,7 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 ![Various comparison options highlighted in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-configure-comparison-options-winmerge.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the following screen, you’ll see the comparison of the specified folders. You’ll see information like identical files in both folders, files missing from one folder, and so on.
@@ -130,19 +130,22 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-kinemaster-elevating-your-game-play-experience-on-android-devices-for-2024/"><u>[New] KineMaster Elevating Your Game Play Experience on Android Devices for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-quality-footage-made-easy-top-10-phones-with-superior-stabilization/"><u>[Updated] High-Quality Footage Made Easy Top 10 Phones With Superior Stabilization</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-counteract-bot-visitors-for-real-audience-growth/"><u>[Updated] In 2024, Counteract Bot Visitors for Real Audience Growth</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-webcams-to-elevate-your-zoom-video-conferencing/"><u>2024 Approved Ideal Webcams to Elevate Your Zoom Video Conferencing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi Note 12 Pro 5G</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x6-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X6 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-comprehensive-guide-understanding-google-podcasts/"><u>In 2024, Comprehensive Guide Understanding Google Podcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-0-image-editing-tools-on-smartphones-today/"><u>In 2024, Explore the Best $0 Image Editing Tools on Smartphones Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-boost-youtube-video-spacing/"><u>In 2024, How to Boost YouTube Video Spacing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hp-envy-27-leading-edge-4k-monitor-review/"><u>In 2024, HP Envy 27 Leading Edge 4K Monitor Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-gaming-displays-top-5-ps5-edition/"><u>In 2024, Ideal Gaming Displays Top 5 (PS5 Edition)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-securely-and-swiftly-acquiring-your-youtube-watch-lists/"><u>In 2024, Securely and Swiftly Acquiring Your YouTube Watch Lists</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-producing-attention-grabbing-podcast-openers/"><u>In 2024, The Art of Producing Attention-Grabbing Podcast Openers</u></a></li>
-<li><a href="https://facebook.techidaily.com/tips-for-duplicating-your-posts-on-multiple-fb-groups/"><u>Tips for Duplicating Your Posts on Multiple FB Groups</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmony-in-hd-crafting-melodic-instagram-videos/"><u>[New] Harmony in HD Crafting Melodic Instagram Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-gamers-choice-best-4k-monitors-for-2024/"><u>[New] Top Gamer's Choice Best 4K Monitors for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevating-your-brand-with-intriguing-instagram-puzzle-feeds/"><u>[Updated] Elevating Your Brand with Intriguing Instagram Puzzle Feeds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flying-high-hubsan-h501x4-drone-unveiled/"><u>[Updated] Flying High Hubsan H501X4 Drone Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-definition-horizons-comparing-ultrawide-and-uhd-4k-monitors/"><u>2024 Approved High-Definition Horizons Comparing UltraWide and UHD 4K Monitors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pedagogical-picks-the-most-effective-video-recording-tools-for-instructors/"><u>2024 Approved Pedagogical Picks The Most Effective Video Recording Tools for Instructors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-htc-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your HTC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/bdr-xs06-blu-ray-burner-unveiled-a-comprehensive-guide-to-its-mobility-and-efficiency/"><u>BDR-XS06 Blu-Ray Burner Unveiled: A Comprehensive Guide to Its Mobility & Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-down-on-artificial-intelligence-misinterpretations-with-a-handful-of-tricks/"><u>Cutting Down on Artificial Intelligence Misinterpretations with a Handful of Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-frame-fastness-mastering-time-lapse-shots-with-samsung/"><u>In 2024, Frame Fastness Mastering Time-Lapse Shots with Samsung</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hotspots-for-revolutionary-vr-cinema/"><u>In 2024, Hotspots for Revolutionary VR Cinema</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-dodge-without-disruption-bypassing-edgenuity-courses-effortlessly/"><u>In 2024, How to Dodge Without Disruption Bypassing Edgenuity Courses Effortlessly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-huawei-p10-review/"><u>In 2024, Huawei P10 Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-examination-of-videoshow-24/"><u>In 2024, In-Depth Examination of VideoShow '24</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/reverse-the-norm-flipping-videos-for-social-media/"><u>Reverse the Norm Flipping Videos for Social Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-gear-insights/"><u>Tom's Computer Gear Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-unleashed-strategies-for-acquiring-trustworthy-administrator-access-from-trustedinstaller/"><u>Windows 11 Unleashed: Strategies for Acquiring Trustworthy Administrator Access From TrustedInstaller</u></a></li>
 </ul></div>
 

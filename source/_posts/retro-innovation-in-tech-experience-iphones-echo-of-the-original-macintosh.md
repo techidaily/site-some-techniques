@@ -1,7 +1,7 @@
 ---
 title: "Retro Innovation in Tech: Experience iPhone's Echo of the Original Macintosh"
-date: 2025-01-14T17:07:40.409Z
-updated: 2025-01-21T19:22:15.799Z
+date: 2025-01-22T19:16:30.140Z
+updated: 2025-01-29T06:27:57.652Z
 tags:
   - mobile
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,21 +64,15 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-iphones-and-the-art-of-complete-circle-videos/"><u>[New] IPhones and the Art of Complete Circle Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-crafting-engaging-tiktok-content-with-text-additions-for-2024/"><u>[Updated] Crafting Engaging TikTok Content with Text Additions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-grasping-the-full-potential-of-animoji-on-iphone-x/"><u>[Updated] Grasping the Full Potential of Animoji on iPhone X</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tips-and-tricks-for-exceptional-steam-playback-footage/"><u>[Updated] In 2024, Tips and Tricks for Exceptional Steam Playback Footage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-study-motion-without-contact/"><u>2024 Approved In-Depth Study Motion Without Contact</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastering-twitter-cleanup-top-apps-for-efficient-management/"><u>2024 Approved Mastering Twitter Cleanup Top Apps for Efficient Management</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flash-frame-filmmaking-script-for-2024/"><u>Flash Frame Filmmaking Script for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-delete-key-not-working-on-windows/"><u>How to Fix the Delete Key Not Working on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-flight-choosing-superior-drone-motor-technology/"><u>In 2024, Excellence in Flight Choosing Superior Drone Motor Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-beginner-to-star-top-25-vlogging-ideas/"><u>In 2024, From Beginner to Star Top 25 Vlogging Ideas</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-additions-to-maximize-gopro-potential/"><u>In 2024, Ideal Additions to Maximize GoPro Potential</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-review-the-full-picture-of-facetunes-new-features/"><u>In 2024, In-Depth Review The Full Picture of Facetune's New Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/speedsters-top-windows-photos-viewer-for-2024/"><u>Speedster's Top Windows Photos Viewer for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-find-x6-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo Find X6 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-change-powerpoint-video-speed/"><u>[New] How to Change PowerPoint Video Speed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-steps-for-seamlessly-clearing-youtube-feedback/"><u>[New] In 2024, Essential Steps for Seamlessly Clearing YouTube Feedback</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-perfect-presence-how-to-blur-background-on-zoom/"><u>[New] Perfect Presence How to Blur Background on Zoom</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-eye-catching-images-windows-10s-screenshot-feature/"><u>[Updated] In 2024, Eye-Catching Images Windows 10'S Screenshot Feature</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-mastery-7-drone-pros-recommended/"><u>2024 Approved Gimbal Mastery 7 Drone Pros Recommended</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unlocking-the-potential-of-capturing-digital-entertainment/"><u>2024 Approved Unlocking the Potential of Capturing Digital Entertainment</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-display-a-comprehensive-guide-to-hdr-on-windows-11/"><u>Enhance Your Display: A Comprehensive Guide to HDR on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-why-photo-booth-videos-freeze-suddenly/"><u>In 2024, Exploring Why Photo Booth Videos Freeze Suddenly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-smart-7-hd-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Smart 7 HD to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-film-viewing-with-iphone-tricks/"><u>In 2024, Innovating Film Viewing with iPhone Tricks</u></a></li>
 </ul></div>
 

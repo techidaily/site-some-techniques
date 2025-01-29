@@ -1,7 +1,7 @@
 ---
 title: "Demystifying AI Imagery: Understanding That Not All Visuals Come From AI Technology"
-date: 2025-01-15T18:33:24.941Z
-updated: 2025-01-21T19:27:33.252Z
+date: 2025-01-21T17:50:52.070Z
+updated: 2025-01-29T03:47:02.642Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 ## Demystifying AI Imagery: Understanding That Not All Visuals Come From AI Technology
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  Meta recently rolled out a new “Made with AI” tag to help users distinguish between real and AI-generated content. The problem is that the tag appears indiscriminately on images created entirely with AI and those merely edited with AI. This has sparked a debate about how much AI is enough to taint an image and introduced even more confusion about what is real and what is not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AI Media Is So Real, We Need Help Distinguishing It From Reality
 
  Do you remember that photo of the Pope in the stylish puffer jacket? At first glance, it seemed perfectly normal, and we all thought we had just been sleeping on the pope’s swag. However, it was later revealed that the photo was AI-generated. 
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 ![An AI-generated image of the Pope wearing a puffer jacket](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-ai-generated-image-of-the-pope-wearing-a-puffer-jacket.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Going over it a second time with a fine-toothed comb, [you can tell that the image is AI-generated](https://on-screen-recording.techidaily.com/in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/), but that’s exactly the problem—no one is browsing the web with that much intensity.
@@ -51,16 +55,12 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 ![An instagram post of a group of men shouting excitedly-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-instagram-post-of-a-group-of-men-shouting-excitedly-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another photographer, Peter Yan, had his image of Mount Fuji tagged “Made With AI” because he used a generative AI tool to remove a trash bin in the photo.
 
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
  Other people try to find a middle ground, suggesting a separate “AI-assisted” tag for images that have only been minimally altered with AI. However, that idea immediately runs into difficulties. How much AI modification should be allowed until a photo is considered “Made with AI?” And would such a system even serve any purpose? Couldn't a malicious actor just alter a small part of an image with AI to create a misleading scene?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Meta’s AI Labeling Is Not Foolproof
@@ -116,24 +116,21 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-4k-leading-blu-ray-players-compared/"><u>[New] Excellence in 4K Leading Blu-Ray Players Compared</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-film-titles-that-spur-positive-change-and-action-steps/"><u>[New] Film Titles That Spur Positive Change & Action Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-acquire-version-6-of-windows-movie-maker/"><u>[New] How to Acquire Version 6 of Windows Movie Maker</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-how-to-fade-out-audio-in-logic-pro-for-2024/"><u>[New] How To Fade Out Audio In Logic Pro for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-immersive-windows-music-mastery/"><u>[New] Immersive Windows Music Mastery</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-premium-online-sound-snatchers/"><u>[Updated] In 2024, Premium Online Sound Snatchers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-infinite-storage-pathways-select-services-showcase/"><u>[Updated] Infinite Storage Pathways Select Services Showcase</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fullscreen-innovations-unveiled-in-adobe-premiere-pro/"><u>2024 Approved Fullscreen Innovations Unveiled in Adobe Premiere Pro</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-8-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/cutting-edge-prowess-explored-evaluating-the-stylish-and-powerful-dell-alienware-aurora-r9-gaming-system/"><u>Cutting-Edge Prowess Explored: Evaluating the Stylish and Powerful Dell Alienware Aurora R9 Gaming System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-top-11-cinematic-gems-that-will-inspire-and-empower-you/"><u>Discover the Top 11 Cinematic Gems That Will Inspire and Empower You</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-concept-to-comic-10-must-have-strategies-for-making-gifs-for-2024/"><u>From Concept to Comic 10 Must-Have Strategies for Making GIFs for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-estimated-video-monetization-totals/"><u>In 2024, Estimated Video Monetization Totals</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-nikon-d7500-specifications/"><u>In 2024, In-Depth Look Nikon D7500 Specifications</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-search-of-next-level-video-streaming-alternatives-for-2024/"><u>In Search of Next-Level Video Streaming Alternatives for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/the-art-of-deception-exploring-how-and-where-digital-thieves-conceal-harmful-software/"><u>The Art of Deception: Exploring How & Where Digital Thieves Conceal Harmful Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-retailers-offering-superior-selection-of-mobile-phones/"><u>The Best Retailers Offering Superior Selection of Mobile Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-mobile-enhancements-with-androids-lightroom-app/"><u>[New] Examining Mobile Enhancements with Android's Lightroom App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-kitchen-to-screen-unveiling-the-top-7-cooking-film-tricks/"><u>[New] From Kitchen to Screen Unveiling the Top 7 Cooking Film Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovation-in-your-hands-the-sonic-experience-of-xperia-xz/"><u>[New] Innovation in Your Hands The Sonic Experience of Xperia XZ</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-precision-rhythm-tracking-made-simple-try-these-free-ones-for-2024/"><u>[New] Precision Rhythm Tracking Made Simple - Try These Free Ones for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-image-enhancement-101-text-addition-for-pc-and-mac-users/"><u>[Updated] 2024 Approved Image Enhancement 101 Text Addition for PC and Mac Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-multiplecam-pro-premium-live-streaming-and-remote-webcam-solution/"><u>1. MultipleCam Pro: Premium Live Streaming and Remote Webcam Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-the-intricate-process-of-media-import-in-w11/"><u>2024 Approved Exclusive Guide The Intricate Process of Media Import in W11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hand-tracking-deciphered-a-users-guide/"><u>2024 Approved Hand Tracking Deciphered A User's Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seo-breakthrough-dominating-the-podcast-rankings-landscape/"><u>2024 Approved SEO Breakthrough Dominating the Podcast Rankings Landscape</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/5-ingenjavnade-stilar-att-klippa-ljud-fran-din-websida-med-movavi/"><u>5 Ingenjävnade Stilar Att Klippa Ljud Från Din Websida Med Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726030182604-av01av1mp4h264/"><u>初めても楽々! AV01/AV1をMP4/H264に効率よく変換する技術ガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/converting-beatmap-downloads-osu-osr-to-high-quality-mp4-videos-easily/"><u>Converting Beatmap Downloads (Osu! .osr) to High-Quality MP4 Videos Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gold-medal-glory-olympic-speed-skating-short-track-highlights-for-2024/"><u>Gold Medal Glory Olympic Speed Skating Short Track Highlights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flashy-flights-prime-pc-and-mobile-game-hits/"><u>In 2024, Flashy Flights Prime PC and Mobile Game Hits</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/netgear-nighthawk-c7000-review/"><u>Netgear Nighthawk C7000 Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/peacock-party-patter-for-2024/"><u>Peacock Party Patter for 2024</u></a></li>
 </ul></div>
 

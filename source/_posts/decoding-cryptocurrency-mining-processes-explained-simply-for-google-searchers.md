@@ -1,7 +1,7 @@
 ---
 title: "Decoding Cryptocurrency Mining: Processes Explained Simply for Google Searchers"
-date: 2025-01-18T20:37:52.477Z
-updated: 2025-01-21T16:08:15.752Z
+date: 2025-01-23T09:11:07.703Z
+updated: 2025-01-28T17:21:10.450Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
 ## Decoding Cryptocurrency Mining: Processes Explained Simply for Google Searchers
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
 
  With the cryptocurrency craze in full swing, you can't avoid hearing about the people mining these digital currencies---and [destabilizing the graphics processor market](https://extra-resources.techidaily.com/strategic-wordplay-crafting-engaging-blurbs/). Here's what "crypto mining" actually is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is Crypto Mining?
 
  In short, crypto mining is how new units of [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/)\---usually called coins---are created. As you can imagine, this type of mining doesn't involve callused hands gripping pickaxe handles. Instead, it's computer processors that do all the hard work, chipping away at complex math problems.
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
  Of course, you may wonder why these digital currencies even need to be mined: after all, it's make-believe money with no backing except what people will pay for it. Real currency, the kind backed up by governments, can be created by turning on a money printer, so it stands to reason that crypto could do the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  The Blockchain
@@ -48,6 +44,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
  In this metaphor, each link is a block, and each block contains a set amount of cryptocurrency. For example, one block [has 6.25 Bitcoin in it](https://coinmarketcap.com/alexandria/article/how-long-does-it-take-to-mine-one-bitcoin). To unlock a new block you need to solve a complicated mathematical equation, which validates the block and adds it to the chain. Also, because the blocks are chained in a linear fashion, you have to go from one to the next, you can't pick one at random.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  The Ledger
 
  Every time a new coin is unlocked, it's recorded in the cryptocurrency's ledger, a massive file anybody can access at any time to see which coins were mined when and by whom. The ledger also shows when a coin changed hands, and who was involved in the transaction, putting the lie to [the claim that Bitcoin is anonymous](https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/).
@@ -55,7 +55,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  To summarize, the ledger records the creation and movement of coins in the blockchain. Mining is validating new blocks and gaining access to the coins within. Interestingly enough, since the blockchain has to be finite, it also means that most cryptocurrencies have a hard limit to how many can exist: Bitcoin for example has a [cap of 21 million](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Crypto Mining Works
@@ -65,6 +65,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  In a way, crypto mining is really just solving these incredibly complicated mathematical puzzles. Do it fast enough, and the reward is a coin. If you're slower than the competition, you don't get one. This method is called "proof of work."
 
  However, hashes are, by their very nature, incredibly complicated puzzles to solve. The phone or laptop you're most likely reading this article on would probably take millions of years to solve one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  DIY Supercomputers
 
@@ -77,10 +81,6 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  On top of the competition between these groups, there is also the problem that each next block is more complicated to solve than the last, a failsafe built into the blockchain to prevent it from being all unlocked at once.
 
  As a result, the market for GPUs was practically destroyed, with these groups buying all the units they could get their hands on---even [stealing them](https://fortune.com/2021/11/09/thieves-steal-nvidia-graphics-cards/) in some cases---and making it so regular consumers had to pay [massive prices](https://www.nme.com/news/gaming-news/700000-graphics-cards-were-bought-by-crypto-miners-in-early-2021-alone-2973241) even for badly outdated models. Though, as of late 2021, this arms race is quieting down thanks to a number of factors (including a [crackdown on miners](https://edition.cnn.com/2021/11/16/investing/bitcoin-china-crypto-mining-crackdown-intl-hnk/index.html) by China), the GPU market has yet to recover.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Mined vs. Non-Mined Cryptocurrencies
 
@@ -109,22 +109,16 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-from-static-to-spectaculous-the-yi-hero-video-journey/"><u>[New] 2024 Approved From Static to Spectaculous The Yi Hero Video Journey</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-inside-the-studio-how-magix-video-pro-x-simplifies-production/"><u>[New] 2024 Approved Inside the Studio How Magix Video Pro X Simplifies Production</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display/"><u>[New] In 2024, Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-path-to-insta-prominence-unveiling-9-key-moves-for-fame-seekers/"><u>[Updated] 2024 Approved The Path to Insta Prominence Unveiling 9 Key Moves for Fame Seekers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-game-masters-unleashed-an-in-depth-look-at-kinemaster-on-android/"><u>[Updated] Game Masters Unleashed An In-Depth Look at KineMaster on Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-giggle-generation-top-ten-templates-for-viral-effect/"><u>[Updated] Giggle Generation Top Ten Templates for Viral Effect</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-fledgling-to-front-runner-flourishing-in-follower-count/"><u>2024 Approved From Fledgling to Front-Runner Flourishing in Follower Count</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-unboxing-game-crafting-winning-strategies/"><u>2024 Approved The Unboxing Game Crafting Winning Strategies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/3g2mp3/"><u>在互聯網上進行無限制免費轉換：3G2至MP3音頻 - 翔動技術解決方案</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/complete-guide-to-capture-slow-motion-videos-with-gopro-hero-10-for-2024/"><u>Complete Guide to Capture Slow Motion Videos with GoPro Hero 10 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-value-of-sns-hdr-and-its-market-rivals-for-2024/"><u>Exploring the Value of SNS HDR and Its Market Rivals for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-civi-3-disney-100th-anniversary-edition-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Civi 3 Disney 100th Anniversary Edition Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-capabilities-of-yuneecs-typhoon-uav/"><u>In 2024, Exploring the Capabilities of Yuneec’s Typhoon UAV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-passion-a-selection-of-10-invigorating-films/"><u>In 2024, Ignite Passion A Selection of 10 Invigorating Films</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-filters-to-make-your-tiktok-stand-out/"><u>In 2024, Innovative Filters to Make Your TikTok Stand Out</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-x100-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo X100 Pro Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-online-deals-on-webcam-protection-kits/"><u>[New] Best Online Deals on Webcam Protection Kits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gaggraphs-craft-your-own-jest/"><u>[New] GagGraphs Craft Your Own Jest</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-dive-into-the-world-of-self-expression-a-treasury-of-instagramcaptions-for-2024/"><u>[Updated] Dive Into the World of Self-Expression - A Treasury of #InstagramCaptions for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-greatest-free-online-movie-repositories-top-picks/"><u>Discover the Greatest Free Online Movie Repositories: Top Picks</u></a></li>
+<li><a href="https://win-superb.techidaily.com/fast-start-deaktivierung-mit-einfachem-workflow-losungen-fur-windows-11/"><u>Fast Start Deaktivierung Mit Einfachem Workflow: Lösungen Für Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-examining-benq-sw320-the-4k-visionary/"><u>In 2024, Examining BenQ SW320 The 4K Visionary</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-image-caption-manipulation/"><u>In 2024, Innovative Image Caption Manipulation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-through-your-new-laptops-m1-max-clips/"><u>In 2024, Navigating Through Your New Laptop's M1 Max Clips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-animation-solutions-with-advanced-3d-modellers-for-2024/"><u>Innovative Animation Solutions with Advanced 3D Modellers for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-k11-5g-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from K11 5G.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-for-zlibdll-error-resolution/"><u>Ultimate Troubleshooting Tips for 'zlib.dll' Error Resolution</u></a></li>
 </ul></div>
 

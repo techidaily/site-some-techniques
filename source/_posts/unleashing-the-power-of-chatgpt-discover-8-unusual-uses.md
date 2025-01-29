@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Power of ChatGPT: Discover 8 Unusual Uses"
-date: 2025-01-09T16:43:46.837Z
-updated: 2025-01-15T16:09:14.845Z
+date: 2025-01-21T16:26:40.116Z
+updated: 2025-01-29T03:01:00.183Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 ---
 
 ## Unleashing the Power of ChatGPT: Discover 8 Unusual Uses
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -42,10 +46,6 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
  That warning out of the way, let's look at the interesting things ChatGPT can do, starting with the mundane but useful and moving onto some of the more novel uses.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Write a Cover Letter
 
  Not a huge fan of writing cover letters? Nobody could blame you. It turns out you can farm the job out to AI, and the results are perfectly passing as something written by a person.
@@ -62,6 +62,10 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![A ChatGPT AI response showing a resume template.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot5.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like the cover letter, you'll need to review the text and edit anything that is a bit too generous in describing your job responsibilities, but overall it's a fast way to generate a template you can easily adapt. It even leaves fill-in-the-blank sections for job titles, company names, and dates worked.
 
  As an aside, I thought it was particularly appropriate and quite funny that when I asked it to write me a resume for a network engineer, the request failed because of a network error.
@@ -74,15 +78,15 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
  It certainly didn't disappoint and gave us a list of 15 suggestions with some solid picks like BarkSpeak, DogTalk, and our favorite, DogLingo.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Compose Song Lyrics and Poetry
 
  Asking ChatGPT to write a song for you or write a poem is pretty hit or miss at this point. We asked it to write a write a song about a dog tasked with colonizing mars, and the results were actually pretty good. With a little modification, it could easily be the theme song lyrics to a children's show or even turned into a picture book for kids.
 
 ![A ChatGPT AI response showing lyrics to a song about a dog colonizing Mars.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the other hand, when we asked for a poem about a dog who builds a submarine to explore the ocean and befriend dolphins it was a bit all over the place and even started with the dog already living in the ocean like a squid.
 
@@ -97,7 +101,7 @@ Related: [6 Things You Shouldn't Use ChatGPT For](https://youtube-webster.techid
 ![A ChatGPT AI response showing ideas for a Minecraft themed birthday party.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot7a.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a long-time [Minecraft](https://extra-support.techidaily.com/is-picku-the-ultimate-answer-to-enhancing-your-android-photos-in-2024/) fan and kid at heart, I'm fairly confident I could have come up with these ideas on my own but imagine for a moment I knew my child loved Minecraft but was drawing a blank on party activity ideas.
@@ -115,7 +119,7 @@ Related: [6 Things You Shouldn't Use ChatGPT For](https://youtube-webster.techid
 ![A ChatGPT AI response showing a suggested AI prompt for the Dall-E AI art program.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We plugged that prompt into Dall-E, and it created the following image set:
@@ -123,7 +127,7 @@ Related: [6 Things You Shouldn't Use ChatGPT For](https://youtube-webster.techid
 ![A series of images showing the world of Legend of Zelda, rendered like a Picasso painting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/2023-02-08_131443.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dall-E
@@ -150,15 +154,15 @@ Related: [Can ChatGPT Create Images?](https://some-skills.techidaily.com/updated
 
 ![A ChatGPT AI response showing an interactive role playing game.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/ChatGPTScreenshot4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Because I suggested they give me a weapon to help with the quest, ChatGPT modified the story to match that. Later on, I didn't like options A or B, so I suggested C with a completely different solution to a problem the game had presented, and ChatGPT used that instead.
 
  Interestingly enough, after I suggested a C option, the next responses included A, B, and C options instead of just a binary choice. (If ChatGPT seems to be wrapping up the story and doesn't offer a prompt, just respond as if you're [continuing the story](https://fox-http.techidaily.com/mastering-the-use-and-maintenance-of-m1-max-clips-for-2024/), and it will pick right back up with more choices.)
 
  If that sounds fun, but you're thinking, "I wish it actually had stats and points like an actual game," you're in luck. You can [give ChatGPT game parameters](https://www.makeuseof.com/how-to-use-chatgpt-as-an-interactive-rpg/) to tell it to use known RPG rules, keep score, and more. Although, in our experience playing around with it, the more variables and rules you give the game, the more wonky and unpredictable it becomes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Debug Code and Learn Programming Concepts
 
@@ -173,10 +177,6 @@ Related: [Can ChatGPT Create Images?](https://some-skills.techidaily.com/updated
  Learning to program or learning a new language? Just ask it to give you an example of how sorting works in Python or whatever else you're curious about, and it will give you an example (often with multiple variations to help you understand the concept).
 
 Related: [How to Run a ChatGPT-like AI on Your Own PC](https://tech-revival.techidaily.com/solving-the-problem-why-does-chatgpt-forget-our-talks/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Ask It Nearly Anything
 
@@ -210,16 +210,18 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-chortle-creator-suite/"><u>[New] 2024 Approved Chortle Creator Suite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expressive-iphone-comicals/"><u>[New] Expressive iPhone Comicals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-fast-approach-downloading-tweets-video-content-for-mobile-use-for-2024/"><u>[New] Fast Approach Downloading Tweets’ Video Content for Mobile Use for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-grading-inshot-does-it-reign-supreme/"><u>[New] Grading InShot Does It Reign Supreme?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-demystifying-macos-capture-feature-for-professional-use/"><u>[Updated] 2024 Approved Demystifying macOS Capture Feature for Professional Use</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-to-various-video-recording-devices/"><u>[Updated] Guide to Various Video Recording Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hilarity-unleashed-prime-meme-text-generators/"><u>[Updated] Hilarity Unleashed Prime Meme Text Generators</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-itel-p55-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Itel P55 5G</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-speedy-tactics-for-disorganized-youtube-song-listings/"><u>In 2024, Speedy Tactics for Disorganized YouTube Song Listings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-gopro-hero5-testing-report-for-2024/"><u>In-Depth GoPro Hero5 Testing Report for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-lava-yuva-3-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Lava Yuva 3</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-galleryguide-adjusting-post-dimensions-in-instagram/"><u>[New] 2024 Approved GalleryGuide Adjusting Post Dimensions in Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-remove-pending-videos-from-your-youtube-history/"><u>[New] 2024 Approved How to Remove Pending Videos From Your YouTube History</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver/"><u>[Updated] Comparing the Crème De La Crème GoPro Hero5 Black to Hero4 Silver</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-your-ideal-viewing-experience-with-projection-or-television/"><u>[Updated] Finding Your Ideal Viewing Experience with Projection or Television</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fusing-iphones-audio-and-visuals-together/"><u>[Updated] Fusing iPhones' Audio and Visuals Together</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastery-in-video-creation-using-captivate-software/"><u>[Updated] In 2024, Mastery in Video Creation Using Captivate Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-your-ultimate-guide-to-unmissable-gaming-worlds/"><u>2024 Approved Your Ultimate Guide to Unmissable Gaming Worlds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-end-displays-ranked-1-to-5-ps5-for-2024/"><u>High-End Displays Ranked #1 to #5 (PS5) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-the-perfect-personalized-boxed-gift-at-these-online-retailers/"><u>In 2024, Find the Perfect Personalized Boxed Gift at These Online Retailers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-maximizing-vids-for-cash-comparing-dm-and-yo-strategies/"><u>In 2024, Maximizing Vids for Cash Comparing Dm & Yo Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infinite-jest-10-ultimate-meme-layouts-for-2024/"><u>Infinite Jest - 10 Ultimate Meme Layouts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-lut-creation-for-2024/"><u>Innovative Approaches to LUT Creation for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/installation-errors-correct-missing-drivers-on-windows-1187-here-solved/"><u>Installation Errors? Correct Missing Drivers on Windows 11/8/7 Here [SOLVED]</u></a></li>
 </ul></div>
 

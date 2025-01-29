@@ -1,7 +1,7 @@
 ---
 title: "Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps"
-date: 2025-01-16T19:23:42.383Z
-updated: 2025-01-21T20:01:17.857Z
+date: 2025-01-27T08:09:55.193Z
+updated: 2025-01-28T17:50:46.268Z
 tags:
   - mobile
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
 ## Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Google and Android Are Not One and the Same](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c55-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/)
@@ -19,16 +23,16 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 * [Some Preinstalled Apps Are Better Than Google's](https://win-blog.techidaily.com/error-0xc19001e1-in-windows-10-a-complete-walkthrough-to-restore-system-health/)
 * [Google Apps Make Android Phones All Feel the Same](https://fox-friendly.techidaily.com/decreasing-audio-intensity-protocol/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Google controls the most popular store for distributing Android apps and requires Android phone makers to ship a suite of Google software in order to have access.
 * Some OEM apps are better than Google's, but fewer phone companies are going through the effort of making their own software.
 
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google and Android Are Not One and the Same
 
@@ -39,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  After Android Became Popular, Google Wanted More Control
 
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -56,17 +64,9 @@ Jerome Thomas / How-To Geek
 
 ![Galaxy Z Flip 6 next to the Fold 6 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/flip-6-next-to-fold-6-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  I Don't Want to Give All of My Data to Google
 
@@ -92,6 +92,10 @@ Close
 
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Google Apps Make Android Phones All Feel the Same
 
  As Google's control over software has grown, there is increasingly less difference between one Android device and the next. You walk through similar set-up screens, are presented with the same data collection options, and see your app drawer pre-populated with largely the same software.
@@ -101,10 +105,6 @@ Close
  Phones aren't the only devices that suffer from this. Consider the [XREAL Beam Pro](https://us.shop.xreal.com/products/xreal-beam-pro), an Android-based (and far more affordable) alternative to Apple's Vision Pro. It's a tempting addition to [the AR glasses I replaced my computer monitor with](https://youtube-docs.techidaily.com/approved-expert-insights-where-to-invest-in-youtube-creator-revenue/). When you launch the device for the first time, you're presented with a large array of Google apps that you probably didn't buy AR glasses to use. They continue to clutter up the launcher unless you dive into settings and disable them.
 
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
 
@@ -129,24 +129,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/quick-fix-batman-arkham-knight-crashing-fatal-error/"><u>[Quick Fix] Batman Arkham Knight Crashing/ Fatal Error</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-zte-nubia-z60-ultra-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My ZTE Nubia Z60 Ultra Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-are-feedbacks-on-items-monetized-in-videos/"><u>2024 Approved Are Feedbacks on Items Monetized in Videos?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-filmeditingsuite-assessment-detailed-insights/"><u>2024 Approved FilmEditingSuite Assessment – Detailed Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-mpeg-4-to-multifarious-formats-a-guide-using-vlc/"><u>2024 Approved From MPEG-4 to Multifarious Formats A Guide Using VLC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-sights-with-itunes-acoustics/"><u>2024 Approved Harmonizing Sights with iTunes Acoustics</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-earnings-via-sponsored-youtube-videos/"><u>2024 Approved Mastering Earnings via Sponsored YouTube Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/essential-listings-the-leading-tv-streaming-houses-for-2024/"><u>Essential Listings The Leading TV Streaming Houses for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/guia-facil-y-rapida-como-crear-clones-de-seguridad-eficientes-con-windows-11/"><u>Guía Fácil Y Rápida: Cómo Crear Clones De Seguridad Eficientes Con Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-select-a-premium-360-camera-today-for-2024/"><u>How to Select a Premium 360 Camera Today for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-se-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone SE online without SIM Card?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excessive-tiktok-drafts-simplify-with-smart-editing-techniques/"><u>In 2024, Excessive TikTok Drafts? Simplify with Smart Editing Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flying-economically-top-five-drones-(100-price-tag/"><u>In 2024, Flying Economically Top Five Drones <$100 Price Tag</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ghastly-graphics-maker/"><u>In 2024, Ghastly Graphics Maker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ice-capped-inspiration-chinas-sports-spectacle/"><u>In 2024, Ice-Capped Inspiration China's Sports Spectacle</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-to-elevate-your-gopro-work/"><u>In 2024, Innovative Techniques to Elevate Your GoPro Work</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-creme-de-la-creme-of-4k-video-top-10-picks/"><u>New 2024 Approved The Crème De La Crème of 4K Video Top 10 Picks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-gionee-f3-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Gionee F3 Pro Device</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exceptional-appraisal-and-other-choices/"><u>[New] Exceptional Appraisal & Other Choices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-expert-strategies-for-high-quality-gopro-4k-footage-editing-for-2024/"><u>[New] Expert Strategies for High-Quality GoPro 4K Footage Editing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-friendship-enhancing-virtual-worlds-the-top-10-metaverse-games/"><u>[New] Friendship-Enhancing Virtual Worlds The Top 10 Metaverse Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-secrets-to-compelling-youtube-live-thumbnails/"><u>[Updated] 2024 Approved Unlocking Secrets to Compelling YouTube Live Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-guide-the-intricate-process-of-media-import-in-w11/"><u>[Updated] Exclusive Guide The Intricate Process of Media Import in W11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-harmonyheed-evaluating-audio-artifacts/"><u>[Updated] In 2024, HarmonyHeed Evaluating Audio Artifacts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-talking-audio-log-audit/"><u>[Updated] Talking Audio Log Audit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-a-photo-video-with-pixiz/"><u>2024 Approved How to Make a Photo Video with Pixiz?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-choices-apps-that-convert-photos-to-films/"><u>2024 Approved Ideal Choices Apps That Convert Photos to Films</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-netflix-picture-in-picture-how-to-use-the-netflix-floating-window-feature/"><u>2024 Approved Netflix Picture-in-Picture - How to Use the Netflix Floating Window Feature</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/channel-your-inner-narrative-impactful-life-stories-yt/"><u>Channel Your Inner Narrative Impactful Life Stories YT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-list-top-business-vault-for-2024/"><u>Exclusive List Top Business Vault for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fix-for-freezing-photo-booth-videos-that-disrupt-usage-for-2024/"><u>Fix for Freezing Photo Booth Videos That Disrupt Usage for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-evaluating-video-space-on-a-64gb-card/"><u>In 2024, Evaluating Video Space on a 64GB Card</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-individualized-music-for-engaging-video-conclusions/"><u>In 2024, Free, Individualized Music for Engaging Video Conclusions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-m34-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy M34 5G Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
 

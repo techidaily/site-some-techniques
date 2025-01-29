@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows"
-date: 2025-01-14T21:06:34.399Z
-updated: 2025-01-21T16:39:44.040Z
+date: 2025-01-24T20:48:50.431Z
+updated: 2025-01-29T02:32:58.579Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 ---
 
 ## Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
  Ever wanted to feel like a Hollywood hacker without the associated risks? Here's how to transform your boring Windows terminal into a "hacker" space with five harmless commands.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Prerequisite: Enable WSL and Set Terminal Color to Matrix Green
@@ -52,6 +48,10 @@ color 2
 
 ![Windows command prompt color change to green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-command-prompt-color-change-to-green.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The "color" command only works in Windows Command Prompt (cmd) and not in PowerShell.
 
  Both of these commands will turn your text to a bright green color, instantly giving your terminal that classic hacker aesthetic. If you want to go back to the default colors, simply enter:
@@ -59,10 +59,6 @@ color 2
 color
 
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use dir /s Command to Create a Lot of Scrolling Text
 
@@ -92,7 +88,11 @@ dir /s | more
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the ping-t Command to Ping a Website Continuously
@@ -110,10 +110,6 @@ ping -t example.com
 Your browser does not support the video tag. 
 
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
 
@@ -159,6 +155,10 @@ genact -m cryptomining
 
 Your browser does not support the video tag. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
 
  For our final command, let’s pull out all the stops and go full overboard with “hollywood”. This is another Linux command that creates a split-screen terminal that looks like something straight out of a Hollywood movie—the stereotypical mainstream hacker visuals.
@@ -196,21 +196,21 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-focus-and-frame-the-art-of-intimate-movie-filming/"><u>[New] Focus & Frame The Art of Intimate Movie Filming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-amplify-in-game-voices-naturally-step-by-step-process-for-free-fire-players/"><u>[New] How to Amplify In-Game Voices Naturally Step-by-Step Process for Free Fire Players</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-ideal-vr-solutions-for-drone-flying/"><u>[New] Ideal VR Solutions for Drone Flying</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-final-flair-free-and-paid-templates-to-express-thanks/"><u>[Updated] Final Flair Free & Paid Templates to Express Thanks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-book-trailers-displayed/"><u>2024 Approved Innovative Book Trailers Displayed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-drafting-alluring-vlog-show-content/"><u>2024 Approved The Art of Drafting Alluring Vlog Show Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/currently-accessing-and-utilizing-gpt-4-with-chatgpt-a-step-by-step-guide/"><u>Currently Accessing and Utilizing GPT-4 with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/examining-realities-intertwined-what-is-mixed-reality-for-2024/"><u>Examining Realities Intertwined What Is Mixed Reality for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/free-extension-software-leaders-in-chromebook-video-recording/"><u>Free Extension Software Leaders in Chromebook Video Recording</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-on-iphone-7-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-m6-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on M6 Pro 5G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hdtv-revolution-comparing-the-leading-8k-tv-brands/"><u>In 2024, HDTV Revolution Comparing the Leading 8K TV Brands</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-turnout-video-on-your-android-device/"><u>In 2024, How to Turnout Video on Your Android Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-for-effectful-tiktok-videos/"><u>In 2024, Innovative Methods for Effectful TikTok Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/protecting-your-iphone-from-the-latest-mercenary-backed-spyware-attacks-insights-and-advice-from-apple-zdnet/"><u>Protecting Your iPhone From the Latest Mercenary-Backed Spyware Attacks: Insights and Advice From Apple | ZDNET</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/war-thunder-game-stability-woes-overcoming-new-2-challenges-and-crashes-tips-and-tricks/"><u>War Thunder Game Stability Woes: Overcoming New 2# Challenges and Crashes (Tips & Tricks)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-optimal-android-apps-for-clear-screen-recordings/"><u>[New] 2024 Approved Optimal Android Apps for Clear Screen Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-basics-to-expertise-3d-lut-creation/"><u>[New] From Basics to Expertise 3D LUT Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ghastly-graphics-maker/"><u>[New] Ghastly Graphics Maker</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-a-step-by-step-approach-to-ad-revenue-in-youtube-videos/"><u>[New] In 2024, A Step-by-Step Approach to Ad Revenue in YouTube Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-ultimate-checklist-for-video-praise-mastery/"><u>[New] In 2024, The Ultimate Checklist for Video Praise Mastery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spotlight-a-podcast-on-your-instagram-feed/"><u>[New] Spotlight a Podcast on Your Instagram Feed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopros-deep-sea-capturing-unforgettable-underwater-scenes/"><u>[Updated] GoPro's Deep Sea Capturing Unforgettable Underwater Scenes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-footsteps-into-frame-finesse-a-novices-guide-to-hd-content/"><u>2024 Approved First Footsteps Into Frame Finesse A Novice's Guide to HD Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-tips-for-optimizing-tiktok-video-sharing-on-zoom/"><u>2024 Approved Tips for Optimizing TikTok Video Sharing on Zoom</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-handheld-gaming-with-the-nintendo-switch-lite-a-detailed-review-and-analysis/"><u>Budget-Friendly Handheld Gaming with the Nintendo Switch Lite: A Detailed Review and Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/concevoir-un-trailer-de-film-a-moins-de-cout-guide-complet-pour-des-bandes-annonces-professionnelles/"><u>Concevoir Un Trailer De Film À Moins De Coût : Guide Complet Pour Des Bandes Annonces Professionnelles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-fledgling-to-front-runner-flourishing-in-follower-count-for-2024/"><u>From Fledgling to Front-Runner Flourishing in Follower Count for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expressive-photography-techniques-applying-motion-blur-to-faces/"><u>In 2024, Expressive Photography Techniques Applying Motion Blur to Faces</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-freeframe-finder-unearthing-elite-tiktok-background-art/"><u>In 2024, FreeFrame Finder Unearthing Elite TikTok Background Art</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimize-and-elevate-video-clarity-using-winxvideo-ai-the-ultimate-guide/"><u>Optimize and Elevate Video Clarity Using Winxvideo AI: The Ultimate Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-common-issues-steps-for-a-smooth-tiktok-experience/"><u>Solving Common Issues: Steps for a Smooth TikTok Experience</u></a></li>
 </ul></div>
 

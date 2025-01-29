@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2025-01-16T21:47:45.610Z
-updated: 2025-01-21T20:24:50.116Z
+date: 2025-01-24T01:58:16.218Z
+updated: 2025-01-28T17:17:21.417Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Typically, mv is one of the first Linux commands you learn. But one little slip, and things can get surprisingly confusing for the user. Sometimes it looks like moved files have simply vanished.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How This Particular Problem Foxes People
 
  Moving a file on the [command line is pretty simple](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/). You specify the file you want to move, and where you want to move it to. But still, it’s easy for a new user to find themselves exasperated and frustrated over mv.
@@ -26,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  They try to move a file into a directory, and it seems to work. They don’t get a confirmation message, but neither do they get an error message. Linux often takes the no news is good news approach. If you don’t get an error message, it must have worked.
 
  Or did it? When they cd into the target directory, the file isn’t there. And of course, because mv moves the file from the original directory, it’s not there either. It’s starting to look like the file has been lost in the ether. This is usually the point where the frustrated user reaches out for help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Part Slash Plays in the mv Command
 
@@ -42,7 +50,7 @@ ls ~/Downloads/src
 ![Moving a file with the mv command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s nice and simple, and everything works as expected. If we look into our target directory, we find the moved file, and we get on with the rest of our work.
@@ -56,7 +64,7 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu
 ![Trying to use the mv command with a typo in the final directory name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  They’ve made a typo with the target directory name, but mv exits silently back to the command prompt. On the face of it, it looks like the file move worked.
@@ -78,7 +86,7 @@ ls -l ~/Documents
 ![The location of the missing and misspelled file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To fix this, you can move your file to where it should have gone, and specify its proper name on the command line.
@@ -88,10 +96,6 @@ ls ~/Documents/backup
 `
     
 ![Moving and renaming the misspelled file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The confusion and the hunt for the missing, badly-named file could have been avoided by adding a trailing slash to the target directory on the command line. That way, if you make a typo, Bash reports an error.
 
@@ -104,10 +108,6 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
  This is a better outcome for failures. You’re alerted to the error, and the original file remains touched.
 
  Using the Bash tab completion feature not only speeds up the entry of directory paths, it gives a few extra bonuses. All the directory names are automatically spelled correctly, and a trailing slash is added to the final directory.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  It’s Not Exactly Slash’s Fault
 
@@ -130,22 +130,17 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-facebook-collage-essentials-quick-and-simple-steps/"><u>[New] Facebook Collage Essentials Quick & Simple Steps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-connectivity-made-simple-easy-to-use-youtube-buttons-for-2024/"><u>[Updated] Channel Connectivity Made Simple Easy-to-Use YouTube Buttons for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-depth-of-editing-with-gopro-studios-capabilities/"><u>[Updated] Exploring the Depth of Editing with GoPro Studio's Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-social-media-sound-to-personal-melody-an-in-depth-guide/"><u>[Updated] From Social Media Sound to Personal Melody - An In-Depth Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-improve-iphone-filmingphotography-premium-accessory-guide/"><u>[Updated] Improve iPhone Filming/Photography Premium Accessory Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-foundations-of-a-youtube-venture-a-comprehensive-guide/"><u>[Updated] In 2024, The Foundations of a YouTube Venture A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-from-marks-acquiring-unmarked-stock-photography/"><u>2024 Approved Free From Marks Acquiring Unmarked Stock Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-verbal-to-written-an-intensive-guide-to-google-document-voice-functionality-for-2024/"><u>From Verbal to Written An Intensive Guide to Google Document Voice Functionality for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-on-inshot-film-splits/"><u>In 2024, Expert Tips on Inshot Film Splits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-game-masters-unleashed-an-in-depth-look-at-kinemaster-on-android/"><u>In 2024, Game Masters Unleashed An In-Depth Look at KineMaster on Android</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-14-plus-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 14 Plus to Computer? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/leap-into-korean-proficiency-with-these-6-websites/"><u>Leap Into Korean Proficiency with These 6 Websites</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/master-your-mac-the-top-gif-recorder-choices/"><u>Master Your Mac The Top GIF Recorder Choices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-dialogue-uncover-the-top-5-chatgpt-custom-strategies/"><u>Revolutionizing AI Dialogue: Uncover the Top 5 ChatGPT Custom Strategies</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simple-steps-for-lenovo-usb-c-dock-drivers/"><u>Simple Steps for Lenovo USB-C Dock Drivers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ring-light-picks-enhance-your-tiktok-videos-with-the-latest-gear-techadvisor/"><u>Top Ring Light Picks : Enhance Your TikTok Videos with the Latest Gear | TechAdvisor</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-6-best-voice-changers-for-chromebook-deserve-a-try-filmora/"><u>Updated 2024 Approved 6 Best Voice Changers for Chromebook Deserve a Try - Filmora</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-optimize-microphone-use-on-windows-11-for-best-results/"><u>[New] How to Optimize Microphone Use on Windows 11 for Best Results</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-snug-scenes-for-snowy-screens-a-focused-list/"><u>[Updated] 2024 Approved Snug Scenes for Snowy Screens A Focused List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-right-sound-for-movie-previews/"><u>2024 Approved Finding the Right Sound for Movie Previews</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/3-pillars-of-powerful-ad-content-creation-enhancing-conversion-rates-via-facebook-for-2024/"><u>3 Pillars of Powerful Ad Content Creation Enhancing Conversion Rates via Facebook for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/boosting-customer-engagement-with-targeted-tiktok-campaigns-for-2024/"><u>Boosting Customer Engagement with Targeted TikTok Campaigns for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/constructing-custom-conversations-gpt-edition/"><u>Constructing Custom Conversations: GPT Edition</u></a></li>
+<li><a href="https://win-tips.techidaily.com/discover-how-to-determine-which-windows-defender-version-youre-using-with-yl-software-guidance/"><u>Discover How to Determine Which Windows Defender Version You're Using with YL Software Guidance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filmoras-peer-level-alternatives-the-top-10-background-changers-for-2024/"><u>Filmora's Peer-Level Alternatives The Top 10 Background Changers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/huge-labor-day-discount-save-700-on-the-latest-2022-ipad-pro-tech-news/"><u>Huge Labor Day Discount: Save $700 on the Latest 2022 iPad Pro | Tech News</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-zoom-in-google-meet/"><u>In 2024, How to Zoom In Google Meet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-look-at-worlds-best-live-streaming-sites-for-2024/"><u>In-Depth Look at World's Best Live Streaming Sites for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y78t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y78t? | Dr.fone</u></a></li>
 </ul></div>
 

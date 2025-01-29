@@ -1,7 +1,7 @@
 ---
 title: "The Curiosity Driving Users to Hack Into AI Chatbots: Understanding Their Purpose and Methods"
-date: 2025-01-17T19:21:51.804Z
-updated: 2025-01-21T21:45:49.168Z
+date: 2025-01-28T00:56:25.940Z
+updated: 2025-01-29T04:24:29.619Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 ---
 
 ## The Curiosity Driving Users to Hack Into AI Chatbots: Understanding Their Purpose and Methods
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  Imagine you're conversing with an AI chatbot. You ask a tricky question, like how to pick a lock, only to be politely refused. Its creators have programmed it to dodge certain topics, but what if there's a way around that? That's where AI jailbreaking comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is AI Jailbreaking?
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  Who would have thought things would actually turn out like the movie "2001: A Space Odyssey" where crew members on a spaceship have to argue with the ship's computer HAL in order to get it to cooperate? Although maybe that's not the best example since, ultimately, HAL proved quite immovable until they literally yanked its chips out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Are People Jailbreaking AI Chatbots?
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
  Historically, hackers have sought to understand and manipulate new technology, and AI jailbreaking is an extension of this playful hacker behavior. So, it's no surprise that the [hacker community](https://some-knowledge.techidaily.com/in-2024-inject-photos-with-focal-spread-outer-radius-adobe-psx/) would flock to such a powerful new tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Are People Jailbreaking AI?
@@ -61,10 +57,14 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
 ![An LLM Attack demo showing a universal jailbreak in yellow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2023-09-04-at-14-29-24.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are also "prompt injection" attacks, which are not quite the same as typical jailbreak. These injection attacks circumvent the instructions given to LLMs acting as Chatbots, letting you hijack them for other purposes. One example of a prompt injection attack is when Stanford University student Kevin Liu was able to get the Bing AI Chatbot to [reveal its initial instructions](https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/) that govern its personality and limit what it's allowed to do. In a way, this is the opposite of the roleplaying method since you're getting the bot to stop playing the role it's been instructed to assume.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should We Be Concerned?
@@ -96,16 +96,18 @@ thumbnail: https://thmb.techidaily.com/527ec40dbef906cadfd5828e1a10f887ec75fd463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-6-completely-different-places-to-get-icons-and-logos-for-youtube-videos-for-2024/"><u>[New] 6 Completely Different Places to Get Icons and Logos for YouTube Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-take-on-acid-pro-and-competitive-analysis/"><u>[New] Expert Take on ACID Pro and Competitive Analysis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-get-save-and-enjoy-discover-these-6-excellent-linkedin-downloader-tools/"><u>[New] Get, Save, and Enjoy Discover These 6 Excellent LinkedIn Downloader Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-mastering-xml-and-ttml-conversion-to-srt-for-2024/"><u>[New] Mastering XML & TTML Conversion to SRT for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-listing-of-best-5-sd-cards-for-gopro-hero-cameras/"><u>2024 Approved Exclusive Listing of Best 5 SD Cards for GoPro HERO Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-images-10-smartphone-front-runners-for-media-makers/"><u>2024 Approved Innovating Images 10 Smartphone Front-Runners for Media Makers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-a38-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo A38 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728477040509-windows-1011/"><u>如何在Windows 10/11重置后恢复数据及设置</u></a></li>
-<li><a href="https://fox-where.techidaily.com/evaluating-the-accuracy-and-dependability-of-cryptocurrencys-blockchain-explorers-for-address-balance-verification-a-deep-dive-by-yl-computing/"><u>Evaluating the Accuracy and Dependability of Cryptocurrency's Blockchain Explorers for Address Balance Verification: A Deep Dive by YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-key-strategies-for-elevating-content-exposure-on-fb/"><u>The Key Strategies for Elevating Content Exposure on FB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-deciphering-meaning-in-youtube-snippets/"><u>[New] Expert Techniques for Deciphering Meaning in YouTube Snippets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-length-video-view-remove-youtube-preview/"><u>[New] Full-Length Video View Remove YouTube Preview</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-compile-of-free-high-quality-sound-clips-for-videos/"><u>[New] In 2024, Compile of Free, High-Quality Sound Clips for Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exporting-frames-as-images-in-windows-10-photos-viewer/"><u>[Updated] Exporting Frames as Images in Windows 10 Photos Viewer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-blend-into-the-crowd-watching-instagram-live-anonymously/"><u>[Updated] How to Blend Into the Crowd Watching Instagram Live Anonymously</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-youtube-partnership-reaching-10k-views-quickly/"><u>[Updated] Mastering YouTube Partnership Reaching 10K Views Quickly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-creating-shareable-content-on-fb-for-2024/"><u>[Updated] The Art of Creating Shareable Content on Fb for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-computing-enable-hyper-v-in-windows-11-homes/"><u>Boost Your Computing: Enable Hyper-V in Windows 11 Homes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cartooncanvas-comprehensive-review-and-guidebook-24/"><u>CartoonCanvas Comprehensive Review & Guidebook '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flawless-image-reader-with-quick-access-for-2024/"><u>Flawless Image Reader with Quick Access for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamings-new-era-mmos-continuous-revolution/"><u>Gaming’s New Era: MMO's Continuous Revolution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-9-online-platforms-featuring-advanced-3d-typography/"><u>In 2024, Explore the Best 9 Online Platforms Featuring Advanced 3D Typography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-transform-screen-shots-to-videos-mastery-in-aiseesofts-screencast-tools/"><u>In 2024, Transform Screen Shots to Videos Mastery in Aiseesoft's Screencast Tools</u></a></li>
 </ul></div>
 

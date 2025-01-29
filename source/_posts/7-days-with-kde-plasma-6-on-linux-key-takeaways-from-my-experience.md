@@ -1,7 +1,7 @@
 ---
 title: "7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience"
-date: 2025-01-14T18:03:21.077Z
-updated: 2025-01-21T16:01:17.518Z
+date: 2025-01-24T10:47:20.369Z
+updated: 2025-01-28T23:28:48.796Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 ## 7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
 
  I’ve always been aware of the KDE Plasma desktop, and occasionally I’ve dabbled with it out of curiosity. Here’s what a GNOME user discovered when I used it exclusively for one week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Desktop Environment and Getting Work Done
 
  I use my computers to earn my living. My number one priority is getting work done. That means I need to have solid, dependable software available to me, and both the software and operating system must be stable. Likewise, the desktop environment.
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/b46dad75221e4740026b09a7187d9a5f274b77721
  I know how to drive GNOME. What would be the reward for climbing the learning curve with another DE? What could it do that was materially better for me? I’ve installed different desktops for specific reasons, such as putting a lightweight DE on very old hardware, but my mainline, daily driver has always been GNOME.
 
  With [Plasma 6.0 recently released](https://instagram-video-recordings.techidaily.com/new-professional-thumbnails-for-engaging-igtv-posts/), it seemed like a great time to take a serious look at it. I used Plasma exclusively for a week, and this is how it went.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  First Impressions
 
@@ -77,15 +77,15 @@ Dave McKay/How-To Geek
 
 ![The More Actions window menu in KDE Plasma 6.0](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  You can change wallpapers, icons, system sounds, window decorations, and more in the System Settings application, under the "Colors and Themes" section.
 
  You can choose from a selection of off-the-peg themes, [download more themes](https://store.kde.org/browse/), and edit the elements of a theme to fine-tune it to your preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Dolphin File Browser
 
@@ -99,6 +99,10 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma Dolphin file browser with split panes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/9-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  Yes, you can do this in other file browsers, but a small icon labeled "Split" has to be the easiest way to do this. Likewise, the Icons View, Compact View, and Details View icons make these common actions accessible and simple.
@@ -106,7 +110,7 @@ Dave McKay/How-To Geek
 ![The KDE Plasma Dolphin file browser in detail View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -121,15 +125,15 @@ Dave McKay/How-To Geek
 
  Having a list of mounted drives, each with a visual depiction of used and free space, is such a useful feature it makes you wonder why others don’t adopt this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Default KDE Applications
 
  Plasma 6.0 comes well-equipped, with a [collection of software applications](https://community.kde.org/KDE%5FGear/24.02%5FRelease%5Fnotes) already installed. They’re all accessible from the Application Launcher.
 
 ![The KDE Plasma 6.0 Application Launcher showing Frequently Used applications and places](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/12-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -149,13 +153,13 @@ Dave McKay/How-To Geek
 
 ![LibreOffice running on KDE Plasma 6.0 desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Once installed and launched, LibreOffice looked like any other application in Plasma, with the appropriate window and dialog decorations from the desktop theme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  KDE Plasma 6.0 Performance
 
@@ -179,21 +183,17 @@ Dave McKay/How-To Geek
 
 ![The KDE Plasma 6.0 System Settings application open on the General Behavior pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/14-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Stability: Generally Good...
 
  Plasma 6.0 is touted as having much-improved support for Wayland, but I couldn’t get it to work at all. Swapping back to X11 brought everything to life, and no doubt Wayland support will continue to improve. The chatter on forums tells me it works just fine for many people.
 
  I had the Discover app store crash on me a few times, but that was about it. Everything else ran perfectly well, including the applications I manually installed and made heavy use of every day, such as LibreOffice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Will I Stick With Plasma 6.0?
 
@@ -222,16 +222,21 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-highlights-from-chinas-winter-olympiad-2022/"><u>[New] Highlights From China's Winter Olympiad 2022</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-8-desktop-images-to-personalize-your-mbp/"><u>[New] Ideal 8 Desktop Images to Personalize Your MBP</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-images-scenery-for-engaging-online-audiences/"><u>[Updated] Ideal Images Scenery for Engaging Online Audiences</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-the-skies-a-guide-to-using-syma-x8c/"><u>[Updated] Mastering the Skies A Guide to Using Syma X8C</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-opening-and-playing-srt-on-pcmac/"><u>2024 Approved Expert Tips Opening and Playing SRT on PC/Mac</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-spark-10-4g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Spark 10 4G to Roku | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-user-sign-in-after-windows-authentication-issues/"><u>Enabling User Sign-In After Windows Authentication Issues</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-amplify-your-channel-effortless-tactics-for-more-views/"><u>In 2024, Amplify Your Channel Effortless Tactics for More Views</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-find-x7-ultra-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo Find X7 Ultra? Fixed | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovating-with-numbers-tips-for-tiktok-video-enhancements-for-2024/"><u>Innovating with Numbers Tips for TikTok Video Enhancements for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-guide-to-navigating-steam-with-switch-pro/"><u>The Ultimate Guide to Navigating Steam with Switch Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-easy-access-best-free-youtube-subtitle-extractors-for-2024/"><u>[New] Easy Access Best Free YouTube Subtitle Extractors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-the-jargon-what-mcns-mean-for-you/"><u>[Updated] 2024 Approved Decoding the Jargon What MCNs Mean for You</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-15-essential-skills-for-recording-digital-music/"><u>[Updated] Explore 15 Essential Skills for Recording Digital Music</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection/"><u>[Updated] From Fragmented Footage to Fluid Editing Inshot's Pathway to Perfection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hidden-insights-for-importer-mastery-on-windows-10/"><u>[Updated] Hidden Insights for Importer Mastery on Windows 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-constructing-the-ideal-setup-for-advanced-4k-video-production/"><u>[Updated] In 2024, Constructing the Ideal Setup for Advanced 4K Video Production</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-digital-photo-albums-acoustic-advancement/"><u>[Updated] In 2024, Digital Photo Albums Acoustic Advancement</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-revolutionizing-personal-cinema-with-xiaomis-mi-11-lite-features/"><u>[Updated] Revolutionizing Personal Cinema with Xiaomi's Mi 11 Lite Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-guide-to-finding-exceptional-pexels-visuals/"><u>2024 Approved Quick Guide to Finding Exceptional Pexels Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-mematic-for-notes-for-2024/"><u>Harness the Power of Mematic for Notes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlighting-excellence-in-8-3d-websites-with-gold-effects-for-2024/"><u>Highlighting Excellence in 8 3D Websites with Gold Effects for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-atandt-handle-international-call-roaming/"><u>How Does AT&T Handle International Call Roaming?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-shoot-hdr-photos-with-iphone-for-2024/"><u>How to Shoot HDR Photos with iPhone for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-gaming-experience-quick-and-effortless-downloads-for-amd-vega-graphics-drivers/"><u>Improve Gaming Experience: Quick and Effortless Downloads for AMD Vega Graphics Drivers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-flipbooks-to-frames-7-core-strategies-for-crafting-engaging-gifs/"><u>In 2024, From Flipbooks to Frames 7 Core Strategies for Crafting Engaging GIFs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-tecno-spark-go-2024-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Tecno Spark Go (2024) without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

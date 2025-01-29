@@ -1,7 +1,7 @@
 ---
 title: "Guide: Converting Text Into Various Structures Using ChatGPT"
-date: 2025-01-14T16:56:57.610Z
-updated: 2025-01-21T20:49:02.174Z
+date: 2025-01-22T21:59:48.198Z
+updated: 2025-01-28T21:01:15.823Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 ## Guide: Converting Text Into Various Structures Using ChatGPT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -36,6 +36,10 @@ Related: [What Is ChatGPT Plus?](https://android-location.techidaily.com/in-2024
 
  That being said, I have copied some pretty broken text into ChatGPT and the results were great. For example, copying the entire auto-transcribed [chat history of a Microsoft Teams Meeting](https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/) into ChatGPT and having it write a concise meeting report works surprisingly well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Working in Chunks and Prompting ChatGPT
 
 [ChatGPT can only process a certain amount of "tokens"](https://youtube-video-recordings.techidaily.com/pathway-to-profit-via-youtubes-cp2024-program/) at a time. If your content exceeds this limit, you need to break it down into smaller chunks. ChatGPT will let you know if a prompt was too long, but I've used a method where I prompt ChatGPT with something like "I'm going to give you text in multiple chunks, don't do anything with it, just read it for now." and then paste in the text in multiple parts.
@@ -56,6 +60,10 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 
 ![ChatGPT YouTube script prompt with original text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/2-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now submit the prompt.
 
 ![ChatGPT YouTube Script](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/3-3.png) 
@@ -65,6 +73,10 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
  How well does this work? Well, I host a small [YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU228050/https://www.youtube.com/@Online-Tech-Tips), and for the past few months I've been using ChatGPT to convert the blog articles each video is based on into a YouTube script format. This is exactly what I had been doing by hand before, except now it takes seconds rather than an hour or two of my time.
 
  As with the other examples you'll see below, a major advantage of having ChatGPT transform text rather than generate it, is that you don't have to worry about it making stuff up that wasn't in the original text. You _still need to quality-control the transformed text_, but I have yet to encounter a situation where ChatGPT added anything into my scripts that were not in the original text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Example 2: Changing a Technical Document Into a Popular Article
 
@@ -80,15 +92,15 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 
 ![ChatGPT Einstein paper conversion](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/5-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're a [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/) subscriber, you can make use of the beta [plugins store](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/), which includes [ChatWithPDF](https://foundr.ai/product/chatwithpdf), a plugin that lets you load a PDF and then interact with it using ChatGPT. This may be a more efficient way to get complex technical PDFs into the Chatbot.
 
 ![ChatGPT EINSTEIN output](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/6.png) 
 
  The resulting output should be a reader-friendly article that conveys the essence of the technical document in simpler terms. Remember that you can prompt ChatGPT to write text at a particular level, such as a specific grade level in school.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Example 3: Turning a Short Story Into a Movie Script
 
@@ -102,23 +114,11 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 
 ![ChatGPT Emperor's New Suit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don't forget that you can be very specific in your prompt, asking ChatGPT to alter the tone or transform the story somehow. You can also specify what sort of script format you want. For example, a spec script or a shooting script.
 
 ![ChatGPT Emperor's New Suit Script](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/9-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While ChatGPT is unlikely to produce something of final usable quality right off the bat, it's much easier to edit a script than format and write one from scratch. It's a great way to extract the parts of the story relevant to the script, such as separating dialogue from inner thoughts, or descriptions of locations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What to Watch Out For
 
@@ -145,19 +145,17 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-automate-playlist-retrieval-from-youtube-directly/"><u>[New] 2024 Approved Automate Playlist Retrieval From YouTube Directly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-extra-storage-for-sony-a7s-ii/"><u>[New] Excellent Extra Storage for Sony A7S II</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-volume-dial-down-with-fl-studio-features/"><u>[New] Harmonizing Volume Dial-Down with FL Studio Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-bypassing-buffer-blocks-in-photo-booth-videos/"><u>[Updated] Bypassing Buffer Blocks in Photo Booth Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-film-makers-guide-to-selecting-between-hero-and-cube-videos/"><u>[Updated] Film Maker's Guide to Selecting Between Hero and Cube Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-image-mastery-through-top-rated-grid-makers/"><u>[Updated] Image Mastery Through Top-Rated Grid Makers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-best-hash-tracking-apps-a-comprehensive-review-fbtwitterinsta/"><u>[Updated] The Best Hash Tracking Apps A Comprehensive Review (FB/Twitter/Insta)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-10-best-introduction-editors-apps/"><u>[Updated] Top 10 Best Introduction Editors (Apps)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-selections-best-mac-applications-for-videography/"><u>[Updated] Top Selections Best Mac Applications for Videography</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-musical-pieces-with-cross-sound-techniques-for-2024/"><u>Harmonizing Musical Pieces with Cross-Sound Techniques for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-14-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi 14 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-v-purse-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor V Purse</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/screen-recorder-apps-for-iphoneipad-users/"><u>Screen Recorder Apps for iPhone/iPad Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-injecting-spark-into-your-unique-podcast-format/"><u>[New] Injecting Spark Into Your Unique Podcast Format</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-frozen-delight-ice-cream-cam-and-comprehensive-tutorial/"><u>[Updated] 2024 Approved Frozen Delight Ice Cream Cam & Comprehensive Tutorial</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-apex-cameras-capturing-sporting-triumphs/"><u>[Updated] Apex Cameras Capturing Sporting Triumphs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-avoid-youtube-previews-on-all-platforms-and-devices/"><u>[Updated] Avoid YouTube Previews on All Platforms & Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-optimal-vr-for-drone-pilots/"><u>[Updated] Expert Picks Optimal VR for Drone Pilots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infuse-sound-into-your-whatsapp-status-update/"><u>[Updated] Infuse Sound Into Your WhatsApp Status Update</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-the-art-of-archiving-with-these-13-key-techniques/"><u>[Updated] Master the Art of Archiving with These 13 Key Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-any-tiktok-audio-the-ultimate-cellphone-sound/"><u>2024 Approved How To Make Any TikTok Audio, the Ultimate Cellphone Sound</u></a></li>
+<li><a href="https://fox-http.techidaily.com/avoiding-common-mistakes-in-macos-mixer-streaming-for-2024/"><u>Avoiding Common Mistakes in MacOS Mixer Streaming for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-save-big-on-macbook-air-available-for-only-280-today/"><u>Exclusive Deal Alert: Save Big on MacBook Air - Available for Only $280 Today!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-luts-showcase-10-standouts-with-direct-downloads-for-2024/"><u>Free LUTs Showcase 10 Standouts with Direct Downloads for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-a79-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo A79 5G to Apple TV | Dr.fone</u></a></li>
 </ul></div>
 

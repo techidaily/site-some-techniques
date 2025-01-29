@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists"
-date: 2025-01-14T20:01:00.691Z
-updated: 2025-01-21T17:06:38.228Z
+date: 2025-01-22T10:50:09.950Z
+updated: 2025-01-28T19:09:45.410Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 ---
 
 ## Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -22,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 ##  What Are ACLs?
 
  Access Control Lists (ACLs) supplement the [standard file system permissions model on Linux and Unix](https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/). In a nutshell, they allow you to go beyond the "user/group/other" concept to create additional sets of permissions for files and directories. They also do neat things like automatically applying permissions to new files and directories. But first, let's cover some basic Linux file system permissions concepts in which ACLs work alongside.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Standard File System Permissions
 
@@ -50,7 +50,7 @@ ls -l mysupersecretfile.txt
 ![A terminal window showing standard file permissions of a sample file on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. \[U\]ser (owner) permissions
@@ -83,10 +83,6 @@ ls -l report.pdf
 
 ![A terminal window showing file listing output on Debian.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  What to do? Well, you _could_ just take an early lunch break. However, let's instead employ ACLs!
 
 ##  Checking for ACL Support on Your System
@@ -100,10 +96,6 @@ sudo tune2fs -l /dev/sda1 | grep "Default mount options"
 ![A terminal window showing output of tune2fs command, and acl default mount option circled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-1.png) 
 
  For reference, here's a [list of different file system support for ACLs, grouped by platform, written by IBM](https://www.ibm.com/docs/en/storage-protect/8.1.21?topic=linux-file-system-acl-support).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The getfacl Command
 
@@ -128,7 +120,7 @@ ls -l report.pdf
 ![A terminal window showing ls command output with ACL entry flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The setfacl Command
@@ -154,10 +146,14 @@ getfacl report.pdf
 ![A terminal window showing output of getfacl command on our sample file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Do you spot our new entry?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Default ACLs
 
@@ -168,6 +164,10 @@ getfacl report.pdf
 sudo setfacl -d -m u:lumberg:rX Accounting
 
 ![A terminal window showing setfacl command to set permissions, then getfacl to show them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  An upper-case **X** applies the execute permission only against new subdirectories; not files.
 
@@ -188,17 +188,14 @@ sudo setfacl -d -m u:lumberg:rX Accounting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-video-editing-simplified-the-best-hacks-for-new-creators/"><u>[New] 2024 Approved Video Editing Simplified The Best Hacks for New Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gentle-glide-of-noises-subdued-amplitude-adjustment/"><u>[Updated] Gentle Glide of Noises Subdued Amplitude Adjustment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonious-hushes-softening-sounds-with-garageband/"><u>[Updated] Harmonious Hushes Softening Sounds with Garageband</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-quick-guide-applying-on-screen-captions-to-photos-videos/"><u>[Updated] In 2024, Quick Guide Applying On-Screen Captions to Photos Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-action-camera-showdown-unmatched-seventh-lineup-wetproof/"><u>2024 Approved Action Camera Showdown Unmatched Seventh Lineup Wetproof</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-bifrost-betrayal-gods-at-war/"><u>2024 Approved Bifrost Betrayal Gods at War</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-picks-the-leading-18-webcam-capture-apps-for-2024/"><u>Expert Picks The Leading 18 Webcam Capture Apps for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-download-speed-suddenly-dropping-to-zero-on-steam-for-windows/"><u>How to Fix the Download Speed Suddenly Dropping to Zero on Steam for Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27e-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo V27e Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-audio-on-your-device-apples-podcast-download-guide/"><u>In 2024, Harnessing the Power of Audio on Your Device Apple's Podcast Download Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/uniting-platforms-sharing-vids-on-twtplustumblr-space-for-2024/"><u>Uniting Platforms Sharing Vids on Twt+Tumblr Space for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-9-free-full-length-christmas-movies-on-youtube-for-2024/"><u>Watch 9 Free Full Length Christmas Movies On YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-find-your-perfect-match-gear-vr-compatible-phones-2023/"><u>[New] Find Your Perfect Match Gear VR-Compatible Phones 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-success-channel-ideas-to-spark-momentum/"><u>[New] In 2024, Elevating Success Channel Ideas to Spark Momentum</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-windows-11s-high-dynamic-range-auto-hdr-for-better-visuals/"><u>[Updated] Harnessing Windows 11'S High Dynamic Range (Auto HDR) for Better Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-to-the-best-10-vector-images-online/"><u>2024 Approved Exclusive Guide to the Best 10 Vector Images Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-unmatched-premium-rate-free-luts-of-today/"><u>Discovering Unmatched Premium-Rate Free LUTs of Today</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-to-streamlined-subscription-links-for-video-channels/"><u>Guide to Streamlined Subscription Links for Video Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-capture-clear-and-smooth-aquatic-moments-for-2024/"><u>How to Capture Clear and Smooth Aquatic Moments for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nokia-g22-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nokia G22 Easily?</u></a></li>
+<li><a href="https://win-studio.techidaily.com/les-plus-performants-et-gratuits-alternatives-a-macrium-reflect-pour-le-clonage-hdd-sous-windows-11-10-8-ou-7/"><u>Les Plus Performants Et Gratuits Alternatives À Macrium Reflect Pour Le Clonage HDD Sous Windows (11, 10, 8 Ou 7)</u></a></li>
 </ul></div>
 

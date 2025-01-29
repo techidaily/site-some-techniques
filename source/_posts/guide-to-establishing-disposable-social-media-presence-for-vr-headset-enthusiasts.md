@@ -1,7 +1,7 @@
 ---
 title: Guide to Establishing Disposable Social Media Presence for VR Headset Enthusiasts
-date: 2025-01-16T16:36:32.879Z
-updated: 2025-01-21T19:38:43.758Z
+date: 2025-01-23T23:34:39.978Z
+updated: 2025-01-28T17:16:38.852Z
 tags:
   - cutting-edge
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 * [Quest headsets no longer require Facebook accounts](https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/), so there's no need to create a "throwaway" one. You still have to create a Meta account to keep track of your purchases, but it doesn't have to be linked to Facebook.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -30,7 +30,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  The [Oculus Quest 2](https://www.amazon.com/dp/B099VMT8VZ/?tag=htg-v2-3lqek2p-20&ascsubtag=UUhtgUeUpU208100&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F765034%2Fhow-to-create-a-throwaway-facebook-account-for-oculus-quest%2F&asc%5Fcampaign=Short-Term) is the [best all-around VR headset](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) you can buy, but that recommendation comes with a huge asterisk. In order to use a Quest 2, you need a Facebook account! Luckily, you can minimize that hassle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 8/24/22
@@ -51,6 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  Assuming that you aren't willing to risk the wrath of Mr. Zuckerberg and want to stick within Facebook's policies, there are a few limited options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  If You Already Have a Facebook Account
 
  If you have an active Facebook account that you use on a daily basis, but you don't want to share your VR activities for everyone to see, your only real policy-friendly choice is to dig around in your Quest 2's privacy settings and limit who can see your VR activity.
@@ -70,16 +74,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Facebook Settings and Privacy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Facebook-Settings-and-Privacy.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, choose "Privacy Checkup."
 
 ![Facebook Privacy Checkup Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Privacy-Checkup-Option.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, choose "Who can see what you share."
 
@@ -93,13 +93,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Posts and Stories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Posts-and-Stories.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The final step involves blocking specific users, but for this account that's irrelevant, so just complete the wizard. Now you should have an account that's Facebook policy-compliant but is locked down as much as possible.
 
 ![Account Quest 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Account-Quest-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Modding Your Quest 2
 
@@ -120,15 +120,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-easel-alterations-color-command/"><u>[Updated] Expertise in Easel Alterations - Color Command</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gratuitous-gems-of-humor-your-guide-to-free-memes/"><u>2024 Approved Gratuitous Gems of Humor – Your Guide to FREE Memes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/building-your-youtube-empire-kit-overview-for-2024/"><u>Building Your YouTube Empire Kit Overview for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/dive-into-freeware-for-precise-music-tempo-tracking/"><u>Dive Into Freeware for Precise Music Tempo Tracking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gold-standard-of-livestream-performances-for-2024/"><u>Gold Standard of Livestream Performances for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-insights-augmented-reality-and-virtual-wisdom/"><u>In 2024, Innovative Insights Augmented Reality & Virtual Wisdom</u></a></li>
-<li><a href="https://win-webster.techidaily.com/maximizing-machine-speed-and-smoothness-with-yls-advanced-tech-guidance/"><u>Maximizing Machine Speed and Smoothness with YL's Advanced Tech Guidance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/pathfinding-your-way-from-adsense-to-accounts-aplenty-for-2024/"><u>Pathfinding Your Way From AdSense to Accounts Aplenty for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-11-usb-connectivity-issues-a-comprehensive-fix/"><u>Solving Windows 11 USB Connectivity Issues: A Comprehensive Fix</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-force-youtube-cc-to-stay-on-and-get-more-views-for-2024/"><u>[Updated] How to Force YouTube CC to Stay On and Get More Views for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-deciphering-numbers-an-introduction-to-facebook-insight/"><u>[Updated] In 2024, Deciphering Numbers An Introduction to Facebook Insight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-fixes-syncing-iphone-photos-with-computer/"><u>2024 Approved Fast Fixes Syncing iPhone Photos with Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-8-support-systems-for-high-res-4k-cameras/"><u>2024 Approved Ideal 8 Support Systems for High Res 4K Cameras</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-down-on-cod-fixes-and-advice-for-resolving-the-dev-error-6328-in-call-of-duty-warzone/"><u>Cracking Down on Cod: Fixes & Advice for Resolving the Dev Error 6328 in Call of Duty Warzone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-productivity-with-macos-montereys-custom-focus-feature-a-step-by-step-guide-on-staying-distraction-free/"><u>Enhance Productivity with macOS Monterey's Custom Focus Feature – A Step-by-Step Guide on Staying Distraction-Free</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-free-image-layers-and-enhancers-on-iosandroid-for-2024/"><u>Explore the Best, FREE Image Layers & Enhancers on iOS/Android for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-recover-and-edit-damaged-film-footage-mp4-mov-with-the-help-of-vlc-media-player/"><u>How to Recover and Edit Damaged Film Footage (MP4, MOV) with the Help of VLC Media Player</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-groundbreaking-no-cost-image-editors-unveiled/"><u>In 2024, Groundbreaking No-Cost Image Editors Unveiled</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/selecting-the-superior-vehicle-compasses-of-2024/"><u>Selecting the Superior Vehicle Compasses of 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-future-with-apple-why-skipping-the-iphone-15-means-losing-out-on-innovation-techinsight/"><u>Unveiling the Future with Apple: Why Skipping the iPhone 15 Means Losing Out on Innovation | TechInsight</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Rename Your Files with Windows PowerShell Tools
-date: 2025-01-19T19:35:24.495Z
-updated: 2025-01-21T19:24:17.813Z
+date: 2025-01-26T03:53:09.739Z
+updated: 2025-01-28T22:53:21.928Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Easy Steps to Rename Your Files with Windows PowerShell Tools
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
@@ -51,11 +55,11 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
- PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
 
 ##  How to Rename Files in a Folder With an Increasing Number
 
@@ -68,7 +72,7 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -81,10 +85,6 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -94,7 +94,7 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
@@ -118,19 +118,18 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-funnygenius-create-and-share-memes/"><u>[New] FunnyGenius Create and Share Memes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-futures-finest-gaming-the-ultimate-list-of-new-psvr-titles/"><u>[New] Future's Finest Gaming The Ultimate List of New PSVR Titles</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-prime-10-converters-free-apps-for-efficient-srt-file-transformations/"><u>[New] In 2024, Prime 10 Converters FREE Apps for Efficient SRT File Transformations</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unlocking-the-secrets-to-flawless-ppt-video-production/"><u>[New] Unlocking the Secrets to Flawless PPT Video Production</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>[Updated] 2024 Approved Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-headsets-unveiled-top-8-for-virtual-quests/"><u>[Updated] Innovative Headsets Unveiled Top 8 for Virtual Quests</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-asus-display-adapters-drivers-on-your-windows-machine/"><u>How to Get the Newest ASUS Display Adapters' Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-optimize-microphone-use-on-windows-11-for-best-results-for-2024/"><u>How to Optimize Microphone Use on Windows 11 for Best Results for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-extracting-images-from-movies-using-windows-10-photos-app/"><u>In 2024, Extracting Images From Movies Using Windows 10 Photos App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-calm-to-captivating-techniques-for-motion-blur-mastery/"><u>In 2024, From Calm to Captivating Techniques for Motion Blur Mastery</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-living-life-fully-on-facebook-tips-for-active-engagement/"><u>In 2024, Living Life Fully on Facebook Tips for Active Engagement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-tip-unveiling-the-best-10-free-image-vaults/"><u>In 2024, Pro Tip Unveiling the Best 10 Free Image Vaults</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why does the pokemon go battle league not available On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-instructions-setting-up-wm6/"><u>[New] Expert Instructions Setting Up WM6</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-timestamps-youtube-video/"><u>[New] In 2024, How to Add Timestamps YouTube Video?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-power-of-instagrams-visual-storytelling-covers-edition/"><u>[New] Unlocking the Power of Instagram's Visual Storytelling Covers Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-reveling-in-the-highs-of-nature-with-garmins-ultra-30/"><u>[Updated] 2024 Approved Reveling in the Highs of Nature with Garmin's Ultra 30</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovation-in-iphone-filmmaking-virtual-worlds/"><u>[Updated] Innovation in iPhone Filmmaking Virtual Worlds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-insta-authenticity-your-selfie-verification-journey/"><u>[Updated] Unlocking Insta Authenticity Your Selfie Verification Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovate-your-images-video-enhancer-v22-workflow/"><u>2024 Approved Innovate Your Images Video Enhancer V2.2 Workflow</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/can-you-trust-running-a-registry-cleaner-expert-advice-by-yl-software/"><u>Can You Trust Running a Registry Cleaner?: Expert Advice by YL Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/express-humor-no-charge-with-easymeme-tools-for-2024/"><u>Express Humor, No Charge with EasyMeme Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flying-high-hubsan-h501x4-drone-unveiled-for-2024/"><u>Flying High Hubsan H501X4 Drone Unveiled for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-itel-p40plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Itel P40+ Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-sony-xperia-10-v-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Sony Xperia 10 V Users</u></a></li>
+<li><a href="https://win-great.techidaily.com/microsoft-surface-laptop-5-reviewed-a-familiar-improvement-in-latest-gen-techradar/"><u>Microsoft Surface Laptop 5 Reviewed: A Familiar Improvement in Latest Gen | TechRadar</u></a></li>
 </ul></div>
 

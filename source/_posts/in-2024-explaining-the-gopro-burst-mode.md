@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Explaining the GoPro Burst Mode"
-date: 2024-07-26T15:24:16.114Z
-updated: 2024-07-27T15:24:16.114Z
+date: 2025-01-28T01:40:32.354Z
+updated: 2025-01-28T21:18:08.585Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
 
 # Explaining the GoPro Burst Mode
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -34,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
 ![文字](https://images.wondershare.com/filmora/article-images/gopro-hero5-black-1.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Turning the burst mode on your GoPro on
 
@@ -56,9 +57,100 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
 
  Now that you have learned everything about using the Burst Mode on your GoPro, you just need to select the 'exit' button or click on the 'setting tag' button (which is just to the left of the 'mode' button) for saving the present settings and then exit. The GoPro Burst Mode is now all set up in your camera. All you need to do is select your resolution, speed and the metering before you hit the shutter. Now that you know everything about the Burst Mode on your action camera all you have to do is hit the road and keep shooting.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ The burst mode in GoPro cameras can be used for shooting a number of images in a go. This would allow you to select the image which has been most perfectly captured. Burst Mode is nothing but a sequence of still photos which have been captured just like a video footage.The Hero5 Black cameras are capable of recording videos up to 240 fps which means it can take about 240 images per second. In this article we are going to discuss everything you need to know about the GoPro Burst Mode.
+
+![文字](https://images.wondershare.com/filmora/article-images/gopro-hero5-black-1.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Turning the burst mode on your GoPro on
+
+1. First you have to switch on your camera and press the 'mode' to see the shooting mode menu
+2. Now you need to hit the 'mode' button twice to go to Burst mode
+3. Finally just click on 'rate' to choose the burst rate
+
+ The GoPro Hero5 Black models can capture between 30 frame per second to 3 frame per second. Use the touch screen to select your frame rate. Once the burst rate has been selected you need to attend to a few more settings-
+
+4. Click the FOV to choose field of view
+5. Click the 'mode' button again to choose the metering preference – full frame or spot
+
+ Regular full frame metering: Metering or light metering needs to be selected so as to adjust the level of brightness of the image. Your GoPro cam would automatically adjust the brightness level according to the subject in the frame.
+
+ Spot Metering: This option supersedes the regular metering style. Here the whole picture is metered on the basis of a hypothetical spot in the middle of the picture. This can come in handy while capturing a specific object like people in crowd or an animal from a distance.
+
+6. The 'mode' button has to be clicked once more to turn on/off the ProTune You don't have to bother about ProTune unless you are considering creating a video out of the images. If you just want to view your clips then there is no reason to turn on ProTune. ProTune is known to affect some of the factors linked with the captured images such as colour, FOV, sharpness etc. It allows the professional editors to play with a number of editing options for adjusting the footage.
+
+## The Burst Mode in your GoPro is all ready to use
+
+ Now that you have learned everything about using the Burst Mode on your GoPro, you just need to select the 'exit' button or click on the 'setting tag' button (which is just to the left of the 'mode' button) for saving the present settings and then exit. The GoPro Burst Mode is now all set up in your camera. All you need to do is select your resolution, speed and the metering before you hit the shutter. Now that you know everything about the Burst Mode on your action camera all you have to do is hit the road and keep shooting.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ The burst mode in GoPro cameras can be used for shooting a number of images in a go. This would allow you to select the image which has been most perfectly captured. Burst Mode is nothing but a sequence of still photos which have been captured just like a video footage.The Hero5 Black cameras are capable of recording videos up to 240 fps which means it can take about 240 images per second. In this article we are going to discuss everything you need to know about the GoPro Burst Mode.
+
+![文字](https://images.wondershare.com/filmora/article-images/gopro-hero5-black-1.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Turning the burst mode on your GoPro on
+
+1. First you have to switch on your camera and press the 'mode' to see the shooting mode menu
+2. Now you need to hit the 'mode' button twice to go to Burst mode
+3. Finally just click on 'rate' to choose the burst rate
+
+ The GoPro Hero5 Black models can capture between 30 frame per second to 3 frame per second. Use the touch screen to select your frame rate. Once the burst rate has been selected you need to attend to a few more settings-
+
+4. Click the FOV to choose field of view
+5. Click the 'mode' button again to choose the metering preference – full frame or spot
+
+ Regular full frame metering: Metering or light metering needs to be selected so as to adjust the level of brightness of the image. Your GoPro cam would automatically adjust the brightness level according to the subject in the frame.
+
+ Spot Metering: This option supersedes the regular metering style. Here the whole picture is metered on the basis of a hypothetical spot in the middle of the picture. This can come in handy while capturing a specific object like people in crowd or an animal from a distance.
+
+6. The 'mode' button has to be clicked once more to turn on/off the ProTune You don't have to bother about ProTune unless you are considering creating a video out of the images. If you just want to view your clips then there is no reason to turn on ProTune. ProTune is known to affect some of the factors linked with the captured images such as colour, FOV, sharpness etc. It allows the professional editors to play with a number of editing options for adjusting the footage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## The Burst Mode in your GoPro is all ready to use
+
+ Now that you have learned everything about using the Burst Mode on your GoPro, you just need to select the 'exit' button or click on the 'setting tag' button (which is just to the left of the 'mode' button) for saving the present settings and then exit. The GoPro Burst Mode is now all set up in your camera. All you need to do is select your resolution, speed and the metering before you hit the shutter. Now that you know everything about the Burst Mode on your action camera all you have to do is hit the road and keep shooting.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -94,106 +186,10 @@ Follow @Max Wales
 
 6. The 'mode' button has to be clicked once more to turn on/off the ProTune You don't have to bother about ProTune unless you are considering creating a video out of the images. If you just want to view your clips then there is no reason to turn on ProTune. ProTune is known to affect some of the factors linked with the captured images such as colour, FOV, sharpness etc. It allows the professional editors to play with a number of editing options for adjusting the footage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## The Burst Mode in your GoPro is all ready to use
 
  Now that you have learned everything about using the Burst Mode on your GoPro, you just need to select the 'exit' button or click on the 'setting tag' button (which is just to the left of the 'mode' button) for saving the present settings and then exit. The GoPro Burst Mode is now all set up in your camera. All you need to do is select your resolution, speed and the metering before you hit the shutter. Now that you know everything about the Burst Mode on your action camera all you have to do is hit the road and keep shooting.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- The burst mode in GoPro cameras can be used for shooting a number of images in a go. This would allow you to select the image which has been most perfectly captured. Burst Mode is nothing but a sequence of still photos which have been captured just like a video footage.The Hero5 Black cameras are capable of recording videos up to 240 fps which means it can take about 240 images per second. In this article we are going to discuss everything you need to know about the GoPro Burst Mode.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![文字](https://images.wondershare.com/filmora/article-images/gopro-hero5-black-1.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
-
-## Turning the burst mode on your GoPro on
-
-1. First you have to switch on your camera and press the 'mode' to see the shooting mode menu
-2. Now you need to hit the 'mode' button twice to go to Burst mode
-3. Finally just click on 'rate' to choose the burst rate
-
- The GoPro Hero5 Black models can capture between 30 frame per second to 3 frame per second. Use the touch screen to select your frame rate. Once the burst rate has been selected you need to attend to a few more settings-
-
-4. Click the FOV to choose field of view
-5. Click the 'mode' button again to choose the metering preference – full frame or spot
-
- Regular full frame metering: Metering or light metering needs to be selected so as to adjust the level of brightness of the image. Your GoPro cam would automatically adjust the brightness level according to the subject in the frame.
-
- Spot Metering: This option supersedes the regular metering style. Here the whole picture is metered on the basis of a hypothetical spot in the middle of the picture. This can come in handy while capturing a specific object like people in crowd or an animal from a distance.
-
-6. The 'mode' button has to be clicked once more to turn on/off the ProTune You don't have to bother about ProTune unless you are considering creating a video out of the images. If you just want to view your clips then there is no reason to turn on ProTune. ProTune is known to affect some of the factors linked with the captured images such as colour, FOV, sharpness etc. It allows the professional editors to play with a number of editing options for adjusting the footage.
-
-## The Burst Mode in your GoPro is all ready to use
-
- Now that you have learned everything about using the Burst Mode on your GoPro, you just need to select the 'exit' button or click on the 'setting tag' button (which is just to the left of the 'mode' button) for saving the present settings and then exit. The GoPro Burst Mode is now all set up in your camera. All you need to do is select your resolution, speed and the metering before you hit the shutter. Now that you know everything about the Burst Mode on your action camera all you have to do is hit the road and keep shooting.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- The burst mode in GoPro cameras can be used for shooting a number of images in a go. This would allow you to select the image which has been most perfectly captured. Burst Mode is nothing but a sequence of still photos which have been captured just like a video footage.The Hero5 Black cameras are capable of recording videos up to 240 fps which means it can take about 240 images per second. In this article we are going to discuss everything you need to know about the GoPro Burst Mode.
-
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![文字](https://images.wondershare.com/filmora/article-images/gopro-hero5-black-1.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Turning the burst mode on your GoPro on
-
-1. First you have to switch on your camera and press the 'mode' to see the shooting mode menu
-2. Now you need to hit the 'mode' button twice to go to Burst mode
-3. Finally just click on 'rate' to choose the burst rate
-
- The GoPro Hero5 Black models can capture between 30 frame per second to 3 frame per second. Use the touch screen to select your frame rate. Once the burst rate has been selected you need to attend to a few more settings-
-
-4. Click the FOV to choose field of view
-5. Click the 'mode' button again to choose the metering preference – full frame or spot
-
- Regular full frame metering: Metering or light metering needs to be selected so as to adjust the level of brightness of the image. Your GoPro cam would automatically adjust the brightness level according to the subject in the frame.
-
- Spot Metering: This option supersedes the regular metering style. Here the whole picture is metered on the basis of a hypothetical spot in the middle of the picture. This can come in handy while capturing a specific object like people in crowd or an animal from a distance.
-
-6. The 'mode' button has to be clicked once more to turn on/off the ProTune You don't have to bother about ProTune unless you are considering creating a video out of the images. If you just want to view your clips then there is no reason to turn on ProTune. ProTune is known to affect some of the factors linked with the captured images such as colour, FOV, sharpness etc. It allows the professional editors to play with a number of editing options for adjusting the footage.
-
-## The Burst Mode in your GoPro is all ready to use
-
- Now that you have learned everything about using the Burst Mode on your GoPro, you just need to select the 'exit' button or click on the 'setting tag' button (which is just to the left of the 'mode' button) for saving the present settings and then exit. The GoPro Burst Mode is now all set up in your camera. All you need to do is select your resolution, speed and the metering before you hit the shutter. Now that you know everything about the Burst Mode on your action camera all you have to do is hit the road and keep shooting.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -224,7 +220,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-skybound-creativity-essential-editing-skills-for-drone-films/"><u>[New] Skybound Creativity Essential Editing Skills for Drone Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-the-ideal-soundtrack-for-unboxing-content/"><u>[Updated] Finding the Ideal Soundtrack for Unboxing Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-sketches-to-stakes-leading-platforms-turning-art-into-nfts/"><u>[Updated] From Sketches to Stakes Leading Platforms Turning Art Into NFTs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-iphones-power-for-dynamic-range-shots/"><u>[Updated] Harnessing iPhone's Power for Dynamic Range Shots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-zooms-video-features-on-youtube-platform/"><u>[Updated] Harnessing the Power of Zoom's Video Features on YouTube Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-explore-highly-recommended-sandbox-titles/"><u>[Updated] In 2024, Explore Highly Recommended Sandbox Titles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-demystifying-screen-recording-insights-from-showmore-experts/"><u>2024 Approved Demystifying Screen Recording Insights From ShowMore Experts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone XS Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-audio-file-transformation-from-srt-to-xmlssattml/"><u>In 2024, Expertise in Audio File Transformation From SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-movement-analysis-2023/"><u>In 2024, Extensive Movement Analysis 2023</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-youtube-issues-chrome-and-firefox-audience-still-hears-sound-while-videos-stutter/"><u>Resolving YouTube Issues: Chrome and Firefox - Audience Still Hears Sound While Videos Stutter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-smart-choice-why-waiting-on-the-latest-apple-release-may-pay-off-a-look-at-alternatives-to-the-hyped-iphone-16/"><u>The Smart Choice: Why Waiting on the Latest Apple Release May Pay Off - A Look at Alternatives to the Hyped iPhone 16</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-how-to-for-efficiently-updating-your-windows-11-amd-drivers/"><u>The Ultimate How-To for Efficiently Updating Your Windows 11 AMD Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-potential-of-xiaomi-g34wqi-monitor-a-deep-dive-into-34-inches-180hz-speed-and-remarkable-picture-quality-for-gamers-on-a-budget/"><u>Unlocking the Potential of Xiaomi G34WQi Monitor - A Deep Dive Into 34 Inches, 180Hz Speed, and Remarkable Picture Quality for Gamers on a Budget</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-infinix-zero-30-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Infinix Zero 30 5G Phones</u></a></li>
+</ul></div>
 

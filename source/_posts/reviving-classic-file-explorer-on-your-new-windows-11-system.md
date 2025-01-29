@@ -1,7 +1,7 @@
 ---
 title: Reviving Classic File Explorer on Your New Windows 11 System
-date: 2025-01-16T18:30:21.688Z
-updated: 2025-01-21T21:03:42.556Z
+date: 2025-01-24T08:03:30.649Z
+updated: 2025-01-29T10:05:39.495Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Reviving Classic File Explorer on Your New Windows 11 System
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Access the Old File Explorer from Control Panel](https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-12-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/)
@@ -18,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Using StartAllBack](https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y17s-devices-drfone-by-drfone-virtual/)
 
  With Windows 11's minimal File Explorer design, Microsoft sacrificed a lot of useful features found in the old Windows 10 ribbon-style File Explorer. There are some ways you can still use that old File Explorer inside Windows 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Access the Old File Explorer from Control Panel
 
@@ -34,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An instance of the Windows 11 Control Panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-11-control-panel.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll arrive in the File Explorer. Interestingly, it's Windows 10 File Explorer.
@@ -53,6 +53,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Downloading ExplorerPatcher setup file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/downloading-explorerpatcher-setup-file.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Installation is straightforward. Open the setup file and it will be installed automatically. Since there's no GUI installer involved, the only way to know it was installed successfully is by noticing the change in the elements of your Taskbar.
 
 ![Windows 10 Taskbar in Windows 11 using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-taskbar-in-windows-11-using-explorerpatcher.png) 
@@ -65,10 +69,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Changing to Windows 10 Ribbon using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/changing-to-windows-10-ribbon-using-explorerpatcher.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open File Explorer, and you'll discover it has the Windows 10 Ribbon instead of the Windows 11 command bar.
 
 ![Windows 10 File Explorer in Windows 11 using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-file-explorer-in-windows-11-using-explorerpatcher.png) 
@@ -77,19 +77,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An instance of ExplorerPatcher update settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/explorerpatcher-updates.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To uninstall the app, open the app and go to "Settings And Uninstall." Then click "Uninstall ExplorerPatcher."
 
 ![Uninstalling ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/uninstalling-explorerpatcher.png) 
 
  When you see the uninstalling prompt, press "Yes." If you'd like to learn more about what you can do with ExplorerPatcher, check out [the official wiki](https://github.com/valinet/ExplorerPatcher/wiki/All-features).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Using StartAllBack
 
@@ -103,12 +95,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Installing StartAllBack on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/installing-startallback-on-windows-11.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, it will be automatically installed, and you'll immediately notice your Taskbar change. The StartAllBack configuration window will also pop up. Go to "Explorer," then, if it's not chosen by default, choose "Win10 Ribbon UI" under Choose Explorer Style.
 
 ![Changing to Windows 10 Ribbon using StartAllBack](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/changing-to-windows-10-ribbon-using-startallback.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open a new window to see the new look.
@@ -116,12 +112,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows 10 File Explorer in Windows 11 using StartAllBack](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-file-explorer-in-windows-11-using-startallback.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You may notice that the default Windows 10 File Explorer in StartAllBack isn't 100% faithful. You can play with the different settings to make it look exactly like Windows 10\. If you'd like to access StartAllBack later, right-click the Taskbar and click on "Properties."
 
 ![Accessing StartAllBack from the Windows Taskbar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/accessing-startallback-from-the-windows-taskbar.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can uninstall StartAllBack from the Control Panel or use the [Winget package manager](https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-xs-by-drfone-ios/).
 
@@ -144,17 +144,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fishing-footage-frontier-top-action-cameras-for-the-sea/"><u>[New] Fishing Footage Frontier Top Action Cameras for the Sea</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-transform-smartphone-capabilities-into-a-professional-yt-channel/"><u>[New] In 2024, How to Transform Smartphone Capabilities Into a Professional YT Channel</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-time-travelers-guide-mastering-video-speed-adjustment/"><u>[Updated] Time Traveler's Guide Mastering Video Speed Adjustment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-virtual-worlds-androidios-vr-titles/"><u>2024 Approved Explore Virtual Worlds Android/iOS VR Titles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/asmr-unveiled-benefits-for-your-well-being/"><u>ASMR Unveiled Benefits for Your Well-Being</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-add-free-text-animation-to-videos-for-2024/"><u>How to Add Free Text Animation to Videos for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-8-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 8</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-framerates-in-photos-innovating-with-windows-paint-app/"><u>In 2024, Fast Framerates in Photos Innovating with Windows Paint App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-shadowy-fringe-to-front-row-action-gaining-popularity-in-tiktok-unboxings/"><u>In 2024, From Shadowy Fringe to Front Row Action Gaining Popularity in TikTok Unboxings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/new-nvidia-graphics-driver-update-for-the-geforce-rtx-3080-ti-on-modern-operating-systems/"><u>New NVIDIA Graphics Driver Update for the GeForce RTX 3080 Ti on Modern Operating Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-xiaomi-redmi-a2plus-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Redmi A2+ Black and White | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-for-a-dynamic-win11-display/"><u>[New] Innovative Techniques for a Dynamic Win11 Display</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ransform-footage-into-visual-art-with-youtube-studio/"><u>[New] Transform Footage Into Visual Art with YouTube Studio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-gaming-to-adventure-the-power-of-the-new-polaroid-xs-100i/"><u>2024 Approved From Gaming to Adventure, the Power of the New Polaroid XS 100I</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210061744-9780648853374-everything-in-its-place/"><u>Everything in Its Place | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-workforce-how-ai-revolutionizes-employment/"><u>Future Workforce: How AI Revolutionizes Employment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gimbal-innovation-markets-elite-selections-for-2024/"><u>Gimbal Innovation Market's Elite Selections for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-memes-on-iphone-and-android/"><u>How to Make Memes on iPhone and Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-for-improved-minecraft-zooms/"><u>In 2024, Expert Advice for Improved Minecraft Zooms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-windows-media-player-for-streamlined-audio-conversion/"><u>In 2024, Expertise in Windows Media Player for Streamlined Audio Conversion</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/troubleshooting-onedrive-not-uninstalling-from-windows-11-discover-these-4-tactics/"><u>Troubleshooting OneDrive Not Uninstalling From Windows 11: Discover These 4 Tactics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques
-date: 2025-01-16T16:31:37.601Z
-updated: 2025-01-21T18:18:28.499Z
+date: 2025-01-26T09:02:49.027Z
+updated: 2025-01-28T23:08:50.676Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -30,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
@@ -52,10 +56,14 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
 
@@ -68,7 +76,7 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -81,10 +89,6 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Add Timestamps to All Files in a Folder
 
  If you want to add a timestamp to all the files in a folder, open PowerShell and type the following command. Replace **PATH** with the full path to your folder, and press Enter.
@@ -92,10 +96,6 @@ Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension
 Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path $_.FullName -NewName "$($_.DirectoryName)\$($_.BaseName)_$(Get-Date -F yyyy-MM-dd_HH-mm)$($_.Extension)"}
 
 ![Files with timestamp in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-add-timestamp-to-file-names.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The above command uses your computer’s system time. If that time is incorrect, it’s possible to [change the timezone on your Windows 11](https://instagram-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/) and [Windows 10](https://extra-support.techidaily.com/in-2024-leveraging-daylight-in-home-interiors/) PC.
 
@@ -118,22 +118,20 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-face-fluidity-masterclass-perfecting-the-art-of-motion-blur-via-picsart/"><u>[New] Face Fluidity Masterclass Perfecting the Art of Motion Blur via Picsart</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-harmony-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android/"><u>[New] In 2024, Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-seo-booster-essentials-for-top-online-videos/"><u>[Updated] 2024 Approved SEO Booster Essentials for Top Online Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-initiate-memelore-creation-on-giphy/"><u>[Updated] Initiate Memelore Creation on Giphy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-for-podcast-cover-art-mastery/"><u>[Updated] Innovative Approaches for Podcast Cover Art Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-eliminate-background-in-picsart/"><u>2024 Approved How to Eliminate Background in Picsart</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-get-started-building-time-lapse-expertise-with-gopro-software/"><u>2024 Approved How to Get Started Building Time-Lapse Expertise with GoPro Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-review-prime-cars-surveillance-devices-for-2024/"><u>Exclusive Review Prime Cars Surveillance Devices for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-photos-jpg-png-on-ios-to-pdf-the-easy-steps/"><u>In 2024, From Photos (JPG, PNG) on iOS to PDF The Easy Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-holistic-overview-decoding-google-podcasts-app-features/"><u>In 2024, Holistic Overview Decoding Google Podcasts App Features</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/leveraging-legacy-keys-an-insiders-look-at-narrator-shortcuts/"><u>Leveraging Legacy Keys: An Insider's Look at Narrator Shortcuts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/restoring-missed-connections-methods-for-finding-eliminated-contact-details-in-android/"><u>Restoring Missed Connections: Methods for Finding Eliminated Contact Details in Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-format-issue-with-unopenable-files-in-windows-vlc/"><u>Solving Format Issue with Unopenable Files in Windows, VLC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unravel-the-mystery-behind-counter-strike-global-offensive-start-failures-a-comprehensive-guide/"><u>Unravel the Mystery Behind Counter-Strike Global Offensive Start Failures - A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-help.techidaily.com/wie-man-filme-effizient-mit-oder-ohne-itunes-von-einem-laptop-auf-ein-ipad-ubertragt/"><u>Wie Man Filme Effizient Mit Oder Ohne iTunes Von Einem Laptop Auf Ein iPad Überträgt</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-horizontal-vs-vertical-best-for-fb-videos-for-2024/"><u>[New] Horizontal Vs. Vertical Best for FB Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flapping-flamenco-finch/"><u>[Updated] Flapping Flamenco Finch</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-editing-unveiling-the-top-15-cine-luts-for-action-cam/"><u>[Updated] Immersive Editing Unveiling the Top 15 Cine LUTs for Action Cam</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-imagination-a-practical-guide-to-professional-gifs/"><u>2024 Approved Harnessing Imagination A Practical Guide to Professional GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdrs-edge-pushing-video-production-to-new-heights/"><u>2024 Approved HDR's Edge Pushing Video Production to New Heights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-your-workout-spirit-essential-background-music-choices/"><u>2024 Approved Ignite Your Workout Spirit Essential Background Music Choices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nokia-c22-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia C22 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/generate-laughter-giphys-art-for-2024/"><u>Generate Laughter Giphy's Art for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gratitude-in-mandarin-mastering-xiexie-and-more/"><u>Gratitude in Mandarin: Mastering Xièxiè and More</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-shoot-vertical-panorama-photos-with-your-mobile-phone-for-2024/"><u>How to Shoot Vertical Panorama Photos with Your Mobile Phone for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 7 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-15-plus-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 15 Plus? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-complete-blackout-ultimate-guide-to-fixing-your-windows-11-display-problem/"><u>Resolving the Complete Blackout: Ultimate Guide to Fixing Your Windows 11 Display Problem</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-anticipated-debut-of-mafia-definitive-edition-now-scheduled-to-arrive/"><u>The Anticipated Debut of Mafia: Definitive Edition Now Scheduled to Arrive</u></a></li>
 </ul></div>
 

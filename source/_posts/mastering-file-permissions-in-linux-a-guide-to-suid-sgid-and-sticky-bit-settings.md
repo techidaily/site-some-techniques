@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Permissions in Linux: A Guide to SUID, SGID, and Sticky Bit Settings"
-date: 2025-01-14T17:44:08.268Z
-updated: 2025-01-21T19:03:44.196Z
+date: 2025-01-21T21:29:16.740Z
+updated: 2025-01-28T17:30:19.824Z
 tags:
   - desktop
 categories:
@@ -24,15 +24,15 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
  SUID, SGID, and Sticky Bits are powerful special permissions you can set for executables and directories on Linux. We'll share the benefits—and potential pitfalls—of using them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  They're Already in Use
 
  Building security into a multiuser operating system presents several quandaries. Take the (seemingly) basic concept of passwords, for example. They all have to be stored so each time someone logs in, the system can compare the password he types to the stored copy. Obviously, as passwords are the keys to the kingdom, they must be safeguarded.
 
  On Linux, stored passwords are protected in two ways: they're encrypted, and only someone with `root` privileges can access the file that contains the passwords. That might sound fine, but it presents a quandary: If only people with `root` privileges can access stored passwords, how do those who don't have that access change their passwords?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Elevating Your Status
 
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
  What would be ideal is a scheme in which anyone on the system could launch the passwd program, but have the passwd program retain `root`’s elevated privileges. This would empower anyone to change her own password.
 
  The above scenario is precisely what the Set User ID bit (`SUID`) does. It runs programs and commands with the permissions of the file owner, rather than the permissions of the person who launches the program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You're Elevating the Program's Status
 
@@ -56,17 +60,21 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
 ![Source code snippet from passwd.c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/0a.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The following is an example in which that's taken into account. Because `root` can change any password, the program doesn't have to bother with the checks it usually performs to see which passwords the person has permission change. So, for `root`, it [skips those checks and exits the checking function](https://github.com/shadow-maint/shadow/blob/master/src/passwd.c#L0397).
 
 ![Source code snippet from passwd.c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/0b.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With the core Linux commands and utilities, you can be confident they've got security baked into them and that the code has been reviewed many times. Of course, there's always the threat of as-yet-unknown exploits. However, patches or updates are quick to appear to counter any newly identified vulnerabilities.
 
  It's third-party software—especially any that isn't open-source—you need to be extremely careful about using `SUID` with. We're not saying don't do it, but, if you do, you want to make sure it won't expose your system to risk. You don't want to elevate the privileges of a program that isn't going to correctly self-govern itself and the person running it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Linux Commands That Use SUID
 
@@ -83,6 +91,10 @@ ls -l /bin/umount
 ls -l /usr/bin/passwd
 
 ![List of Linux commands that have their SUID bit set, in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note the filenames are highlighted in red, which indicates the SUID bit is set.
 
@@ -108,10 +120,6 @@ ps -e -f | grep passwd
 
 ![ps -e -f | grep passwd in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/3-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Two lines are reported, the second of which is the `grep` process looking for commands with the string "passwd" in them. It's the first line that interests us, though, because that's the one for the `passwd` process `dave` launched.
 
  We can see the `passwd` process runs the same as it would if `root` had launched it.
@@ -133,7 +141,7 @@ ls -lh htg
 ![ls -lh htg in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When we run the local copy of the program, we see the real and effective IDs are both set to `dave`. So, it's behaving just as a normal program should.
@@ -156,6 +164,10 @@ htg
 
 ![The htg program running in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/6-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Even though `dave` launched the program, the effective ID is set to the `root` user. So, if `mary` launches the program, the same thing happens, as shown below:
 
 htg
@@ -163,7 +175,7 @@ htg
 ![htg launched by user mary in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The real ID is `mary`, and the effective ID is `root`. The program runs with the permissions of the root user.
@@ -198,10 +210,6 @@ htg
 
 ![id -G dave in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The ID of the default group for `mary` is 1001, and the effective group of the `htg` program is 1001\. So, although it was launched by `dave`, it's running with the permissions of the members in the `mary` group. It's the same as if `dave` had joined the `mary` group.
 
  Let's apply the `SGID` bit to a directory. First, we'll create a directory called "work," and then change its group to "geek." We'll then set the `SGID` bit on the directory.
@@ -231,10 +239,6 @@ mkdir demo
 ls -lh -d demo
 
 ![cd work in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/13-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The `SGID` bit and "geek" group are automatically applied to the "demo" directory.
 
@@ -272,10 +276,6 @@ ls -lh -d /var/tmp
 
 ![mkdir shared in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/16-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the sticky bit is set, the executable bit of the "other" set of file permissions is set to "t." The file name is also highlighted in blue.
 
  The `/tmp` and `/var/tmp` folders are two examples of directories that have all the file permissions set for the owner, group, and others (that's why they're highlighted in green). They're used as shared locations for temporary files.
@@ -308,19 +308,24 @@ ls -lh -d /var/tmp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-engaging-environments-scenery-that-sells-streaming-for-2024/"><u>[Updated] Engaging Environments Scenery That Sells Streaming for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-selections-top-10-sports-streaming-apps-soccer-focus/"><u>[Updated] Innovative Selections Top 10 Sports Streaming Apps, Soccer Focus</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ai-driven-video-title-strategy-for-maximum-impact/"><u>AI-Driven Video Title Strategy for Maximum Impact</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/deep-dive-into-theta-s-a-full-camera-examination/"><u>Deep Dive Into Theta S A Full Camera Examination</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/foremost-6-online-spaces-dominating-b2b-interactions-for-2024/"><u>Foremost 6 Online Spaces Dominating B2B Interactions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-photo-manipulation-software-top-picks-for-2024/"><u>Free Photo Manipulation Software Top Picks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-smoothly-add-apods-episodes-on-devices-for-2024/"><u>How to Smoothly Add APods Episodes on Devices for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-video-testimonials-shape-perception-and-trust-for-2024/"><u>How Video Testimonials Shape Perception and Trust for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-filmmakers-delight-filmoras-best-aspects-exposed/"><u>In 2024, Filmmakers' Delight Filmora's Best Aspects Exposed</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-11-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 11 Pro Max Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-wininetdll-could-not-be-loaded-message-a-step-by-step-guide/"><u>Troubleshooting the 'Wininet.dll' Could Not Be Loaded Message – A Step-by-Step Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210761645-9781683647140-trusting-the-gold/"><u>Trusting the Gold | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-infinix-zero-5g-2023-turbo-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Infinix Zero 5G 2023 Turbo Phones</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1726222111541-mov/"><u>いつもより軽やかにMOVファイルを簡単に変更する方法</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-simulation-to-reality-vrs-growth/"><u>[New] From Simulation to Reality VR's Growth</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-add-titlestext-to-video-on-microsoft-photos-in-windows-11/"><u>[New] How to Add Titles/Text to Video on Microsoft Photos in Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-no-charges-yes-to-superior-free-webm-player-selections/"><u>[New] No Charges? Yes to Superior, Free WebM Player Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonious-filmmaking-mastering-imovie-audio/"><u>[Updated] Harmonious Filmmaking Mastering iMovie Audio</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-visual-virtuosos-curating-the-best-10-camera-optics-for-2024/"><u>[Updated] Visual Virtuosos Curating the Best 10 Camera Optics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-in-ai-based-photo-transformations/"><u>2024 Approved Excellence in AI-Based Photo Transformations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-reviews-on-top-6-hdmi-21-display-models/"><u>2024 Approved Expert Reviews on Top 6 HDMI 2.1 Display Models</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gimp-ultimate-editing-course-review/"><u>2024 Approved GIMP Ultimate Editing Course Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero5-and-yi-4k-face-off-action-cam-wars/"><u>2024 Approved Hero5 and Yi 4K Face-Off Action Cam Wars</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-driven-personalization-for-an-engaging-website-journey/"><u>Cookiebot-Driven Personalization for an Engaging Website Journey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/easy-methods-for-dimming-audio-tracks-in-adobe-premiere/"><u>Easy Methods for Dimming Audio Tracks in Adobe Premiere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-precise-control-with-xbox-zoom-for-2024/"><u>Expert Tips for Precise Control with Xbox Zoom for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extreme-sports-showdown-hero5-black-versus-hero4-silver-for-2024/"><u>Extreme Sports Showdown Hero5 Black Versus Hero4 Silver for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-nubia-red-magic-9-proplus-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Nubia Red Magic 9 Pro+ Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-apple-picks-the-ultimate-roundup-of-the-finest-apps-and-games-for-202eighty-three-discover-the-must-have-selections/"><u>Top Apple Picks: The Ultimate Roundup of the Finest Apps & Games for 202Eighty-Three - Discover the Must-Have Selections!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-responsive-function-fn-keys-on-your-lenovo-laptop/"><u>Troubleshooting Guide: Fixing Non-Responsive Function (Fn) Keys on Your Lenovo Laptop</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/ultimate-download-hub-for-social-media-videos-fb-for-2024/"><u>Ultimate Download Hub for Social Media Videos (FB) for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-potentials-three-strategies-for-combining-chatgpt-with-wolfram/"><u>Unlocking New Potentials: Three Strategies for Combining ChatGPT with Wolfram</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-windows-11s-auto-hdr-effectively/"><u>Utilizing Windows 11'S Auto HDR Effectively</u></a></li>
 </ul></div>
 

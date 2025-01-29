@@ -1,7 +1,7 @@
 ---
 title: How to Check the Specifics of Your Windows 11 Installation
-date: 2025-01-16T16:24:45.255Z
-updated: 2025-01-21T17:13:00.144Z
+date: 2025-01-25T21:54:10.930Z
+updated: 2025-01-29T09:45:12.831Z
 tags:
   - deals
 categories:
@@ -11,15 +11,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## How to Check the Specifics of Your Windows 11 Installation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Do Build Versions Mean?](https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-success-channel-ideas-to-spark-momentum/)
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
@@ -40,7 +40,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Check Windows Version with the Settings App
@@ -50,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
@@ -61,7 +61,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
@@ -93,21 +93,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-navigating-youtubes-subtitle-system-download-with-ease-using-3-methods/"><u>[New] 2024 Approved Navigating YouTube's Subtitle System Download with Ease Using 3 Methods</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-2023s-leading-choices-for-downloading-facebook-lite-videos/"><u>[New] In 2024, 2023'S Leading Choices for Downloading Facebook Lite Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-efficient-techniques-accelerating-or-decelerating-instagram-stories/"><u>[New] In 2024, Efficient Techniques Accelerating or Decelerating Instagram Stories</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-premiere-pro-speed-blackouts-for-2024/"><u>[New] Premiere Pro Speed Blackouts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gadgets-that-shine-in-travel-videography/"><u>2024 Approved Gadgets That Shine in Travel Videography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-vs-yi-who-will-lead-the-high-quality-action-race/"><u>2024 Approved GoPro Vs. YI Who Will Lead the High-Quality Action Race?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-notable-platforms-offering-text-modifications/"><u>2024 Approved Guide to Notable Platforms Offering Text Modifications</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/choose-wisely-the-ultimate-list-of-mac-gif-tools-for-2024/"><u>Choose Wisely The Ultimate List of Mac GIF Tools for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dvdipad2024/"><u>DVD素晴らしい世界をiPadに移して！2024年のチャート・アップデート</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enjoy-seamless-connectivity-with-our-newly-released-wireless-driver-fixes/"><u>Enjoy Seamless Connectivity with Our Newly Released Wireless Driver Fixes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-new-horizons-a-guide-to-top-6-nft-innovators-for-2024/"><u>Exploring New Horizons A Guide to Top 6 NFT Innovators for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ignite-your-marketing-flame-sparkling-strategies-for-smm-success-for-2024/"><u>Ignite Your Marketing Flame Sparkling Strategies for SMM Success for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-leading-free-subtitle-tools-online/"><u>In 2024, Explore the Leading Free Subtitle Tools Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-with-photography-the-leading-cams/"><u>In 2024, Getting Started with Photography The Leading Cams</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-premium-video-collaboration-software-guides/"><u>In 2024, Premium Video Collaboration Software Guides</u></a></li>
-<li><a href="https://techidaily.com/sony-xperia-5-v-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Sony Xperia 5 V Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-formulate-funny-imagery-with-adobe/"><u>[New] Formulate Funny Imagery with Adobe</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gauging-storage-capacity-for-full-length-films/"><u>[New] Gauging Storage Capacity for Full-Length Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-getting-started-with-itunes-podcasts-on-ios-devices/"><u>[New] Getting Started with iTunes Podcasts on iOS Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gold-standard-groups-peak-podcasts-from-googloud/"><u>[New] Gold Standard Groups Peak Podcasts From GooGloud</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-identifying-relevant-metaphors-and-analogies/"><u>[New] Identifying Relevant Metaphors and Analogies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-premier-audio-recording-tools-11-edition/"><u>[New] Premier Audio Recording Tools - #11 Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-dos-and-donts-of-daily-vlogging/"><u>[New] The Dos and Don'ts of Daily Vlogging</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-transforming-igtv-with-multi-language-captioning/"><u>[Updated] Transforming IGTV with Multi-Language Captioning</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-guide-to-choosing-podcast-names-plus-creative-ideas-list/"><u>2024 Approved Comprehensive Guide to Choosing Podcast Names + Creative Ideas List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrate-effortlessly-prime-ios-design-software/"><u>2024 Approved Illustrate Effortlessly Prime iOS Design Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-iphone-capture-and-record-at-once/"><u>2024 Approved Perfecting iPhone Capture & Record at Once</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-critical-msi-z370-a-pro-motherboard-drivers-improve-your-pcs-performance-today/"><u>Download Critical MSI Z370-A Pro Motherboard Drivers - Improve Your PC's Performance Today</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-social-networks-facebook-twitter-and-instagram-youtube/"><u>Explore Social Networks: Facebook, Twitter & Instagram, YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggles-and-grins-topical-humor-guides-for-everyone-for-2024/"><u>Giggles and Grins Topical Humor Guides for Everyone for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-make-every-instagram-story-count-your-complete-guide-for-2024/"><u>How to Make Every Instagram Story Count – Your Complete Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infiltrating-hidden-user-communications-on-yt-platforms-for-2024/"><u>Infiltrating Hidden User Communications on YT Platforms for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/setting-up-and-utilizing-twitch-two-factor-authentication/"><u>Setting Up & Utilizing Twitch Two-Factor Authentication</u></a></li>
 </ul></div>
 

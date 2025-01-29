@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2025-01-14T16:39:21.336Z
-updated: 2025-01-21T17:21:50.693Z
+date: 2025-01-22T19:19:42.481Z
+updated: 2025-01-29T03:43:01.347Z
 tags:
   - web
 categories:
@@ -38,22 +38,21 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-potential-of-color-grading-through-luts-and-ar/"><u>[New] Explore the Potential of Color Grading Through LUTs and AR</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-moment-of-glory-snapshots-in-win-os/"><u>[New] In 2024, Moment of Glory Snapshots in Win OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-high-res-displays-the-best-5-for-ps5/"><u>[Updated] Ideal High-Res Displays The Best 5 For PS5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/asf/"><u>無造作ASFファイルを簡単に変換する方法：詳細ガイド</u></a></li>
-<li><a href="https://games-able.techidaily.com/disassemble-and-repair-a-frozen-steam-application/"><u>Disassemble and Repair a Frozen Steam Application</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-analysis-full-potential-of-bublcams-360-degree-scope-for-2024/"><u>Exclusive Analysis Full Potential of Bublcam's 360-Degree Scope for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/final-cut-pros-top-effect-enhancers-the-essential-10-for-2024/"><u>Final Cut Pro's Top Effect Enhancers The Essential 10 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/future-of-games-analyzing-htc-vive-vs-oculus-rift-and-ps-vr-for-2024/"><u>Future of Games Analyzing HTC Vive vs Oculus Rift & PS VR for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-excessive-cpu-drain-by-wudfhostexe-process-on-windows-10/"><u>How to Fix Excessive CPU Drain by wudfhost.exe Process on Windows 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oneplus-ace-2-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from OnePlus Ace 2 Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-8-web-sites-for-accessing-3d-text-psds/"><u>In 2024, Explore the Best 8 Web Sites for Accessing 3D Text PSDs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-package-presentation-transformative-openings/"><u>In 2024, Perfect Package Presentation Transformative Openings</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/introducing-macpaws-innovative-ipad-application-solution-amidst-stricter-guidelines-an-insight-on-zdnet/"><u>Introducing MacPaw's Innovative iPad Application Solution Amidst Stricter Guidelines - An Insight on ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-climbing-to-youtube-zenith-a-step-by-step-guide-to-creative-studio-mastery/"><u>[New] Climbing to YouTube Zenith A Step-by-Step Guide to Creative Studio Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-guide-to-the-15-top-luts-for-gopro-films/"><u>[Updated] Expert's Guide to The 15 Top LUTs for GoPro Films</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-start-with-strategy-launching-an-online-dominant-gaming-channel/"><u>[Updated] In 2024, Start with Strategy Launching an Online Dominant Gaming Channel</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-lg-bp350-monitor-reviews-expert-opinions-and-ratings/"><u>2024 Approved The Ultimate LG BP350 Monitor Reviews Expert Opinions & Ratings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-lut-filters-in-obs-studio-effectively/"><u>2024 Approved Utilizing LUT Filters in OBS Studio Effectively</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/accelerating-video-conversion-youtube-to-mpeg-edition/"><u>Accelerating Video Conversion YouTube to MPEG Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-language-barriers-windows-media-player-subtitle-guide-for-2024/"><u>Bridging Language Barriers Windows Media Player Subtitle Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-combine-videos-on-iphone-for-2024/"><u>How to Combine Videos on iPhone for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guidelines-to-help-you-change-windows-11-wallpaper/"><u>In 2024, Guidelines to Help You Change Windows 11 Wallpaper</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-unique-ringtone-from-social-media-music-tracks/"><u>In 2024, How To Create Unique Ringtone From Social Media Music Tracks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-kobo-forma-revolutionizing-ereaders-for-committed-readers/"><u>In-Depth Analysis of the Kobo Forma: Revolutionizing eReaders for Committed Readers</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Finding Your App's Executable (EXE) Fast: A Step-by-Step Guide for Windows 11 Users"
-date: 2025-01-19T18:36:40.670Z
-updated: 2025-01-21T21:53:19.037Z
+date: 2025-01-23T18:25:26.077Z
+updated: 2025-01-29T07:31:54.713Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 ---
 
 ## Finding Your App's Executable (EXE) Fast: A Step-by-Step Guide for Windows 11 Users
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,33 +25,41 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
  If you're doing advanced troubleshooting or configuration of a Windows 10 application and need to locate the program's EXE file in [File Explorer](https://facebook-video-content.techidaily.com/updated-in-2024-facebook-media-extractor-quick-mp3-downloads/), there's a quick way to do it if you have access to a shortcut. Here's how.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Find an EXE from a Shortcut
 
  First, locate a shortcut that points to the application whose EXE you need to find, because you will need to open its properties window. If the shortcut is on your desktop, right-click it and select "Properties."
 
 ![In Windows 10, right-click a desktop shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/right_click_desktop_shortcut.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the shortcut is pinned to your taskbar, right-click it, then right-click its name again in the menu that pops up just above it. In the menu that appears, click "Properties."
 
 ![In Windows 10, right-click the taskbar icon then right-click the shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_pinned_shortcut_properties.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the shortcut is in your "Start" menu, you have more hoops to jump through (and this method only works with traditional Windows Desktop Apps and not [UWP apps](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/)). Right-click the "Start" menu shortcut for the application, and select More > Open file location.
 
 ![Finding an application's shortcut location using the Start Menu in Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_locate_shortcut_startmenu.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will open a File Explorer window that points to the actual application shortcut file. Right click on that shortcut, and select "Properties."
 
  No matter how you located the shortcut, a properties window will appear. Make sure you're on the "Shortcut" tab, then click "Open File Location."
 
 ![To find an application's EXE file, right-click a shortcut and click "Open File Location" in the Properties window on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_click_open_file_location.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll be taken directly to the EXE's location in File Explorer.
 
@@ -71,14 +75,10 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Where are EXEs for Apps From the Microsoft Store Located? 
@@ -104,16 +104,18 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-pinnacle-display-top-5-high-definition-hdmi-21-pcmonitor-for-2024/"><u>[New] Pinnacle Display Top 5 High-Definition (HDMI 2.1) PC/Monitor for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-creative-potential-10-premium-android-and-pc-editors-for-2024/"><u>[New] Unlock Creative Potential 10 Premium Android and PC Editors for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-impact-vectors-discover-the-best-10-websites/"><u>[Updated] High-Impact Vectors Discover the Best 10 Websites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-cultivate-your-own-metaverse-humor-garden/"><u>[Updated] How to Cultivate Your Own Metaverse Humor Garden</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-assembly-of-stunning-google-collages/"><u>2024 Approved Quick Assembly of Stunning Google Collages</u></a></li>
-<li><a href="https://techidaily.com/decoding-the-distinctions-a-side-by-side-analysis-of-pixel-9-9-pro-and-9-pro-xl/"><u>Decoding the Distinctions: A Side-by-Side Analysis of Pixel ^9, ^9 Pro & ^9 Pro XL</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-premium-free-online-tools-for-professional-video-tweaks-for-2024/"><u>Explore Premium Free Online Tools for Professional Video Tweaks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>In 2024, Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-top-gains-on-social-media-secure-and-scalable-tactics/"><u>In 2024, The Top Gains on Social Media - Secure & Scalable Tactics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovate-humorous-gifry-on-giphy-network-for-2024/"><u>Innovate Humorous Gifry on Giphy Network for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unveiling-zooms-hidden-visual-treasures-with-filters/"><u>Unveiling Zoom's Hidden Visual Treasures with Filters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-fix-no-video-on-sony-a6400-camera/"><u>[New] How to Fix No Video On Sony A6400 Camera</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-vlog-with-verve-following-in-the-footsteps-of-video-experts/"><u>[New] In 2024, Vlog with Verve Following in the Footsteps of Video Experts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-leading-game-recorders-beyond-fbx-files/"><u>[Updated] 2024 Approved Leading Game Recorders Beyond FBX Files</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unlock-audience-potential-with-curated-video-shorts/"><u>[Updated] 2024 Approved Unlock Audience Potential with Curated Video Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-possibilities-with-dual-screen-watching-on-netflix/"><u>[Updated] Explore the Possibilities with Dual-Screen Watching on Netflix</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decision-time-choosing-your-champion-apple-tv-4k-or-roku-ultra-unveiled/"><u>Decision Time: Choosing Your Champion – Apple TV 4K or Roku Ultra Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exquisite-solution-for-vr-adventures/"><u>Exquisite Solution for VR Adventures</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-8-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 8 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-nokia-c02-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Nokia C02 Without PUK Codes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-tracking-visual-storytelling-with-google-collages/"><u>In 2024, Fast-Tracking Visual Storytelling with Google Collages</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hearing-heroism-essential-online-picks-for-tts-files/"><u>In 2024, Hearing Heroism Essential Online Picks for TTS Files</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/where-to-stream-what-to-watch-twitchs-challenge-to-youtube/"><u>Where To Stream, What to Watch? Twitch's Challenge to YouTube</u></a></li>
 </ul></div>
 

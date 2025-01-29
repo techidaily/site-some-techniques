@@ -1,7 +1,7 @@
 ---
 title: "Project Astra: Google's Potential Game-Changer, Echoing Apple’s Impact on iPhones for Smart Wearables"
-date: 2025-01-14T16:35:18.414Z
-updated: 2025-01-15T16:45:34.872Z
+date: 2025-01-24T20:44:52.422Z
+updated: 2025-01-28T20:12:26.148Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 ## Project Astra: Google's Potential Game-Changer, Echoing Apple’s Impact on iPhones for Smart Wearables
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 * [Google Should Equip Future Smart Glasses With Certain Privacy Features](https://hardware-updates.techidaily.com/navigating-the-world-of-electronics-with-toms-insider-knowledge/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
  Google recently shared its Project Astra, an early demo of what a future AI-powered universal assistant could look like. Near the end of the demo, the Google employee puts on a pair of glasses and seamlessly continues to converse with the assistant. I think smart glasses have just found their killer feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  With Project Astra, the Time Is Right for the Next Generation of Google Glass
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
  Just imagine wearing smart glasses equipped with a HUD advanced enough to show you messages, appointments, Google search results in textual form, the song you're listening to as well as the rest of the playlist, and other text-based information. This could be a shakeup the world of personal computing needs. Smartphones have turned into commodities anyway, so why not put them in our pockets and let them stay there?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Smart Glasses Could One Day Be the Only Tech You Need
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
  Our phones could transform into a sort of “computing station” with our glasses taking the center stage. Smartphones will still be the engines powering all that computing, but they will do that behind the scenes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Should Equip Future Smart Glasses With Certain Privacy Features
@@ -102,19 +102,17 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-finest-choices-free-streaming-tools-suitable-everywhere/"><u>[New] Finest Choices Free Streaming Tools Suitable Everywhere</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-convert-youtube-twitter-videos-to-mp3-songs/"><u>[New] Guide to Convert YouTube Twitter Videos to MP3 Songs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-curb-automated-youtube-content-feeds-for-2024/"><u>[Updated] Curb Automated YouTube Content Feeds for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filmographys-finest-shots-the-best-camera-and-lighting-tips/"><u>[Updated] Filmography's Finest Shots The Best Camera & Lighting Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-mobility-examination-2023/"><u>[Updated] Full Mobility Examination 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-comparison-can-inshot-outshine-competitors/"><u>[Updated] In-Depth Comparison Can InShot Outshine Competitors?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigate-effortlessly-inshots-role-in-video-crafting-on-devices/"><u>[Updated] Navigate Effortlessly Inshot's Role in Video Crafting on Devices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-revenue-calculation-for-every-clicked-video/"><u>[Updated] Revenue Calculation for Every Clicked Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-chromes-picture-in-progress-screensuitably-across-platforms-for-2024/"><u>How to Use Chrome’s Picture In Progress Screensuitably Across Platforms for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-lava-yuva-3-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Lava Yuva 3 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy S24+</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-understanding-video-formats-which-is-more-effective-av1-or-vp9/"><u>In 2024, Understanding Video Formats Which Is More Effective, AV1 or VP9?</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-game-repair-secrets-how-to-correctly-resolve-file-errors-in-the-world-of-gaming/"><u>PC Game Repair Secrets: How to Correctly Resolve File Errors in the World of Gaming</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/seamless-integration-of-slideshows-into-facebook-layouts-for-2024/"><u>Seamless Integration of Slideshows Into Facebook Layouts for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-essential-tactics-for-viral-fb-video-marketing/"><u>[New] 2024 Approved Essential Tactics for Viral FB Video Marketing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-prime-pixel-predictor-discovering-top-view-counts/"><u>[New] In 2024, Prime Pixel Predictor Discovering Top View Counts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-visionary-8-must-haves-in-vr-gaming-worlds/"><u>[New] In 2024, Visionary 8 Must-Haves in VR Gaming Worlds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dive-into-the-world-of-interactive-video-features-on-youtube/"><u>[Updated] 2024 Approved Dive Into the World of Interactive Video Features on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-turn-youtube-clips-into-animated-gifs-step-by-step-guide/"><u>[Updated] 2024 Approved Turn Youtube Clips Into Animated GIFs Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-lg-bp350-ergonomics-design-and-display-quality/"><u>[Updated] Evaluating LG BP350 - Ergonomics, Design & Display Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-samsung-galaxy-s8-changes-high-definition-viewing/"><u>[Updated] How Samsung Galaxy S8 Changes High-Definition Viewing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flapping-flamenco-finch/"><u>2024 Approved Flapping Flamenco Finch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-rating-does-aurora-deliver-quality/"><u>In 2024, HDR Rating Does Aurora Deliver Quality?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/timeless-tales-for-the-whole-clan-family-movie-guide-for-2024/"><u>Timeless Tales for the Whole Clan Family Movie Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-7-password-creation-software-that-cost-nothing/"><u>Top 7 Password Creation Software That Cost Nothing</u></a></li>
 </ul></div>
 

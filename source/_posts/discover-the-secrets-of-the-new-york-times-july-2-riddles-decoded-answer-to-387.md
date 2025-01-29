@@ -1,7 +1,7 @@
 ---
 title: Discover the Secrets of The New York Times' July 2 Riddles - Decoded Answer to #387!
-date: 2025-01-14T17:42:36.451Z
-updated: 2025-01-21T16:44:50.326Z
+date: 2025-01-25T09:18:45.804Z
+updated: 2025-01-28T17:08:57.033Z
 tags:
   - web
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -43,7 +43,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![July 2 Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/july-2-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -54,12 +54,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Purple:** \_\_\_\_ Game
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![July 2 Connections groups and words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/july-2-connections-filled.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pack (Away) for Future Use (Yellow):** 
 
@@ -78,7 +82,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Arcade, Blame, Numbers, Squid
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -92,10 +96,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Caveat, Ergo, Quid, and Vox don't have much in common other than being Latin terms, so I assumed they belonged to the Purple group. That guess was wrong, but they were in a group—Blue, "Latin Words." 
 
  That left arcade, blame, numbers, and squid. I'm not sure I would have seen the connection earlier, but with only the 4 words alone, I realized they were all types of "games." Purple was properly titled "\_\_\_\_\_ Game." 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -125,17 +125,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-exploring-the-world-of-desktop-capturing-a-sprout-review/"><u>[New] 2024 Approved Exploring the World of Desktop Capturing - A Sprout Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-for-smooth-iphone-video-experience/"><u>[Updated] Expert Techniques for Smooth iPhone Video Experience</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-maximize-your-virtual-engagements-using-obs-and-zoom-for-2024/"><u>[Updated] How to Maximize Your Virtual Engagements Using OBS & Zoom for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-an-affordable-diy-google-vr-system-at-home/"><u>2024 Approved Crafting an Affordable DIY Google VR System at Home</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-imagetangle-the-premier-montage-engineer/"><u>2024 Approved ImageTangle The Premier Montage Engineer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-inexpensive-quality-camera-solutions/"><u>2024 Approved Inexpensive Quality Camera Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199739845-environmental-factors-can-affect-tool-accuracy-requiring-adjustments-to-maintenance-schedules/"><u>Environmental Factors Can Affect Tool Accuracy, Requiring Adjustments to Maintenance Schedules</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-exporting-pinterest-videos-into-mp3-format-for-2024/"><u>Guide to Exporting Pinterest Videos Into MP3 Format for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-monotonous-to-magnificent-font-integration-in-ae/"><u>In 2024, From Monotonous to Magnificent Font Integration in AE</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-quick-downloads-on-origin-insider-secrets-and-techniques-a-2024-playbook/"><u>Mastering Quick Downloads on Origin: Insider Secrets & Techniques - A 2024 Playbook</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-reversing-fatal-application-crashes/"><u>Techniques for Reversing Fatal Application Crashes</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/updating-your-printers-firmware-a-step-by-step-guide-by-yl-computing/"><u>Updating Your Printer's Firmware: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-review-of-top-mp4-players/"><u>[New] Exclusive Review of Top MP4 Players</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-giggles-galore-crafting-memes-in-adobe/"><u>[New] Giggles Galore Crafting Memes in Adobe</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-use-supplemental-video-sequences-effectively/"><u>[New] How to Use Supplemental Video Sequences Effectively</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-image-editors-ultimate-toolkit-review-for-2024/"><u>[New] The Image Editor's Ultimate Toolkit Review for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unlocking-the-art-of-guesting-on-social-tiktok-lives/"><u>[New] Unlocking the Art of Guesting on Social TikTok Lives</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-benq-bl2711u-reviewed-the-apex-of-27-high-definition-monitoring-technology/"><u>[Updated] 2024 Approved BenQ BL2711U Reviewed - The Apex of 27” High-Definition Monitoring Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-insight-demystifying-dji-inspire-2/"><u>2024 Approved Full Insight Demystifying DJI Inspire 2</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/collaborative-playlist-enjoyment-sharing-your-favorite-tunes-on-spotify-with-loved-ones/"><u>Collaborative Playlist Enjoyment: Sharing Your Favorite Tunes on Spotify with Loved Ones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/film-crafting-from-script-to-screen-for-2024/"><u>Film Crafting From Script to Screen for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flash-and-fly-gaming-top-10-speedy-apps-on-desktopmobile-for-2024/"><u>Flash & Fly Gaming Top 10 Speedy Apps on Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-upgrade-enhanced-compatibility-for-brother-hl-2240-and-windows-pcs/"><u>Get the Newest Upgrade: Enhanced Compatibility for Brother HL-2240 and Windows PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-social-media-a-guide-for-insta-tik-tok-linkage-for-2024/"><u>Harmonizing Social Media A Guide for Insta-Tik Tok Linkage for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-examining-the-economics-pewdiepies-annual-income/"><u>In 2024, Examining the Economics PewDiePie's Annual Income</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hot-topic-in-photos-memes-and-their-origin-tales/"><u>In 2024, Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-t2-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo T2 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/principles-of-creating-inspirational-day-to-day-visual-stories-for-2024/"><u>Principles of Creating Inspirational Day-to-Day Visual Stories for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/stop-buffer-tweet-vids-in-chromium-browser/"><u>Stop Buffer Tweet Vids in Chromium Browser</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-mobile-video-assembly-software-for-smartphones-for-2024/"><u>Top Mobile Video Assembly Software for Smartphones for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/troubleshooting-guide-resolving-issues-with-windows-11-system-imaging-and-restoration/"><u>Troubleshooting Guide: Resolving Issues with Windows 11 System Imaging and Restoration</u></a></li>
 </ul></div>
 

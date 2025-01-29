@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2025-01-14T18:24:13.984Z
-updated: 2025-01-21T21:05:04.251Z
+date: 2025-01-27T22:10:33.757Z
+updated: 2025-01-28T21:45:47.616Z
 tags:
   - desktop
 categories:
@@ -14,16 +14,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 While I am a Linux daily driver, and I do sprinkle the terminal with commands now and then, I'm by no means a hacker. That didn't stop me from looking the part, though, since it turns out several simple commands (and a whole app) exist to make you look like a star in a florid cyberthriller. Here they are and how to run them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  neofetch 
 
 ![neofetch command output on an Ubuntu operating system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-14_16h38_17.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Starting simple, neofetch is perfect for when you want to send your friends a screenshot of your sweet new Linux desktop with a terminal open to make it look like you know how to use it. You simply run the command and some stats about your system will be printed next to a big [ASCII art](https://en.wikipedia.org/wiki/ASCII%5Fart) version of your distro's logo. If you've ever checked out r/UnixPorn, you'll recognize it as one of the more popular outputs to have printed in an open terminal.
 
@@ -42,7 +38,7 @@ sudo pacman -S neofetch
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  cmatrix 
@@ -69,6 +65,10 @@ cmatrix
 
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  genact 
 
 Your browser does not support the video tag. 
@@ -86,7 +86,7 @@ snap install genact
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  hollywood 
@@ -110,7 +110,7 @@ sudo pacman -S hollywood
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
@@ -140,17 +140,21 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocking-the-power-of-voice-notes-masterclass/"><u>[New] 2024 Approved Unlocking the Power of Voice Notes Masterclass</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-secure-continuous-streaming-in-obs/"><u>[New] How To Secure Continuous Streaming In OBS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-accelerate-profits-using-the-top-15-facebook-data-analyzers/"><u>[Updated] Accelerate Profits Using the Top 15 Facebook Data Analyzers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-tracked-finesse-how-to-efficiently-edit-and-enhance-windows-photos/"><u>[Updated] Fast-Tracked Finesse How to Efficiently Edit and Enhance Windows Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-frostbite-finishes-olympic-ice-classics/"><u>[Updated] Frostbite Finishes Olympic Ice Classics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hues-in-action-implementing-color-schemes-properly/"><u>2024 Approved Hues in Action Implementing Color Schemes Properly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/change-your-gmail-alert-tones-instructions-and-best-practices/"><u>Change Your Gmail Alert Tones - Instructions and Best Practices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-v30-lite-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo V30 Lite 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-elevate-your-content-the-secrets-to-increased-subscribers/"><u>In 2024, Elevate Your Content The Secrets to Increased Subscribers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/independent-filming-freedoms-agreement-for-2024/"><u>Independent Filming Freedoms Agreement for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-obscurity-to-influence-5-strategies-to-dominate-reddit-advertising/"><u>[Updated] From Obscurity to Influence 5 Strategies to Dominate Reddit Advertising</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gigglegraphs-designing-delightful-memes/"><u>[Updated] GiggleGraphs Designing Delightful Memes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-brand-partnerships-for-youtube-content-creators/"><u>[Updated] Leveraging Brand Partnerships for YouTube Content Creators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-recapturing-moments-the-xiaomi-mi-11s-superior-screen-record/"><u>[Updated] Recapturing Moments The Xiaomi Mi 11'S Superior Screen Record</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-recipes-that-resonate-best-practices-for-eating-themed-titles/"><u>[Updated] Recipes That Resonate Best Practices for Eating-Themed Titles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-shootout-max-360-vs-hero-11-performance-analysis/"><u>2024 Approved GoPro Shootout Max 360 vs Hero 11 Performance Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oad-free-mcb-logo-templates-for-2024/"><u>Download Free MCB Logo Templates for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fine-tuning-soundtracks-with-garageband-expertise-for-2024/"><u>Fine-Tuning Soundtracks with GarageBand Expertise for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fiscally-friendly-action-footage-gear-for-2024/"><u>Fiscally-Friendly Action Footage Gear for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-staking-habitats-critical-commentary-for-2024/"><u>HIGH-STAKING HABITATS Critical Commentary for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-6s-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 6s?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-still-life-to-motion-picture-a-complete-guide-on-pixiz-videos/"><u>In 2024, From Still Life to Motion Picture A Complete Guide on Pixiz Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-fixes-overcoming-outpost-infinity-siege-freezing-issues/"><u>PC Gaming Fixes: Overcoming Outpost: Infinity Siege Freezing Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/er-capturing-device-for-exceptional-youtube-productions/"><u>Premier Capturing Device for Exceptional YouTube Productions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/selective-complementary-items-for-outstanding-gopros-for-2024/"><u>Selective Complementary Items for Outstanding GoPros for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-evolution-and-functionality-of-usb-composite-devices-a-comprehensive-guide/"><u>The Evolution and Functionality of USB Composite Devices: A Comprehensive Guide</u></a></li>
 </ul></div>
 

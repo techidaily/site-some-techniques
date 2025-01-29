@@ -1,7 +1,7 @@
 ---
 title: "Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?"
-date: 2025-01-20T20:43:38.037Z
-updated: 2025-01-21T19:56:46.767Z
+date: 2025-01-23T22:32:07.602Z
+updated: 2025-01-29T07:19:43.790Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
 ## Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI chatbots can experience hallucinations, providing inaccurate or nonsensical responses while believing they have fulfilled the user's request.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 * Developers are working to improve AI chatbots and reduce hallucination rates through better training data, regular testing, and refining response parameters. Users can also minimize hallucination by keeping prompts concise, avoiding contradictory language, and fact-checking information provided by chatbots.
 
  Many of us think hallucinations are solely a human experience. However, even esteemed AI chatbots have the ability to hallucinate in their own way. But what exactly is AI hallucination, and how does it affect AI chatbots' responses?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is AI Hallucination?
 
@@ -39,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
  While faulty prompts can give way to AI hallucinations, things also go a little deeper than this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  The Technical Side of AI Hallucinations
 
  Your typical AI chatbot functions using artificial neural networks. While these neural networks are nowhere near as advanced as those in the human brain, they're still fairly complex.
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
  Chatbots like ChatGPT, Google Bard, and Claude can tell you if they've detected that a given prompt doesn't make sense or needs refining. But the detection of faulty prompts isn't 100 percent (as we'll discuss further later), and it's the existing margins of error that give way to hallucinations.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Which AI Chatbots Hallucinate?
 
 ![The ChatGPT website open on a phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52927154347_a9c038a466_o.jpg) 
@@ -81,15 +81,15 @@ Jason Montoya / How-To Geek
 
  The creator of Claude, Anthropic, has publicly stated that its chatbot can hallucinate. In an [Anthropic notice](https://docs.anthropic.com/claude/docs/claude-is-hallucinating), titled "Claude is hallucinating", it was stated that, despite Anthropic's efforts to minimize occurrences of hallucinations, they still happen. Specifically, Anthropic stated that the issue of hallucinations in Claude's responses "is not fully solved yet."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Observing AI Hallucinations
 
  We gave ChatGPT a contradictory scenario, and asked it to answer a question concerning the scenario. As you can see below, we interchanged facts multiple times in an effort to confuse the chatbot.
 
 ![Screenshot of ChatGPT response to prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/gpt-hallucinate-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT caught out the person's height inconsistency in the problem, but not that of the building. So, ChatGPT provided a confident response, without realizing it was hallucinating. The response was also quite nonsensical overall, with its conclusion being that the man on top of the building is "already on the ground", and that he is only "slightly shorter" than the 100-200ft building.
 
@@ -97,15 +97,15 @@ Jason Montoya / How-To Geek
 
 ![Screenshot of Claude AI bot's response to problem solving prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/claude-answer-problem.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this case, Claude missed both height inconsistencies, but still tried to solve the problem. It also provided nonsensical sentences, such as "He jumps off the building, so will fall 200 feet total (100 foot building height + 100 feet to ground).
 
  The [Google Bard chatbot](https://video-screen-grab.techidaily.com/new-master-the-art-of-gameye-and-webcam-recordings/) approached the same problem with a more mathematical step-by-step approach, but still failed to notice the contradictions in the prompt. Though the mathematical process was sound, the chatbot still provided a hallucinatory response.
 
 ![Screenshot of Google Bard's response to a nonsensical prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/bard-answer-ai.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this instance, all three of the popular AI chatbots tested failed, either partially or entirely, to spot the errors in the prompt, giving way to hallucinatory responses.
 
@@ -118,6 +118,10 @@ Jason Montoya / How-To Geek
  According to a [study conducted by Vectara](https://github.com/vectara/hallucination-leaderboard), GPT-4 and GPT-4 Turbo have the lowest rates of hallucination compared to other AI models. GPT-4 and GPT-4 Turbo had a hallucination rate of three percent, with GPT-3.5 Turbo coming in second place, having a hallucination rate of 3.5 percent. Evidently, the newer GPT versions have an improved hallucination rate here.
 
  Anthropic's Claude 2 had a hallucination rate of 8.5 percent, though time will tell whether Claude 2.1 (released in November 2023) will have a lower rate. Google's Gemini Pro AI model, the successor to LaMDA and Palm 2, had a hallucination rate of 4.8 percent. While Vectara did not provide a rate for the first Claude model, it did state that Google Palm 2 and Google Palm 2 chat had very high hallucination rates of 12.1 percent and 27.2 percent respectively. Again, it's evident that the newer Google AI model has cracked down on hallucinations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Avoid AI Hallucination
 
@@ -134,10 +138,6 @@ Jason Montoya / How-To Geek
  It's also important to fact-check any information an AI chatbot gives you. While these tools can be great factual resources, hallucination can give way to misinformation, so [AI chatbots shouldn't be used as a substitute to web search](https://vp-tips.techidaily.com/updated-unveiling-the-1-to-5-of-windows-free-screen-capture-apps-for-2024/).
 
  If you're very worried about AI hallucination, you may want to steer clear of AI chatbots for now, as hallucination is evidently still a prominent issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Be Wary of AI Hallucination
 
@@ -158,24 +158,20 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-examining-if-reviewers-get-payed/"><u>[New] Examining if Reviewers Get Payed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-voice-modification-tools-featuring-magic/"><u>[New] Excellence in Voice Modification Tools, Featuring Magic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exceptional-advice-premium-ios-tone-makers/"><u>[New] Exceptional Advice Premium iOS Tone Makers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-reverse-color-saturation-quickly/"><u>[New] How to Reverse Color Saturation Quickly</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-byte-sized-hits-the-heart-of-viral-content/"><u>[New] In 2024, Byte-Sized Hits The Heart of Viral Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-8-android-multi-user-video-chat-tools-for-2024/"><u>[New] Top 8 Android Multi-User Video Chat Tools for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-closing-the-distance-zoom-in-for-a-clearer-picture/"><u>[Updated] 2024 Approved Closing the Distance Zoom in for a Clearer Picture</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-enhance-documentation-with-auto-transcribe-in-microsoft-word/"><u>[Updated] 2024 Approved Enhance Documentation with Auto-Transcribe in Microsoft Word</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-everything-you-need-to-know-about-making-a-photomontage/"><u>[Updated] Everything You Need to Know About Making a PhotoMontage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-pop-culture-sounds-to-your-ringtone-a-compreeved-guide/"><u>2024 Approved From Pop Culture Sounds to Your Ringtone A Compreeved Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-webcam-options-from-logitech-ideal-for-the-modern-workforce-zdnet-insights/"><u>Affordable Webcam Options From Logitech - Ideal for the Modern Workforce | ZDNet Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/frame-it-right-essential-2023-tools-and-sites-for-image-edits-for-2024/"><u>Frame It Right Essential 2023 Tools & Sites for Image Edits for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/freedomsongextractors-evolution-in-the-2024-landscape/"><u>FreedomSongExtractor's Evolution in the 2024 Landscape</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-windows-users-to-fix-f429f-camera-app-hurdle/"><u>Guiding Windows Users to Fix F429F Camera App Hurdle</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-faces-under-scrutiny-how-iphone-x-and-galaxy-unlock-tech-compare/"><u>In 2024, Faces Under Scrutiny How iPhone X and Galaxy Unlock Tech Compare</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-beginner-to-expert-with-a-complete-fcp-guidebook/"><u>In 2024, From Beginner to Expert with a Complete FCP Guidebook</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-whatsapps-vocal-messaging-system-for-2024/"><u>Navigating WhatsApp's Vocal Messaging System for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-problems-fixes-for-when-discord-app-wont-launch/"><u>Solve Your Problems: Fixes for When Discord App Wont Launch</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/unfreeze-non-playing-youtube-tweets-chrome-for-2024/"><u>Unfreeze Non-Playing YouTube Tweets Chrome for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-applications-for-video-from-pics/"><u>[New] Expert Applications for Video From Pics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-framework-for-cost-analysis-in-music-video-making/"><u>[New] Framework for Cost Analysis in Music Video Making</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-chaos-unleashed-to-organized-oasis-edit-your-hefty-tiktoks/"><u>[New] From Chaos Unleashed to Organized Oasis Edit Your Hefty TikToks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-8-best-free-video-editing-software-for-youtube-for-2024/"><u>[Updated] 8 Best Free Video Editing Software for YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-direct-to-your-library-simple-windows-and-mac-techniques-for-downloading-igtv-for-2024/"><u>[Updated] Direct to Your Library Simple Windows & Mac Techniques for Downloading IGTV for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hearing-from-you-simple-windows-10-recorder-guide/"><u>[Updated] Hearing From You Simple Windows 10 Recorder Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>[Updated] In the Editor's Shadows Top Tips for Outstanding Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglegallery-log-in-and-make-magic-videos/"><u>2024 Approved GiggleGallery Log In and Make Magic Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-guide-industrys-favorites/"><u>2024 Approved Gimbal Guide Industry's Favorites</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dive-into-the-latest-features-of-apples-most-recent-ipad-release/"><u>Dive Into the Latest Features of Apple's Most Recent iPad Release</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974710557-graphical-gone-wrong-monster-hunts-fix-successful/"><u>Graphical Gone Wrong? Monster Hunt's Fix Successful</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-does-t-series-generate-revenue/"><u>How Does T-Series Generate Revenue?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-zero-5g-2023-turbo-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Zero 5G 2023 Turbo to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/transformative-techniques-looping-videos-that-engage-instagram-users/"><u>Transformative Techniques Looping Videos That Engage Instagram Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-sets-auto-gpt-apart-from-the-popular-chatgpt-exploring-key-differences/"><u>What Sets Auto-GPT Apart From the Popular ChatGPT? Exploring Key Differences</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reigniting Your Passion for Creativity: How Artificnial Intelligence Helped"
-date: 2025-01-19T16:06:56.941Z
-updated: 2025-01-21T16:23:37.707Z
+date: 2025-01-22T05:33:41.193Z
+updated: 2025-01-29T09:11:07.758Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/7a68a371ecefb61abf22397216f859079f91db410
 ---
 
 ## Reigniting Your Passion for Creativity: How Artificnial Intelligence Helped
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7a68a371ecefb61abf22397216f859079f91db410
 
 ![A child watching animated movies with a sense of wonder and imagination](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-a-child-watching-animated-movies-with-a-sense-of-wonder-and-imagination.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dibakar Ghosh / How-To Geek | Midjourney
 
  In fact, I was so consumed and immersed in these fantastical narratives that they slowly stirred a creative itch inside me. I, too, wanted to bring the worlds in my head out into the open. I wanted to tell people, “Hey, I created something. Come take a look (or listen).”
@@ -40,7 +40,7 @@ Dibakar Ghosh / How-To Geek | Midjourney
 ![A person typing on a laptop, surrounded by creative writing materials.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-a-person-typing-on-a-laptop-surrounded-by-creative-writing-materials.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
@@ -48,7 +48,7 @@ Dibakar Ghosh / How-To Geek | Midjourney
  But here’s the twist—words were never my biggest passion. I always felt a stronger affinity towards music and art. So why didn’t I prioritize those over writing? Simple answer: I couldn’t!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Creative Hobbies Have a Barrier To Entry
@@ -71,6 +71,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![a digital audio workstation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-a-digital-audio-workstation.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dibakar Ghosh / How-To Geek | Midjourney
 
  You know what wasn’t expensive, though? Paper! So, I bought lots of paper. Writing became my sole outlet for creative expression.
@@ -92,10 +96,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
  It all began with [Midjourney](https://vp-tips.techidaily.com/new-2024-approved-heaviest-lifting-uavs-the-definitive-top-10/). I started using the tool in March 2023, when version 5 dropped. The notion that you could type in a few words, and it’d generate a highly detailed image for you in seconds was insane.
 
 ![Midjourney web app image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-midjourney-web-app-image.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I quickly revisited my old notebook (yes, I have a notebook with my earlier ideas because digitizing them was a lot of work) and started _playing_ with Midjourney.
 
@@ -131,7 +131,7 @@ A curious cat in a sleek white spacesuit and helmet, climbing up the exterior of
 ![11. a better image of a cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/11-a-better-image-of-a-cat-in-space.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
@@ -139,6 +139,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
  But again, Midjourney is trying to do its own thing, making this image look photorealistic. The image looks a bit more cartoony and animated in my head. So, let’s try modifying the prompt with those keywords, and this is what I end up with:
 
 ![a cartoon cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/12-a-cartoon-cat-in-space.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -155,10 +159,6 @@ Your browser does not support the video tag.
  This brings us back to square one. To accurately express the songs in my head, I need to know how to play an instrument. To accurately materialize the scenery in my mind, I need to know how to draw them myself.
 
  Even if I use AI for polish, I need to know the basics and technicalities of music production or digital art if I truly want to express my creativity. As such, I’m ready to buy my first musical instrument.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  I'm Planning To Buy a Keyboard
 
@@ -193,22 +193,24 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nside-the-worlds-most-successful-business-youtube-sites/"><u>[New] Inside the World's Most Successful Business YouTube Sites</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leveraging-tools-to-extract-mp3s-from-popular-video-platforms-like-pinterest/"><u>[New] Leveraging Tools to Extract MP3s From Popular Video Platforms Like Pinterest</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-methods-for-shushing-complaints-in-gmeet-sessions/"><u>[Updated] 2024 Approved Expert Methods for Shushing Complaints in GMeet Sessions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exquisite-makeup-moments-captured/"><u>[Updated] Exquisite Makeup Moments Captured</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-3d-text-designing-in-ai/"><u>2024 Approved Expert Tips for 3D Text Designing in AI</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-tracking-visual-storytelling-with-google-collages/"><u>2024 Approved Fast-Tracking Visual Storytelling with Google Collages</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fresh-approaches-to-instagram-collages-made-simple/"><u>2024 Approved Fresh Approaches to Instagram Collages Made Simple</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-synopsis-gopro-slr4-sliver-camera-review/"><u>2024 Approved In-Depth Synopsis GoPro SLR4 Sliver Camera Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-full-month-with-the-dell-xps-15-after-swapping-from-my-macbook-an-unregrettable-experience-zdnet/"><u>A Full Month with the Dell XPS 15 After Swapping From My MacBook - An Unregrettable Experience [ZDNet]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/easy-guide-to-see-youtube-liked-comments-for-2024/"><u>Easy Guide to See YouTube Liked Comments for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-elusive-gsdll32dll-not-detected-problem-effectively/"><u>Fixing the Elusive 'gsdll32.dll Not Detected' Problem Effectively</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-immersive-tech-vr-explained-simply/"><u>In 2024, Exploring Immersive Tech VR Explained Simply</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-hushes-softening-sounds-with-garageband/"><u>In 2024, Harmonious Hushes Softening Sounds with Garageband</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/solutions-pour-le-probleme-de-recuperation-non-fonctionnel-avec-la-sauvegarde-du-systeme-actuel-lenovo-onekey/"><u>Solutions Pour Le Problème De Récupération Non Fonctionnel Avec La Sauvegarde Du Système Actuel Lenovo OneKey</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-tiktok-sound-as-your-phones-ringtone/"><u>Step-by-Step Guide to TikTok Sound as Your Phone's Ringtone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/understanding-the-spectrum-expert-color-calibration/"><u>Understanding the Spectrum Expert Color Calibration</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-a-step-by-step-guide-to-crafting-immersive-fb-video-experienenas-for-2024/"><u>[New] A Step-by-Step Guide to Crafting Immersive FB Video Experienenas for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>[Updated] 2024 Approved Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-premier-8-safe-video-communication-programs-for-smbs/"><u>[Updated] 2024 Approved Premier 8 Safe Video Communication Programs for SMBs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-art-of-iphone-photo-collage-assembly/"><u>[Updated] Explore the Art of iPhone Photo Collage Assembly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-licensed-soundtracks-for-gamers-a-complete-list/"><u>[Updated] Free, Licensed Soundtracks for Gamers - A Complete List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-start-to-finish-seamless-editing-with-kinemaster/"><u>[Updated] From Start to Finish Seamless Editing with Kinemaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-official-passport-photo-online-download-and-print-your-portraits-for-free/"><u>[Updated] Get Official Passport Photo Online – Download & Print Your Portraits for FREE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guide-to-spotify-ads-learn-how-to-successfully-advertise-on-spotify/"><u>[Updated] Guide to Spotify Ads - Learn How to Successfully Advertise on Spotify</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-video-seo-5-steps-to-surge-in-youtube-popularity-for-2024/"><u>[Updated] Mastering Video SEO 5 Steps to Surge in YouTube Popularity for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-spectacular-racing-sims-number-one-to-five/"><u>[Updated] Spectacular Racing Sims Number One to Five</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-websites-for-extracting-text-visual-upgrades/"><u>2024 Approved Ideal Websites for Extracting Text Visual Upgrades</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-forefront-ai-vs-chatgpt-which-is-superior/"><u>Comparing Forefront AI Vs. ChatGPT: Which Is Superior?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exemplary-melodies-set-for-visual-narratives-for-2024/"><u>Exemplary Melodies Set for Visual Narratives for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/expert-techniques-for-streaming-facebook-live-2023/"><u>Expert Techniques for Streaming Facebook Live, 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funimate-the-game-changers-manual-for-2024/"><u>Funimate The Game Changer's Manual for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/identifying-optimal-frame-rate-in-slow-motion-film-production-for-2024/"><u>Identifying Optimal Frame Rate in Slow Motion Film Production for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-our-picks-the-most-affordable-video-viewing-apps-today/"><u>In 2024, Explore Our Picks The Most Affordable Video Viewing Apps Today</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/standard-setup-stellar-file-eraser-pro-5-on-windows-automate-your-clean-up-tasks/"><u>Standard Setup: Stellar File Eraser Pro 5 on Windows - Automate Your Clean-Up Tasks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-review-the-ultimate-nomad-case-for-your-apple-iphone-13-superior-drop-proof-design-with-stunning-appeal/"><u>Zdnet Review: The Ultimate Nomad Case For Your Apple iPhone 13 - Superior Drop-Proof Design with Stunning Appeal!</u></a></li>
 </ul></div>
 

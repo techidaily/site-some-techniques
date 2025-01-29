@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC"
-date: 2025-01-15T19:42:53.299Z
-updated: 2025-01-21T16:38:47.542Z
+date: 2025-01-24T23:12:34.932Z
+updated: 2025-01-28T20:30:03.446Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 ---
 
 ## Quick Troubleshooting: How to Immediately Close a Frozen Program on Your Windows 10 PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,7 +40,11 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 ![Press Alt+F4 to force close an app. If you press Alt+F4 while the desktop is selected, you'll see a 'Shut Down Windows' window appear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0-altf4-restart-okay-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Force Quit Using Task Manager
@@ -54,14 +62,10 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 ![Select the app you want to force quit, then click 'End Task.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-select-the-app-and-hit-end-task.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The frozen program will now close.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Force Quit an App Using Command Prompt
 
@@ -70,16 +74,12 @@ thumbnail: https://thmb.techidaily.com/45e28f9a2bd574b9cc2fe65fd885cbbf79b57e7d4
 ![Search 'cmd' in the Start Menu search, then launch Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-launch-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Command Prompt, type **tasklist** and press "Enter." Once executed, Command Prompt will display a list of currently running programs, services, and tasks.
 
 ![The tasklist command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-tasklist.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The list can admittedly be a bit overwhelming, so just remember to append .exe to the end of the program name. Once you’re ready to force quit the program, execute this command:
 
@@ -112,22 +112,20 @@ taskkill /im notepad.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-easy-way-to-mix-and-match-youtube-playlist-order/"><u>[New] 2024 Approved The Easy Way to Mix and Match YouTube Playlist Order</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmony-in-hues-and-beats-the-top-5-pioneering-professionals-in-visuals-and-audio/"><u>[New] Harmony in Hues and Beats The Top 5 Pioneering Professionals in Visuals & Audio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-infuse-sound-with-microsoft-powerpoint-decks/"><u>[New] Infuse Sound with Microsoft PowerPoint Decks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-best-way-to-stitch-gopro-clips-into-360-videos/"><u>[Updated] Best Way to Stitch GoPro Clips Into 360 Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-strategy-seamlessly-integrating-subtitles-in-videos/"><u>[Updated] Expert Strategy Seamlessly Integrating Subtitles in Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-zero-to-hero-in-instagram-world-top-9-pathways-unveiled/"><u>[Updated] From Zero to Hero in Instagram World Top 9 Pathways Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-potential-how-to-excel-on-spotify-ads/"><u>[Updated] Harnessing Potential How to Excel on Spotify Ads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-apps-to-transform-vtuber-speech-patterns/"><u>[Updated] Ideal Apps to Transform Vtuber Speech Patterns</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-initial-cinematographers-work-scrutiny-and-replacement-ideas/"><u>2024 Approved Initial Cinematographer's Work Scrutiny & Replacement Ideas</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-mellowing-sound-piece-by-piece-in-fl/"><u>2024 Approved Mellowing Sound Piece-by-Piece in FL</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-ways-to-adjust-speed-on-snapchat-videos-and-the-best-alternative/"><u>Best Ways to Adjust Speed on Snapchat Videos (And the Best Alternative</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-quantum-hdrs-impact-on-photography-for-2024/"><u>Exploring Quantum HDR's Impact on Photography for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-amplify-online-impact-through-savvy-templates-design/"><u>In 2024, Amplify Online Impact Through Savvy Templates Design</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-expert-tips-harnessing-full-capabilities-of-aiseesoft-screen-tech/"><u>In 2024, Expert Tips Harnessing Full Capabilities of Aiseesoft Screen Tech</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-incorporating-keywords-for-seo/"><u>In 2024, Incorporating Keywords for SEO</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722959876378-localized-tumors-may-be-cured-with-surgical-resection-while-advanced-cases-require-systemic-therapy-or-palliative-care/"><u>Localized Tumors May Be Cured with Surgical Resection, While Advanced Cases Require Systemic Therapy or Palliative Care</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-techniques-for-overcoming-this-application-failed-to-start-messages/"><u>Troubleshooting Techniques for Overcoming 'This Application Failed to Start' Messages</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rise-of-the-alternative-top-3-video-sharing-websites/"><u>[New] Rise of the Alternative Top 3 Video Sharing Websites</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-tips-and-tricks-to-attract-product-sponsors-to-your-youtube-channel/"><u>[New] Tips and Tricks to Attract Product Sponsors to Your Youtube Channel</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-fastest-practices-powerpoint-recordings/"><u>[Updated] 2024 Approved Fastest Practices PowerPoint Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-quickly-modify-photo-resolution-on-an-iphone/"><u>[Updated] How to Quickly Modify Photo Resolution on an iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fly-higher-10-must-have-uav-extras-revealed/"><u>2024 Approved Fly Higher 10 Must-Have UAV Extras Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-auditory-gamespace-vaults-copyright-free/"><u>2024 Approved Free Auditory Gamespace Vaults (Copyright-Free)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-amazing-slow-motion-video-on-android-easily/"><u>2024 Approved How to Make Amazing Slow Motion Video on Android Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellence-in-starting-points-for-panzoids-for-2024/"><u>Excellence in Starting Points for Panzoids for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-launching-an-inclusive-and-engaging-fb-donation-drive/"><u>In 2024, Guide to Launching an Inclusive and Engaging FB Donation Drive</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-y55s-5g-2023-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo Y55s 5G (2023) Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-gionee-f3-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Gionee F3 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-gt-5-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme GT 5 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-shade-changes-3-photoshop-hacks-for-2024/"><u>Mastering Shade Changes 3 Photoshop Hacks for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-top-picks-free-whiteboard-animation-software-for-windows-and-macos/"><u>S Top Picks Free Whiteboard Animation Software for Windows and macOS</u></a></li>
 </ul></div>
 

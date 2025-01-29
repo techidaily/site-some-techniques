@@ -1,7 +1,7 @@
 ---
 title: "Guide: Acquiring Personalized Tracks for Beat Saber - Compatible with PC and Quest Earphones"
-date: 2025-01-14T17:51:58.856Z
-updated: 2025-01-21T17:18:52.042Z
+date: 2025-01-26T23:33:04.261Z
+updated: 2025-01-29T06:52:01.030Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 ## Guide: Acquiring Personalized Tracks for Beat Saber - Compatible with PC and Quest Earphones
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  Some of these custom songs use additional mods to make them look completely different from normal Beat Saber maps. More mods can also be used to add cosmetic changes to the game, like lightsaber skins, third-person views, and custom note skins. Some mods like Chroma and Map Extensions are required to run popular custom songs, so make sure to download these mods by following the steps below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Add Custom Songs on Beat Saber for the Quest 2 & Quest Pro
 
  The installation process is similar for all Meta Quest headsets, and it requires enabling USB debugging and developer mode to [sideload apps and games](https://tiktok-video-recordings.techidaily.com/updated-2024-approved-copyright-clarity-how-to-verify-video-rights-pre-upload/). Once both features are enabled, you will need to download [SideQuest](https://sidequestvr.com/), an alternative store for Quest apps. Most of the apps on SideQuest are entirely free and can be downloaded from the PC client or the standalone version of the app. You will also need to patch the Beat Saber app to an older version to run mods and custom songs. At the time of writing, modding is only available on game version 1.28.0 (though it might get upgraded to a higher version later).
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 ![Download Beat Saber APK](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/download-beat-saber-apk.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nalin Rawat / How-To Geek
@@ -71,10 +67,6 @@ Nalin Rawat / How-To Geek
 
 ![Do not press Restore when modding Beat Saber](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/do-not-press-restore-when-modding-beat-saber.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nalin Rawat / How-To Geek
 
 Do not press Restore. Click on Close
@@ -83,23 +75,31 @@ Do not press Restore. Click on Close
 
 ![Sync to Beat Saber in BMBF.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/bmbf-sync-to-beat-saber-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nalin Rawat / How-To Geek
 
  Once the game launches, look to your left and select "More Songs." A search menu will appear where you can look for songs you want to listen to. Download these custom songs for Beat Saber and go back to the main menu. From here, go to Solo > Custom Songs and you will be able to access all your downloaded maps.
 
 ![Beat Saber Custom Songs Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/beat-saber-custom-songs.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nalin rawat / How-To Geek
 
  We highly recommend using the in-built BMBF Browser to install additional mods. Many popular custom maps use mods like Chroma, Map Extensions, and Noodle Extensions. Once downloaded, click on Sync to Beat Saber to install these mods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Add Custom Songs on Beat Saber for PC
 
  Adding custom songs for Beat Saber on PC is significantly easier when compared to a Quest headset. Adding songs manually is as simple as downloading a song from a website and placing it in the right folder. However, you can also use a third-party software called BSManager to download custom songs, mods, and even downgrade Beat Saber to an older version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How to Manually Add Songs to Beat Saber on PC
 
@@ -136,16 +136,21 @@ Nalin Rawat / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-your-photo-game-on-android-smartphones/"><u>2024 Approved Boost Your Photo Game on Android Smartphones</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/black-ops-cold-war-e887a0005-bug-fixed-complete-walkthrough-for-players/"><u>Black Ops Cold War E887A0005 Bug Fixed: Complete Walkthrough for Players</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-verizon-is-shaping-the-future-of-5g-telecommunications/"><u>How Verizon Is Shaping the Future of 5G Telecommunications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-soundscapes-for-editing-films-and-vids-for-2024/"><u>Ideal Soundscapes for Editing Films & Vids for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-front-runners-graphic-cards-for-4k-games/"><u>In 2024, Front-Runners Graphic Cards for 4K Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-access-to-sierras-documents-and-desktop-in-the-cloud/"><u>In 2024, Full Access to Sierra's Documents and Desktop in the Cloud</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-infusing-action-into-photos-using-illustrators-features/"><u>In 2024, Infusing Action Into Photos Using Illustrator's Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-music-lovers-club-listen-save-analyze-tunes/"><u>In 2024, Music Lovers Club Listen, Save, Analyze Tunes</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-if-you-are-struggling-to-figure-out-which-online-video-trimmer-is-for-you-then-here-is-a-list-of-the-10-best-free-online-video-trimmers-for-2024/"><u>New If You Are Struggling to Figure Out Which Online Video Trimmer Is for You, Then Here Is a List of the 10 Best Free Online Video Trimmers for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/purchase-today-exceptional-photo-restoration-services/"><u>Purchase Today: Exceptional Photo Restoration Services</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-transforming-shaky-videos-into-cinematic-masterpieces-with-fcpx-for-2024/"><u>Updated Transforming Shaky Videos Into Cinematic Masterpieces with FCPX for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-prime-approaches-to-chronicle-lol-clashes/"><u>[New] 2024 Approved Prime Approaches to Chronicle LOL Clashes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gastronomy-in-action-a-guide-to-high-quality-food-videos/"><u>[New] Gastronomy in Action A Guide to High-Quality Food Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-guide-to-the-top-youtube-video-editors/"><u>[New] Ultimate Guide to the Top YouTube Video Editors</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-leading-lights-in-the-world-of-game-tiktoks/"><u>[Updated] 2024 Approved Leading Lights in the World of Game TikToks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-money-tips-for-reddit-novices-13-best-ways/"><u>[Updated] Free Money Tips for Reddit Novices (13 Best Ways!)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-selecting-optimal-gopro-protection-top-10-selections/"><u>[Updated] In 2024, Selecting Optimal GoPro Protection - Top 10 Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-go-beyond-the-tv-watch-nba-gameplay-with-these-15-hacks/"><u>2024 Approved Go Beyond the TV Watch NBA Gameplay with These 15 Hacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-fortnite-sound-glitches-and-how-to-fix-them-a-comprehensive-guide/"><u>Common Fortnite Sound Glitches and How to Fix Them – A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/coordinating-connections-dual-net-usage-on-a-single-windows-pc/"><u>Coordinating Connections: Dual Net Usage on a Single Windows PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-high-definition-with-nikon-d500-for-2024/"><u>Exploring High-Definition with Nikon D500 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fix-coffee-stain-distortions-on-iphones-in-a-flash-for-free-for-2024/"><u>Fix Coffee Stain Distortions on iPhones in a Flash, for Free for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-script-to-screen-mastery-through-vida-writers-guide/"><u>From Script to Screen Mastery Through Vida’ Writers Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-manage-and-disable-recommended-podcast-episodes-in-spotify-for-2024/"><u>How to Manage and Disable Recommended Podcast Episodes in Spotify for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evolutionary-leap-with-macos-11-big-sur-what-you-need/"><u>In 2024, Evolutionary Leap with macOS 11 Big Sur – What You Need</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-razr-40-ultra-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimizar-la-calidad-y-el-tamano-de-video-mp4-con-herramientas-avanzadas-de-compresion/"><u>Optimizar La Calidad Y El Tamaño De Vídeo MP4 Con Herramientas Avanzadas De Compresión</u></a></li>
 </ul></div>
 

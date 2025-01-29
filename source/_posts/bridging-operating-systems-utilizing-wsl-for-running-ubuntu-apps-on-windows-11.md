@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: Utilizing WSL for Running Ubuntu Apps on Windows 11"
-date: 2025-01-20T20:18:28.760Z
-updated: 2025-01-21T20:14:30.058Z
+date: 2025-01-24T07:36:09.823Z
+updated: 2025-01-29T02:14:11.672Z
 tags:
   - desktop
 categories:
@@ -45,16 +45,12 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Installing Ubuntu
 
@@ -74,15 +70,19 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
@@ -117,7 +117,7 @@ sudo apt upgrade
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
@@ -149,7 +149,7 @@ nohup program_name & disown
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
@@ -179,24 +179,18 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-upgrading-igtv-thumbnails-a-comprehensive-walkthrough/"><u>[New] 2024 Approved Upgrading IGTV Thumbnails A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expertise-in-virtual-assessment-vll-of-apps/"><u>[New] Expertise in Virtual Assessment VLL of Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-seas-of-soundtracking-leading-destinations-for-hearing-heroes-tts-downloads/"><u>[New] High Seas of Soundtracking Leading Destinations for Hearing Heroes' TTS Downloads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-for-next-level-lut-creation/"><u>[New] Innovative Techniques for Next-Level LUT Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-guide-best-8-cameras-for-dynamic-livestreams/"><u>[Updated] Exclusive Guide Best 8 Cameras for Dynamic Livestreams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-silence-to-sounds-windows-10-recorder-use/"><u>[Updated] From Silence to Sounds Windows 10 Recorder Use</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-voice-enhancement-on-chrome-our-best-picks-for-transformative-extensions/"><u>[Updated] In 2024, Voice Enhancement on Chrome Our Best Picks for Transformative Extensions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-guide-to-simple-high-dynamic-range/"><u>[Updated] In-Depth Guide to Simple High Dynamic Range</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ground-to-sky-the-lifting-elite-drone-list/"><u>2024 Approved From Ground to Sky The Lifting Elite Drone List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experience-freedom-in-viewing-free-movie-player-software-for-2024/"><u>Experience Freedom in Viewing FREE MOVIE PLAYER Software for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/giggles-and-graphics-iphone-edition/"><u>Giggles & Graphics IPhone Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-your-pc-from-continuously-restarting-windows-1110-solutions/"><u>How to Stop Your PC From Continuously Restarting - Windows 11/10 Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-appraisal-and-other-choices/"><u>In 2024, Exceptional Appraisal & Other Choices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-camon-20-premier-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Camon 20 Premier 5G FRP?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-digital-space-with-ease-via-onestream-platform/"><u>In 2024, Navigating the Digital Space with Ease via OneStream Platform</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-guide-to-video-hue-correction-11-steps/"><u>In 2024, The Essential Guide to Video Hue Correction (11 Steps)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mlb-the-show-2019-where-cutting-edge-graphics-collide-with-unexpected-role-playing-mechanics-review/"><u>MLB The Show 2019 – Where Cutting Edge Graphics Collide with Unexpected Role-Playing Mechanics (Review)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snip-and-save-malfunction-resolve-it-with-ease/"><u>Snip-and-Save Malfunction? Resolve It with Ease</u></a></li>
-<li><a href="https://fox-http.techidaily.com/whatsapp-status-now-with-symphony/"><u>WhatsApp Status, Now with Symphony</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unseen-elements-in-instagram-stories-for-the-curious-viewer/"><u>[New] 2024 Approved Unseen Elements in Instagram Stories For the Curious Viewer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-transcendence-in-music-mixing-crossfade-unveiled/"><u>[New] Transcendence in Music Mixing Crossfade Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-abrupt-shifts-to-serene-journeys-expert-crossfade-guidance-with-audacity/"><u>[Updated] From Abrupt Shifts to Serene Journeys Expert Crossfade Guidance with Audacity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-easywinrecorder-capture-windows-screens-quickly/"><u>[Updated] In 2024, EasyWinRecorder Capture Windows Screens Quickly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-toolwiz-unpacked-expert-review-of-a-photography-powerhouse/"><u>[Updated] Toolwiz Unpacked Expert Review of a Photography Powerhouse</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extraordinary-assessment-and-alternative-choices/"><u>2024 Approved Extraordinary Assessment & Alternative Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-to-audiovisual-transmitters-for-2024/"><u>Comprehensive Guide to Audiovisual Transmitters for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-jaco-smartpro-digital-tire-inflator-evaluation-your-ultimate-guide/"><u>Comprehensive Jaco SmartPro Digital Tire Inflator Evaluation - Your Ultimate Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-grayscale-to-graded-grandeur-color-artistry/"><u>In 2024, From Grayscale to Graded Grandeur Color Artistry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-switch-windows-11-to-auto-hdr-mode/"><u>In 2024, How to Switch Windows 11 To Auto HDR Mode</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incremental-sound-dampening-strategy/"><u>In 2024, Incremental Sound Dampening Strategy</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-6-free-mov-video-cutters/"><u>New Top 6 Free MOV Video Cutters</u></a></li>
+<li><a href="https://facebook.techidaily.com/public-perception-of-online-communities-more-harm-less-good/"><u>Public Perception of Online Communities: More Harm, Less Good</u></a></li>
 </ul></div>
 

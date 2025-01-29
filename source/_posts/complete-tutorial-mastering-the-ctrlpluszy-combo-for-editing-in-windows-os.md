@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Mastering the Ctrl+Z/Y Combo for Editing in Windows OS"
-date: 2025-01-20T17:43:15.379Z
-updated: 2025-01-21T21:24:05.995Z
+date: 2025-01-24T06:52:20.352Z
+updated: 2025-01-29T05:25:25.355Z
 tags:
   - deals
 categories:
@@ -12,17 +12,13 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 ## Complete Tutorial: Mastering the Ctrl+Z/Y Combo for Editing in Windows OS
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [How to Undo and (Sometimes) Redo Using Your Keyboard](https://www.howtogeek.com/766591/how-to-undo-and-redo-on-a-windows-pc/#how-to-undo-and-sometimes-redo-using-your-keyboard)
 * [How to Undo and Redo Using a Menu or Toolbar](https://article-tips.techidaily.com/crafting-seamless-audiovisual-mixes-in-audacity/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 ![Undo key combination on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some applications (such as Adobe Photoshop and Microsoft Office) support multiple steps of Undo, taking you back another step each time you perform the Undo command. If so, you can keep pressing and releasing Ctrl+Z to go back as many steps as you need.
 
  Also, in many applications—such as Microsoft Office apps—you can press Ctrl+Y or F4 on your keyboard to Redo the action you just undid. Another combination that is frequently redo is Ctrl+Alt+Z. 
@@ -47,10 +47,14 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 ![The "Redo" key combination is sometimes Ctrl+Y.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unlike [on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/), the "Redo" action isn't universally implemented in Windows. You'll have to experiment and see which applications support it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Undo and Redo Using a Menu or Toolbar
 
@@ -64,16 +68,12 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 ![The "Undo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_undo_button.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To perform a redo that will bring back what you did undid, click the Redo button in the Quick Access toolbar, which looks like a hooked arrow pointing to the right.
 
 ![The "Redo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_redo_button.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Other apps with different toolbar interfaces will likely have different designs for their undo or redo buttons. In general, look for a curved arrow pointing to the left for "Undo." You can also try right-clicking in a text entry area and looking for an "Undo" option. Or, when all else fails, try pressing Ctrl+Z on your keyboard.
@@ -93,16 +93,20 @@ thumbnail: https://thmb.techidaily.com/e66d59f6a7f3ee3fd4459c32ed6624c2f6ec71360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-accessing-and-saving-fb-stories-made-simple-5-top-tactics-mobiledesktop-for-2024/"><u>[New] Accessing & Saving FB Stories Made Simple 5 Top Tactics (Mobile/Desktop) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-get-started-building-time-lapse-expertise-with-gopro-software/"><u>[New] How to Get Started Building Time-Lapse Expertise with GoPro Software</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-from-pixels-to-perfection-selecting-the-premier-screen-recording-software/"><u>2024 Approved From Pixels to Perfection Selecting the Premier Screen Recording Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-rewind-to-save-incorporating-80s-vhs-in-todays-cinematic-edits/"><u>2024 Approved From Rewind to Save Incorporating 80S VHS in Today's Cinematic Edits</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-tiktok-videos-efficient-techniques-for-numerical-edits/"><u>2024 Approved Perfecting TikTok Videos Efficient Techniques for Numerical Edits</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discover-the-best-seo-services-in-san-francisco-usa-the-definitive-2024-edition-by-seo-powersuite-experts/"><u>Discover the Best SEO Services in San Francisco, USA - The Definitive 2024 Edition by SEO PowerSuite Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-shopping-spree-to-stunning-video-haul-editing-explained-for-2024/"><u>From Shopping Spree to Stunning Video Haul Editing Explained for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-enable-windows-11-auto-hdr-settings-for-2024/"><u>Guide to Enable Windows 11 Auto-HDR Settings for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/identifying-and-accessing-your-music-picks-on-youtube/"><u>Identifying and Accessing Your Music Picks on Youtube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infusing-homes-with-suns-invisible-light-for-2024/"><u>Infusing Homes with Sun's Invisible Light for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-setup-find-the-best-windows-7-keyboard-driver-software-here/"><u>Speedy Setup: Find the Best Windows 7 Keyboard Driver Software Here</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-elevating-your-tiktok-presence-harness-the-power-of-siri-speech/"><u>[New] In 2024, Elevating Your TikTok Presence Harness the Power of Siri Speech</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-future-proof-files-top-5-cloud-services-for-peak-performance/"><u>[Updated] 2024 Approved Future-Proof Files Top 5 Cloud Services for Peak Performance</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-win11s-quickest-image-viewing-experience/"><u>[Updated] 2024 Approved Win11's Quickest Image Viewing Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-audiovisual-alteration-apps-that-revolutionize-vtubing-soundscapes-for-2024/"><u>[Updated] Audiovisual Alteration Apps that Revolutionize Vtubing Soundscapes for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-meets-the-multiverse-a-detailed-comparison/"><u>[Updated] Metaverse Meets the Multiverse A Detailed Comparison</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foundations-of-easing-volume-control-in-audition/"><u>2024 Approved Foundations of Easing Volume Control in Audition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-disjointed-to-cohesive-perfecting-video-transition-artistry-on-inshot/"><u>2024 Approved From Disjointed to Cohesive Perfecting Video Transition Artistry on Inshot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-treasure-of-free-macos-transcription-tools/"><u>2024 Approved Hidden Treasure of Free macOS Transcription Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/flip-the-script-instagrams-video-trick/"><u>Flip the Script Instagram's Video Trick</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-separation-to-symbiosis-logic-pro-x-audio-blending-for-2024/"><u>From Separation To Symbiosis Logic Pro X Audio Blending for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/horizon-to-heavens-photo-taking-on-mobile-for-2024/"><u>Horizon to Heavens Photo-Taking on Mobile for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-zero-30-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Zero 30 5G?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-hashtags-to-challenges-bridging-instaplustiktok-worlds/"><u>In 2024, From Hashtags to Challenges Bridging Insta+TikTok Worlds</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-reviewing-the-live-streaming-shopping-industry-in-china-for-2024/"><u>New Reviewing the Live Streaming Shopping Industry in China for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-the-virtual-disk-service-failure-error/"><u>Reversing the Virtual Disk Service Failure Error</u></a></li>
 </ul></div>
 

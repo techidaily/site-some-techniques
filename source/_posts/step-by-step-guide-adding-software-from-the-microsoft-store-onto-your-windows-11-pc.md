@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Software From the Microsoft Store Onto Your Windows 11 PC"
-date: 2025-01-14T18:55:51.165Z
-updated: 2025-01-21T17:34:48.005Z
+date: 2025-01-25T05:09:17.665Z
+updated: 2025-01-29T03:43:18.946Z
 tags:
   - deals
 categories:
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 * [Free Apps vs. Paid Apps](https://buynow-tips.techidaily.com/motorola-one-5g-ace-fastest-5g-performance-with-exceptional-battery-longevity/)
 * [How to Install Software Using the Microsoft Store on Windows 10](https://win-howtos.techidaily.com/effective-solutions-for-repairing-unresponsive-functional-keys-on-lenovo-computers/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To install an app from the Microsoft Store on Windows 10, open the store, search for the app, and click "Get" or "Install."
@@ -28,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  Windows 10 includes the Microsoft Store, which lets you download free or paid software from the internet. Here's how to install apps from the Store.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Free Apps vs. Paid Apps
 
  Before using the Microsoft Store---or any modern app store---it's important to understand the difference between the two types of software in the store: free and paid.
@@ -39,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
  With "free" software, you can download the program without making a purchase, but there is usually a catch. These apps either work with a subscription service (such as Amazon, Netflix, Apple, Adobe, Facebook, or Slack), or they let you use a basic version of an app for free, [sometimes with intrusive advertisements](https://smart-video-editing.techidaily.com/in-2024-top-rated-video-promo-maker-websites/). If you want to unlock a feature later, you might be asked for payment using what are called "in-app purchases."
 
  The second type is "paid" software, which you buy up front before you download and then usually you own the right to use it completely, although there are also paid apps that sell more features later through in-app purchases.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Install Software Using the Microsoft Store on Windows 10
 
@@ -56,21 +52,29 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 ![The app types listed on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-app-types-on-left.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can search for a specific app by clicking the search button. In the search bar that appears, type what you'd like to find, then click an item in the list of results.
 
 ![Search for an app using the search bar at the top of the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-searching-for-the-hulu-app.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you locate a program you'd like to install, first check whether it is a free or paid app. If you don't see a price listed, the app is generally free, or requires a separate purchase (as with a Netflix account). Click the "Get" button to add and app to your account and download it for the first time. If you've downloaded an app previously but unistalled it, you'll see an "Install" button instead. 
 
 ![Click the 'Get' button to add an app to your account, then click 'Install' to actually install it to your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-get-app.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the program requires a purchase before downloading, you will see a large "Buy for" button followed by a price. 
 
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
 
@@ -85,16 +89,12 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ![Search for the app you installed using the Start menu search, then click the result labeled 'App.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-searching-for-netflix.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Also, if you ever need to [see a complete list of all the apps you've bought or installed](https://tech-revival.techidaily.com/best-8-chatgpt-interactions-to-enhance-productivity-and-decrease-distractions/) from the Microsoft Store, launch the "Microsoft Store" app and click the "Library" button in the bottom left corner of the window. 
 
 ![Click the 'Library' button in the bottom-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-click-the-library-button.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You will see a list of all the apps you have installed through the Microsoft Store, and you can sort it by install date and other criteria. If you want to [uninstall the app later](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/), you'll need to visit Settings > Apps, select the program, then click "Uninstall."
 
@@ -115,19 +115,15 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/inancial-outcomes-dailymotion-versus-youtube-earning-potential/"><u>[New] Financial Outcomes Dailymotion versus YouTube Earning Potential</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-trail-the-echoes-of-de-follows-in-instagram-land-for-2024/"><u>[New] Trail the Echoes of De-Follows in Instagram Land for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-vmix-vs-wirecast-which-is-the-best-professional-live-streaming-software/"><u>[Updated] 2024 Approved VMix VS Wirecast Which Is the Best Professional Live Streaming Software?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-high-quality-passport-pictures-download-and-print-in-seconds/"><u>[Updated] Free High-Quality Passport Pictures - Download & Print in Seconds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-video-openings-that-stand-out-today/"><u>[Updated] Free Video Openings That Stand Out Today</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-audience-friendly-audio-fades-practices-in-audacity/"><u>2024 Approved Audience-Friendly Audio Fades Practices in Audacity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>2024 Approved How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-strategic-playlist-formation-your-guide-to-youtube-mastery/"><u>2024 Approved Strategic Playlist Formation Your Guide to YouTube Mastery</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comment-convertir-vos-videos-avi-lourdes-en-mp4-sans-cout-les-methodes-les-plus-efficaces/"><u>Comment Convertir Vos Vidéos AVI Lourdes en MP4 Sans Coût : Les Méthodes Les Plus Efficaces</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ting-video-previews-a-compreayer-approach-for-youtube/"><u>Elevating Video Previews A Compreayer Approach for YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/framing-photos-and-videos-playing-with-text-deformation-for-2024/"><u>Framing Photos & Videos Playing With Text Deformation for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immerse-projects-in-audible-experience-via-premiere-pro/"><u>In 2024, Immerse Projects in Audible Experience via Premiere Pro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-prestigious-music-archives-for-vfx-artists/"><u>In 2024, Prestigious Music Archives for VFX Artists</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/revamp-your-google-group-chats-with-4-tips-for-2024/"><u>Revamp Your Google Group Chats with 4 Tips for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-efficiently-incorporate-media-in-your-tweets/"><u>[New] In 2024, Efficiently Incorporate Media in Your Tweets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-grandest-film-storytelling-explored/"><u>[Updated] Grandest Film Storytelling Explored</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-metadata-the-power-of-accurate-video-tags/"><u>2024 Approved Mastering Metadata The Power of Accurate Video Tags</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-step-by-step-guide-to-facebook-mastery-pro-and-novice-edition/"><u>2024 Approved Step-by-Step Guide to Facebook Mastery Pro & Novice Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/affordable-wonders-in-virtual-reality-headsets-from-china-for-2024/"><u>Affordable Wonders in Virtual Reality Headsets From China for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hacks-to-dodge-digital-lessons-at-home-for-2024/"><u>Hacks to Dodge Digital Lessons at Home for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-top-5-drone-vr-set-matchups/"><u>In 2024, Exclusive Top 5 Drone-VR Set Matchups</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exemplary-cloud-services-for-biz-needs/"><u>In 2024, Exemplary Cloud Services for Biz Needs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-video-montages-on-mobile-devices-a-8-must-have-list/"><u>In 2024, Top Video Montages on Mobile Devices A 8 Must-Have List</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-syncing-sound-a-comprehensive-approach-to-matching-timelines-of-audio-and-video-in-fcpx/"><u>Updated Syncing Sound A Comprehensive Approach to Matching Timelines of Audio and Video in FCPX</u></a></li>
 </ul></div>
 

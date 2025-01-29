@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Run Windows Programs on Linux Using the Ultimate Single Tool
-date: 2025-01-16T19:51:51.722Z
-updated: 2025-01-21T17:31:19.874Z
+date: 2025-01-23T09:34:51.742Z
+updated: 2025-01-28T21:26:23.177Z
 tags:
   - desktop
 categories:
@@ -41,10 +41,6 @@ flatpak install flathub com.usebottles.bottles
 
 ![Installing the Bottles flatpak on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-9.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The scrolling output will pause for you to confirm you wish to perform the installation.
 
 ![The Bottles flatpak installation requesting confirmation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-8.png) 
@@ -57,13 +53,13 @@ flatpak run com.usebottles.bottles
 
 ![Launching the Bottles flatpak](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll see some output as Bottles configures itself.
 
 ![The output from Bottles the first time it is launched](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Soon, Bottles launches, displaying the Welcome to Bottles introduction screens.
 
@@ -73,25 +69,13 @@ flatpak run com.usebottles.bottles
 
 ![Bottles' "Almost Done" welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Bottles performs some further setup and configuration, then tells you it’s ready.
 
 ![Bottles' final welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the blue “Start using Bottles” button to start using Bottles.
 
 ![The Bottles application straight after installation, with no bottles created](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With no Bottles created, the Library view is empty.
 
@@ -100,6 +84,10 @@ flatpak run com.usebottles.bottles
 ![The Bottles icon in the GNOME application search results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/24.png) 
 
  When you see the Bottles icon, click it to launch the application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don't Forget to Adjust Bottles Preferences
 
@@ -119,15 +107,15 @@ flatpak run com.usebottles.bottles
 
 ![The "Bottles Directory" option in the General tab of the Prefrences dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The bottom option on the “General” tab is “Bottles Directory.” Click the button at the end of that line to open a file browser dialog.
 
 ![The file dialog that allows you to browse to a location and set it as the location for the bottles you create](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-3.png) 
 
  Browse to the location you wish to use, then click the orange “Select” button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Different Types of Bottle
 
@@ -137,27 +125,31 @@ flatpak run com.usebottles.bottles
 
  We’re going to use the template for applications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Creating Your First Bottle
 
  To create your bottle, select “Bottles” from the toolbar, then click on the blue “Create New Bottle” button.
 
 ![The empty Bottles page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We’re going to [install Notepad++](https://instagram-video-files.techidaily.com/updated-2024-approved-top-10-best-apps-for-editing-igtv-vertical-videos/), a Windows-only editor. We named our bottle “Notepad++”, and selected the “Application” radio button.
 
 ![Selecting the Application bottle type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the blue “Create” button to create your bottle.
 
 ![The output while Bottles creates a new bottle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/15-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Bottles configures your bottle and Wine, then tells you the process is complete.
 
@@ -168,7 +160,7 @@ flatpak run com.usebottles.bottles
 ![The details of the new bottle, and the options that can be used to fine tune and use it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/17.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Running Our Windows Application
@@ -185,12 +177,16 @@ flatpak run com.usebottles.bottles
 
 ![The Notepad++ installation dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Work your way through the installation screens.
 
 ![The Notepad++ installation  dialog welcome screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/20.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Soon, you’ll see the final screen.
@@ -204,6 +200,10 @@ flatpak run com.usebottles.bottles
  Back in Bottles, you’ll see Notepad++ is listed as an installed program.
 
 ![Notepad++ listed as an installed application in our new bottle, with the run icon highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/23.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Clicking the arrow head icon launches Notepad++ for us, whenever we wish to use it.
 
@@ -230,20 +230,16 @@ flatpak run com.usebottles.bottles
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-silence-to-sounds-windows-10-recorder-use/"><u>[New] From Silence to Sounds Windows 10 Recorder Use</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-add-filters-and-music-on-windows-11-photos-app/"><u>[New] How to Add Filters and Music on Windows 11 Photos App</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-instagram-story-width-height-run-time/"><u>[Updated] 2024 Approved Instagram Story Width, Height, Run Time</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-mix-melodies-and-text-powerpoints-unleashed/"><u>[Updated] How to Mix Melodies & Text PowerPoints Unleashed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-infuse-sound-and-style-into-your-windows-10-photos-app/"><u>2024 Approved How to Infuse Sound and Style Into Your Windows 10 Photos App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-performance-essential-wsl-2-approaches-for-win-users/"><u>Boost Performance: Essential WSL 2 Approaches for Win Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-artificial-intelligence-become-the-next-stand-up-star-unraveling-humor-algorithms-plus-tracing-the-milestones-from-first-laptops-to-vpn-breakthroughs/"><u>Can Artificial Intelligence Become the Next Stand-Up Star? Unraveling Humor Algorithms + Tracing the Milestones From First Laptops to VPN Breakthroughs</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/cant-find-your-genshin-captures-uncover-these-6-tricks-to-retrieve-them/"><u>Can't Find Your Genshin Captures? Uncover These 6 Tricks to Retrieve Them!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-x6-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from X6 Pro.</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-first-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos/"><u>In 2024, First Steps Into Filmmaking The Ultimate Guide for Making Your First 10 YouTube Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-audio-pathway-guidebook/"><u>In 2024, Harmonious Audio Pathway Guidebook</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-how-to-avoid-watermarks-in-stock-purchases/"><u>In 2024, How To Avoid Watermarks in Stock Purchases</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y27-4g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y27 4G?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovating-visual-storytelling-drone-techniques-for-2024/"><u>Innovating Visual Storytelling Drone Techniques for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/time-lapse-video-techniques-for-ipad-users/"><u>Time-Lapse Video Techniques for iPad Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-isolating-subject-with-affinity/"><u>[New] Isolating Subject with Affinity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ps4-live-broadcasting-101-with-obs-recording-tips-for-2024/"><u>[New] PS4 Live Broadcasting 101 with OBS Recording Tips for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-and-outshine-cheapest-cloud-plans-for-every-need-2024/"><u>[Updated] Explore & Outshine Cheapest Cloud Plans for Every Need, 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-9-best-iphone-watermarking-solutions/"><u>[Updated] Explore the 9 Best iPhone Watermarking Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-narratives-distributed-among-8-movie-segments/"><u>2024 Approved Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2021-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2021 File | Stellar</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-financial-forecast-the-price-of-filming-melodies-visually/"><u>In 2024, Financial Forecast The Price of Filming Melodies Visually</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-block-spotifys-predicted-podcast-selections/"><u>In 2024, How to Block Spotify's Predicted Podcast Selections</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-effortlessly-edit-mp4-video-properties/"><u>New Effortlessly Edit MP4 Video Properties</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/quick-guide-transforming-m4v-videos-into-high-speed-mkv-file-conversions/"><u>Quick Guide: Transforming M4V Videos Into High-Speed MKV File Conversions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screenmaster-review-the-latest-in-tech-capture/"><u>ScreenMaster Review The Latest in Tech Capture</u></a></li>
 </ul></div>
 

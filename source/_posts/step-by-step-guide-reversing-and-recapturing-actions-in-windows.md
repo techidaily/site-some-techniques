@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reversing and Recapturing Actions in Windows"
-date: 2025-01-15T20:27:00.103Z
-updated: 2025-01-21T21:21:41.686Z
+date: 2025-01-24T00:47:45.129Z
+updated: 2025-01-28T20:03:21.598Z
 tags:
   - deals
 categories:
@@ -11,14 +11,14 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 ## Step-by-Step Guide: Reversing and Recapturing Actions in Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Undo and (Sometimes) Redo Using Your Keyboard](https://www.howtogeek.com/766591/how-to-undo-and-redo-on-a-windows-pc/#how-to-undo-and-sometimes-redo-using-your-keyboard)
 * [How to Undo and Redo Using a Menu or Toolbar](https://article-tips.techidaily.com/crafting-seamless-audiovisual-mixes-in-audacity/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,20 +36,20 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 ![Undo key combination on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some applications (such as Adobe Photoshop and Microsoft Office) support multiple steps of Undo, taking you back another step each time you perform the Undo command. If so, you can keep pressing and releasing Ctrl+Z to go back as many steps as you need.
 
  Also, in many applications—such as Microsoft Office apps—you can press Ctrl+Y or F4 on your keyboard to Redo the action you just undid. Another combination that is frequently redo is Ctrl+Alt+Z. 
 
 ![The "Redo" key combination is sometimes Ctrl+Y.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-2.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Unlike [on a Mac](https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/), the "Redo" action isn't universally implemented in Windows. You'll have to experiment and see which applications support it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Undo and Redo Using a Menu or Toolbar
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 ![The "Undo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_undo_button.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To perform a redo that will bring back what you did undid, click the Redo button in the Quick Access toolbar, which looks like a hooked arrow pointing to the right.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 ![The "Redo" Button in the Quick Access Bar in Word 365.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/word_redo_button.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Other apps with different toolbar interfaces will likely have different designs for their undo or redo buttons. In general, look for a curved arrow pointing to the left for "Undo." You can also try right-clicking in a text entry area and looking for an "Undo" option. Or, when all else fails, try pressing Ctrl+Z on your keyboard.
@@ -93,16 +93,24 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-hot-topic-in-photos-memes-and-their-origin-tales/"><u>[Updated] Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-keeping-viewers-hooked-the-ultimate-guide-for-enhanced-audience-loyalty-on-youtube/"><u>[Updated] In 2024, Keeping Viewers Hooked The Ultimate Guide for Enhanced Audience Loyalty on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ranking-the-best-third-place-recording-tools-for-ipad/"><u>[Updated] In 2024, Ranking the Best Third-Place Recording Tools for iPad</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-infuse-vibrancy-in-presentations-via-audio/"><u>[Updated] Infuse Vibrancy in Presentations via Audio</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gaining-insights-how-to-ask-the-right-questions/"><u>2024 Approved Gaining Insights How to Ask the Right Questions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-review-luminances-creation-capability/"><u>2024 Approved HDR Review Luminance's Creation Capability</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-spotify-promotion-a-comprehensive-guide/"><u>2024 Approved Mastering Spotify Promotion A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/choosing-between-lgs-best-g4-vs-g3-the-top-contender-in-oled-television-technology/"><u>Choosing Between LG's Best: G4 Vs. G3 - The Top Contender in OLED Television Technology</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-14-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi 14 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-future-appraisal-unconventional-thoughts/"><u>[New] Future Appraisal Unconventional Thoughts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-expertise-essential-techniques/"><u>[New] GoPro Expertise Essential Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-hearts-interacting-with-a-diverse-subscriber-base/"><u>[New] Harmonizing Hearts Interacting with a Diverse Subscriber Base</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-your-space-naturally-interior-wise/"><u>[New] Illuminating Your Space Naturally, Interior-Wise</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ultimate-no-cost-countdown-trackers-for-2024/"><u>[New] Ultimate No-Cost Countdown Trackers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-fcp-strategies-and-tactics-exposed/"><u>[Updated] Free FCP Strategies and Tactics Exposed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boost-traffic-critical-youtube-seo-instruments-for-video-success/"><u>[Updated] In 2024, Boost Traffic Critical YouTube SEO Instruments for Video Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-the-art-of-multi-media-sharing-on-instagram/"><u>[Updated] Mastering the Art of Multi-Media Sharing on Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-utilizing-open-source-for-broadcasting-workshops/"><u>[Updated] Utilizing Open-Source for Broadcasting Workshops</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-6-best-free-apps-to-compress-videos-on-android/"><u>2024 Approved 6 Best Free Apps to Compress Videos on Android</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-diy-photography-support-systems/"><u>2024 Approved DIY Photography Support Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-bright-to-deep-premiere-pro-magic/"><u>2024 Approved From Bright to Deep Premiere Pro Magic</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-sony-xperia-5-v-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Sony Xperia 5 V to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expressive-iphone-comicals/"><u>In 2024, Expressive iPhone Comicals</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-how-does-youtube-pay-you/"><u>In 2024, How Does YouTube Pay You?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-discussions-in-history-top-10-on-reddit/"><u>In 2024, Iconic Discussions in History - Top 10 on Reddit</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-players-frustrated-overcoming-persistent-rogue-company-game-crashes/"><u>PC Players Frustrated: Overcoming Persistent Rogue Company Game Crashes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-6-slide-show-creation-apps-on-latest-iphones-for-2024/"><u>Top 6 Slide Show Creation Apps on Latest iPhones for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/top-tweet-talent-showdown-1-10-edition/"><u>Top Tweet Talent Showdown #1-#10 Edition</u></a></li>
 </ul></div>
 

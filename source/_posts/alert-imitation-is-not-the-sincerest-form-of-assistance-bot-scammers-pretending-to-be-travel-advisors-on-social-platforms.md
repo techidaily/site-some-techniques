@@ -1,7 +1,7 @@
 ---
 title: "Alert: Imitation Is Not the Sincerest Form of Assistance - Bot Scammers Pretending to Be Travel Advisors on Social Platforms"
-date: 2025-01-18T19:31:05.686Z
-updated: 2025-01-21T18:39:25.943Z
+date: 2025-01-26T23:12:49.458Z
+updated: 2025-01-29T01:09:55.953Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ## Alert: Imitation Is Not the Sincerest Form of Assistance - Bot Scammers Pretending to Be Travel Advisors on Social Platforms
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  There seems to have been a recent uptick in fake social media accounts pretending to be airline representatives. This is yet another way that scammers are trying to take advantage of unknowing people. Let’s talk about some of the telltale signs so you can be in the know.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Pretend Like This?
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
  Social media scammers have started creating loads of bots impersonating airline representatives in order to do just that.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Spot a Phony Representative
 
  If you’ve been on any social media platform long enough, you’ve likely developed an innate sense for spambots—like a “smell test” of sorts. But even the most studious of us can make a mistake when we’re stressed (such as when dealing with a rough airline experience), and one mistake is all it takes.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  The vast majority of airlines do not provide individual agents with separate official company accounts for the sake of customer service. If the airline in question is going to reach out to you, it’s almost certainly going to be the primary one. Or possibly an official alternate account with “help” in the name.
 
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-17.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Official company accounts on many social media platforms should have some form of verification attached to them (i.e. a yellow/gold checkmark or something similar). If the account responding to your grievance isn’t verified, it’s a bot.
 
@@ -58,16 +50,24 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ![Fake representative account asking for a customer's WhatsApp number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-08.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Probable fakes tend to get automatically flagged as spam. However, the platform may not catch all of them, and it's not always easy to see such flags when receiving a direct reply.
 
 ![Two fake representative accounts under the Probable Spam label.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-05.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ignore the account’s name and look at the actual handle. Handles like “delta\_will20453” are definitely fake. Sometimes, the account photo can be a giveaway, too.
 
 ![Fake representative account page using a poorly cropped photo of a NBC news anchor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-07.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check the account details page and look at when the account was first made. Scam accounts are often extremely “young” since scammers constantly have to make new ones as other attempts are reported and removed.
 
@@ -92,14 +92,19 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-ground-to-heavens-a-mobile-panorama-journey/"><u>[New] From Ground to Heavens A Mobile Panorama Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-examination-samsungs-complete-360-camera-experience/"><u>[New] Full Examination Samsung's Complete 360° Camera Experience</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-how-to-remove-signature-background-in-seconds/"><u>[New] How to Remove Signature Background in Seconds</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-optimize-your-gaming-with-kinemaster-usage-tips-and-comparisons-with-best-online-games/"><u>[New] In 2024, Optimize Your Gaming with KineMaster Usage Tips & Comparisons with Best Online Games</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-professional-guide-to-moving-videos-from-youtube-to-dailymotion/"><u>[Updated] 2024 Approved Professional Guide to Moving Videos From YouTube to Dailymotion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-future-with-av1-over-vp9/"><u>[Updated] Exploring the Future with AV1 over VP9</u></a></li>
-<li><a href="https://win-updates.techidaily.com/come-risolvere-i-problemi-delle-risposte-automatiche-in-microsoft-outlook-e-office-365-guida-completa-a-5-passaggi/"><u>Come Risolvere I Problemi Delle Risposte Automatiche in Microsoft Outlook E Office 365: Guida Completa a 5 Passaggi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-choose-a-live-streaming-platform-with-10-tips-for-2024/"><u>How to Choose a Live Streaming Platform with 10 Tips for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728487963924-2/"><u>ロックされたハードディスクからデータを安全に消去する2方法</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-internet-hubs-alarm-tunes-acquisition-spots/"><u>[New] Ideal Internet Hubs Alarm Tunes Acquisition Spots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategies-for-flawless-green-screen-videos/"><u>[Updated] Expert Strategies for Flawless Green-Screen Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-recording-device-feedback-guide/"><u>[Updated] Recording Device Feedback Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-engaging-dialogues-for-your-vlog-showcase/"><u>2024 Approved Crafting Engaging Dialogues for Your Vlog Showcase</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-zero-to-hero-with-telegram-promotion-techniques/"><u>2024 Approved From Zero to Hero with Telegram Promotion Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gratuitous-goal-games-capturing-kicks-without-costs/"><u>2024 Approved Gratuitous Goal Games Capturing Kicks Without Costs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fabricate-comical-artwork-adobe-style-for-2024/"><u>Fabricate Comical Artwork, Adobe Style for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-implementing-exact-timestamp-features-for-youtube/"><u>In 2024, Implementing Exact Timestamp Features for YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-volume-reduction-in-audio-designs-using-logic-pro/"><u>In 2024, Mastering Volume Reduction in Audio Designs Using Logic Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-select-selections-ideal-pages-for-acquiring-snapalert-tunes/"><u>In 2024, Select Selections Ideal Pages for Acquiring SnapAlert Tunes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ipad-102-inch-7th-edition-boosting-productivity-with-the-latest-ipados-innovations/"><u>IPad 10.2-Inch, 7Th Edition – Boosting Productivity with the Latest IPadOS Innovations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-split-screen-video-maker-online-and-offline-options/"><u>New Free Split-Screen Video Maker Online and Offline Options</u></a></li>
+<li><a href="https://techidaily.com/optimizing-pc-settings-disabling-win-key-and-altplustab-features-for-enhanced-gaming-performance/"><u>Optimizing PC Settings: Disabling Win-Key & Alt+Tab Features for Enhanced Gaming Performance</u></a></li>
 </ul></div>
 

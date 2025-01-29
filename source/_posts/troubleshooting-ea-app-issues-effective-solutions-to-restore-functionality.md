@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting EA App Issues: Effective Solutions to Restore Functionality"
-date: 2025-01-19T20:45:35.439Z
-updated: 2025-01-21T18:51:19.182Z
+date: 2025-01-22T17:37:26.435Z
+updated: 2025-01-28T22:36:38.966Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
  The EA App is required if you want to play any Electronic Arts games, but the program occasionally refuses to launch altogether which prevents you from playing at all. Here are some fixes you can try to get the EA App working again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Run the EA App From the Installation Directory as Admin
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
  Either way, all you have to do is launch the EA app from the installation directory using EADesktop.exe. A quick way to find the installation directory is to right-click the EA shortcut on your desktop then navigate to Properties > Open File Location. Next, find EADesktop.exe, right-click it, and select "Run as Administrator."
 
 ![A screenshot showing how to run the EADesktop exe file as an administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-02_19h37_58.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is the only solution that worked for me, as the launcher keeps giving me a "Windows cannot find" error. If this didn't work for you, try launching it in compatibility mode for Windows 7 by right-clicking EADesktop.exe then selecting Properties > Compatibility > Run this program in compatibility mode for > Windows 7.
 
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 ![Deleting the EADesktop and Electronic Arts cache folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-03_10h05_38.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Make Sure Your Antivirus Isn’t Blocking the EA App
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 
  Open Start and use the search bar to look up "Windows Security." Click on "Virus & Threat Protection" and open "Protection History." Browse through the list of removed files. If you come across anything related to the EA App or Electronic Arts, select it and click "Restore." If you have a third-party antivirus, check its quarantined files to make sure none of them are related to Electronic Arts or the EA App. If they are, restore them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Delete "GAME\_DATA\_DIR"
 
  If you used the [Frosty Mod Manager](https://frostymodmanager.com/) to install mods for Frostbite games, this fix could work for you. Open Start and use the search bar to type "environment variables." Open "Edit the system environment variables" and click on "Environment variables..." Find the GAME\_DATA\_DIR variable and click "Delete" to remove it. Hit "OK," reboot your system, and try to launch the EA App again.
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 ![Showing how to delete GAME_DATA_DIR variable in system variables.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/variables.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Do a Fresh Install of the EA App
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 ![Uninstalling the EA App manually in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/zbusntankl.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  If All Else Fails, Contact EA Support
@@ -120,24 +120,24 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fundamental-steps-for-transforming-pins-into-audios/"><u>[New] Fundamental Steps for Transforming Pins Into Audios</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-recovering-individual-snap-secrets/"><u>[New] In 2024, Recovering Individual Snap Secrets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-connectivity-the-moto-z2-reviewed/"><u>[New] Innovating Connectivity The Moto Z2 Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-film-production-with-augmented-realms/"><u>[New] Innovating Film Production with Augmented Realms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-keep-your-linkedin-videos-at-the-fingertips-top-6-professional-downloader-apps/"><u>[New] Keep Your LinkedIn Videos at the Fingertips Top 6 Professional Downloader Apps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-easy-entry-into-cinematography-choosing-film-cameras-35mm-to-pands-for-2024/"><u>[Updated] Easy Entry Into Cinematography Choosing Film Cameras (35Mm to P&S) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-free-text-animation-to-videos/"><u>[Updated] How to Add Free Text Animation to Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-influencing-cultures-through-memetic-expression/"><u>[Updated] Influencing Cultures Through Memetic Expression</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-method-for-facetime-screen-record-for-2024/"><u>[Updated] The Ultimate Method for FaceTime Screen Record for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-high-definition-chroma-blade-photography/"><u>2024 Approved Exploring High-Definition Chroma Blade Photography</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-y200e-5g-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Y200e 5G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-alter-login-credentials-for-others-on-your-windows-pc/"><u>Easy Steps to Alter Login Credentials for Others on Your Windows PC</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-your-site-with-cutting-edge-cookiebot-technology/"><u>Enhance Your Site with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/find-your-favorite-general-knowledge-quiz-channel-of-the-year-24-for-2024/"><u>Find Your Favorite General Knowledge Quiz Channel of the Year, '24 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-extraordinary-assessment-and-alternative-choices/"><u>In 2024, Extraordinary Assessment & Alternative Choices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gif-mastery-10-key-elements-to-perfect-creation/"><u>In 2024, GIF Mastery 10 Key Elements to Perfect Creation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-future-unveiled-preview-of-rumored-tech-price-point-and-arrival-date-for-galaxy-s25-ultra/"><u>The Future Unveiled: Preview of Rumored Tech, Price Point, and Arrival Date for Galaxy S25 Ultra</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-computer-solutions-for-missing-fm20dll-files/"><u>Troubleshooting Your Computer: Solutions for Missing fm20.dll Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/winter-woes-understanding-the-reasons-behind-device-charge-failures-in-cold-weather-ipad-macbook-iphone/"><u>Winter Woes: Understanding the Reasons Behind Device Charge Failures in Cold Weather (iPad, MacBook, iPhone)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-deciphering-youtubes-new-earning-standards/"><u>[New] 2024 Approved Deciphering YouTube's New Earning Standards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gamification-unleashed-djis-air-vs-spark-duel-revealed/"><u>[New] Gamification Unleashed DJI's Air Vs. Spark Duel Revealed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-upload-a-video-to-instagram-from-a-desktop-for-2024/"><u>[New] How to Upload a Video to Instagram From a Desktop for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-iconic-stop-motion-animations-15-best-ever/"><u>[Updated] Iconic Stop-Motion Animations - #15 Best Ever</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlocking-new-windows-11-potentials/"><u>[Updated] In 2024, Unlocking New Windows 11 Potentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-iphone-and-android-gopro-apps-cutting-edge-edits/"><u>2024 Approved Ideal iPhone & Android GoPro Apps Cutting-Edge Edits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-powerdirector-24-analysis-and-tutorial/"><u>Comprehensive PowerDirector '24 Analysis and Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-websites-for-dynamic-sky-imaging-for-2024/"><u>Explore the Best Websites for Dynamic Sky Imaging for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-marvel-of-apples-m1-max-attachments-for-2024/"><u>Exploring the Marvel of Apple’s M1 Max Attachments for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-satisfactory-to-superior-your-tech-upgrade-playbook-for-2024/"><u>From Satisfactory to Superior Your Tech Upgrade Playbook for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gaining-insights-how-to-ask-the-right-questions/"><u>Gaining Insights How to Ask the Right Questions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-smooth-gameplay-in-cult-of-the-lamb-without-any-interruptions-or-crashes-pc/"><u>How to Ensure Smooth Gameplay in 'Cult of the Lamb' Without Any Interruptions or Crashes (PC)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-eye-catchers-of-tomorrow-discovering-6-future-oriented-genres/"><u>In 2024, Eye Catchers of Tomorrow Discovering 6 Future-Oriented Genres</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-fires-sound-alteration-tactics/"><u>In 2024, Free Fire's Sound Alteration Tactics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-from-script-to-screen-magix-video-pro-xs-production-journey/"><u>In 2024, From Script to Screen Magix Video Pro X's Production Journey</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ice-games-2022-top-moments-revealed/"><u>In 2024, Ice Games 2022 Top Moments Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-through-sns-hdr-effectiveness-and-hdr-competitors/"><u>Navigating Through SNS HDR Effectiveness & HDR Competitors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-storytelling-schools-1-8-rankings-and-insights/"><u>Top Storytelling Schools #1-#8 Rankings & Insights</u></a></li>
 </ul></div>
 

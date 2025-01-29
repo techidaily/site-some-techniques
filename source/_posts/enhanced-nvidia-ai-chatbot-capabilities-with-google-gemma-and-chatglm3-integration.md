@@ -1,7 +1,7 @@
 ---
 title: Enhanced NVIDIA AI Chatbot Capabilities with Google Gemma & ChatGLM3 Integration
-date: 2025-01-14T16:10:29.654Z
-updated: 2025-01-15T16:32:20.282Z
+date: 2025-01-23T19:21:46.858Z
+updated: 2025-01-29T10:06:01.309Z
 tags:
   - cutting-edge
 categories:
@@ -42,28 +42,28 @@ The third update for NVIDIA's ChatRTX app has arrived. It adds new image recogni
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamline-your-playtime-5-techniques-for-gamers/"><u>[New] 2024 Approved Streamline Your Playtime 5 Techniques for Gamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expedite-excitement-fast-video-on-android/"><u>[New] Expedite Excitement Fast Video on Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guided-steps-to-decrease-audio-intensity-using-lumafusion/"><u>[New] Guided Steps to Decrease Audio Intensity Using Lumafusion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-affordable-efficient-high-quality-passport-photos-creators/"><u>[Updated] Exclusive List Affordable, Efficient, High-Quality Passport Photos Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-fundamentals-of-av1-encoding/"><u>[Updated] Exploring the Fundamentals of AV1 Encoding</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-track-to-time-lapse-magic-on-samsung-phones/"><u>[Updated] Fast Track to Time-Lapse Magic on Samsung Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-personalize-videos-adding-captions-in-the-photos-app/"><u>[Updated] How to Personalize Videos Adding Captions in the Photos App</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-nerves-in-10-must-do-vlogs/"><u>2024 Approved Navigating Nerves in 10 Must-Do Vlogs</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/5-must-think-points-when-shopping-for-your-ideal-fitness-monitoring-band/"><u>5 Must-Think Points When Shopping For Your Ideal Fitness Monitoring Band</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cookiebot-power-driven-marketing-analytics-and-ad-targeting-success/"><u>Cookiebot Power-Driven Marketing Analytics & Ad Targeting Success</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-text-plugin-compendium/"><u>In 2024, Excellent Text Plugin Compendium</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-finest-free-luts-of-the-year/"><u>In 2024, Explore the Finest FREE LUTs of the Year</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-easy-way-to-spot-and-view-trending-youtube-feedback/"><u>In 2024, The Easy Way to Spot and View Trending YouTube Feedback</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-groups-shaping-future-of-vr-worlds-for-2024/"><u>Innovative Groups Shaping Future of VR Worlds for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insights-into-the-unique-benefits-of-business-focused-gpt/"><u>Insights Into the Unique Benefits of Business-Focused GPT</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-nexus-of-playfulness-for-young-gamers-for-2024/"><u>The Nexus of Playfulness for Young Gamers for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-affordable-gaming-laptops-reviewed-by-tech-experts-insights-from-zdnet/"><u>Top Rated Affordable Gaming Laptops Reviewed by Tech Experts - Insights From ZDNet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-15-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 15? How to Fix</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-forge-viral-content-adobe-memes/"><u>[New] 2024 Approved Forge Viral Content Adobe Memes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-veiled-viewing-of-facebook-flashbacks/"><u>[New] 2024 Approved Veiled Viewing of Facebook Flashbacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-insights-into-making-the-most-out-of-mac-preview/"><u>[New] Expert Insights Into Making the Most Out of Mac Preview</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-unexpected-sideway-effects-in-ig-videos/"><u>[New] Exploring the Unexpected Sideway Effects in IG Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-flipbooks-to-frames-7-core-strategies-for-crafting-engaging-gifs/"><u>[New] From Flipbooks to Frames 7 Core Strategies for Crafting Engaging GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-huawei-p10-analysis-unveiling-performance-and-design/"><u>[New] Huawei P10 Analysis Unveiling Performance & Design</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-sonic-shadows-the-art-of-sound-and-image-blending/"><u>[New] Sonic Shadows The Art of Sound and Image Blending</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guffaw-generator-pictorial-mixer/"><u>[Updated] Guffaw Generator Pictorial Mixer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-lyrics-with-images-on-instagram/"><u>[Updated] Harmonizing Lyrics with Images on Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmony-color-calibrator/"><u>[Updated] Harmony Color Calibrator</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-syncing-muted-voices-with-obs-streams-for-2024/"><u>[Updated] Syncing Muted Voices with OBS Streams for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-tutorial-transferring-youtube-videos-to-social-media-facebook-edition/"><u>2024 Approved Tutorial Transferring YouTube Videos to Social Media - Facebook Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-nvidia-rtx-2060-drivers-compatible-with-windows-111087/"><u>Download Updated NVIDIA RTX 2060 Drivers Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/free-screen-snip-androids-highest-rated-recorders-countdown-eight-edition-for-2024/"><u>Free Screen Snip Android's Highest-Rated Recorders Countdown – Eight Edition for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y78-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y78 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-direct-youtube-stream-of-google-meet-step-by-step-instructions/"><u>In 2024, Direct YouTube Stream of Google Meet - Step-by-Step Instructions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-gif-animation-mastery/"><u>In 2024, Fundamentals of GIF Animation Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-fade-audio-in-ableton/"><u>In 2024, How to Fade Audio in Ableton</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-windows-integration-for-steam-deck-users/"><u>Seamless Windows Integration for Steam Deck Users</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

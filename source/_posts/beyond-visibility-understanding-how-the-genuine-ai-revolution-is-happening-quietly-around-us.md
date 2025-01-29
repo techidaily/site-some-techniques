@@ -1,7 +1,7 @@
 ---
 title: "Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us"
-date: 2025-01-17T18:32:21.834Z
-updated: 2025-01-21T18:57:16.083Z
+date: 2025-01-25T09:42:48.486Z
+updated: 2025-01-29T10:37:54.820Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ## Beyond Visibility: Understanding How the Genuine AI Revolution Is Happening Quietly Around Us
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -54,7 +54,7 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -82,16 +82,19 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-enhancing-teamimage-blurring-backgrounds-on-microsoft-teams-for-2024/"><u>[New] Enhancing TeamImage Blurring Backgrounds on Microsoft Teams for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamline-your-twitch-live-recordings-today/"><u>[Updated] 2024 Approved Streamline Your Twitch Live Recordings Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-the-art-of-recording-in-audacity/"><u>[Updated] Fine-Tuning the Art of Recording in Audacity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fuse-rhythms-into-powerpoint-layouts/"><u>[Updated] Fuse Rhythms Into PowerPoint Layouts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-which-device-delivers-top-tier-4k-visual-feast/"><u>[Updated] In 2024, Which Device Delivers Top-Tier 4K Visual Feast?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-leading-eights-imagery-fusion-platform/"><u>[Updated] The Leading Eight’s Imagery Fusion Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-todays-vr-an-inside-look/"><u>[Updated] Today’s VR An Inside Look</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-industrys-leading-heavy-duty-drone-picks/"><u>2024 Approved Industry's Leading Heavy-Duty Drone Picks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-flicker-fun-prime-speedy-software-for-systems/"><u>In 2024, Fast Flicker Fun Prime Speedy Software for Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-drafts-to-masterpieces-top-10-essential-graphic-design-tools/"><u>In 2024, From Drafts to Masterpieces Top 10 Essential Graphic Design Tools</u></a></li>
-<li><a href="https://win-unique.techidaily.com/maximizing-profits-a-beginners-guide-to-earnings-from-crypto-insights-by-yl-computing/"><u>Maximizing Profits: A Beginner's Guide to Earnings From Crypto - Insights by YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-art-of-audio-mixdowns-via-crossfade/"><u>[New] Exploring the Art of Audio Mixdowns via Crossfade</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-film-creation-tools-go-free-and-green/"><u>[New] Film Creation Tools Go Free and Green</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-follower-to-fanbase-leader-nine-steps-for-instagram-mastery/"><u>[New] From Follower to Fanbase Leader Nine Steps for Instagram Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-contact-with-freight-elevating-the-opening-moment/"><u>[Updated] First Contact with Freight Elevating the Opening Moment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-investment-introspection-the-podcasts-financial-frontier/"><u>2024 Approved In-Depth Investment Introspection The Podcast's Financial Frontier</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-the-most-compelling-free-vfx-alternatives-for-filmmakers/"><u>2024 Approved Unveiling the Most Compelling Free VFX Alternatives for Filmmakers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-a-symphony-from-text-to-tunes-using-ai-in-daws/"><u>Crafting a Symphony From Text to Tunes Using AI in DAWs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/file-time-manipulation-5-windows-applications-at-your-fingertips/"><u>File Time Manipulation: 5 Windows Applications at Your Fingertips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-optimize-your-video-storage-on-64128gb-devices-for-2024/"><u>How to Optimize Your Video Storage on 64/128GB Devices for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-pro-learning-snapseed-essentials/"><u>In 2024, From Novice to Pro Learning Snapseed Essentials</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-gamers-choice-top-software-for-live-scenes/"><u>In 2024, Gamers' Choice Top Software for Live Scenes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-redmi-note-12t-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi Redmi Note 12T Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761650-9781683647737-root-and-ritual/"><u>Root and Ritual | Free Book</u></a></li>
 </ul></div>
 

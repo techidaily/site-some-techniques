@@ -1,7 +1,7 @@
 ---
 title: Decoding the New York Times - Daily Puzzle Hints and Solutions for May 28Th (#352)
-date: 2025-01-20T21:42:31.689Z
-updated: 2025-01-21T17:27:51.706Z
+date: 2025-01-25T07:23:42.342Z
+updated: 2025-01-29T10:31:59.708Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Decoding the New York Times - Daily Puzzle Hints and Solutions for May 28Th (#352)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -47,7 +47,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![May 28th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -57,16 +57,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Blue:** Spelling Bee Ranks.
 * **Purple:** Adjectives for a Candle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Today's NYT Connections Answers
 
 ![May 28th Connections words sorted into four groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-28th-connections-filled.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Amenable (Yellow):** 
@@ -84,6 +80,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 **Adjectives For a Candle (Purple):** 
 
  Lit, Scented, Waxy, Wicked
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
 
@@ -127,19 +127,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-avoiding-pitfalls-in-low-light-portrait-photography/"><u>[New] In 2024, Avoiding Pitfalls in Low-Light Portrait Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-choice-top-tier-mp4-gear/"><u>[Updated] Expert Choice Top-Tier MP4 Gear</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-crafting-a-winning-strategy-youtube-keyword-mastery-explained/"><u>[Updated] In 2024, Crafting a Winning Strategy YouTube Keyword Mastery Explained</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-panzoid-blueprint-selections/"><u>2024 Approved Exclusive Panzoid Blueprint Selections</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-together-top-metaverse-multiplayer-joints-for-2024/"><u>Exploring Together Top Metaverse Multiplayer Joints for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ignite-interest-a-list-of-30-video-themes-for-2024/"><u>Ignite Interest A List of 30 Video Themes for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-becoming-an-animoji-expert-on-your-iphone-x-device/"><u>In 2024, Becoming an Animoji Expert on Your iPhone X Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-framefixer-analysis-all-inclusive-report/"><u>In 2024, FrameFixer Analysis – All-Inclusive Report</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-x100-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo X100 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-selection-of-cost-effective-4k-projection-screens/"><u>In 2024, Ideal Selection of Cost-Effective 4K Projection Screens</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722746713657-mastering-the-viewing-experience-with-lgs-65-inch-oled-c9-a-detailed-analysis/"><u>Mastering the Viewing Experience with LG's 65-Inch OLED C9 - A Detailed Analysis.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-airpods-connecting-to-multiple-idevices-tips-and-tricks/"><u>Stop AirPods Connecting to Multiple iDevices: Tips and Tricks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y200e-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y200e 5G Location | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-screenplays-revolutionizing-film/"><u>[New] Innovative Screenplays Revolutionizing Film</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-quick-glitch-fix-for-podcast-broadcasts-for-2024/"><u>[New] The Quick Glitch Fix for Podcast Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-remove-image-background-with-photopea/"><u>[Updated] How to Remove Image Background With Photopea</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultra-high-definition-capture-ideal-apps-reviewed/"><u>[Updated] Ultra-High Definition Capture Ideal Apps Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-capturing-the-skies-dji-drone-content-for-facebook-live/"><u>2024 Approved Capturing the Skies DJI Drone Content for Facebook Live</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-floodproof-favorites-compiling-top-7-cameras-list/"><u>2024 Approved Floodproof Favorites Compiling Top 7 Cameras List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-mindset-audio-selection/"><u>2024 Approved Free Mindset Audio Selection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-master-free-online-and-offline-text-animations/"><u>2024 Approved How to Master Free Online & Offline Text Animations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-webcams-elevating-podcast-production/"><u>2024 Approved Ideal Webcams Elevating Podcast Production</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-list-affordable-efficient-high-quality-passport-photos-creators-for-2024/"><u>Exclusive List Affordable, Efficient, High-Quality Passport Photos Creators for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-recommended-5-ps1-game-simulators-on-your-pc-for-2024/"><u>Expert-Recommended 5 PS1 Game Simulators on Your PC for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-art-of-vocal-transformation-with-these-cost-free-alternatives-for-2024/"><u>Explore the Art of Vocal Transformation with These Cost-Free Alternatives for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-speech-to-text-in-google-documents-for-2024/"><u>Harness the Power of Speech-to-Text in Google Documents for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-tools-perfect-your-beats-like-a-pro-dj/"><u>In 2024, Free Online Tools Perfect Your Beats Like a Pro DJ</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sleep-inducing-screenplays-video-evaluation/"><u>In 2024, Sleep-Inducing Screenplays Video Evaluation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-upgrading-to-chatgpt-plus-worth-your-money-discover-5-key-advantages/"><u>Is Upgrading to ChatGPT Plus Worth Your Money? Discover 5 Key Advantages!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/make-your-memories-shine-a-final-cut-pro-slideshow-creation-guide/"><u>Make Your Memories Shine A Final Cut Pro Slideshow Creation Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/restore-accidentally-deleted-documents-in-windows-10-with-these-6-tricks/"><u>Restore Accidentally Deleted Documents in Windows 10 with These 6 Tricks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-pioneer-bdr-xs06-unmatched-portability-meets-top-performance-in-dvd-burning/"><u>The Ultimate Guide to the Pioneer BDR-XS06: Unmatched Portability Meets Top Performance in DVD Burning</u></a></li>
 </ul></div>
 

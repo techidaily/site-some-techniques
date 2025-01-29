@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Secret of Transferring Files with a Classic Technique Aged Over Five Decades
-date: 2025-01-18T19:45:44.413Z
-updated: 2025-01-21T21:43:37.061Z
+date: 2025-01-24T17:55:49.535Z
+updated: 2025-01-29T05:57:13.282Z
 tags:
   - mobile
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Unlocking the Secret of Transferring Files with a Classic Technique Aged Over Five Decades
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is FTP?](https://instagram-clips.techidaily.com/updated-spotting-the-top-10-covert-instagram-story-spectators-for-2024/)
@@ -23,7 +19,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Access the FTP Server from Your Computer](https://screen-capture.techidaily.com/1715859900596-updated-zombification-extravaganza-8-epic-titles-ranked/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,19 +30,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is FTP?
 
  FTP stands for "File Transfer Protocol." Developer Abhay Bhushan created the protocol way back in 1971\. He was inducted into the Internet Hall of Fame in 2023.
 
  FTP involves sending files from a server device to a client. This can take place over the internet or a local area network. For our purposes, we'll be using FTP to send files from one device (the server) to another (the client) connected to the same Wi-Fi network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Download an Alternative File Manager
 
@@ -55,6 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Many of the [best alternative file managers for Android](https://extra-lessons.techidaily.com/new-beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers/) come with FTP support. I like to recommend Material Files, since it's fully free and open source.
 
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Activate the FTP Server
 
@@ -70,6 +62,10 @@ Close
 
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -80,12 +76,16 @@ Close
 
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
 
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
@@ -111,24 +111,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-advice-on-tailoring-game-sounds-to-stand-out-in-the-virtual-arena-of-free-fire/"><u>[New] Expert Advice on Tailoring Game Sounds to Stand Out in the Virtual Arena of Free Fire</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-express-yourself-accessibility-available-for-free/"><u>[New] Express Yourself, Accessibility Available for Free</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-notable-platforms-offering-text-modifications/"><u>[New] Guide to Notable Platforms Offering Text Modifications</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-cyber-health-solutions-for-modern-medicine/"><u>[New] In 2024, Cyber-Health Solutions for Modern Medicine</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ghostly-replay-instructional-guide/"><u>2024 Approved Ghostly Replay Instructional Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-holistic-iphone-use-images-and-videos-fused-together/"><u>2024 Approved Holistic iPhone Use Images & Videos Fused Together</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oneplus-open-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-versatility-of-magix-designer-for-2024/"><u>Exploring the Versatility of MAGIX Designer for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hero5-black-meets-hero5-session-a-visual-verdict-for-2024/"><u>Hero5 Black Meets Hero5 Session – A Visual Verdict for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-11-pro-max-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Pro Max Screen Mirroring You Must Know | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-generate-custom-online-comedic-artwork/"><u>In 2024, Generate Custom Online Comedic Artwork</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2022-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE (2022)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-ideas-to-boost-package-prelude-joy-for-2024/"><u>Innovative Ideas to Boost Package Prelude Joy for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-the-msi-steam-deck-a-formidable-contender-in-the-portable-gaming-arena/"><u>Is the MSI Steam Deck a Formidable Contender in the Portable Gaming Arena?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/logitechs-premium-4k-webcam-full-review-and-usability-insights/"><u>Logitech's Premium 4K Webcam - Full Review & Usability Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-new-era-of-computing-imac-with-m1-a-revolutionary-design-and-powerful-cpu-analysis/"><u>The New Era of Computing: IMac with M1 - A Revolutionary Design & Powerful CPU Analysis</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-capabilities-of-jackerys-powerbar-with-built-in-ac-outlet-our-full-insightful-review/"><u>Unveiling the Capabilities of Jackery's PowerBar with Built-In AC Outlet – Our Full Insightful Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/visualvault-review-highlighting-the-best-recording-tools-for-2024/"><u>VisualVault Review Highlighting the Best Recording Tools for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-5-ekspertnyh-seo-agentstv-v-glazgo-uluchshite-optimizaciyu-vebsajtov-dlya-velikobritanii/"><u>Топ-5 Экспертных SEO Агентств В Глазго: Улучшите Оптимизацию Вебсайтов Для Великобритании</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-premier-screen-picks-for-ps5-and-xbox-games/"><u>[New] In 2024, The Premier Screen Picks for PS5 and Xbox Games</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-transform-your-videos-simple-steps-to-include-youtube-subtitlescc/"><u>[Updated] 2024 Approved Transform Your Videos Simple Steps to Include YouTube Subtitles/CC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-cinematic-introductions/"><u>[Updated] Exclusive Cinematic Introductions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extreme-quality-top-5-for-slow-motion-precision/"><u>[Updated] Extreme Quality Top 5 for Slow Motion Precision</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-find-the-best-8-spots-for-free-3d-text-psd-downloads/"><u>[Updated] Find the Best 8 Spots for FREE 3D Text PSD Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tune-your-visual-storytelling-in-videoleap-footage/"><u>[Updated] Fine-Tune Your Visual Storytelling in Videoleap Footage</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unveiling-the-technology-behind-whatsapp-voice-calls/"><u>[Updated] Unveiling the Technology Behind WhatsApp Voice Calls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/climate-denial-and-the-role-of-media-bias-explored/"><u>Climate Denial and the Role of Media Bias Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fitness-freaks-mastering-chatgpt-conversations/"><u>Fitness Freaks, Mastering ChatGPT Conversations</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-x6-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gratitude-archive-complete-collection-freepaid/"><u>In 2024, Gratitude Archive Complete Collection (Free/Paid)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>In 2024, Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-our-selection-of-premium-21-hdmi-tvs-for-2024/"><u>In-Depth Analysis Our Selection of Premium 2.1 HDMI TVs for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/surrounding-sound-savings-the-economical-review-of-paww-triad-headphones/"><u>Surrounding Sound Savings: The Economical Review of Paww Triad Headphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-lightweight-laptop-picks-for-seamless-remote-working-a-tech-expert-reviews-ideal-models/"><u>Top Lightweight Laptop Picks for Seamless Remote Working: A Tech Expert Reviews Ideal Models</u></a></li>
 </ul></div>
 

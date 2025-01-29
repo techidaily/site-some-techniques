@@ -1,7 +1,7 @@
 ---
 title: Will Politeness Enhance ChatGPT Efficiency? Discover the Intriguing Findings From Our Test
-date: 2025-01-08T16:20:43.066Z
-updated: 2025-01-15T16:21:28.759Z
+date: 2025-01-27T05:14:00.106Z
+updated: 2025-01-28T23:32:35.297Z
 tags:
   - cutting-edge
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Will Politeness Enhance ChatGPT Efficiency? Discover the Intriguing Findings From Our Test
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How We Tested](https://visual-screen-recording.techidaily.com/new-inexpensive-capture-apps-reviewed-for-budget-pcs/)
@@ -23,7 +19,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [There's No Downside to Being Polite](https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,10 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * While politeness didn't significantly affect reply substance, it's potentialy beneficial for maintaining positive interactions between humans.
 
  ChatGPT is just a piece of software running on a machine, so you might not think how you treat it matters. Still, could the magic words like "please" and "thank you" make a difference to how well ChatGPT works? Let's find out!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How We Tested
 
@@ -52,6 +44,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A Tweet censored for strong language that reads so a couple days ago i made a post about tipping chatgpt, and someone replied "huh would this actually help performance"  so i decided to test it and IT ACTUALLY WORKS. The tweet shows a bar chart where offering more tips to ChatGPT improves response length.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-03-at-15-40-49.png) 
 
  Instead of pretending to offer money to an AI that doesn't need it, we're going to look at being nice versus being neutral. Also, response length isn't the only thing we care about, but also the subjective quality of the response. I'll be using GPT-4, which is the more advanced version currently available to the public through [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Let The Prompting Commence!
 
@@ -77,6 +73,10 @@ Close
                 ![Screenshot 2024-01-08 at 17.42.23](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-42-23.png)
                     
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here it again gives better-formatted output when asked nicely, and on top of that, it's tone when speaking to me is nicer, too.
 
 **Prompt: I'd appreciate it if you could list the major differences between Python and JavaScript.** 
@@ -97,10 +97,6 @@ Close
                 ![An excerpt from a response by ChatGPT to a polite question about electric and gasoline cars](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-46-13.png)
                     
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Prompt: What are the pros and cons of electric cars versus gasoline cars?** 
                                         
             
@@ -115,13 +111,13 @@ Close
                 ![An excerpt from a response by ChatGPT to a polite question about AI trends](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-49-31.png)
                     
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Prompt: What are the latest trends in artificial intelligence?** 
 
 ![An excerpt from a response by ChatGPT to a neutral question about AI trends](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-49-44.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With this final prompt, again the responses are pretty much the same overall.
 
@@ -136,6 +132,10 @@ Close
  It could also be that using words or phrases like "please," "kindly," or "I would appreciate" are indicators to the algorithm of what kind of tone you want, though far less subtle than outright telling it to be polite and cheerful in its response.
 
  You can, of course, try this yourself, and see if you get better help from your LLM if you throw in a few please and thank yous.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  There's No Downside to Being Polite
 
@@ -162,21 +162,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-html5-video-tools-you-must-check/"><u>[New] Excellent HTML5 Video Tools You Must Check</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-navigating-zoom-for-webinars-and-livestreams/"><u>[New] In-Depth Analysis Navigating Zoom for Webinars and Livestreams</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/top-algorithmic-youtube-video-selections/"><u>[New] Stop Algorithmic YouTube Video Selections</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-beyond-low-definition-the-ultimate-path-from-sdr-to-hdri-video/"><u>[Updated] Beyond Low Definition The Ultimate Path From SDR to HDRI Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-first-steps-in-lunapic-your-photography-toolkit/"><u>[Updated] First Steps in LunaPic Your Photography Toolkit</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideas-aplenty-crafting-inspirational-photographic-mosaics/"><u>[Updated] Ideas Aplenty Crafting Inspirational Photographic Mosaics</u></a></li>
-<li><a href="https://windows11.techidaily.com/effective-strategies-to-address-and-correct-dpc-watchdog-errors-in-windows-10-systems/"><u>Effective Strategies to Address and Correct DPC Watchdog Errors in Windows 10 Systems</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/flawless-free-android-snapmaker/"><u>Flawless Free Android SnapMaker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-experiences-the-metaverse-explored-through-6-models-for-2024/"><u>Immersive Experiences The Metaverse Explored Through 6 Models for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gifs-that-speak-volumes-unveiling-6-critical-strategies-for-memetic-design/"><u>In 2024, GIFs That Speak Volumes Unveiling 6 Critical Strategies for Memetic Design</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hubsan-h501s-x4-fpv-quadcopter-review/"><u>In 2024, Hubsan H501S X4 FPV Quadcopter Review</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nokia-c300-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nokia C300? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-solutions-for-a-smooth-playback-addressing-spotify-web-player-delays/"><u>Quick Solutions for a Smooth Playback: Addressing Spotify Web Player Delays</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-secret-to-flawless-image-editing-in-windows-photo/"><u>The Secret to Flawless Image Editing in Windows Photo</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-8-youtuber-blunders-to-avoid-and-why-theyre-common/"><u>Top 8 Youtuber Blunders to Avoid and Why They're Common</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-powerhouse-review-of-nvidia-shield-tv-pro-for-avid-gamers/"><u>Unveiling the Powerhouse: Review of Nvidia Shield TV Pro for Avid Gamers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-luminous-filmmaking-transform-your-videos-with-pro-tips/"><u>[New] In 2024, Luminous Filmmaking Transform Your Videos with Pro Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-audience-analysis-the-art-of-finding-your-market/"><u>[New] Youtube Audience Analysis The Art of Finding Your Market</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-effortlessly-run-apps-and-videos-together-in-chrome/"><u>[Updated] How to Effortlessly Run Apps & Videos Together In Chrome</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-crafting-a-streamlined-media-route-from-twitter-vids-on-snapchat/"><u>2024 Approved Crafting a Streamlined Media Route From Twitter Vids on Snapchat</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highlighted-are-there-limitations-to-aurora-hdrs-performance/"><u>2024 Approved Highlighted Are There Limitations to Aurora HDR's Performance?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-create-and-edit-videos-on-windows-10/"><u>2024 Approved How to Create and Edit Videos on Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-picks-top-1-cookie-cutter-list-of-10-apps-for-basketball-and-rugby-streaming/"><u>In 2024, Expert Picks Top 1 Cookie Cutter List of 10 Apps for Basketball and Rugby Streaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-picshots-magic-for-quick-photo-cohesion/"><u>In 2024, Explore Picshot’s Magic for Quick Photo Cohesion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gliding-giants-olympic-skate-tales/"><u>In 2024, Gliding Giants Olympic Skate Tales</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-green-settings-in-cinematic-production/"><u>In 2024, Green Settings in Cinematic Production</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-craft-an-effortless-facebook-photo-mosaic/"><u>In 2024, How to Craft an Effortless Facebook Photo Mosaic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-orchestrate-a-photo-symphony-for-artistic-expression/"><u>In 2024, Orchestrate a Photo Symphony for Artistic Expression</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovation-showdown-google-bard-versus-microsofts-bing-chat-who-wins/"><u>Innovation Showdown: Google Bard Versus Microsoft's Bing Chat - Who Wins?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/maximizing-memory-storing-snapshots-in-photo-albums-from-snapchat/"><u>Maximizing Memory Storing Snapshots in Photo Albums From Snapchat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prodigious-editing-power-utilizing-inshot-on-devices-for-2024/"><u>Prodigious Editing Power Utilizing Inshot on Devices for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/trends-in-firmware-enhancement-what-every-surface-user-needs-to-know/"><u>Trends in Firmware Enhancement: What Every Surface User Needs to Know</u></a></li>
 </ul></div>
 

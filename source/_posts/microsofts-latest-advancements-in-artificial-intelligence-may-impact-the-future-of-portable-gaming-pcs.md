@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
-date: 2025-01-16T17:36:43.117Z
-updated: 2025-01-21T18:50:54.320Z
+date: 2025-01-24T22:40:21.883Z
+updated: 2025-01-28T22:44:05.360Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ## Microsoft's Latest Advancements in Artificial Intelligence May Impact the Future of Portable Gaming PCs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AMD APUs could offer higher memory bandwidth but sacrifice memory cache thanks to requirements for AI performance laid about by Microsoft.
@@ -18,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * ARM chips like the Snapdragon X Elite could power future handheld gaming PCs with promising efficiency.
 
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
 
@@ -34,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _AMD_
@@ -58,7 +58,7 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
@@ -69,15 +69,15 @@ _AMD_
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
@@ -90,7 +90,7 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Qualcomm 
@@ -124,20 +124,22 @@ Qualcomm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-music-migration-from-one-service-to-another/"><u>[New] Harmonizing Music Migration From One Service to Another</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-implementing-video-timelines-on-youtube/"><u>[New] Implementing Video Timelines on YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/uick-captioning-method-for-enhanced-youtube-video-quality-for-2024/"><u>[New] Quick Captioning Method for Enhanced YouTube Video Quality for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-superior-workplace-data-cloud-hubs/"><u>[New] Superior Workplace Data Cloud Hubs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-background-video-to-enrich-primary-scenes/"><u>[Updated] Harnessing Background Video to Enrich Primary Scenes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-search-of-greatness-top-15-timeless-stop-motion-films/"><u>2024 Approved In Search of Greatness Top 15 Timeless Stop Motion Films</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-virtual-broadcast-archivers/"><u>2024 Approved Virtual Broadcast Archivers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-apple-watch-savings-for-july-2e-unmissable-deals-curated-from-zdnet/"><u>Best Apple Watch Savings for July 2E: Unmissable Deals Curated From ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fast-cash-on-reddit-check-out-these-top-13-skillless-strategies-for-2024/"><u>Fast Cash on Reddit? Check Out These Top 13 Skillless Strategies for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/google-pngjpg-movavi/"><u>Google에서 찾기 쉬운 오픈 소스 PNG/JPG 변환 도구 - Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-audio-enhancement-toolkit/"><u>In 2024, Expert Audio Enhancement Toolkit</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-audit-unveiling-the-dji-inspire-1-drone/"><u>In 2024, Extensive Audit Unveiling the DJI Inspire 1 Drone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-optimal-obs-configuration-for-budget-pcs/"><u>In 2024, Optimal OBS Configuration for Budget PCs</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/is-it-safe-to-alter-your-computers-registry-settings-a-guide-by-yl-software-experts/"><u>Is It Safe to Alter Your Computer's Registry Settings? A Guide by YL Software Experts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-youtube-content-as-lively-download-free-animated-gifs/"><u>[New] 2024 Approved Unlocking YouTube Content as Lively, Download-Free Animated GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-video-opening-line-template-packs/"><u>[New] Free Video Opening Line Template Packs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-google-photos-and-your-creativity-quick-collages-made-simple/"><u>[New] Google Photos & Your Creativity Quick Collages Made Simple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highpoint-artist-suite-evaluation/"><u>[New] Highpoint Artist Suite Evaluation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-leaders-in-earnings-prediction-tiktoks-finest-tools-for-2024/"><u>[New] Leaders in Earnings Prediction TikTok's Finest Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-top-tier-no-cost-webm-video-streamers-for-browsers/"><u>[Updated] Exploring Top-Tier, No-Cost WebM Video Streamers for Browsers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-ai-pixel-perfect-editor/"><u>[Updated] Innovative AI Pixel Perfect Editor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-roundup-of-best-game-casting-apps/"><u>2024 Approved Expert Roundup of Best Game Casting Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-exquisite-drone-fleet-the-pinnacle-of-visual-artistry/"><u>2024 Approved Exquisite Drone Fleet The Pinnacle of Visual Artistry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-funimate-android-gameplay-apk-to-victory-guide/"><u>2024 Approved Funimate Android Gameplay - APK to Victory Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-ripple-effects-top-mobile-music-disruptors/"><u>2024 Approved Ripple Effects Top Mobile Music Disruptors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-switch-off-crossplay-for-personalized-apex-legends-experience/"><u>2024 Approved Switch Off Crossplay for Personalized Apex Legends Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-innovation-or-confused-concept-exploring-the-microsoft-surface-go-experience/"><u>Affordable Innovation or Confused Concept? Exploring the Microsoft Surface Go Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-210-drivers-boosting-gaming-on-win10-platform/"><u>GeForce 210 Drivers: Boosting Gaming on WIN10 Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-8-desktop-images-to-personalize-your-mbp-for-2024/"><u>Ideal 8 Desktop Images to Personalize Your MBP for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transform-your-media-a-curated-list-of-the-best-free-video-editing-software-top-9-for-2024/"><u>Transform Your Media A Curated List of the Best Free Video Editing Software (Top 9) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unboxing-the-luxe-gamers-dream-dells-high-end-3k-worthy-laptop-and-its-game-changing-specs/"><u>Unboxing the Luxe Gamer's Dream - Dell's High-End 3K Worthy Laptop & Its Game-Changing Specs!</u></a></li>
 </ul></div>
 

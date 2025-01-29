@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Solving the Mystery of an Unrecognized New Hard Drive on Windows"
-date: 2025-01-20T17:38:07.058Z
-updated: 2025-01-21T16:05:25.113Z
+date: 2025-01-21T21:13:55.145Z
+updated: 2025-01-28T19:59:09.861Z
 tags:
   - deals
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 * [How to Bring Your Missing Drive Online](https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-13-by-drfone-ios/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c452aa264cd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c452aa264cd.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before we proceed, we want to appropriately warn you: Do not play around in Disk Management. Although the task we're about to perform is very straightforward and simple to do, if you muck around with this tool you will have a very bad time. Double check every step. Make sure you're selecting the correct disk, or you can lose lots of data.
 
  Disk Management will likely detect that you have a new drive and prompt you to initialize it. You should pick GPT if this option appears, then click "OK." 
@@ -57,12 +53,16 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 ![Select 'GPT (GUID Partition Table),' then click 'OK.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-hdd-auto-detected.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it doesn't show up, you just need to initialize it manually. In Disk Management, scroll down through the list of disks in the bottom pane. These disks will be labeled "Disk 1" through however many disks you have. Windows assigns a number to all hard disks, solid state disks, USB drives, and card readers, so don't be surprised if you have to scroll down a bit—in our case the new drive was "Disk 10" as seen below.
 
 ![img_57c45698e20bd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45698e20bd.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are four bits of information here that indicate we're looking at the right disk. First, the disk is marked as "unknown" and "Not initialized" on the left, which a brand-new disk introduced to the system would be flagged as. Second, the drive size matches the size of the drive we just installed (around 1 TB), and the drive is flagged as unallocated, which means none of the hard drive space has been formatted or assigned a partition.
 
@@ -70,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c457c7c1208](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c457c7c1208.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the first step of the initilization process, you'll be prompted to choose whether you want to use a Master Boot Record (MBR) or a GUID Partition Table (GPT) for the partition style of your disk. If you want to do some in depth reading before making a choice, you can [check out our explainer here](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/). In short, unless you have a pressing reason to use MBR, use GPT instead—it's newer, more efficient, and offers more robust protection against corruptions of the boot record.
 
 ![img_57c45b8a5fff8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45b8a5fff8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click "OK" and you'll be returned to the main Disk Management window. There you'll find that your disk is now labeled "Basic" and "Online" on the left, but the contents are still "unallocated". Right click on the striped box presenting the unallocated drive space. Select "New Simple Volume".
 
@@ -90,13 +90,13 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c45d02176de](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45d02176de.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, format the volume. If you're using the volume for routine computing tasks (storing photos, video games, etc.) there's no real need to deviate from the default NTFS file system and settings. Curious about the differences between file systems and why you might use the different options? We've [got you covered](https://extra-approaches.techidaily.com/seamless-multi-screen-browsing-in-chrome-using-pip-for-2024/). Give your volume a name, click "Next", and wait for the format process to finish.
 
 ![img_57c45d3ae14d7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45d3ae14d7.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When the process is complete, you'll see your new drive--allocated, formatted, and ready for action--in the Disk Management disk list.
 
@@ -119,18 +119,15 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-free-screen-recording-software-windows-and-mac/"><u>[New] 2024 Approved Free Screen Recording Software [Windows & Mac]</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-decoding-the-mechanics-of-obtaining-facebooks-badge-of-trust-for-2024/"><u>[New] Decoding the Mechanics of Obtaining Facebook's Badge of Trust for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-utilizing-snapchat-highlights-effectively/"><u>[New] Expert Tips for Utilizing Snapchat Highlights Effectively</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-future-of-videography-top-cameras-2024/"><u>[New] Future of Videography Top Cameras 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-get-save-and-enjoy-discover-these-6-excellent-linkedin-downloader-tools/"><u>2024 Approved Get, Save, and Enjoy Discover These 6 Excellent LinkedIn Downloader Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/collaborative-gaming-bliss-seamless-techniques-for-xbox-one-gamesharing-with-buddies/"><u>Collaborative Gaming Bliss: Seamless Techniques for Xbox One Gamesharing With Buddies</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/te-your-channel-vision-selecting-ideal-content-strategies/"><u>Elevate Your Channel Vision Selecting Ideal Content Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-itel-a05s-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Itel A05s 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-updates-fully-applied/"><u>GPU Updates Fully Applied</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-change-the-netflix-video-playback-speed-on-computer-and-mobile/"><u>In 2024, How to Change the Netflix Video Playback Speed on Computer and Mobile?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-5-techniques-for-recording-sounds-on-windows-11/"><u>In 2024, Innovative Approaches 5 Techniques for Recording Sounds on Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-soundtracks-the-art-of-editing-in-garageband/"><u>In 2024, Tailoring Soundtracks The Art of Editing in GarageBand</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-viewing-the-transformers-film-series-sequentially/"><u>The Complete Guide: Viewing the Transformers Film Series Sequentially</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-storytelling-journey-our-top-8-selections/"><u>[New] Immersive Storytelling Journey – Our Top 8 Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-flight-stability-best-gimbals/"><u>[New] Innovative Flight Stability Best Gimbals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-tutorial-enhancing-meeting-experience-in-zoom-win10/"><u>[Updated] In-Depth Tutorial Enhancing Meeting Experience in Zoom (Win10)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-leveraging-video-cropping-to-maximize-instagram-reach/"><u>[Updated] Leveraging Video Cropping to Maximize Instagram Reach</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-vlcs-role-in-mpeg-4-and-other-file-type-conversions-explored/"><u>2024 Approved VLC's Role in MPEG-4 and Other File Type Conversions Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-a-comprehensive-analysis-of-benefits-and-limitations/"><u>ChatGPT Plus: A Comprehensive Analysis of Benefits & Limitations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-6-greatest-nintendo-mario-rpgs-for-personal-computers/"><u>Discover the 6 Greatest Nintendo Mario RPGs for Personal Computers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/garmins-ultra-30-camera-unveiled-a-comprehensive-guide-for-2024/"><u>Garmin's Ultra 30 Camera Unveiled A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-with-geforce-experience-not-opening-an-easy-fix/"><u>Overcoming Issues with GeForce Experience Not Opening: An Easy Fix</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/restoring-lost-footage-a-step-by-step-guide-to-retrieving-deleted-video-files-from-an-sd-card-manually/"><u>Restoring Lost Footage: A Step-by-Step Guide to Retrieving Deleted Video Files From an SD Card Manually</u></a></li>
 </ul></div>
 

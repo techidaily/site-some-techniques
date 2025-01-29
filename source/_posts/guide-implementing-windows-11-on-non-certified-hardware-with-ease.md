@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2025-01-19T19:01:18.233Z
-updated: 2025-01-21T19:29:04.187Z
+date: 2025-01-24T22:50:36.567Z
+updated: 2025-01-28T20:08:41.808Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ---
 
 ## Guide: Implementing Windows 11 on Non-Certified Hardware with Ease
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -53,6 +49,14 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 ![The PC Health Check app saying a PC doesn't currently meet Windows 11's minimum requirements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/pc-not-supported.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Enable TPM 2.0
 
 [Windows 11 officially requires TPM 2.0](https://vp-tips.techidaily.com/2024-approved-unveiling-the-secrets-to-impactful-patient-storytelling-in-video/). (However, there's an [easy way to install Windows 11 if your PC only has TPM 1.2](https://extra-lessons.techidaily.com/2024-approved-crafting-podcast-descriptions-that-stick-strategies-and-samples/), which we'll cover below.)
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benj Edwards / How-To Geek
@@ -85,11 +89,11 @@ Benj Edwards / How-To Geek
 
 ![In your UEFI's "Boot" menu, look for "Secure Boot" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/secure_boot_enabled.jpg) 
 
-Benj Edwards / How-To Geek
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Benj Edwards / How-To Geek
 
 ##  How to Fix No UEFI (MBR Instead of GPT)
 
@@ -100,7 +104,7 @@ Benj Edwards / How-To Geek
  If this is your only problem, one easier way would be to perform a clean install. First, be sure to back up your files (we recommend backing up your files before upgrading anyway.) Then, use [Microsoft's Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11) to create bootable Windows 11 installation media on a USB drive or DVD. Now, use the installation media to perform a clean installation of Windows 11, wiping your drive — you may have to put your computer's firmware into UEFI mode first. Windows 11 will erase your Windows 10 system and set up your drive in GPT mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Registry Hack for Unsupported CPUs and/or Only TPM 1.2
@@ -115,10 +119,6 @@ Benj Edwards / How-To Geek
 
 ![Launch regedit in the Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/open-regedit.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type the following address into the address bar in the Registry Editor window (or navigate to it in the left pane):
 
 HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup
@@ -130,10 +130,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup
 AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Double-click &quot;AllowUpgradesWithUnsupportedTPMOrCPU&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/create-setting.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Double-click the "AllowUpgradesWithUnsupportedTPMOrCPU" value here, set it to "1", and click "OK."
 
@@ -152,6 +148,10 @@ AllowUpgradesWithUnsupportedTPMOrCPU
  You can now download and run the [Windows Installation Assistant tool](https://www.microsoft.com/en-us/software-download/windows11) from Microsoft's website to upgrade your PC to Windows 11, just as if it had a supported CPU or TPM 2.0\. You'll just have to [agree to a warning first](https://www.reviewgeek.com/98372/microsoft-makes-you-sign-a-waiver-if-you-install-windows-11-on-an-unsupported-pc/).
 
  Bear in mind that this only does two things: It makes Windows 11 ignore the CPU requirement, and it lets Windows 11 install with TPM 1.2 instead of TPM 2.0\. It won't get around other requirements. For example, if your PC doesn't have a TPM at all or has only a legacy BIOS instead of UEFI firmware, this registry setting won't help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  PCs With No TPM at All, No UEFI, or Other Major Problems
 
@@ -180,16 +180,22 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-storytelling-mastery-scriptwriting-secrets-revealed-for-2024/"><u>[New] Storytelling Mastery Scriptwriting Secrets Revealed for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-create-facebook-video-ads-with-free-video-creation-kit/"><u>[Updated] In 2024, How to Create Facebook Video Ads with FREE Video Creation Kit?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-smooth-cross-sounding-with-audacity/"><u>2024 Approved Expert Tips for Smooth Cross-Sounding with Audacity</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-se-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone SE Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-m1s-capabilities-for-heavy-duty-media-editing-for-2024/"><u>Evaluating M1's Capabilities for Heavy-Duty Media Editing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fashion-meets-makeup-brilliance-for-2024/"><u>Fashion Meets Makeup Brilliance for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-basics-to-expert-a-complete-guide-to-youtube-chapter-addition-for-2024/"><u>From Basics to Expert A Complete Guide to YouTube Chapter Addition for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/jokejumper-generate-share-worthy-images-quickly/"><u>JokeJumper Generate Share-Worthy Images Quickly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/speed-up-or-slow-down-the-ultimate-camtasia-video-editing-guide/"><u>Speed Up or Slow Down The Ultimate Camtasia Video Editing Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-quality-vector-graphics-top-10-sources/"><u>[New] High-Quality Vector Graphics Top 10 Sources</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-get-blessed-gospel-music-as-your-ringtone/"><u>[New] How to Get Blessed Gospel Music as Your Ringtone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovate-your-live-broadcast-on-mac-with-1-5-software/"><u>[New] Innovate Your Live Broadcast on Mac with #1-5 Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ettled-evasive-behavior-of-shorts-content-for-2024/"><u>[New] Settled Evasive Behavior of Shorts Content for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-digital-broadcast-face-off-facebook-vs-youtube-and-tweetstreams/"><u>[Updated] Digital Broadcast Face-Off FACEbook Vs. YOUTube & TweetStreams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-pro-the-funimate-guide/"><u>[Updated] From Novice to Pro - The Funimate Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funny-facades-top-quality-free-meme-files/"><u>[Updated] Funny Facades Top-Quality, FREE Meme Files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-diy-football-viewing-watch-record-cut-on-the-cheap/"><u>[Updated] In 2024, DIY Football Viewing Watch, Record, Cut on the Cheap</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-securing-continuous-frame-playback-in-live-broadcasts-for-2024/"><u>[Updated] Securing Continuous Frame Playback in Live Broadcasts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-best-practices-in-confirming-your-youtube-access/"><u>2024 Approved Best Practices in Confirming Your YouTube Access</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gtx-gems-the-best-for-high-res-gaming/"><u>2024 Approved GTX Gems The Best for High-Res Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-speed-windows-photo-explorer-tool/"><u>2024 Approved High-Speed Window's Photo Explorer Tool</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-fun-in-feeds-animating-instagram-text-on-stories/"><u>2024 Approved Infusing Fun in Feeds Animating Instagram Text on Stories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-available-avi-player-with-cross-platform-support/"><u>Best Available Avi Player with Cross-Platform Support</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/captivating-wilderness-vistas-high-quality-backgrounds-and-pics-from-yl-software-solutions/"><u>Captivating Wilderness Vistas - High-Quality Backgrounds & Pics From YL Software Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-perfected-practice-of-combining-youtube-videos/"><u>In 2024, The Perfected Practice of Combining YouTube Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-the-samsung-galaxy-z-flip-7plus-price-forecasts-release-details-and-insights-on-new-specs/"><u>What to Expect From the Samsung Galaxy Z Flip 7+ - Price Forecasts, Release Details & Insights on New Specs</u></a></li>
 </ul></div>
 

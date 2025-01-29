@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond"
-date: 2025-01-16T19:30:44.474Z
-updated: 2025-01-21T21:44:52.463Z
+date: 2025-01-25T19:08:10.154Z
+updated: 2025-01-28T21:06:46.112Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ## Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ![The document editor interface in Proton Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072812.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In my experience, generative text features are only useful if what you're writing needs to be predictable in content and sterile in tone. That's a rare need in my workflow and daily life, so I don't feel I'm missing much by using Proton Docs. Those menu options other apps have with the little "stars" icon that, for some reason, signifies generative AI have become an eyesore to me; there's nothing celestial about those tools.
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
  Aside from that, I'm generally optimistic about the direction of the Proton suite. For about five years, [Proton's email](https://extra-guidance.techidaily.com/updated-maximizing-impact-with-googles-podcast-platform/) and VPN services have been mainstays for me. In that time I've had to stick to Google Docs when I needed a collaborative, cloud-based word processor. So I'm looking forward to using Proton Docs as an alternative, and without any pop-ups begging me to let a machine write for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Edit Documents With Proton
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ![Screenshot of the Proton Drive menu with annotations pointing to the 'New' button and 'New Document' menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072723.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're then in the document edit mode and can start writing. You can also upload documents made in another editor and click "Open in Docs." There's no support for ODT documents yet, but again, there's still more to come with Proton Docs—just hopefully not involving generative AI.
@@ -68,19 +68,22 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-cutting-edge-tips-best-practices-in-digital-sound-recording/"><u>[New] 2024 Approved Cutting-Edge Tips Best Practices in Digital Sound Recording</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-cutting-edge-tiktok-edits-for-windowspc-users/"><u>[New] Cutting Edge TikTok Edits for Windows/PC Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-finest-pencil-masters-free-vs-paid-windows-apps-reviewed/"><u>[New] Finest Pencil Masters Free vs Paid Windows Apps Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fuel-ambition-with-these-10-movie-masterpieces/"><u>[New] Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hot-hands-on-10-must-have-vr-peripherals/"><u>[New] Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-effortlessly-convert-spoken-language-into-written-content-using-microsoft-word/"><u>[New] How to Effortlessly Convert Spoken Language Into Written Content Using Microsoft Word</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-navigating-srt-in-windows-macos-environments/"><u>[Updated] In 2024, Navigating SRT in Windows, macOS Environments</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y78t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y78t Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-halovision-highlights-critique/"><u>In 2024, HaloVision Highlights Critique</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-platforms-linking-insta-and-tiktok/"><u>In 2024, Harmonizing Platforms Linking Insta & TikTok</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-your-chat-history-a-tutorial-on-exporting-chatgpt-conversations/"><u>Secure Your Chat History: A Tutorial on Exporting ChatGPT Conversations</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles/"><u>[New] Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-foundations-of-fluid-graphics-a-primer/"><u>[New] Foundations of Fluid Graphics A Primer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-futuristic-vr-tech-for-remote-pilots/"><u>[New] Futuristic VR Tech for Remote Pilots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-toolwiz-in-a-world-of-mobile-photography-apps/"><u>[Updated] Evaluating Toolwiz in a World of Mobile Photography Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-full-inspection-immersing-in-virtual-reality-with-gear-360-for-2024/"><u>[Updated] Full Inspection Immersing in Virtual Reality with Gear 360 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-cinema-boosted-list-of-the-best-15-luts/"><u>[Updated] GoPro Cinema Boosted List of the Best 15 LUTs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unrestricted-creativity-the-ultimate-android-editing-selection/"><u>[Updated] Unrestricted Creativity The Ultimate Android Editing Selection</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/cing-narrative-flow-integrating-chapters-into-your-youtube-content/"><u>Enhancing Narrative Flow Integrating Chapters Into Your YouTube Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-new-frontiers-in-gaming-top-titles-for-rift-vive-and-playstation-vr-for-2024/"><u>Exploring New Frontiers in Gaming Top Titles for Rift, Vive, and PlayStation VR for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-flying-rivals-dji-drone-vs-gopro-for-2024/"><u>High-Flying Rivals DJI Drone vs GoPro for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-poco-f5-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Poco F5 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heavy-haulers-face-off-t5-or-sjcam-s6-legend/"><u>In 2024, Heavy Haulers Face-Off T5 or SJCAM S6 Legend?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y78t-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y78t online without jailbreak</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-zoom-innovations-key-techniques-to-improve-video-transformation-processes/"><u>In 2024, Zoom Innovations Key Techniques to Improve Video Transformation Processes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-tech-in-action-sports-recording-for-2024/"><u>Leading Tech in Action Sports Recording for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-streets-of-los-santos-ensuring-stable-play-in-gta-ncrashing-troubleshooting/"><u>Master the Streets of Los Santos: Ensuring Stable Play in GTA nCrashing Troubleshooting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-start-manual-for-downloading-and-installing-the-latest-ricoh-printer-drivers-on-windows/"><u>Quick Start Manual for Downloading & Installing the Latest Ricoh Printer Drivers on Windows</u></a></li>
 </ul></div>
 

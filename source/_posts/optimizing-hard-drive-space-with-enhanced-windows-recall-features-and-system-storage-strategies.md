@@ -1,7 +1,7 @@
 ---
 title: Optimizing Hard Drive Space with Enhanced Windows Recall Features and System Storage Strategies
-date: 2025-01-14T16:22:08.093Z
-updated: 2025-01-21T21:22:37.868Z
+date: 2025-01-22T03:20:31.963Z
+updated: 2025-01-28T22:25:13.109Z
 tags:
   - cutting-edge
 categories:
@@ -26,13 +26,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Microsoft Recall demonstration searching for Goat Chesse Pizza](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/microsoft-recall-demonstration-searching-for-goat-chesse-pizza.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Microsoft](https://support.microsoft.com/en-us/windows/retrace-your-steps-with-recall-aa03f8a0-a78b-4b3e-b0a1-2eb8ac48701c)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Windows Recall: An Overview of Storage Requirements
@@ -54,16 +54,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  So, you need to allocate at least 25 GB to Recall if you wish to enable the feature—unless you own a 256 GB device, in which case, you can allocate just 10 GB. But wait, this is just the storage allocation for the snapshots—you’re actually losing a few more gigabytes to the systems powering Recall.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The True Weight of Windows Recall on System Storage
 
  Windows Recall isn’t just about allocating space for the automatic snapshots. It also uses locally installed AI to analyze the snapshots and create a timeline of your activity. This means even if you disable Recall and don’t allocate any storage to it, you’ll still lose a chunk of your storage to the [local AI](https://eaxpv-info.techidaily.com/new-in-2024-guide-to-idevice-based-youtube-content-sharing/), including the Recall app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Usable Storage Space on Recall-Compatible Copilot+ PCs
@@ -79,6 +75,10 @@ Close
  So, if you’re buying a Copilot+ PC, note that the operating system is going to be bulkier as it needs to allocate space for all the new AI features, including Recall. Also, if you intend to use the feature, you’ll need to allocate anywhere between 10-150 GB for storing the snapshots.
 
  The total amount of space you allocate will determine how many snapshots you can store, equating to how far back you can “recall.” I personally doubt that 10 GB of storage allocation will give you a meaningful amount of Recall history. Practically, I think people will want to have access to at least 30 days of activity. So I ran the numbers, and you’d be surprised at just how much space the snapshots can eat up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How Much Storage for 1 Hour of Recall
 
@@ -103,6 +103,10 @@ Close
 
  Recall only saves a snapshot if the content on the screen is different from the previous snapshot. So it won’t bulk up your storage when you aren’t using your PC or if you’ve paused the feature. You can also stop Recall from taking snapshots by [following this guide](https://mondly-stories.techidaily.com/enlightening-the-future-one-language-at-a-time/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  So, How Much Storage Do You Have For Yourself?
 
  A 256 GB SSD usually has [238 GB of available space](https://www.emtec-international.com/en/faq/external-ssd/what-usable-capacity-my-ssd), whereas a 512 GB SSD has 476 GB.
@@ -122,10 +126,6 @@ Close
 | **User Available Storage Space**               | **173 GB**         | **374 GB** |
 
  Considering these numbers and how large modern apps are getting, a 256 GB Copilot+ PC is just impractical and a 512 GB model debatable—only recommended if you don’t run heavy apps or play games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Should You Buy a Higher Storage Model of a Copilot+ PC?
 
@@ -150,22 +150,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-filmmaking-mastering-key-camera-techniques/"><u>[New] First Steps in Filmmaking Mastering Key Camera Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-maximize-your-impact-with-snapchat-spotlight/"><u>[New] How to Maximize Your Impact with Snapchat Spotlight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-identifying-10-leading-vr-devices-for-your-pc/"><u>[New] Identifying 10 Leading VR Devices for Your PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-tackling-tricky-feed-issues-hidden-youtubefacebook-videos/"><u>[Updated] 2024 Approved Tackling Tricky Feed Issues Hidden YouTube/Facebook Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-choice-premium-virtual-reality-experiences-on-google-cardboard/"><u>[Updated] Exclusive Choice Premium Virtual Reality Experiences on Google Cardboard</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-pick-prime-drone-gimbals/"><u>[Updated] Expert Pick Prime Drone Gimbals</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-expertly-lit-the-17-must-haves-for-youtubers-for-2024/"><u>[Updated] Expertly Lit The 17 Must-Haves for Youtubers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovate-your-visual-narrative-the-10-best-text-upgrades/"><u>[Updated] Innovate Your Visual Narrative - The 10 Best Text Upgrades</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-escapes-how-to-choose-between-rift-vive-ps-vr/"><u>2024 Approved Immersive Escapes How to Choose Between Rift, Vive, PS VR?</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-solutions-for-error-0x80042306-during-system-restore/"><u>Expert Solutions for Error 0X80042306 During System Restore</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highest-quality-images-in-4k-with-these-cameras-for-2024/"><u>Highest Quality Images in 4K with These Cameras for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-best-practices-for-documenting-live-streamed-sporting-matches/"><u>In 2024, Best Practices for Documenting Live-Streamed Sporting Matches</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/meet-more-people-today-with-these-5-recommended-apps/"><u>Meet More People Today with These 5 Recommended Apps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ning-edges-strategic-lighting-for-content-creators-for-2024/"><u>Softening Edges Strategic Lighting for Content Creators for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-finest-selection-premium-17-inch-laptop-reviews-tech-insights/"><u>Unveiling the Finest Selection: Premium 17-Inch Laptop Reviews | Tech Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audio-visual-blend-in-online-photography/"><u>[New] Audio-Visual Blend in Online Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-choose-a-camera-gimbal-for-your-drone/"><u>[New] How to Choose a Camera Gimbal for Your Drone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-video-player-for-high-quality-avi-on-devices/"><u>2024 Approved Exclusive Video Player for High-Quality AVI on Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-framefulness-selecting-the-top-websites-and-apps-for-photoshopping/"><u>2024 Approved Framefulness Selecting the Top Websites & Apps for Photoshopping</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/camrecorder-essential-techniques-for-gaming-pros-for-2024/"><u>CamRecorder Essential Techniques for Gaming Pros for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-selection-of-prime-deals-save-big-on-hp-apple-and-razer-laptops-in-our-18-pick-guide-zdnets-tech-savvy-picks/"><u>Discover the Ultimate Selection of Prime Deals: Save Big on HP, Apple, and Razer Laptops in Our 18-Pick Guide | ZDNET's Tech Savvy Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-for-efficient-youtube-to-mpeg-transcoding/"><u>Expert Tips for Efficient YouTube-to-MPEG Transcoding</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-7-plus-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-marketing-havens-for-youtube-videos-for-2024/"><u>Ideal Marketing Havens for YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-confusion-to-clarity-your-telegram-web-guidebook/"><u>In 2024, From Confusion to Clarity Your Telegram Web Guidebook</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-create-a-stunning-animated-logo-for-free-11-top-tools-and-tricks/"><u>New In 2024, Create a Stunning Animated Logo for Free 11 Top Tools and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-sending-and-receiving-ims-with-mozilla-thunderbird/"><u>The Ultimate Guide to Sending and Receiving IMs with Mozilla Thunderbird</u></a></li>
 </ul></div>
 

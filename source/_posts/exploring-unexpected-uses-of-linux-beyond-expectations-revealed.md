@@ -1,7 +1,7 @@
 ---
 title: Exploring Unexpected Uses of Linux - Beyond Expectations Revealed!
-date: 2025-01-15T18:26:27.232Z
-updated: 2025-01-21T16:30:25.413Z
+date: 2025-01-23T19:59:18.122Z
+updated: 2025-01-29T02:28:17.838Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Exploring Unexpected Uses of Linux - Beyond Expectations Revealed!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -35,16 +31,24 @@ Hannah Stryker / How-To Geek
 
  Smart appliances like smart TVs often have an operating system derived from Linux, but there's a good chance there's some form of Linux in appliances like smart fridges or internet-connected microwaves. Since the Linux kernel is free and open-source, there's plenty of incentive to simply adapt it to run on appliances that need this level of software to do their jobs, instead of writing software from scratch. There's even a chance that your Wi-Fi router could be running Linux. Even your [coffee maker at work](https://www.reddit.com/r/LinuxActionShow/comments/594b7m/the%5Fnew%5Fcoffee%5Fmachine%5Fat%5Fmy%5Fworkplace%5Fruns%5Flinux/) could be running Linux.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  Supercomputers 
 
 ![The Cray XK7 Titan Supercomputer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/cray_titan_supercomputer.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _ORNL_
 
  The 500 most powerful computers in the world [all run Linux](http://www.stackscale.com/blog/most-powerful-supercomputers-linux/)[.](https://www.stackscale.com/blog/most-powerful-supercomputers-linux/) So if you have millions on the line, running mission-critical work on the most expensive computers known to man, Linux seems to be the way to go. Of course, these mega computers don't run the same Linux distros our beloved Linux readership love to argue about in the comments. One of the main reasons Linux dominates the high-performance computing world is that it's completely open and customizable. Computer scientists and engineers can trim absolutely all the fat from the operating system, and modify it to get the absolute most our of the hardware and electrical power they have.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  Your Car's Infotainment Unit 
@@ -56,7 +60,7 @@ _[Waze](https://www.waze.com/press)_
  Most modern cars come with slick infotainment systems from the factory these days, and there's a good chance that behind the pretty icons and colors there beats the digital heart of the Linux kernel. I actually realized this recently when I was thinking about updating my KIA's system, and ran across a fix for bricked infotainment systems where you just plug a USB keyboard into your car, and spam Linux keyboard shortcuts to escape the boot loop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  Smartphones 
@@ -71,10 +75,6 @@ Lucas Gouveia / How-To Geek | Best Buy
 
 ![A scientist in a lab looks through a microscope.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/scientist-lap-looking-in-microscope.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[Gorodenkoff/Shutterstock.com](https://www.shutterstock.com/image-photo/medical-research-scientists-looking-samples-under-691545829)_
 
  Medical devices such as MRI machines or the machines that monitor vital signs more often than not run Linux. There are many reasons why Linux is a popular choice for embedded software in medical devices, but patient data security, real-time OS (RTOS) capabilities, flexibility, and reliability are at the top of the list. The next time you need to get a scan, or if you're ever operated on by a surgical robot, chances are both of those devices are running some flavor of Linux.
@@ -87,13 +87,13 @@ Shutterstock/Panchenko Vladimir
 
  The [Internet of Things](https://extra-skills.techidaily.com/in-2024-optimizing-display-youtubes-zoom-mastery/) is the description we've given to a loose collection of devices that mainly talk to each other over networks. So this could be anything from your IP security cameras, to your thermostat, to remote solar-powered weather sensors. A good portion of these devices run Linux, rather than proprietary firmware. When you access your IP cameras, for example, you're essentially logging into a Linux server running on your local network.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7  Emulator Handhelds 
 
 ![Anbernic RG35X H portable handheld retro gaming console.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/anbernic_rg35xx_h.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Anbernic
 
@@ -114,14 +114,17 @@ Anbernic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-streamlining-creation-youtube-video-editor-insights/"><u>[New] 2024 Approved Streamlining Creation YouTube Video Editor Insights</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-innovative-vector-editors-as-acid-pro-successors/"><u>[New] In 2024, Innovative Vector Editors as ACID Pro Successors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-review-utilizing-googles-voice-recognition-in-word-processing/"><u>[Updated] Full Review Utilizing Google's Voice Recognition in Word Processing</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-15-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 15 Activity | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-alternatives-unveiled-private-talks-with-duckduckgos-intelligent-assistant/"><u>ChatGPT Alternatives Unveiled: Private Talks with DuckDuckGo's Intelligent Assistant</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-premium-vr-showrooms-for-2024/"><u>Guide to Premium VR Showrooms for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-speed-files-inspection-on-windows-os/"><u>In 2024, High-Speed Files Inspection on Windows OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/tips-to-find-the-best-videographer-for-2024/"><u>Tips to Find The Best Videographer for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-apple-watch-bargains-in-july-2024-exclusive-offers-featured-by-zdnet/"><u>Top Apple Watch Bargains in July 2024 - Exclusive Offers Featured by ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-crafting-the-ideal-voice-memo-a-step-by-step-methodology-for-2024/"><u>[New] Crafting the Ideal Voice Memo A Step-by-Step Methodology for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fun-for-the-whole-family-revisiting-a-goofy-movie/"><u>[Updated] 'Fun for the Whole Family' Revisiting a 'Goofy Movie'</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-peak-summit-in-virtual-landscapes/"><u>[Updated] 2024 Approved Peak Summit in Virtual Landscapes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-a-novel-approach-to-delivery-reinvented-box-revelations/"><u>[Updated] A Novel Approach to Delivery Reinvented Box Revelations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experience-unparalleled-reality-top-10-pc-headsets-for-in-depth-vr-video/"><u>[Updated] Experience Unparalleled Reality Top 10 PC Headsets for In-Depth VR Video</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-superior-hd-recording-systems/"><u>[Updated] In 2024, Superior HD Recording Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-dark-art-of-night-photography-best-practices-revealed/"><u>[Updated] In 2024, The Dark Art of Night Photography Best Practices Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-12-techniques-for-storing-web-based-songs/"><u>[Updated] In-Depth Look at 12 Techniques for Storing Web-Based Songs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-toolkit-analyzing-gpts-learning-efficacy/"><u>AI Toolkit: Analyzing GPT's Learning Efficacy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-master-chromes-pip-for-enhanced-productivity/"><u>In 2024, How to Master Chrome’s PIP for Enhanced Productivity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-15-plus-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 15 Plus Properly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigating-instagram-marketing-ultimate-guide-to-video-success-for-2024/"><u>Navigating Instagram Marketing Ultimate Guide to Video Success for 2024</u></a></li>
 </ul></div>
 

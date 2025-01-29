@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2025-01-19T21:23:03.830Z
-updated: 2025-01-21T18:35:49.704Z
+date: 2025-01-25T21:36:49.261Z
+updated: 2025-01-28T16:18:53.653Z
 tags:
   - deals
 categories:
@@ -40,26 +40,25 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-expense-of-youtube-channel-growth/"><u>[New] Exploring the Expense of YouTube Channel Growth</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-mastering-discord-message-pinning-essentials/"><u>[New] Mastering Discord Message Pinning Essentials</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-chromebook-audio-revamp-guide-selecting-the-leading-speech-converters-online/"><u>[Updated] 2024 Approved Chromebook Audio Revamp Guide Selecting the Leading Speech Converters Online</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-deciding-on-the-best-videography-camera-type-dslr-or-mirrorless/"><u>[Updated] 2024 Approved Deciding on the Best Videography Camera Type DSLR or Mirrorless?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-phones-apps-for-masterful-gopro-edits/"><u>[Updated] Excellent Phones' Apps for Masterful GoPro Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expanding-creative-horizons-in-obs-studio-using-luts/"><u>[Updated] Expanding Creative Horizons in OBS Studio Using LUTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-10-best-photo-layering-and-editing-apps-iosandroid/"><u>2024 Approved Explore Top 10 Best Photo Layering & Editing Apps iOS/Android</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/analyzing-the-oneplus-8t-impressive-speed-overshadowed-by-patchy-photography/"><u>Analyzing the OnePlus 8T: Impressive Speed Overshadowed by Patchy Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-recommended-filmmaking-equipment-roundup-for-2024/"><u>Expert-Recommended Filmmaking Equipment Roundup for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/facial-lockout-a-deep-dive-into-iphones-face-id-vs-galaxys-recognition-for-2024/"><u>Facial Lockout A Deep Dive Into iPhone's Face ID Vs. Galaxy’s Recognition for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fixing-the-facial-flaws-in-iphone-xs-security-feature-for-2024/"><u>Fixing the Facial Flaws in iPhone X's Security Feature for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/frame-your-life-with-iphones-top-10-photo-rules/"><u>Frame Your Life with iPhone's Top 10 Photo Rules</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-versions-unveiled-an-analytical-review-for-2024/"><u>Gopro Versions Unveiled An Analytical Review for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-honor-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Honor on Mac?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-f14-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy F14 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-movie-magic-made-simple-a-step-by-step-guide/"><u>New Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/445261-9780974470658-the-yamas-amp-niyamas/"><u>The Yamas &amp; Niyamas | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-handheld-gyro-stabilization-upgrade/"><u>[New] Handheld Gyro Stabilization Upgrade</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-google-photos-for-organized-memories/"><u>[New] Harnessing Google Photos for Organized Memories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-suggestions-superior-mobile-melody-designers/"><u>[New] Ideal Suggestions Superior Mobile Melody Designers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-to-visual-story-crafting-gifs-from-captivating-videos/"><u>[Updated] 2024 Approved Vimeo to Visual Story Crafting GIFs From Captivating Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-slomo-recording-app-evaluation-future-outlook/"><u>[Updated] Full SloMo Recording App Evaluation - Future Outlook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-speed-up-video-playback-in-powerpoint/"><u>[Updated] How to Speed Up Video Playback in PowerPoint</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-watch-deleted-youtube-secrets-to-accessing-lost-content/"><u>[Updated] Watch Deleted YouTube Secrets to Accessing Lost Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-learn-to-capture-videos-from-webcam-in-vlc/"><u>2024 Approved Learn to Capture Videos From Webcam in VLC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-maximize-productivity-with-zoom-scheduling-techniques/"><u>2024 Approved Maximize Productivity with Zoom Scheduling Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/connectivity-boosted-best-3-streamers-for-nintendo-switch/"><u>Connectivity Boosted: Best 3 Streamers for Nintendo Switch</u></a></li>
+<li><a href="https://win11.techidaily.com/directx-comprehensible-guide-to-downloading-and-updating/"><u>DirectX: Comprehensible Guide to Downloading and Updating</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-1-5-iphone-podcast-platforms-for-all-for-2024/"><u>Explore #1-#5 iPhone Podcast Platforms for All for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-humor-highway-tailored-joke-routes-for-each-occasion/"><u>In 2024, Humor Highway Tailored Joke Routes for Each Occasion</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-common-crashes-and-bugs-in-call-of-duty-black-ops-4/"><u>Resolving Common Crashes and Bugs in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-repairing-missing-haldll-problems-in-windows-xp-systems/"><u>Troubleshooting and Repairing 'Missing hal.dll' Problems in Windows XP Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/troubleshooting-tips-reconnect-and-restore-functionality-in-microsoft-outlook/"><u>Troubleshooting Tips: Reconnect and Restore Functionality in Microsoft Outlook</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

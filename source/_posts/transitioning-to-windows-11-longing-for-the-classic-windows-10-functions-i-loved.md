@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved"
-date: 2025-01-16T19:20:32.158Z
-updated: 2025-01-21T17:19:40.105Z
+date: 2025-01-27T05:27:19.797Z
+updated: 2025-01-29T03:19:46.287Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ I switched to Windows 11 recently, and it has been an interesting experience. Be
 ![Laptop with some windows 11 screens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/laptop-with-some-windows-11-screens.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek
@@ -28,7 +28,7 @@ Lucas Gouveia / How-To Geek
  I will say that the upgrade was completely painless. It was quite different from my previous installation scenarios, although I figure if I ever had to reinstall the operating system, the from-scratch installation is probably more complicated than the upgrade. After about twenty minutes of downloading and updating files, the machine rebooted, and I was immediately into Windows 11\. And that's where things started to go downhill.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enabling TPM 2.0
@@ -47,6 +47,10 @@ Benj Edwards / How-To Geek
 
 ![Taskbar Personalization Menu (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/taskbar-personalization-menu-light.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ever since the problem that was the Windows 8 Start Tiles, I've appreciated the Start Menu a lot more. Immediately as I got into the operating system, I was greeted by a familiar Start Menu, only it wasn't as familiar as I'd hoped. By default, Windows 11 center-aligns your Start Menu on a new installation.
 
  It wasn't so bad, since all one had to do to fix the "problem" was right-click on the taskbar and [change the setting from center aligned to left aligned](https://twitter-videos.techidaily.com/updated-in-2024-twitters-new-era-of-videography-aspect-ratios-mandatory/). It was a cosmetic change, although I'm not sure why Microsoft decided to default the Start button to center-aligned when all the previous iterations of Windows were left-aligned. But I digress—this one annoyed me, but it wasn't a functional issue.
@@ -54,6 +58,10 @@ Benj Edwards / How-To Geek
  Another issue I had with the taskbar was all the additional apps that I didn't put there. I usually aim for a minimalist taskbar, since too many apps down there distract me. On install, Windows 11 comes with a handful of not-very-useful apps (including several Microsoft tools) embedded on the Taskbar. I immediately removed those, but it would be nice if they carried over my Taskbar arrangement from Windows 10.
 
  Probably the worst change Windows 11 made was to make it impossible to throw the Taskbar anywhere on the screen. In Windows 10, if I wanted a Taskbar hanging from the top of the screen, I could do that. In Windows 11, [that's just not possible](https://www.windowscentral.com/microsoft-explains-why-you-cant-move-windows-11-taskbar), and you have to live with the Taskbar on the bottom. If you're not used to that, or want to change it, Microsoft says tough cookies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Truncated Context Menus Hurt Usability
 
@@ -65,17 +73,9 @@ Benj Edwards / How-To Geek
 
  Back in Windows 10, when you right-clicked a file, you got a simple drop-down menu that outlined _all_ your potential options. It was a context menu that actually gave you context. The new Windows 11 context menu hides context from the user, making it seem like they tried to please everyone and ended up pleasing no one. Luckily, there are [ways to restore the old context menu system in Windows 11](https://fox-boxes.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences-for-2024/), so it's not a dealbreaker.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Sorting Options Are All Wonky
 
 ![Sort By Options (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sort-by-options-light.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As a power user, I like sorting my stuff in a particular way. Sometimes, I like seeing thumbnails (if it's images), sometimes I like seeing details if I want to determine which file is the largest and needs to be deleted. Back in Windows 10, it was such an easy thing to arrange your icons by date, or size. Now, Windows 11 has made it more unintuitive for users to sort their files.
 
@@ -91,13 +91,13 @@ Benj Edwards / How-To Geek
 
  Now, instead of easily being able to get to sound settings and wireless networks at a single click, we have to right-click and then open a new settings menu. What's worse, tablet users are going to have a really hard time getting to their settings now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  It's Not A Bad Operating System But...
 
 ![Laptop with Windows 10 on the left, and laptop with Windows 11 on the right, with an update icon in the center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/laptop-with-windows-10-on-the-left-and-laptop-with-windows-11-on-the-right-with-an-update-icon-in-the-center.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lucas Gouveia / Hannah Stryker / How-To Geek
 
@@ -120,22 +120,18 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-tools-to-master-voice-manipulation-and-sound-design/"><u>[New] Free Tools to Master Voice Manipulation and Sound Design</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-professional-voice-recording-made-easy-with-ipad-for-2024/"><u>[New] Professional Voice Recording Made Easy with iPad for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-listing-high-quality-free-streamers-for-webm-files/"><u>[Updated] Exclusive Listing High-Quality, Free Streamers for WebM Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-mozilla-revolutionized-screen-splitting-with-ffxp/"><u>[Updated] How Mozilla Revolutionized Screen Splitting with FFXP</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-enhancing-selfie-impact-on-instagram-the-zoom-guide/"><u>2024 Approved Enhancing Selfie Impact on Instagram The Zoom Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-standard-to-personalized-installing-unique-ringtones-and-sounds-on-android/"><u>2024 Approved From Standard to Personalized Installing Unique Ringtones & Sounds on Android</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-itel-s23-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Itel S23 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-poco-x6-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Poco X6 Pro Face Lock?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-sandisk-drivers-for-windows-10-quick-guide-to-free-download-and-install/"><u>Get Your SanDisk Drivers for Windows 10 – Quick Guide to Free Download & Install</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nubia-z50-ultra-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nubia Z50 Ultra</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-x-fold-2-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo X Fold 2 To Phone | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-game-on-pioneer-top-choices-in-windows-10s-new-games-and-apps/"><u>In 2024, Game On, Pioneer Top Choices in Windows 10’S New Games and Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-game-changing-trick-enter-mac-apple-watch-style/"><u>In 2024, Game-Changing Trick Enter Mac, Apple Watch Style</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immediate-picture-and-film-correction-via-3dlut-apps/"><u>In 2024, Immediate Picture & Film Correction via 3DLUT Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-practices-for-enhancing-vhs-photos-via-pcs-for-2024/"><u>Innovative Practices for Enhancing VHS Photos via PCs for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ultimate-win-support-for-pci-devices/"><u>Ultimate Win Support for PCI Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-techniques-for-reordering-youtube-video-queues/"><u>[New] 2024 Approved Fast Techniques for Reordering YouTube Video Queues</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-revolutionizing-workouts-the-best-vr-treadmill-choices/"><u>[New] 2024 Approved Revolutionizing Workouts The Best VR Treadmill Choices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-from-basic-to-breakthrough-elevating-your-zoom-livestream-game-for-2024/"><u>[New] From Basic to Breakthrough Elevating Your Zoom Livestream Game for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infinite-professional-slideshow-resource-for-businesses/"><u>[New] Infinite Professional Slideshow Resource for Businesses</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-safe-sharing-starts-here-the-copyright-check-for-tiktok-videos-for-2024/"><u>[New] Safe Sharing Starts Here The Copyright Check for TikTok Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-zero-price-techniques-for-online-educational-recordings/"><u>[New] Zero Price Techniques for Online Educational Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-present-day-drones-envisioning-their-future/"><u>[Updated] Exploring Present-Day Drones, Envisioning Their Future</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-imagery-transforming-audio-into-visual-podcast-identity/"><u>2024 Approved Iconic Imagery Transforming Audio Into Visual Podcast Identity</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-your-smart-speaker-an-in-depth-look-at-google-nest-audio-vs-nest-mini/"><u>Choosing Your Smart Speaker: An In-Depth Look at Google Nest Audio Vs. Nest Mini</u></a></li>
+<li><a href="https://article-files.techidaily.com/discover-overlooked-free-mac-speech-transcription-apps/"><u>Discover Overlooked Free Mac Speech Transcription Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/enlighten-your-mac-embrace-windows-11-via-parallels/"><u>Enlighten Your Mac: Embrace Windows 11 via Parallels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-expression-top-talkers-on-google-podcasts/"><u>In 2024, Excellence in Expression Top Talkers on Google Podcasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-apple-unveils-powerful-m3-chip-in-13/"><u>New Apple Unveils Powerful M3 Chip in 13</u></a></li>
 </ul></div>
 

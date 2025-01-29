@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2025-01-14T18:30:37.561Z
-updated: 2025-01-21T20:15:47.381Z
+date: 2025-01-24T20:32:09.038Z
+updated: 2025-01-29T04:01:55.765Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,14 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Disable' highlighted for an app in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-disable-startup-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Open the App as an Admin
 
@@ -54,10 +46,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use App Compatibility Troubleshooter
 
@@ -67,9 +63,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Activate Developer Mode
 
@@ -100,16 +104,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The App Is Not Supported on Windows 11
 
  If the app doesn’t work even after reinstalling, it may not be compatible with your Windows 11 version. This usually happens when the developer doesn’t add support for the latest Windows version to their apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The App Can't Run on Your PC's Hardware
 
@@ -134,20 +134,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-scooping-strategies-review-rundown/"><u>[New] 2024 Approved SCOOPING STRATEGIES Review Rundown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-review-of-audfreeplus-software/"><u>[New] In-Depth Review of AudFreePlus Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-review-of-advanced-parrot-ar-drone/"><u>[Updated] Expert Review of Advanced Parrot AR Drone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flashback-filmmaking-top-tricks-from-80s-vhs-to-enhance-todays-edits/"><u>[Updated] Flashback Filmmaking Top Tricks From 80S VHS to Enhance Today’s Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-film-making-mastery-guidebook/"><u>2024 Approved Film Making Mastery Guidebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-tactics-for-cutting-edge-macro-video-creation/"><u>2024 Approved Innovative Tactics for Cutting-Edge Macro Video Creation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-apple-phones-for-gamers-maximizing-play-on-mobile/"><u>Best Apple Phones for Gamers: Maximizing Play on Mobile</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-update-error-in-windows-a-comprehensive-fix-guide/"><u>Bypassing 'Update Error' In Windows: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-6-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-camera-lens-to-screen-your-step-by-step-guide-to-gopro-video-mastery/"><u>In 2024, From Camera Lens to Screen Your Step-by-Step Guide to GoPro Video Mastery</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/income-patterns-in-the-podcast-industry-for-2024/"><u>Income Patterns in the Podcast Industry for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/say-goodbye-to-lagging-videos-in-kodi-expert-tips-on-eliminating-buffer-issues/"><u>Say Goodbye to Lagging Videos in Kodi – Expert Tips on Eliminating Buffer Issues</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-z-flip-5-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy Z Flip 5 FRP</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-blueprints-for-impressive-fb-ad-campaigns/"><u>[New] 2024 Approved Blueprints for Impressive FB Ad Campaigns</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-humor-hacks-create-memes-free-and-easy/"><u>[New] Humor Hacks Create Memes Free and Easy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-face-flaunting-visual-guidebook/"><u>[Updated] Face Flaunting Visual Guidebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-ultimate-guide-high-quality-mp4-compression-techniques-without-sacrificing-clarity/"><u>1. Ultimate Guide: High-Quality MP4 Compression Techniques Without Sacrificing Clarity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-freeframe-finders-your-path-to-aesthetic-economical-backdrops-on-tiktok/"><u>2024 Approved FreeFrame Finders Your Path to Aesthetic, Economical Backdrops on TikTok</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-alternative-footage-in-filmmaking/"><u>2024 Approved Leveraging Alternative Footage in Filmmaking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-programs-transforming-pictures-to-movies/"><u>2024 Approved Prime Programs Transforming Pictures to Movies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-2270dw-updates-and-drivers-downloaded-how-to-install-on-windows-systems/"><u>Brother HL-2270DW Updates & Drivers Downloaded - How to Install on Windows Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-unveiling-of-picsart-complete-users-guide-for-2024/"><u>Full Unveiling of PicsArt Complete User's Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>In 2024, [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/microsoft-reveals-ingenious-approach-to-normalizing-ai-insights-for-solo-users-zdnet/"><u>Microsoft Reveals Ingenious Approach to Normalizing AI: Insights for Solo Users | ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/keable-video-quality-best-stabilizers/"><u>Unshakeable Video Quality - Best Stabilizers</u></a></li>
 </ul></div>
 

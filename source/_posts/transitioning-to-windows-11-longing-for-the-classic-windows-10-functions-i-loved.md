@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved"
-date: 2025-01-27T05:27:19.797Z
-updated: 2025-01-29T03:19:46.287Z
+date: 2025-02-04T16:17:26.185Z
+updated: 2025-02-09T18:58:42.635Z
 tags:
   - deals
 categories:
@@ -13,12 +13,16 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 I switched to Windows 11 recently, and it has been an interesting experience. Besides from the [wildly-unpopular Recall update](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/), there are a few things already in the operating system that have made me unhappy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Upgrading to Windows 11 Was Painless
 
 ![Laptop with some windows 11 screens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/laptop-with-some-windows-11-screens.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek
@@ -28,12 +32,16 @@ Lucas Gouveia / How-To Geek
  I will say that the upgrade was completely painless. It was quite different from my previous installation scenarios, although I figure if I ever had to reinstall the operating system, the from-scratch installation is probably more complicated than the upgrade. After about twenty minutes of downloading and updating files, the machine rebooted, and I was immediately into Windows 11\. And that's where things started to go downhill.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enabling TPM 2.0
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benj Edwards / How-To Geek
 
@@ -47,10 +55,6 @@ Benj Edwards / How-To Geek
 
 ![Taskbar Personalization Menu (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/taskbar-personalization-menu-light.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Ever since the problem that was the Windows 8 Start Tiles, I've appreciated the Start Menu a lot more. Immediately as I got into the operating system, I was greeted by a familiar Start Menu, only it wasn't as familiar as I'd hoped. By default, Windows 11 center-aligns your Start Menu on a new installation.
 
  It wasn't so bad, since all one had to do to fix the "problem" was right-click on the taskbar and [change the setting from center aligned to left aligned](https://twitter-videos.techidaily.com/updated-in-2024-twitters-new-era-of-videography-aspect-ratios-mandatory/). It was a cosmetic change, although I'm not sure why Microsoft decided to default the Start button to center-aligned when all the previous iterations of Windows were left-aligned. But I digress—this one annoyed me, but it wasn't a functional issue.
@@ -58,10 +62,6 @@ Benj Edwards / How-To Geek
  Another issue I had with the taskbar was all the additional apps that I didn't put there. I usually aim for a minimalist taskbar, since too many apps down there distract me. On install, Windows 11 comes with a handful of not-very-useful apps (including several Microsoft tools) embedded on the Taskbar. I immediately removed those, but it would be nice if they carried over my Taskbar arrangement from Windows 10.
 
  Probably the worst change Windows 11 made was to make it impossible to throw the Taskbar anywhere on the screen. In Windows 10, if I wanted a Taskbar hanging from the top of the screen, I could do that. In Windows 11, [that's just not possible](https://www.windowscentral.com/microsoft-explains-why-you-cant-move-windows-11-taskbar), and you have to live with the Taskbar on the bottom. If you're not used to that, or want to change it, Microsoft says tough cookies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Truncated Context Menus Hurt Usability
 
@@ -72,6 +72,10 @@ Benj Edwards / How-To Geek
  For most of Windows' history, designers have been torn between making a super-simplistic system for the non-tech-savvy and making a functional system for users who know what they're doing. Sadly, this design choice doesn't help either party. In fact, it makes the job of tech support people who have to walk people through things even more difficult.
 
  Back in Windows 10, when you right-clicked a file, you got a simple drop-down menu that outlined _all_ your potential options. It was a context menu that actually gave you context. The new Windows 11 context menu hides context from the user, making it seem like they tried to please everyone and ended up pleasing no one. Luckily, there are [ways to restore the old context menu system in Windows 11](https://fox-boxes.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences-for-2024/), so it's not a dealbreaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Sorting Options Are All Wonky
 
@@ -95,10 +99,6 @@ Benj Edwards / How-To Geek
 
 ![Laptop with Windows 10 on the left, and laptop with Windows 11 on the right, with an update icon in the center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/laptop-with-windows-10-on-the-left-and-laptop-with-windows-11-on-the-right-with-an-update-icon-in-the-center.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lucas Gouveia / Hannah Stryker / How-To Geek
 
  While I have a laundry list of issues with Windows 11, it's not a bad operating system. Windows 10 support is coming to an end, so upgrading to Windows 11 is going to be the only way to stay ahead in the security arms race. 
@@ -120,18 +120,18 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-techniques-for-reordering-youtube-video-queues/"><u>[New] 2024 Approved Fast Techniques for Reordering YouTube Video Queues</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-revolutionizing-workouts-the-best-vr-treadmill-choices/"><u>[New] 2024 Approved Revolutionizing Workouts The Best VR Treadmill Choices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-from-basic-to-breakthrough-elevating-your-zoom-livestream-game-for-2024/"><u>[New] From Basic to Breakthrough Elevating Your Zoom Livestream Game for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-infinite-professional-slideshow-resource-for-businesses/"><u>[New] Infinite Professional Slideshow Resource for Businesses</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-safe-sharing-starts-here-the-copyright-check-for-tiktok-videos-for-2024/"><u>[New] Safe Sharing Starts Here The Copyright Check for TikTok Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-zero-price-techniques-for-online-educational-recordings/"><u>[New] Zero Price Techniques for Online Educational Recordings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-present-day-drones-envisioning-their-future/"><u>[Updated] Exploring Present-Day Drones, Envisioning Their Future</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-imagery-transforming-audio-into-visual-podcast-identity/"><u>2024 Approved Iconic Imagery Transforming Audio Into Visual Podcast Identity</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/choosing-your-smart-speaker-an-in-depth-look-at-google-nest-audio-vs-nest-mini/"><u>Choosing Your Smart Speaker: An In-Depth Look at Google Nest Audio Vs. Nest Mini</u></a></li>
-<li><a href="https://article-files.techidaily.com/discover-overlooked-free-mac-speech-transcription-apps/"><u>Discover Overlooked Free Mac Speech Transcription Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/enlighten-your-mac-embrace-windows-11-via-parallels/"><u>Enlighten Your Mac: Embrace Windows 11 via Parallels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-expression-top-talkers-on-google-podcasts/"><u>In 2024, Excellence in Expression Top Talkers on Google Podcasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-apple-unveils-powerful-m3-chip-in-13/"><u>New Apple Unveils Powerful M3 Chip in 13</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gamers-graphically-glorious-reviews/"><u>[New] GAMER'S GRAPHICALLY GLORIOUS REVIEWS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-add-motion-blur-to-face-with-picsart/"><u>[New] How to Add Motion Blur to Face with Picsart</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-14-visual-effects-with-text-animations/"><u>[New] Ideal 14 Visual Effects with Text Animations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-pick-and-personalize-gospel-ringtones-effectively/"><u>[Updated] How to Pick and Personalize Gospel Ringtones Effectively</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-unveil-full-length-videos-in-yt/"><u>[Updated] How to Unveil Full-Length Videos in YT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-crafting-compelling-iphone-shadow-images/"><u>2024 Approved Crafting Compelling iPhone Shadow Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-and-premium-4k-video-editors-of-2022-ultimate-guide-for-mac-and-pc-users/"><u>Best Free and Premium 4K Video Editors of 2022 - Ultimate Guide for Mac & PC Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funimate-unraveled-your-path-to-mastery-for-2024/"><u>Funimate Unraveled Your Path to Mastery for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-mastering-splitting-your-windows-11-workspace-into-multiple-tabs/"><u>Guide: Mastering Splitting Your Windows 11 Workspace Into Multiple Tabs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-list-of-affordable-high-definition-cameras/"><u>In 2024, Prime List of Affordable High Definition Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-proficient-use-of-audacity-for-high-quality-recordings/"><u>In 2024, Proficient Use of Audacity for High-Quality Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-gecata-analyzer-report/"><u>In 2024, Ultimate GECATA Analyzer Report</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-way-to-a-running-steam-application/"><u>Streamline Your Way to a Running Steam Application</u></a></li>
 </ul></div>
 

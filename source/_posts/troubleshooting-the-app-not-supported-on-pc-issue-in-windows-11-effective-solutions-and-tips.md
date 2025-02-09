@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2025-01-24T20:32:09.038Z
-updated: 2025-01-29T04:01:55.765Z
+date: 2025-02-07T18:35:38.721Z
+updated: 2025-02-09T17:34:26.410Z
 tags:
   - desktop
 categories:
@@ -31,10 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Disable' highlighted for an app in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-disable-startup-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Repeat the above step for each app you don’t want starting automatically, then [give your Windows 11 PC a reboot](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
 
 ##  Open the App as an Admin
@@ -46,14 +42,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use App Compatibility Troubleshooter
 
@@ -64,7 +56,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
@@ -72,7 +64,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Activate Developer Mode
@@ -87,6 +83,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Quit Settings and launch your app.
 
 ##  Remove and Reinstall the App
@@ -99,13 +99,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Uninstall' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-remove-app-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the open prompt, select "Uninstall" to delete the app.
 
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The App Is Not Supported on Windows 11
 
@@ -134,18 +134,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-blueprints-for-impressive-fb-ad-campaigns/"><u>[New] 2024 Approved Blueprints for Impressive FB Ad Campaigns</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-humor-hacks-create-memes-free-and-easy/"><u>[New] Humor Hacks Create Memes Free and Easy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-face-flaunting-visual-guidebook/"><u>[Updated] Face Flaunting Visual Guidebook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-ultimate-guide-high-quality-mp4-compression-techniques-without-sacrificing-clarity/"><u>1. Ultimate Guide: High-Quality MP4 Compression Techniques Without Sacrificing Clarity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-freeframe-finders-your-path-to-aesthetic-economical-backdrops-on-tiktok/"><u>2024 Approved FreeFrame Finders Your Path to Aesthetic, Economical Backdrops on TikTok</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-alternative-footage-in-filmmaking/"><u>2024 Approved Leveraging Alternative Footage in Filmmaking</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-programs-transforming-pictures-to-movies/"><u>2024 Approved Prime Programs Transforming Pictures to Movies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-hl-2270dw-updates-and-drivers-downloaded-how-to-install-on-windows-systems/"><u>Brother HL-2270DW Updates & Drivers Downloaded - How to Install on Windows Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-unveiling-of-picsart-complete-users-guide-for-2024/"><u>Full Unveiling of PicsArt Complete User's Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>In 2024, [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/microsoft-reveals-ingenious-approach-to-normalizing-ai-insights-for-solo-users-zdnet/"><u>Microsoft Reveals Ingenious Approach to Normalizing AI: Insights for Solo Users | ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/keable-video-quality-best-stabilizers/"><u>Unshakeable Video Quality - Best Stabilizers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-info-on-valheim-sowing-top-seeds-ranked-for-2024/"><u>[New] Essential Info on Valheim Sowing Top Seeds Ranked for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-basic-to-advanced-understanding-dynamic-range-imaging/"><u>[New] From Basic to Advanced Understanding Dynamic Range Imaging</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-free-clip-art-legally/"><u>[Updated] Harnessing Free Clip Art Legally</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infuse-motion-blur-into-image-sequence/"><u>[Updated] Infuse Motion Blur Into Image Sequence</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-keep-your-content-clout-authentic-resist-the-like-lie-in-for-2024/"><u>[Updated] Keep Your Content Clout Authentic Resist the Like Lie-In for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-analysis-complete-look-at-xvideo-studio-essentials/"><u>2024 Approved Expert Analysis Complete Look at XVideo Studio Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-quantum-hdrs-impact-on-photography/"><u>2024 Approved Exploring Quantum HDR's Impact on Photography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-comfortable-and-efficient-ergonomic-mice-for-office-use-in-202-instruction-1-same-difficultyformatlength-solution/"><u>Discover the Most Comfortable & Efficient Ergonomic Mice for Office Use in 202# Instruction 1 (Same Difficulty/Format/Length) Solution:</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-official-gigabyte-driver-for-gc-wb867d-wifi-router-instantly/"><u>Get the Official Gigabyte Driver for GC-WB867D WiFi Router Instantly</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-breaking-barriers-7-top-tools-for-artists-transforming-into-nfts/"><u>In 2024, Breaking Barriers 7 Top Tools for Artists Transforming Into NFTs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-advantages-in-video-workflow-over-traditional-sdr/"><u>In 2024, HDR Advantages in Video Workflow Over Traditional SDR</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/step-by-step-strategies-to-thrive-on-reddit-for-2024/"><u>Step-by-Step Strategies to Thrive on Reddit for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/system-prerequisites-for-running-big-sur-on-macs/"><u>System Prerequisites for Running Big Sur on Macs</u></a></li>
 </ul></div>
 

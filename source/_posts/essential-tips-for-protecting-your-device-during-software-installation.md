@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Protecting Your Device During Software Installation
-date: 2025-01-27T06:32:20.949Z
-updated: 2025-01-29T10:22:49.889Z
+date: 2025-02-06T16:20:59.736Z
+updated: 2025-02-09T16:46:31.567Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Essential Tips for Protecting Your Device During Software Installation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,15 +26,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The malicious search ads are just one way hackers can trick you into installing maclicious software, on top of all the other classic methods: fake emails, ads on other web content, social media, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Download from Mirror Sites
 
  There are many sites that host copies of popular free software, which were especially popular in the 1990s and early 2000s. They were helpful in the era before search engines became more prevelant, but many of them used custom installers for software that would load up your PC with extra junk. Back in 2015, [we tried downloading the top 10 apps from Download.com](https://extra-approaches.techidaily.com/2024-approved-pinnacle-playwriting-sanctuary/), which installed conflicting malware/virus protection software and browser redirects.
 
  Some popular download sites have cleaned up their act since then, while others have shut down entirely, but it's still not a good idea to download software from anywhere other than the original source or an approved mirror. For example, if you want VLC Media Player, you should be downloading directly from [VideoLAN.org](https://www.videolan.org/) or the project's own listings on the [Google Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://play.google.com/store/apps/details?id=org.videolan.vlc), [Apple App Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001407/https://itunes.apple.com/app/apple-store/id650377962), or other official sources linked from that website.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Avoid Search Engine Ads
 
@@ -43,7 +43,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Screenshot of a Google search for "Chevy", with a sponsored link for Ford at the top, followed by another sponsored link for Chevrolet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-4-52-47-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Google, Bing, and other search engines are not great at validating these links, so sponsored/ad links for software could lead you to malware. It's safer to scroll past them and check the top non-sponsored results for a given search query.
@@ -57,7 +57,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![A screenshot of the Mac App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-5-08-00-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are definitely apps in both stores that can be regarded as spam or not useful, but actual malware is exceedingly rare. The Microsoft Store has [occasional problems with sketchy software](https://screen-recording.techidaily.com/quick-tips-for-iphones-screen-recording-for-2024/), but they are removed when issues are discovered, and it has definitely been cleaned up over the past few years. Most big app developers ignored the Store for its first few years of existence, but now there are official listings for [Adobe Photoshop](https://apps.microsoft.com/detail/XPFD4T9N395QN6), [iTunes](https://apps.microsoft.com/detail/9PB2MZ1ZMB1S), [TikTok](https://apps.microsoft.com/detail/9NH2GPH4JZS4), [VLC Media Player](https://apps.microsoft.com/detail/XPDM1ZW6815MQM), [Mozilla Firefox](https://apps.microsoft.com/detail/9NZVDKPMR9RD), and more.
@@ -65,7 +65,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Most desktop Linux distributions have integrated software repositories and package managers that effectively act like app stores, and there are third-party software repositories for many platforms . [Homebrew](https://brew.sh/) is a popular software repository for macOS, primarily aimed at command-line tools and developer utilities, and [Chocolatey](https://chocolatey.org/) is a similar alternative for Windows. However, you have to trust that malware isn't sneaking into those repositories.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Scan Your Downloads with VirusTotal
@@ -91,21 +91,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hololens-unravelled-microsofts-augmented-future-insight/"><u>[New] HoloLens Unravelled Microsoft’s Augmented Future Insight</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-affordable-online-communication-apps-for-video-calls/"><u>[New] In 2024, Top 10 Affordable Online Communication Apps for Video Calls</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-asmrists-can-help-your-evening-routine/"><u>[Updated] How ASMRists Can Help Your Evening Routine</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-optimize-zoom-effectiveness-during-your-google-meet/"><u>[Updated] How to Optimize Zoom Effectiveness During Your Google Meet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfecting-pics-and-vids-the-art-of-snapchat-zooming/"><u>[Updated] In 2024, Perfecting Pics & Vids The Art of Snapchat Zooming</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-navigate-your-gaming-world-with-steams-switch-controller-for-2024/"><u>[Updated] Navigate Your Gaming World with Steam's Switch Controller for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/creative-templates-in-flutter-using-argon-pro-for-elite-uiux-download-now/"><u>Creative Templates in Flutter Using Argon Pro for Elite UI/UX - Download Now!</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/evaluating-the-effectiveness-of-windows-defender-against-cyber-threats-expert-advice-from-yl-software/"><u>Evaluating the Effectiveness of Windows Defender Against Cyber Threats: Expert Advice From YL Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finding-the-best-fit-essential-tips-to-choose-your-ideal-4k-monitor/"><u>In 2024, Finding the Best Fit Essential Tips to Choose Your Ideal 4K Monitor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-components-to-creativity-building-a-professional-4k-pc/"><u>In 2024, From Components to Creativity Building a Professional 4K PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fundamentals-of-motion-design-and-practical-application/"><u>In 2024, Fundamentals of Motion Design & Practical Application</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-industrys-preferred-6-social-networking-sites-for-firms/"><u>In 2024, Industry's Preferred 6 Social Networking Sites for Firms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>In 2024, Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/learning-ai-top-9-communities-for-rookies/"><u>Learning AI: Top 9 Communities for Rookies</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reinstall-directx-9-and-related-components/"><u>Reinstall DirectX 9 and Related Components.</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719576354474-shortcuts-to-fluent-urdu/"><u>Shortcuts to Fluent Urdu</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-unleashed-best-practices-for-ios-audio-broadcasting/"><u>[Updated] Expertise Unleashed Best Practices for iOS Audio Broadcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-elevate-landscape-imaging-with-your-iphone-device/"><u>[Updated] How to Elevate Landscape Imaging with Your iPhone Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-disabling-youtubes-quick-video-peek-feature/"><u>[Updated] In 2024, Disabling YouTube's Quick Video Peek Feature</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premium-online-sound-snatchers-for-2024/"><u>[Updated] Premium Online Sound Snatchers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-tracking-social-media-visuals-a-deep-look/"><u>2024 Approved Fast-Tracking Social Media Visuals A Deep Look</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-turn-the-last-scenes-first-with-android/"><u>2024 Approved Turn the Last Scenes First with Android</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-videos-from-ordinary-to-extraordinary/"><u>Elevate Your Videos From Ordinary to Extraordinary</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-does-find-my-friends-work-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-review-of-top-mp4-players/"><u>In 2024, Exclusive Review of Top MP4 Players</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-graphicgenius-create-funny-memes/"><u>In 2024, GraphicGenius Create Funny Memes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-xe-graphics-driver-update-enhance-your-pc-on-windows-10-or-11/"><u>Intel Xe Graphics Driver Update: Enhance Your PC on Windows 10 or 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rt-of-multi-platform-broadcasting-in-the-digital-age/"><u>The Art of Multi-Platform Broadcasting in the Digital Age</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-guide-to-converting-mp4-to-mp3-best-converters-for-2024/"><u>The Ultimate Guide to Converting MP4 to MP3 Best Converters for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-the-power-of-screencastify-recorder/"><u>Unlocking the Power of Screencastify Recorder</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Retro Innovation in Tech: Experience iPhone's Echo of the Original Macintosh"
-date: 2025-01-22T19:16:30.140Z
-updated: 2025-01-29T06:27:57.652Z
+date: 2025-02-06T17:38:29.139Z
+updated: 2025-02-09T17:39:56.432Z
 tags:
   - mobile
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,15 +64,21 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-change-powerpoint-video-speed/"><u>[New] How to Change PowerPoint Video Speed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-steps-for-seamlessly-clearing-youtube-feedback/"><u>[New] In 2024, Essential Steps for Seamlessly Clearing YouTube Feedback</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-perfect-presence-how-to-blur-background-on-zoom/"><u>[New] Perfect Presence How to Blur Background on Zoom</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-eye-catching-images-windows-10s-screenshot-feature/"><u>[Updated] In 2024, Eye-Catching Images Windows 10'S Screenshot Feature</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-mastery-7-drone-pros-recommended/"><u>2024 Approved Gimbal Mastery 7 Drone Pros Recommended</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unlocking-the-potential-of-capturing-digital-entertainment/"><u>2024 Approved Unlocking the Potential of Capturing Digital Entertainment</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-display-a-comprehensive-guide-to-hdr-on-windows-11/"><u>Enhance Your Display: A Comprehensive Guide to HDR on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-why-photo-booth-videos-freeze-suddenly/"><u>In 2024, Exploring Why Photo Booth Videos Freeze Suddenly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-smart-7-hd-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Smart 7 HD to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-film-viewing-with-iphone-tricks/"><u>In 2024, Innovating Film Viewing with iPhone Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-focus-effects-iphone-vs-android-photo-solutions/"><u>[New] Best Focus Effects IPhone vs Android Photo Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-dji-phantom-3s-advanced-video-capture-tech/"><u>[New] Examining DJI Phantom 3’S Advanced Video Capture Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-the-best-17-image-editing-utilities/"><u>[New] Guide to the Best 17 Image Editing Utilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ingenious-ways-to-change-song-duration-in-spotify/"><u>[New] Ingenious Ways to Change Song Duration in Spotify</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ranscribing-online-master-the-art-of-free-youtube-conversion-for-2024/"><u>[New] Transcribing Online Master the Art of Free YouTube Conversion for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-freezing-fun-at-the-beijing-olympics-2022/"><u>[Updated] Freezing Fun at the Beijing Olympics 2022</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-the-art-of-live-streams-merge-obs-zoom/"><u>[Updated] Mastering the Art of Live Streams Merge OBS, Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-luminaries-for-greater-exposure/"><u>2024 Approved Leveraging Luminaries for Greater Exposure</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-can-i-watch-facebook-videos-on-my-apple-tv-for-2024/"><u>How Can I Watch Facebook Videos on My Apple TV for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hubsan-x4-quadcopter-examination-an-in-depth-guide-for-2024/"><u>Hubsan X4 Quadcopter Examination An In-Depth Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-sns-hdrs-value-and-alternatives-for-hdr-editing/"><u>In 2024, Evaluating SNS HDR's Value & Alternatives for HDR Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-advanced-a-polarr-photo-editor-journey/"><u>In 2024, From Basics to Advanced A Polarr Photo Editor Journey</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-se-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone SE Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-live-videos-with-the-best-video-translator/"><u>In 2024, Translate Live Videos With The Best Video Translator</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-walkthrough-for-movie-making-on-windows-8-for-2024/"><u>The Ultimate Walkthrough for Movie Making on Windows 8 for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-mac-maintenance-software-of-2022-revealed-expert-picks-and-comprehensive-review-by-techenthusiast/"><u>Top Rated Mac Maintenance Software of 2022 Revealed: Expert Picks & Comprehensive Review by TechEnthusiast</u></a></li>
 </ul></div>
 

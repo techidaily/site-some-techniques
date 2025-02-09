@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System
-date: 2025-01-25T10:41:13.632Z
-updated: 2025-01-29T01:51:39.157Z
+date: 2025-02-06T16:09:23.475Z
+updated: 2025-02-09T20:11:49.261Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [From the Right-Click Menu](https://tiktok-clips.techidaily.com/updated-2024-approved-unveil-the-secrets-of-exceptional-tiktok-intro-videos-mac/)
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [From a File Explorer Toolbar Option](https://vp-tips.techidaily.com/updated-revolutionizing-image-capture-with-ios-11-updates/)
 * [How to Copy the Path of an App](https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/)
 * [Tips for Pasting the File, Folder, or App Path You’ve Copied](https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,10 +51,6 @@ Hannah Stryker / How-To Geek
 
  Windows has copied the full absolute path to your selected item(s).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Using a Keyboard Shortcut
 
 [Windows 11’s 22H2 update](https://extra-skills.techidaily.com/2024-approved-snickerscreen-composer/) introduced the ability to copy file and folder paths using a keyboard shortcut.
@@ -56,10 +60,6 @@ Hannah Stryker / How-To Geek
  To copy the path of multiple files and folders at once, highlight all of the folders and files and then press the Ctrl+Shift+C keyboard shortcut.
 
 ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
   
@@ -75,14 +75,10 @@ Hannah Stryker / How-To Geek
 
 ![The three dots and 'Copy Path' highlighted for an item in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-copy-path-file-explorer-toolbar-option.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And that’s it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Copy the Path of an App
@@ -96,7 +92,7 @@ Hannah Stryker / How-To Geek
 !['Open File Location' highlighted for an app in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-app-location-start-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the open window, right-click the app again and select "Open File Location."
@@ -104,6 +100,10 @@ Hannah Stryker / How-To Geek
  Your app is now highlighted. Right-click the app and select "Copy as Path."
 
 !['Copy as Path' highlighted for an app in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-copy-app-path.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tips for Pasting the File, Folder, or App Path You’ve Copied
 
@@ -132,21 +132,18 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2023s-leading-covert-video-download-apps-1-8-for-2024/"><u>[New] 2023'S Leading Covert Video Download Apps #1-8 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-public-domain-art-what-is-it-and-website-recommendations/"><u>[New] Exploring Public Domain Art What Is It and Website Recommendations</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-fanfare-gaming-patch/"><u>[New] In 2024, Fanfare Gaming Patch</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-instant-impact-the-ultimate-10-principles-of-iphone-photography-design/"><u>[New] Instant Impact The Ultimate 10 Principles of iPhone Photography Design</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highest-humor-infused-cut-and-paste/"><u>[Updated] Highest Humor-Infused Cut & Paste</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mycam-recorder-insights-a-thorough-technical-assessment/"><u>[Updated] In 2024, MyCam Recorder Insights A Thorough Technical Assessment</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlocking-the-archive-of-yesteryear-how-to-view-facebook-past-content/"><u>[Updated] In 2024, Unlocking the Archive of Yesteryear How To View Facebook Past Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-sharpen-your-vision-in-the-world-of-roblox/"><u>2024 Approved How to Sharpen Your Vision in the World of Roblox</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-straightforward-stories-for-2024/"><u>Crafting Straightforward Stories for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/find-the-perfect-phone-shot-blur-for-2024/"><u>Find the Perfect Phone Shot Blur for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-sony-xperia-1-v-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-top-quality-fee-free-lut-tools-for-creatives/"><u>In 2024, Evaluating Top-Quality, Fee-Free LUT Tools for Creatives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humor-weaver-androids-in-chains/"><u>In 2024, Humor Weaver Androids in Chains</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-to-make-a-mark-with-your-gopro-studio-edits/"><u>In 2024, Innovative Techniques to Make a Mark with Your GoPro Studio Edits</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-ideal-soundtracks-the-15-ultimate-music-selections-for-diverse-film-projects/"><u>New Ideal Soundtracks The 15 Ultimate Music Selections for Diverse Film Projects</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfecting-the-art-of-virtualizing-windows-11-in-vmware/"><u>Perfecting the Art of Virtualizing Windows 11 in VMware</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-elevating-care-delivery-through-effective-fb-ads/"><u>[New] 2024 Approved Elevating Care Delivery Through Effective FB Ads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-effortless-capture-of-virtual-meeting-footage-on-pcs/"><u>[Updated] 2024 Approved Effortless Capture of Virtual Meeting Footage on PCs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-expert-whatsapp-moves-for-the-modern-chatter/"><u>[Updated] 2024 Approved Expert WhatsApp Moves for the Modern Chatter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-how-to-free-rotate-and-merge-videos-on-android/"><u>[Updated] In 2024, How to Free Rotate and Merge Videos on Android</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-list-of-premium-androidpc-video-editors/"><u>[Updated] In 2024, The Ultimate List of Premium Android/PC Video Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-analog-archives-to-digital-epics-creating-videos-from-older-photographs/"><u>2024 Approved From Analog Archives to Digital Epics Creating Videos From Older Photographs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-set-up-an-impromptu-zoom-meeting-with-your-android-smartphone/"><u>2024 Approved How to Set Up an Impromptu Zoom Meeting with Your Android Smartphone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-motion-assessment-2023/"><u>2024 Approved In-Depth Motion Assessment 2023</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-11-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 11 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/an-in-depth-look-at-the-lenovo-ideapad-combining-essential-features-with-a-pleasant-design/"><u>An In-Depth Look at the Lenovo Ideapad: Combining Essential Features with a Pleasant Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-full-potential-of-lunapic-artistry-for-2024/"><u>Harnessing the Full Potential of LunaPic Artistry for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-itel-s23-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Itel S23 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-writers-programs-ignore-errors/"><u>Why Writers Programs Ignore Errors</u></a></li>
 </ul></div>
 

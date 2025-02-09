@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2025-01-24T08:58:42.549Z
-updated: 2025-01-28T22:25:43.406Z
+date: 2025-02-03T17:57:58.468Z
+updated: 2025-02-09T20:23:49.930Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  As a basic fix, restart your computer and see if that makes the mic working again. If it doesn't, use the troubleshooting tips below. Make sure to launch Discord and see if the mic works after each method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Run Discord as an Admin
 
  Discord may be unable to use the microphone because it doesn't have permission to use system resources. This usually happens when you aren’t running the app as an admin. [Launch the app with administrative privileges](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/) to resolve the problem.
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select "Yes" in the User Account Control prompt.
@@ -53,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 ![The 'Change' toggle and 'Allow Apps to Access Your Microphone' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-turn-on-mic-windows-10.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Select the Correct Mic in Discord
 
  If you have multiple mics connected to your PC, ensure the correct mic is chosen in Discord. You can [review your Discord mic settings](https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/) as follows.
@@ -66,12 +66,16 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ![Click the gear icon to open User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/discord-gear.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From the left sidebar, choose "Voice & Video." On the right pane, select the "Input Device" drop-down menu and choose the correct mic.
 
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Disable QoS High Packet Priority in Discord
 
@@ -82,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Reset Discord's Voice Settings
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  In the open prompt, select "Okay."
 
 !['Okay' highlighted in the 'Reset Voice Settings' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-reset-voice-settings-prompt-discord.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Close and relaunch Discord](https://techtrends.techidaily.com/navigating-the-digital-age-laptops-smartphones-and-literary-treasures-galore/) and check if your mic is working. 
 
@@ -122,22 +122,15 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>[New] Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-elite-entrance-selections-in-panzoids-for-2024/"><u>[New] Elite Entrance Selections in Panzoids for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-from-marks-acquiring-unmarked-stock-photography/"><u>[New] Free From Marks Acquiring Unmarked Stock Photography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-visual-media-and-audio-through-premiere-pros-features/"><u>[New] Harmonizing Visual Media and Audio Through Premiere Pro's Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-top-10-budget-friendly-jpeg-to-gif-apps/"><u>[Updated] Expert Picks Top 10 Budget-Friendly JPEG to GIF Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-periscopes-world-free-access-and-user-registration/"><u>[Updated] Exploring Periscope's World Free Access & User Registration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-capture-to-edit-elevating-your-immersive-video-experience-using-premiere-pro/"><u>[Updated] From Capture to Edit Elevating Your Immersive Video Experience Using Premiere Pro</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-harness-the-power-of-puzzles-for-your-instagram-presence/"><u>[Updated] In 2024, How to Harness the Power of Puzzles for Your Instagram Presence</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-safe-and-respectful-strategies-for-growing-on-tiktok/"><u>2024 Approved Safe and Respectful Strategies for Growing on TikTok</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/cookiebot-your-ultimate-baking-companion/"><u>Cookiebot: Your Ultimate Baking Companion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-metaverses-humorous-realms-together-for-2024/"><u>Exploring the Metaverse's Humorous Realms Together for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-on-syncing-gmail-and-zoom-for-remote-collaboration/"><u>In 2024, Expert Tips on Syncing Gmail and Zoom for Remote Collaboration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guffaw-generator-pictorial-editor/"><u>In 2024, Guffaw Generator Pictorial Editor</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721469372294-issue-with-iphone-wi-fi-try-these-five-methods-for-a-stable-connection/"><u>Issue with iPhone Wi-Fi? Try These Five Methods for a Stable Connection!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-to-galaxy-s23-ultra-converter-convert-mkv-for-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV to Galaxy S23 Ultra converter - convert MKV for Galaxy S23 Ultra</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/slim-powerful-gaming-experience-acers-predator-helios-neo-14-where-performance-meets-portability/"><u>Slim, Powerful Gaming: Experience Acer's Predator Helios Neo 14 - Where Performance Meets Portability</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-troubleshooting-tips-downloading-and-setting-up-hp-laserjet-pro-m402n-on-a-windows-machine/"><u>Ultimate Troubleshooting Tips: Downloading and Setting Up HP LaserJet Pro M402n on a Windows Machine</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highlighting-the-best-of-fig-skates-2022/"><u>[New] Highlighting the Best of Fig Skates 2022</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminated-imagery-standing-out-in-the-visual-field/"><u>[New] Illuminated Imagery Standing Out in the Visual Field</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-why-trust-matters-more-than-just-numbers-on-feeds/"><u>[New] In 2024, Why Trust Matters More Than Just Numbers on Feeds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-imagery-tales-untold/"><u>2024 Approved Iconic Imagery Tales Untold</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-showcase-premier-vlogs-plus-client-admiration/"><u>Celestial Showcase: Premier Vlogs + Client Admiration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-on-how-to-refresh-the-driver-software-for-an-acer-nitro-5-laptop/"><u>Expert Tips on How to Refresh the Driver Software for an Acer Nitro 5 Laptop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-unlocked-smooth-video-cuts-on-photos-via-windows-11-for-2024/"><u>Expertise Unlocked Smooth Video Cuts on Photos via Windows 11 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-d-drive-into-explorer-toolbar/"><u>Integrating D: Drive Into Explorer Toolbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-11-microsoft-store-error-0x80073cf3/"><u>Remedying Windows 11 Microsoft Store Error 0X80073cf3</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-extra-convenience-with-your-electric-vehicle-hov-lane-use-and-preferred-parking-options/"><u>Unlocking Extra Convenience with Your Electric Vehicle: HOV Lane Use and Preferred Parking Options</u></a></li>
 </ul></div>
 

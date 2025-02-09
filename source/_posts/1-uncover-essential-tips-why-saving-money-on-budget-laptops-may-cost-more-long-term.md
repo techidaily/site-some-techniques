@@ -1,7 +1,7 @@
 ---
 title: "1. Uncover Essential Tips: Why Saving Money on Budget Laptops May Cost More Long-Term"
-date: 2025-01-27T07:26:07.409Z
-updated: 2025-01-29T07:41:50.704Z
+date: 2025-02-03T18:20:11.819Z
+updated: 2025-02-09T17:42:45.787Z
 tags:
   - deals
 categories:
@@ -21,15 +21,15 @@ Are you looking for a cheap laptop? Make sure your pursuit of a deal doesn’t e
 
 ![The Intel Core i5-14600K CPU on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/intel-core-i5-14600k-2.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  Compare this to the 11th-gen Intel Core i3-1125G4 found in the pricier (but still budget) [$479 HP 17](https://www.amazon.com/HP-Display-i3-1125G4-Processor-Windows/dp/B0C3RPHMF2/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000638&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fread-this-before-you-buy-the-cheapest-laptop%2F&asc%5Fcampaign=Evergreen). The [UserBenchmark](https://cpu.userbenchmark.com/SpeedTest/1520479/11th-Gen-IntelR-CoreTM-i3-1125G4---200GHz) scores are notably improved, and though it is also limited to four cores, the additional four threads and higher clock speeds (2.0GHz to 3.7GHz) boost overall performance. It’s built on a more modern 10-nanometer process and, though it sucks up more juice and produces more heat, the newer fabrication method helps improve overall efficiency.
 
  It’s not only the brain of the operation that can suffer. Cheaper laptops usually have less RAM, which can bite when it comes to multitasking operations. It’s worth noting that GPU performance, even at the upper end of the sub-$500 range, commonly relies on integrated chips so performance in gaming, video editing, and so on isn’t going to improve very much until you [opt for a discrete GPU](https://article-knowledge.techidaily.com/new-2024-approved-dive-into-freeware-for-precise-music-tempo-tracking/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some Laptops Cut Corners on Storage
 
@@ -38,6 +38,10 @@ Hannah Stryker / How-To Geek
  eMMC stands for embedded MultiMediaCard. It’s the same type of storage used in removable memory devices like SD cards, and [it’s much slower than solid-state storage](https://video-screen-grab.techidaily.com/new-in-2024-comprehensive-guide-to-idevices-recording-tools/). Speeds for this type of storage cap out at about 400MB/sec, though real-world speed tests can yield far worse results.
 
 ![Inserting a microSD card in the Boox Poke 5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/inserting-a-5-microsd-card-in-the-boox-poke5jpg_53139408508_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Robinson / How-To Geek
 
@@ -55,15 +59,15 @@ Joe Robinson / How-To Geek
 
 ![Y'all got any more them pixels meme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/a5f.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Modern smartphones typically have very high pixel densities, but you’re also likely to hold them closer to your face. Laptops don’t need to hit such heady heights. A 15.6-inch laptop with a full HD display (1980x1080) has a pixel density of 141.2 pixels-per-inch (PPI), while the $250 14-inch HP laptop we mentioned earlier only hits 111.9 PPI (1366x768 at 14-inches).
 
  While pixel density doesn’t affect performance, it can negatively affect user experience. On top of this, some laptops skimp even on backlighting by opting for Pulse Width Modulation, or PWM for short. This is a method of controlling brightness by flickering the LED backlight (shorter bursts mean less light). This can cause eye strain and even headaches in some users, especially at low brightness settings.
 
  Lastly, the display will probably have a built-in webcam. It should come as no surprise that the cheapest laptops have the cheapest webcams (and microphones too). If you intend to do any sort of video conferencing it’s a good idea to buy a webcam that doesn’t make you look like a potato. There's only so much you can do to [improve how you look on a video call](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don’t Forget the Keyboard and Trackpad
 
@@ -78,7 +82,7 @@ Hannah Stryker / How-To Geek
  And then there’s the trackpad. While you can easily [replace your trackpad with a quality mouse](https://snapchat-videos.techidaily.com/directly-send-snaps-from-your-phone-a-tutorial-for-2024/), you may still be stuck with it in some instances. Don’t expect multi-touch on the cheapest laptops, and it’s not uncommon to find a spot on the keyboard where applying pressure will actuate both the left and right mouse buttons at the same time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Cheap Laptops Can Be Flexible (in a Bad Way)
@@ -87,15 +91,15 @@ Hannah Stryker / How-To Geek
 
 ![A Windows laptop placed on a wooden table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/53109373160_102bc9c093_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek  
 
  Weighting can also cause issues, particularly with laptops that use passively cooled components like cheap Celeron systems-on-chip. Since there’s not a lot of copper (or anything else for that matter) in the base of the laptop, much of the weight resides in the lid. This can lead to some “interesting” issues like a laptop that wants to tilt back on itself in certain scenarios (particularly when used on surfaces that aren’t flat like your lap).
 
  Don’t even dream of doing the one-finger-open, since many budget laptops lack enough weight in the base to keep the unit on the desk while you lift the lid. The one silver lining to this is that these laptops can be very light to carry around.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Make Sure the Ports Are Useful
 
@@ -108,10 +112,6 @@ Joe Robinson / How-To Geek
 Hannah Stryker / How-To Geek
 
  Not everyone is going to have issues with a limited port selection, but some will. If you intend to rely on an external monitor, make sure your laptop is suitable (preferably with DisplayPort over USB-C or at least a full-sized HDMI connector). The same is true if you want to use removable storage like SD and microSD.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Spend More Today, Save More Tomorrow
 
@@ -138,17 +138,17 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-best-speech-recognition-software-on-your-mac/"><u>[New] Explore Best Speech Recognition Software on Your Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-troubleshooting-iphone-x-regaining-access-via-facial-id/"><u>[New] In 2024, Troubleshooting iPhone X Regaining Access via Facial ID</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-leading-tv-streaming-providers/"><u>[New] In-Depth Analysis Leading TV Streaming Providers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-mobile-downloader-the-ultimate-apps-for-video-buffs/"><u>[Updated] In 2024, Free Mobile Downloader The Ultimate Apps for Video Buffs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-blending-past-and-present-film-aesthetics/"><u>2024 Approved Blending Past and Present Film Aesthetics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funnyfilmmaker-quick-comic-creation-for-2024/"><u>FunnyFilmMaker Quick Comic Creation for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highest-humor-infused-cut-and-paste-for-2024/"><u>Highest Humor-Infused Cut & Paste for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-6s-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 6s</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-record-with-flair-on-windows-10/"><u>In 2024, How to Record with Flair on Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-srt-expertise-essential-insights/"><u>In 2024, Unlocking SRT Expertise Essential Insights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/realtime-av-enthusiasts-community-for-2024/"><u>RealTime AV Enthusiasts Community for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enhanced-visual-content-incorporate-bb-overlays-in-fb-video-frames/"><u>[New] In 2024, Enhanced Visual Content Incorporate BB Overlays in FB Video Frames</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-visual-impact-with-free-digital-lut-resources/"><u>[New] Maximize Visual Impact with FREE Digital LUT Resources</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-2023-apeaksoft-screen-recorder-review/"><u>[New] The 2023 Apeaksoft Screen Recorder Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-professionals-picks-selecting-the-best-software-for-live-streamsvmix-or-wirecast/"><u>[Updated] 2024 Approved Professionals' Picks Selecting the Best Software for Live Streams—VMix or Wirecast?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-meme-designs-in-adobe-tools/"><u>[Updated] Innovate Meme Designs in Adobe Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-set-of-drivers-for-your-hp-spectre-x360-on-windows-download-now/"><u>Complete Set of Drivers for Your HP Spectre X360 on Windows (Download Now)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonious-hushes-softening-sounds-with-garageband-for-2024/"><u>Harmonious Hushes Softening Sounds with Garageband for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exhaustive-overview-insights-into-googles-podcast-application/"><u>In 2024, Exhaustive Overview Insights Into Google's Podcast Application</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/individuality-at-your-fingertips-setting-your-own-tones-for-android-devices-for-2024/"><u>Individuality at Your Fingertips Setting Your Own Tones for Android Devices for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/peut-on-utiliser-lassistant-dadministration-de-taches-windows-pour-dupliquer-des-donnees-vers-un-partage-reseau/"><u>Peut-On Utiliser L'Assistant D'administration De Tâches Windows Pour Dupliquer Des Données Vers Un Partage Réseau ?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-x50-gt-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor X50 GT IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secret-score-your-free-macbook-air-m3-at-best-buy-with-these-simple-steps-insider-tips/"><u>Unlock the Secret: Score Your Free MacBook Air M3 at Best Buy with These Simple Steps! Insider Tips</u></a></li>
 </ul></div>
 

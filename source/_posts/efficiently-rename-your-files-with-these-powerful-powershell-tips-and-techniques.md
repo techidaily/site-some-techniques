@@ -1,7 +1,7 @@
 ---
 title: Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques
-date: 2025-01-26T09:02:49.027Z
-updated: 2025-01-28T23:08:50.676Z
+date: 2025-02-05T16:24:54.655Z
+updated: 2025-02-09T20:19:45.022Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Efficiently Rename Your Files with These Powerful PowerShell Tips and Techniques
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,10 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  PowerShell makes renaming files from the command line super easy. You can use specific names, add increasing numbers, add prefixes and suffixes, and even append timestamps. We’ll show you how to do that all on your Windows 11 or Windows 10 computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Before You Begin: Learn How to Find a File or Folder’s Full Path
 
  To rename files, you’ll have to provide PowerShell with your file or parent folder’s full path. If you know how to do this, skip to the relevant section below. If you aren’t quite sure [how to get a folder or file’s full path](https://fox-links.techidaily.com/updated-2024-approved-unparalleled-screenplay-craftsmanship-across-varied-fields/), we’ll show you.
@@ -32,10 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 [Open a File Explorer window](https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/) and find your file or folder. Press and hold down the Shift key on your keyboard, right-click your file or folder, and choose "Copy as Path."
 
 !['Copy as Path' highlighted in Windows 11's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-copy-file-path-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
 
@@ -56,14 +52,10 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
 
@@ -76,7 +68,11 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -88,6 +84,10 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
  To add text after your file’s name (called a suffix), use the following command, replacing **PATH** with the full path to your folder, and **SUFFIX** with the text to append. Then, press Enter.
 
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Add Timestamps to All Files in a Folder
 
@@ -118,20 +118,22 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-horizontal-vs-vertical-best-for-fb-videos-for-2024/"><u>[New] Horizontal Vs. Vertical Best for FB Videos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flapping-flamenco-finch/"><u>[Updated] Flapping Flamenco Finch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-immersive-editing-unveiling-the-top-15-cine-luts-for-action-cam/"><u>[Updated] Immersive Editing Unveiling the Top 15 Cine LUTs for Action Cam</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-imagination-a-practical-guide-to-professional-gifs/"><u>2024 Approved Harnessing Imagination A Practical Guide to Professional GIFs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hdrs-edge-pushing-video-production-to-new-heights/"><u>2024 Approved HDR's Edge Pushing Video Production to New Heights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ignite-your-workout-spirit-essential-background-music-choices/"><u>2024 Approved Ignite Your Workout Spirit Essential Background Music Choices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-nokia-c22-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia C22 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/generate-laughter-giphys-art-for-2024/"><u>Generate Laughter Giphy's Art for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gratitude-in-mandarin-mastering-xiexie-and-more/"><u>Gratitude in Mandarin: Mastering Xièxiè and More</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-shoot-vertical-panorama-photos-with-your-mobile-phone-for-2024/"><u>How to Shoot Vertical Panorama Photos with Your Mobile Phone for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 7 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-15-plus-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 15 Plus? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-complete-blackout-ultimate-guide-to-fixing-your-windows-11-display-problem/"><u>Resolving the Complete Blackout: Ultimate Guide to Fixing Your Windows 11 Display Problem</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-anticipated-debut-of-mafia-definitive-edition-now-scheduled-to-arrive/"><u>The Anticipated Debut of Mafia: Definitive Edition Now Scheduled to Arrive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-access-to-pinnacle-android-viewer/"><u>[Updated] Exclusive Access to Pinnacle Android Viewer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foremost-spots-for-youtube-video-promotion/"><u>[Updated] Foremost Spots for YouTube Video Promotion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fps-fanatics-compendium-selecting-superior-extensions/"><u>[Updated] FPS Fanatics' Compendium Selecting Superior Extensions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-undead-uprising-your-essential-compilation-of-zombie-gaming/"><u>[Updated] Undead Uprising Your Essential Compilation of Zombie Gaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-wave-goodbye-to-costs-with-our-50-free-banners-offer/"><u>[Updated] Wave Goodbye to Costs with Our 50 Free Banners Offer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-key-tips-for-restoring-fbm-functionality-on-desktop/"><u>10 Key Tips for Restoring FBM Functionality on Desktop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extensive-appraisal-a-look-into-bublcam-360/"><u>2024 Approved Extensive Appraisal A Look Into Bublcam 360</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frozen-frenzy-2022s-ultimate-showdown-on-snowy-olympic-rivers/"><u>2024 Approved Frozen Frenzy 2022'S Ultimate Showdown on Snowy Olympic Rivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/favorite-mobile-gadgets-the-phones-chosen-by-top-zdnet-reviews/"><u>Favorite Mobile Gadgets: The Phones Chosen by Top ZDNet Reviews</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-13-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 13 In Different Conditionsin</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-top-7-video-software-for-apple-devices-for-2024/"><u>Ideal Top 7 Video Software for Apple Devices for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-filmora-at-zero-cost-the-honest-guide/"><u>In 2024, Get Filmora at Zero Cost The Honest Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-groundbreaking-14-animated-text-techniques/"><u>In 2024, Groundbreaking 14 Animated Text Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-free-clip-art-legally/"><u>In 2024, Harnessing Free Clip Art Legally</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-magic-meets-technology-the-future-of-home-studio-production/"><u>In 2024, Magic Meets Technology The Future of Home Studio Production</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-downloading-and-updating-your-step-by-step-guide-to-the-newest-amd-smbus-driver/"><u>Quick Downloading & Updating: Your Step-by-Step Guide to the Newest AMD SMBus Driver</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/silver-screen-streaming-apples-no1-top-8-for-iphones-filmmakers-for-2024/"><u>Silver Screen Streaming Apple's No.1, Top 8 for iPhones Filmmakers for 2024</u></a></li>
 </ul></div>
 

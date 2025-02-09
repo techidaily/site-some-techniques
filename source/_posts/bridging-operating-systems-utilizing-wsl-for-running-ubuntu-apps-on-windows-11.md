@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: Utilizing WSL for Running Ubuntu Apps on Windows 11"
-date: 2025-01-24T07:36:09.823Z
-updated: 2025-01-29T02:14:11.672Z
+date: 2025-02-07T18:49:25.044Z
+updated: 2025-02-09T17:58:36.867Z
 tags:
   - desktop
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Requirements Before You Begin
 
  Before you can start using Ubuntu on your Windows 11 system, a few requirements must be met to ensure a smooth process. During my testing, WSL wouldn't work until I installed the latest WSL2 Kernel package installed on Windows 11\. If you're having issues with WSL running on Windows 11 like I did, install this kernel package. It will ensure that WSL v2 operating systems run correctly. You can download and install the EXE file [directly from Microsoft](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package).
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  Inside the "Windows Features" window, scroll down and locate "Windows Subsystem for Linux." After finding it, click on the empty box next to it to activate this feature. Select "OK" after making your selection.
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
@@ -70,19 +70,15 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
- Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -95,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
@@ -117,7 +113,7 @@ sudo apt upgrade
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
@@ -142,6 +138,10 @@ nohup program_name & disown
 
  Alternatively, applications can be started from the Windows 11 start menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Integration with Windows 11
 
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
@@ -149,7 +149,7 @@ nohup program_name & disown
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
@@ -179,18 +179,22 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unseen-elements-in-instagram-stories-for-the-curious-viewer/"><u>[New] 2024 Approved Unseen Elements in Instagram Stories For the Curious Viewer</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-transcendence-in-music-mixing-crossfade-unveiled/"><u>[New] Transcendence in Music Mixing Crossfade Unveiled</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-abrupt-shifts-to-serene-journeys-expert-crossfade-guidance-with-audacity/"><u>[Updated] From Abrupt Shifts to Serene Journeys Expert Crossfade Guidance with Audacity</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-easywinrecorder-capture-windows-screens-quickly/"><u>[Updated] In 2024, EasyWinRecorder Capture Windows Screens Quickly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-toolwiz-unpacked-expert-review-of-a-photography-powerhouse/"><u>[Updated] Toolwiz Unpacked Expert Review of a Photography Powerhouse</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-extraordinary-assessment-and-alternative-choices/"><u>2024 Approved Extraordinary Assessment & Alternative Choices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-to-audiovisual-transmitters-for-2024/"><u>Comprehensive Guide to Audiovisual Transmitters for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-jaco-smartpro-digital-tire-inflator-evaluation-your-ultimate-guide/"><u>Comprehensive Jaco SmartPro Digital Tire Inflator Evaluation - Your Ultimate Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-grayscale-to-graded-grandeur-color-artistry/"><u>In 2024, From Grayscale to Graded Grandeur Color Artistry</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-switch-windows-11-to-auto-hdr-mode/"><u>In 2024, How to Switch Windows 11 To Auto HDR Mode</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incremental-sound-dampening-strategy/"><u>In 2024, Incremental Sound Dampening Strategy</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-6-free-mov-video-cutters/"><u>New Top 6 Free MOV Video Cutters</u></a></li>
-<li><a href="https://facebook.techidaily.com/public-perception-of-online-communities-more-harm-less-good/"><u>Public Perception of Online Communities: More Harm, Less Good</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-practical-methods-reflecting-video-via-vlc-software/"><u>[New] 2024 Approved Practical Methods Reflecting Video via VLC Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-capturing-excellence-the-premium-seven-selection/"><u>[New] Capturing Excellence The Premium Seven Selection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fable-creators-circle-a-list-eight/"><u>[New] Fable Creators Circle - A-List Eight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-meta-to-omni-a-new-age-digital-odyssey-guide/"><u>[New] From Meta to Omni A New Age Digital Odyssey Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonymix-pro-mac-and-windows-version/"><u>[New] HarmonyMix Pro Mac & Windows Version</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-channel-growth-essential-steps-for-youtube-backlink-creation/"><u>2024 Approved Channel Growth Essential Steps for YouTube Backlink Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-ffmpegs-commitment-to-authentic-audio-formats/"><u>2024 Approved Examining FFmpeg’s Commitment to Authentic Audio Formats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-soundscape-elements-advanced-techniques-for-smooth-transitions-audacity/"><u>2024 Approved Harmonizing Soundscape Elements Advanced Techniques for Smooth Transitions (Audacity)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-techniques-for-enhancing-livestream-quality/"><u>2024 Approved Innovative Techniques for Enhancing Livestream Quality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-navigating-screen-capture-across-pcs-and-mobile-devices/"><u>2024 Approved Navigating Screen Capture Across PCs and Mobile Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-selection-of-budget-friendly-4k-projectors/"><u>2024 Approved Premium Selection of Budget-Friendly 4K Projectors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comic-creators-charter-zero-cost-endless-laughs-for-2024/"><u>Comic Creators' Charter Zero Cost, Endless Laughs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flexible-cam-balancer-toolkit-for-2024/"><u>Flexible Cam Balancer Toolkit for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-master-merging-and-splitting-pdfs-with-the-best-software-solutions-available/"><u>How to Master Merging and Splitting PDFs with the Best Software Solutions Available</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-circling-success-how-to-captivate-your-instagram-audience/"><u>In 2024, Circling Success How to Captivate Your Instagram Audience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fabricate-personalized-viral-memes/"><u>In 2024, Fabricate Personalized Viral Memes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-logo-magic-sprucing-up-your-podcasts-visual-appeal/"><u>In 2024, Logo Magic Sprucing Up Your Podcast's Visual Appeal</u></a></li>
 </ul></div>
 

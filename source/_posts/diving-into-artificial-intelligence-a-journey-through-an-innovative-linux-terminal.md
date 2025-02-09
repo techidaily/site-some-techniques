@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal"
-date: 2025-01-23T07:06:10.510Z
-updated: 2025-01-29T03:02:39.899Z
+date: 2025-02-06T20:27:53.706Z
+updated: 2025-02-09T16:42:43.522Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 ---
 
 ## Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
  As a Linux enthusiast, I'm always looking for new and cool terminal apps. Out of the many apps I've tried in the past, the Warp terminal impressed me to quite an extent. But not all is rosy, you know. So here's my overall experience with Warp as my daily driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is the Warp Terminal?
 
  Warp is a modern AI-powered terminal emulator built with Rust. It's available for both macOS and Linux and is coming soon to Windows. It's currently a closed-source tool and requires an account to use it.
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
  Warp offers tons of customization, AI, productivity, and collaboration features that will fully transform how you use the command line. If you're a developer, system administrator, or an advanced Linux user, Warp is worth giving a shot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Setting Up Warp for the First Time
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 ![Warp terminal home page with download options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/download-the-deb-package-of-warp-terminal.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the download is complete, go to the directory where it was downloaded. For me, it's the "\~/Downloads" directory. Open the directory in your terminal using [the cd command](https://audio-shaping.techidaily.com/updated-decoding-vimeos-video-dimensions-a-complete-perspective-on-aspect-ratios-for-2024/) or by right-clicking on the screen and hitting "Open in Terminal" from the context menu.
@@ -58,6 +58,10 @@ sudo apt install warp-terminal_*.deb
 
 ![The Linux terminal showing the process of installing Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/installing-warp-terminal-on-linux.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After installing, open the application from the app drawer or run this command:
 
 warp-terminal
@@ -67,7 +71,7 @@ warp-terminal
 ![Warp terminal authentication window being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-authentication-window.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you should see a sign-up option. Click the "Sign Up" button.
@@ -78,12 +82,16 @@ warp-terminal
 
 ![Warp terminal sign up page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-sign-up-page-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll be sent an email. Open that email and click the link to sign in successfully. You should also get a prompt to open a link in the Warp terminal. Click the "Open Link" button.
 
 ![A prompt on the browser to open a link in the Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-link-in-the-warp-terminal.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll be returned to the Warp terminal window with a thanks message. Now, Warp will ask a few questions about your terminal usage. You can feel free to skip them by pressing the "Remind me later" option. For your convenience, I'll go through the survey and answer the questions.
@@ -94,14 +102,10 @@ Close
 
 ![Warp Terminal window opened](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-window.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Looks cool to me. But how will it stand as a Linux terminal? Let's find out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It's a Powerful Editor
@@ -148,10 +152,6 @@ Close
 
 ![Warp Terminal workflow about killing a process running on a certain port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-workflow-about-killing-a-process-running-on-a-certain-port.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can add as many arguments as needed. Another great thing I found is that you can search for your workflows by name. Again, no need to remember the syntax or even the command names.
 
  Notebooks are interactive blocks of text created in the Markdown format. Notebooks can contain text, code blocks, lists, shell snippets, and more. Think of it as a mix of [Notion](https://extra-approaches.techidaily.com/updated-prime-focus-the-top-10-high-res-shoulder-rigs/) and Jupyter Notebook. You can export your notebooks in Markdown format and also import existing ones into Warp from your system.
@@ -164,6 +164,10 @@ Close
 
 ![An instance of using split windows in Warp terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-notebooks-feature.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You Can Collaborate in the Terminal
 
  Warp allows you to create teams and add members. To find this option, you need to go to the same menu as Warp Drive. You can give a name to your team.
@@ -171,10 +175,6 @@ Close
 ![Creating a team on the Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/creating-a-team-on-the-warp-terminal.png) 
 
  Once created, you can invite others via email or a custom link. Your team members can access workflows and notebooks you share with the team. On the free plan, you can have up to three members, and share up to three notebooks and 10 workflows. Moreover, you can share sessions, command-line controls, and terminal input-output blocks with members.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  There Are Some Catches
 
@@ -207,24 +207,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-recommended-filmmaking-equipment-roundup/"><u>[New] Expert-Recommended Filmmaking Equipment Roundup</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-top-car-traffic-cameras/"><u>[New] In-Depth Analysis Top Car Traffic Cameras</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-virtual-fantasy-the-essential-samsung-gear-vr-games/"><u>[New] Virtual Fantasy The Essential Samsung Gear VR Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-range-virtual-sphere-review/"><u>[Updated] Full Range Virtual Sphere Review</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-laying-the-foundation-of-zoom-room-use/"><u>[Updated] In 2024, Laying the Foundation of Zoom Room Use</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instant-time-stamping-techniques-for-youtube-videos/"><u>[Updated] Instant Time-Stamping Techniques for YouTube Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-and-open-airwaves-at-home-internet-radio-recordings-explained/"><u>2024 Approved Free and Open Airwaves at Home - Internet Radio Recordings Explained</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-freedom-from-filmage-tiktok-videos-without-stickers/"><u>2024 Approved Freedom From Filmage TikTok Videos Without Stickers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-cameras-for-full-sphere-livestream-experience/"><u>2024 Approved Ideal Cameras for Full Sphere Livestream Experience</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-s23-fe-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy S23 FE Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-productivity-in-distance-collaborations-utilizing-chatgpt-for-remote-team-gatherings/"><u>Boosting Productivity in Distance Collaborations: Utilizing ChatGPT for Remote Team Gatherings</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-gameplay-update-acer-predator-helios-300-graphics-drivers/"><u>Enhance Your Gameplay: Update Acer Predator Helios 300 Graphics Drivers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/guide-to-playing-twitter-on-chromium-browser/"><u>Guide to Playing Twitter on Chromium Browser</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-ae-text-sets-for-professional-work-for-2024/"><u>Ideal AE Text Sets for Professional Work for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-places-for-next-gen-vr-content/"><u>In 2024, Exclusive Places for Next-Gen VR Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-gradual-echo-deactivation-in-audacity/"><u>In 2024, Exploring Gradual Echo Deactivation in Audacity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focus-on-essentials-affinity-method/"><u>In 2024, Focus on Essentials - Affinity Method</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210748895-9782017186700-tarot-et-autres-arts-divinatoires/"><u>Tarot et autres arts divinatoires | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-initiate-your-own-blog-product-analysis-edition/"><u>[New] How to Initiate Your Own Blog Product Analysis Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incremental-sound-diminishment-guidebook/"><u>[New] Incremental Sound Diminishment Guidebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-communication-microsoft-azure-speech-to-text-explained/"><u>[New] Innovating Communication Microsoft Azure Speech to Text Explained</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rreversible-termination-of-youtubes-brevity-mode/"><u>[New] Irreversible Termination of YouTube’s Brevity Mode</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-showdown-xsplits-efficacy-versus-obs/"><u>[Updated] The Ultimate Showdown XSplit's Efficacy Versus OBS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-stills-extraction-in-windows-11-photos/"><u>2024 Approved Mastering Stills Extraction in Windows 11 Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-review-of-wirecast-and-similar-programs/"><u>2024 Approved The Ultimate Review of WireCast & Similar Programs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/amplify-your-shorts-impact-with-bespoke-thumbnails/"><u>Amplify Your Shorts' Impact with Bespoke Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertly-blending-tracks-using-audacity-crossfade-tools-for-2024/"><u>Expertly Blending Tracks Using Audacity Crossfade Tools for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-tecno-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Tecno FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x7-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X7 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-title-generators-for-youtube-visionaries/"><u>In 2024, Innovative Title Generators for YouTube Visionaries</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-your-content-delivery-insights-on-igtv-and-youtube/"><u>In 2024, Mastering Your Content Delivery Insights on IGTV and YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovation-in-action-sonys-s6500-player-redefined-for-2024/"><u>Innovation in Action Sony's S6500 Player Redefined for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Spark 10C | Dr.fone</u></a></li>
 </ul></div>
 

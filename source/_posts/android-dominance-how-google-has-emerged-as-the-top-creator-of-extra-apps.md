@@ -1,7 +1,7 @@
 ---
 title: "Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps"
-date: 2025-01-27T08:09:55.193Z
-updated: 2025-01-28T17:50:46.268Z
+date: 2025-02-04T19:22:43.495Z
+updated: 2025-02-09T19:29:11.895Z
 tags:
   - mobile
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 ---
 
 ## Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google and Android Are Not One and the Same
@@ -42,16 +38,12 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  After Android Became Popular, Google Wanted More Control
 
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -68,6 +60,10 @@ Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  I Don't Want to Give All of My Data to Google
 
  I made efforts to de-Google my life years ago, deleting my Google account entirely. I re-created one years later when an organization I'm involved with wanted to use Google Calendar to manage our schedule. I started to use this same account to log into Google Play for apps, but that's about it.
@@ -77,6 +73,10 @@ Justin Duino / How-To Geek
  It's not that I don't use any Google apps. I find Google Maps useful, especially due to how much information it provides about local businesses. I watch YouTube, since it is the primary way major and independent publishers alike distribute video. But these apps don't provide essential phone functionality in the way that a gallery app and a local video player do. They're the kind of programs many people would immediately seek out on their own in the Play Store. Still, they're preinstalled to drive more people toward Google services and provide the company with more marketable data.
 
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some Preinstalled Apps Are Better Than Google's
 
@@ -93,7 +93,7 @@ Close
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Apps Make Android Phones All Feel the Same
@@ -129,21 +129,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exceptional-appraisal-and-other-choices/"><u>[New] Exceptional Appraisal & Other Choices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-expert-strategies-for-high-quality-gopro-4k-footage-editing-for-2024/"><u>[New] Expert Strategies for High-Quality GoPro 4K Footage Editing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-friendship-enhancing-virtual-worlds-the-top-10-metaverse-games/"><u>[New] Friendship-Enhancing Virtual Worlds The Top 10 Metaverse Games</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-secrets-to-compelling-youtube-live-thumbnails/"><u>[Updated] 2024 Approved Unlocking Secrets to Compelling YouTube Live Thumbnails</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-guide-the-intricate-process-of-media-import-in-w11/"><u>[Updated] Exclusive Guide The Intricate Process of Media Import in W11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-harmonyheed-evaluating-audio-artifacts/"><u>[Updated] In 2024, HarmonyHeed Evaluating Audio Artifacts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-talking-audio-log-audit/"><u>[Updated] Talking Audio Log Audit</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-a-photo-video-with-pixiz/"><u>2024 Approved How to Make a Photo Video with Pixiz?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-choices-apps-that-convert-photos-to-films/"><u>2024 Approved Ideal Choices Apps That Convert Photos to Films</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-netflix-picture-in-picture-how-to-use-the-netflix-floating-window-feature/"><u>2024 Approved Netflix Picture-in-Picture - How to Use the Netflix Floating Window Feature</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/channel-your-inner-narrative-impactful-life-stories-yt/"><u>Channel Your Inner Narrative Impactful Life Stories YT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-list-top-business-vault-for-2024/"><u>Exclusive List Top Business Vault for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fix-for-freezing-photo-booth-videos-that-disrupt-usage-for-2024/"><u>Fix for Freezing Photo Booth Videos That Disrupt Usage for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-evaluating-video-space-on-a-64gb-card/"><u>In 2024, Evaluating Video Space on a 64GB Card</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-individualized-music-for-engaging-video-conclusions/"><u>In 2024, Free, Individualized Music for Engaging Video Conclusions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-m34-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy M34 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-handbook-to-effective-spotify-marketing-for-2024/"><u>[New] The Ultimate Handbook to Effective Spotify Marketing for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-playbook-capturing-ps3-game-highlights/"><u>[New] The Ultimate Playbook Capturing PS3 Game Highlights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gastronomy-in-action-a-guide-to-high-quality-food-videos/"><u>[Updated] Gastronomy in Action A Guide to High-Quality Food Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-displays-of-2024-essential-photo-editing-gear-selection/"><u>[Updated] Ideal Displays of 2024 Essential Photo Editing Gear Selection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iosandroid-leading-photo-writing-app-list/"><u>[Updated] IOS/Android Leading Photo-Writing App List</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-starfield-cpu-drain-expert-fixes-and-insights/"><u>Beat the Starfield CPU Drain - Expert Fixes and Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-video-to-verse-ranking-the-best-16-platforms-for-flawless-translation-for-2024/"><u>From Video to Verse Ranking the Best 16 Platforms for Flawless Translation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/funimate-android-adventure-the-apk-breakdown-for-2024/"><u>Funimate Android Adventure The APK Breakdown for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-maintain-youtube-session-in-the-background-for-2024/"><u>How to Maintain YouTube Session in the Background for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-staking-rituals-player-views/"><u>In 2024, HIGH-STAKING RITUALS Player Views</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-rapid-fire-fb-videos-guide-premium-apps-to-fasten-your-content/"><u>In 2024, Rapid-Fire FB Videos Guide - Premium Apps to Fasten Your Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-academic-success-with-our-top-6-pick-of-homework-apps-for-parents-and-students/"><u>Navigating Academic Success with Our Top 6 Pick of Homework Apps for Parents and Students</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-7-advantages-how-chromebooks-outshine-traditional-laptops-for-everyday-use-insights-by-zdnet/"><u>Top 7 Advantages: How Chromebooks Outshine Traditional Laptops for Everyday Use – Insights by ZDNet</u></a></li>
 </ul></div>
 

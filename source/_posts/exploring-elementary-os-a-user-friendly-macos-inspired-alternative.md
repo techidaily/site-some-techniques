@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative"
-date: 2025-01-28T10:34:20.673Z
-updated: 2025-01-28T20:57:45.626Z
+date: 2025-02-06T19:33:29.136Z
+updated: 2025-02-09T16:25:07.766Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ---
 
 ## Exploring Elementary OS: A User-Friendly, MacOS Inspired Alternative
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  Spend enough time looking at lists of "beginner" Linux distributions, and a name you'll notice frequently is elementary OS. Despite reading many of those lists, I hadn't tried it before, so I decided to spend a month with elementary OS as my daily driver desktop. Here's what I learned about the project and how I felt about my experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is elementary OS?
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  If you're curious about the guts, elementary OS is based on the Ubuntu Linux distribution. All that means for you practically is that most applications, if they can run on Linux at all, will likely work on elementary OS. You can thank Ubuntu's widespread popularity for that, and for the same reason, troubleshooting is relatively easy; if a solution works for someone in Ubuntu, you have a good chance of using it in elementary OS because the distros are mostly the same "under the hood."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Installing elementary OS Is as Easy as It Gets
 
  I installed [elementary OS version 7.1](https://blog.elementary.io/os-7-1-available-now/) (the latest at the time of writing) in two different ways. I first spun it up as a [virtual machine](https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/) using VirtualBox, which was easy enough, though the installer noticed and warned me elementary isn't meant for use as a VM and may not work properly. I didn't do any intense benchmarking with it, but I didn't notice any issues just clicking around in the VM either. Later I installed it directly onto a hard drive, wiping an installation of Ubuntu that I'd made so many tweaks to it was becoming unwieldy.
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![The boot and install options in an elementary OS live boot menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_04_58.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like most Linux distros, you have the option to simply try it in demo mode rather than erase anything on your device. If you like what you see, you can proceed with the installation, or if you run into problems, shut down and regroup.
 
 ##  Settling in Is Elementary
@@ -56,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![A setup wizard with a welcome message in elementary OS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_elementary-os_14_06_2024_21_23_00.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you're done with that, you need to do a system update and reboot. I overlooked that task when I first ran elementary OS, and the web browser didn't work at all until I updated. Speaking of updates, I did note that unlike most of the Linux distros I've used, updating elementary OS with the default profile configuration does not require entering the [root](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) password. You should be updating frequently, and frequently reentering a password can be a pain, so I appreciated that small bit of streamlining.
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  Generally, the experience was far cleaner and more cohesive than most Linux desktops I've used. Navigating the desktop in general was a pleasant experience, without the endless subpages of settings and extravegent context menus some distros come with. I didn't experience unexplained freezes or mysterious blank screens on wake. I was able to connect a second monitor generally hassle-free, which isn't always the case for Linux.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Tinkerers Need Not Apply
@@ -76,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  As a journalist, I also have specific needs (especially in testing and documenting) that aren't quite met by the basic elementary OS installation. Since there's no task tray, I was a bit annoyed by the fact that bringing background-ed apps like Discord and Nextcloud to the foreground usually required finding it in the application launcher again. When I wanted to check how my hardware was performing or scope out what app was consuming my resources, I had to go find a system monitoring app because elementary OS doesn't include one by default.
 
 [KDE Connect](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/) doesn't work with elementary's "Pantheon" desktop, which is somewhat of a deal-breaker for me and my entrenched workflow. I did some research and found there are some workarounds in development, at least. The workaround was going to be fairly involved, and since it was in alpha I couldn't expect to rely on it for work like I normally do. KDE Connect is meant for power users, so not prioritizing its functionality for elementary OS is understandable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use the Operating System That Works for You
 
@@ -102,20 +102,22 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-photography-at-your-fingertips-best-phones-with-image-stabilization/"><u>[New] Expert Photography at Your Fingertips Best Phones with Image Stabilization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-first-flight-experience-the-best-beginner-drones/"><u>[New] First Flight Experience The Best Beginner Drones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/130-mobile-display-transforms-high-end-1000-dell-desktop-a-new-era-of-tech/"><u>$130 Mobile Display Transforms High-End $1,000 Dell Desktop - A New Era of Tech</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-download-unlimited-mcb-visual-elements/"><u>2024 Approved Download Unlimited MCB Visual Elements</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-quickly-stream-spotify-audio-with-integrity/"><u>2024 Approved How to Quickly Stream Spotify Audio with Integrity</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-guide-to-designing-powerful-youtube-logos/"><u>2024 Approved The Ultimate Guide to Designing Powerful YouTube Logos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/buy-airpods-pro-2-now-at-a-special-price-of-24-off-plus-they-can-double-as-hearing-aids-discover-more-inside-the-latest-deal/"><u>Buy AirPods Pro 2 Now at a Special Price of 24% Off – Plus, They Can Double as Hearing Aids! Discover More Inside the Latest Deal</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/financial-free-editing-the-ultimate-guide-to-fcp-for-2024/"><u>Financial-Free Editing The Ultimate Guide to FCP for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-vs-yi-updated-battle-for-ultimate-action-recording-for-2024/"><u>GoPro Vs. YI Updated Battle for Ultimate Action Recording for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-creating-fading-music-transitions-in-premiere-for-2024/"><u>Guide to Creating Fading Music Transitions in Premiere for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-m34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy M34 5G Phones with/without a PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-music-in-premiere-pro/"><u>In 2024, How To Add Music In Premiere Pro?</u></a></li>
-<li><a href="https://win-bits.techidaily.com/maximize-cpu-efficiency-in-windows-with-proven-strategies-by-yl-software-experts/"><u>Maximize CPU Efficiency in Windows with Proven Strategies by YL Software Experts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/stepwise-guide-to-mastering-zoom-on-modern-windows-11-for-2024/"><u>Stepwise Guide to Mastering Zoom on Modern Windows 11 for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ext-level-of-collaboration-youtubes-elite-meetups/"><u>The Next Level of Collaboration Youtube's Elite Meetups</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highlighted-14-examples-of-motion-texts/"><u>[New] Highlighted 14 Examples of Motion Texts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-art-of-designing-smaller-images-thumbnails-explained/"><u>[Updated] 2024 Approved The Art of Designing Smaller Images Thumbnails Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-investigation-vll-on-app-standards/"><u>[Updated] Innovative Investigation VLL on App Standards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-interaction-integrating-watch-with-macos/"><u>2024 Approved Innovative Interaction Integrating Watch with MacOS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-art-of-advertising-a-guide-to-profit-making-on-vimeo/"><u>2024 Approved The Art of Advertising A Guide to Profit-Making on Vimeo</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-buddy-list-in-the-virtual-realm-games-for-2024/"><u>Best Buddy List in the Virtual Realm Games for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-recommendations-for-downloading-snapchat-tunes-for-2024/"><u>Expert Recommendations for Downloading Snapchat Tunes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-ipad-users-easily-convert-photos-to-pdf-for-2024/"><u>Expert Tips for iPad Users Easily Convert Photos to PDF for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/imovie-soundscapes-enrich-your-visual-symphony-for-2024/"><u>IMovie Soundscapes Enrich Your Visual Symphony for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-field-photography-frenzy-samsung-vs-lg-cameras-collide/"><u>In 2024, Field Photography Frenzy Samsung VS LG Cameras Collide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-holistic-motion-comprehensiveness-review/"><u>In 2024, Holistic Motion Comprehensiveness Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y200-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y200 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A05</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/make-unforgettable-videos-top-10-iphone-and-ipad-collage-apps-2023-for-2024/"><u>Make Unforgettable Videos Top 10 iPhone and iPad Collage Apps 2023 for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-a-funny-meme-on-macbook/"><u>New How to Make a Funny Meme on MacBook</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-play-40c-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor Play 40C Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-hr-processes-with-these-5-creative-ai-prompt-solutions/"><u>Transform Your HR Processes with These 5 Creative AI Prompt Solutions</u></a></li>
 </ul></div>
 

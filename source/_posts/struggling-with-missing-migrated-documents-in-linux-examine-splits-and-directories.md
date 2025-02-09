@@ -1,7 +1,7 @@
 ---
 title: Struggling with Missing Migrated Documents in Linux? Examine Splits and Directories!
-date: 2025-01-24T01:58:16.218Z
-updated: 2025-01-28T17:17:21.417Z
+date: 2025-02-08T18:28:41.560Z
+updated: 2025-02-09T19:38:29.057Z
 tags:
   - desktop
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Typically, mv is one of the first Linux commands you learn. But one little slip, and things can get surprisingly confusing for the user. Sometimes it looks like moved files have simply vanished.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How This Particular Problem Foxes People
@@ -30,10 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  They try to move a file into a directory, and it seems to work. They don’t get a confirmation message, but neither do they get an error message. Linux often takes the no news is good news approach. If you don’t get an error message, it must have worked.
 
  Or did it? When they cd into the target directory, the file isn’t there. And of course, because mv moves the file from the original directory, it’s not there either. It’s starting to look like the file has been lost in the ether. This is usually the point where the frustrated user reaches out for help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Part Slash Plays in the mv Command
 
@@ -49,10 +45,6 @@ ls ~/Downloads/src
     
 ![Moving a file with the mv command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That’s nice and simple, and everything works as expected. If we look into our target directory, we find the moved file, and we get on with the rest of our work.
 
 ![A moved file in its new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-4.png) 
@@ -64,7 +56,7 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu
 ![Trying to use the mv command with a typo in the final directory name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  They’ve made a typo with the target directory name, but mv exits silently back to the command prompt. On the face of it, it looks like the file move worked.
@@ -86,7 +78,7 @@ ls -l ~/Documents
 ![The location of the missing and misspelled file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To fix this, you can move your file to where it should have gone, and specify its proper name on the command line.
@@ -97,11 +89,19 @@ ls ~/Documents/backup
     
 ![Moving and renaming the misspelled file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The confusion and the hunt for the missing, badly-named file could have been avoided by adding a trailing slash to the target directory on the command line. That way, if you make a typo, Bash reports an error.
 
 mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 ![The trailing slash on the mv command line flags errors with the final directory name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The trailing slash explicitly tells Bash that this is a directory name, not a filename. Because Bash can’t find the misspelled directory, it reports the error to you and doesn’t move anything.
 
@@ -130,17 +130,24 @@ mv ~/Downloads/src/important-file.dat ~/Documents/backpu/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-optimize-microphone-use-on-windows-11-for-best-results/"><u>[New] How to Optimize Microphone Use on Windows 11 for Best Results</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-snug-scenes-for-snowy-screens-a-focused-list/"><u>[Updated] 2024 Approved Snug Scenes for Snowy Screens A Focused List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-right-sound-for-movie-previews/"><u>2024 Approved Finding the Right Sound for Movie Previews</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/3-pillars-of-powerful-ad-content-creation-enhancing-conversion-rates-via-facebook-for-2024/"><u>3 Pillars of Powerful Ad Content Creation Enhancing Conversion Rates via Facebook for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/boosting-customer-engagement-with-targeted-tiktok-campaigns-for-2024/"><u>Boosting Customer Engagement with Targeted TikTok Campaigns for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/constructing-custom-conversations-gpt-edition/"><u>Constructing Custom Conversations: GPT Edition</u></a></li>
-<li><a href="https://win-tips.techidaily.com/discover-how-to-determine-which-windows-defender-version-youre-using-with-yl-software-guidance/"><u>Discover How to Determine Which Windows Defender Version You're Using with YL Software Guidance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filmoras-peer-level-alternatives-the-top-10-background-changers-for-2024/"><u>Filmora's Peer-Level Alternatives The Top 10 Background Changers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/huge-labor-day-discount-save-700-on-the-latest-2022-ipad-pro-tech-news/"><u>Huge Labor Day Discount: Save $700 on the Latest 2022 iPad Pro | Tech News</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-zoom-in-google-meet/"><u>In 2024, How to Zoom In Google Meet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-look-at-worlds-best-live-streaming-sites-for-2024/"><u>In-Depth Look at World's Best Live Streaming Sites for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y78t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-garageband-strategies-for-perfect-podcast-editing/"><u>[New] GarageBand Strategies for Perfect Podcast Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-complete-guide-timer-addition-to-video-broadcast-platforms/"><u>[New] In 2024, Complete Guide Timer Addition to Video Broadcast Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-prime-win11-videography-software-for-editors/"><u>[New] Prime Win11 Videography Software for Editors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-complete-checklist-for-youtube-video-resolution-and-size/"><u>[New] The Complete Checklist for YouTube Video Resolution and Size</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-giggle-guild-creepy-cybernetic-comedians/"><u>[Updated] Giggle Guild Creepy Cybernetic Comedians</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-harmony-in-frames-selecting-music-for-social-media-videos/"><u>[Updated] Harmony in Frames Selecting Music for Social Media Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-hololens-by-microsoft-a-3d-dream-come-true/"><u>2024 Approved Exploring HoloLens by Microsoft A 3D Dream Come True</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-imagination-to-illustration-ranking-the-best-8-iphone-drawing-software/"><u>2024 Approved From Imagination to Illustration Ranking the Best 8 iPhone Drawing Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elevate-visual-content-with-free-animation-text-for-2024/"><u>Elevate Visual Content with FREE Animation Text for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-top-picks-for-high-resolution-4k-panels-for-2024/"><u>Explore Top Picks for High-Resolution 4K Panels for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frugal-flight-experts-choice-under-500-drone-guide-for-2024/"><u>Frugal Flight Experts' Choice Under $500 Drone Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-change-netflix-playback-speed-in-2024/"><u>How to Change Netflix Playback Speed, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-platforms-creating-movies-from-photo-galleries-for-2024/"><u>Ideal Platforms Creating Movies From Photo Galleries for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-xr21-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia XR21 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-best-free-after-effects-resources/"><u>In 2024, Explore the Best FREE After Effects Resources</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-video-editing-mastery-how-to-add-professional-looking-effects-fast/"><u>Updated 2024 Approved Video Editing Mastery How to Add Professional-Looking Effects Fast</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/virtual-worlds-real-learning/"><u>Virtual Worlds, Real Learning</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-next-for-google-pixel-projecting-cost-launch-dates-and-new-hardware-specs-in-focus/"><u>What's Next for Google Pixel: Projecting Cost, Launch Dates & New Hardware Specs in Focus</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-13t-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 13T Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

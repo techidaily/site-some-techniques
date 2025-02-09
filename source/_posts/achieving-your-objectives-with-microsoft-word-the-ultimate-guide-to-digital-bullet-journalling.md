@@ -1,7 +1,7 @@
 ---
 title: "Achieving Your Objectives with Microsoft Word: The Ultimate Guide to Digital Bullet Journalling"
-date: 2025-01-24T04:53:51.434Z
-updated: 2025-01-29T03:34:02.090Z
+date: 2025-02-08T17:16:35.019Z
+updated: 2025-02-09T16:05:49.620Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 ---
 
 ## Achieving Your Objectives with Microsoft Word: The Ultimate Guide to Digital Bullet Journalling
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,16 +33,16 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 
 ![A typical physical bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/back_to_the_basics_1600x.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bulletjournal.com
 
  Most people use a physical notebook and pen to keep their bullet journal. It’s not your only option though. You can also create and keep a digital bullet journal in Microsoft Word. There are two reasons why Word works as a bullet journal:
 
 1. Unlike other preset planners, you’re supposed to add a new page every day for the daily log. Even if you miss a day, there are no gaps in a bullet journal. The next blank space on the page is always where the next entry goes. So you can always just add a new page on your Word document to continue journaling. No friction or hopping around pages whatsoever.
 2. Secondly, a physical bullet journal will eventually run out of space. You can technically keep the Word bullet journal forever.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Create a Bullet Journal in Microsoft Word
 
@@ -55,10 +59,6 @@ Bulletjournal.com
 
 * Microsoft Word.
 * Dot pattern image file (optional).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Create the Spread
 
@@ -82,15 +82,15 @@ Close
 
 ![Creating the index page in a bullet journal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-202543.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Create the Future Log
 
  The future log is where you make long-term plans. Tasks, events, or notes that’ll be relevant in the next six months show up here. The future log doesn’t have to start from January. It should start from your current month. [Create a table](https://fox-http.techidaily.com/in-2024-unlocking-your-iphones-audio-library-with-top-podcast-strategies/) for the future log using the "Table" button in the "Insert" tab.
 
 Close 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Create the Monthly Log
 
@@ -99,7 +99,7 @@ Close
 ![ksnip_20240801-203144](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203144.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Create the Daily Log
@@ -108,15 +108,15 @@ Close
 
 ![ksnip_20240801-203451](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240801-203451.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Finally, it's always a good idea to back up your important documents to the cloud. Microsoft Word supports easy and seamless [file saving via OneDrive](https://facebook-video-content.techidaily.com/new-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/).
 
 ##  How to Use the Bullet Journal
 
  Every bullet journal has a daily log. It’s a space where you can quickly capture any ideas, notes, reminders, and tasks one after another. There are no premade layouts, no boxes, or dotted lines. Cross items that are done or cancel them. At the end of the day, review your daily log and “migrate” leftover tasks. It keeps you mindful of what truly needs your attention and your tasks from slipping through the cracks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  It's Much More Than a Simple To-Do List
 
@@ -138,7 +138,7 @@ Close
 * Keeps you mindful of what you’re carrying on to the next day or any future date. Actually, typing the tasks manually every day allows you to regularly reassess their priority.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Use the Right Symbols
@@ -168,24 +168,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/roject-management-fees-for-2024/"><u>[New] Project Management Fees for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-swift-video-voyage-navigating-through-the-youtubes-and-tiktok-landscapes-for-2024/"><u>[New] The Swift Video Voyage Navigating Through the YouTubes and TikTok Landscapes for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unraveling-periscopes-mystique-is-it-free-and-how-to-signup-for-2024/"><u>[New] Unraveling Periscope's Mystique Is It Free and How to Signup for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-full-kinetic-assessment-2023/"><u>[Updated] 2024 Approved Full Kinetic Assessment 2023</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-how-to-make-gmail-meetings-work-zipping-up-zoom-integrations/"><u>[Updated] How to Make Gmail Meetings Work Zipping Up Zoom Integrations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ignite-your-brands-success-with-a-10-step-blueprint-for-smm-dominance/"><u>[Updated] Ignite Your Brand's Success with a 10-Step Blueprint for SMM Dominance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-freeloading-without-breaking-your-budget-on-aes/"><u>2024 Approved Freeloading Without Breaking Your Budget on AEs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-tracks-understanding-crossfades/"><u>2024 Approved Harmonizing Tracks Understanding Crossfades</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-amass-a-picture-collection-for-free-the-ultimate-12-website-guide/"><u>2024 Approved How to Amass a Picture Collection for Free – The Ultimate 12 Website Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-get-free-picture-frame-videos/"><u>2024 Approved How to Get Free Picture Frame Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-infuse-prayerful-melodies-on-your-phone/"><u>2024 Approved How to Infuse Prayerful Melodies on Your Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-initiate-integrate-and-interact-the-basics-of-zoom-for-android/"><u>2024 Approved Initiate, Integrate, and Interact The Basics of Zoom for Android</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/easy-steps-to-restore-lost-unsaved-excel-files-in-2016-with-ifind-data-recovery/"><u>Easy Steps to Restore Lost Unsaved Excel Files in 2016 with IFind Data Recovery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-hololens-by-microsoft-a-3d-dream-come-true-for-2024/"><u>Exploring HoloLens by Microsoft A 3D Dream Come True for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-update-for-your-hp-deskjet-ink-advantage-3050a-driver-on-windows-download-now/"><u>Free Update for Your HP Deskjet Ink Advantage 3050A Driver on Windows: Download Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ghostly-glimpses-innovation-highlights-for-2024/"><u>Ghostly Glimpses Innovation Highlights for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mastering-podcast-descriptions-insights-with-examples/"><u>Mastering Podcast Descriptions Insights with Examples</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fashion-memes-for-social-sharing-via-adobe/"><u>[New] Fashion Memes for Social Sharing via Adobe</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-8-step-formula-for-captivating-your-instagram-audience-with-reels/"><u>[New] In 2024, The 8-Step Formula for Captivating Your Instagram Audience with Reels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-metaverse-wisdom-a-compilation-of-inspiring-thoughts-for-2024/"><u>[New] Metaverse Wisdom A Compilation of Inspiring Thoughts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-financial-freedom-from-viewing-videos-effective-monetization-tactics-for-fb/"><u>[Updated] Financial Freedom From Viewing Videos Effective Monetization Tactics for FB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gps-drones-the-ultimate-follower-guide-compilation/"><u>[Updated] GPS Drones The Ultimate Follower Guide Compilation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-photo-and-video-shows-from-x-to-ios14/"><u>2024 Approved Ideal Photo & Video Shows From X to IOS14</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-indoor-brightness-boosted-by-external-radiance/"><u>2024 Approved Indoor Brightness Boosted by External Radiance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aurora-hdr-reviews-is-aurora-hdr-a-good-choice-for-2024/"><u>Aurora HDR Reviews Is Aurora HDR a Good Choice for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-decision-making-with-microsofts-ai-hub/"><u>Efficient Decision-Making with Microsoft's AI Hub</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fine-tuning-your-fly-top-tips-for-choosing-drone-propellers/"><u>Fine-Tuning Your Fly Top Tips for Choosing Drone Propellers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/go-live-on-youtube-from-a-phone-no-need-for-huge-fans-yet-for-2024/"><u>Go Live on YouTube From a Phone, No Need for Huge Fans Yet for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-pop-8-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Pop 8 without App | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-debuts-next-gen-surface-pro-10-and-laptop-nv6-explore-the-enhanced-ai-capabilities-insights-for-tech-aficionados/"><u>Microsoft Debuts Next-Gen Surface Pro 10 & Laptop Nv6: Explore the Enhanced AI Capabilities - Insights for Tech Aficionados</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
-date: 2025-01-22T09:44:52.916Z
-updated: 2025-01-29T09:59:14.545Z
+date: 2025-02-06T16:28:17.281Z
+updated: 2025-02-09T19:33:20.866Z
 tags:
   - mobile
 categories:
@@ -11,20 +11,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Enhancing Google's Core Functionality Over Emphasizing Artificial Intelligence
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Google Goes All In on Generative AI](https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-spark-10c-drfone-by-drfone-virtual-android/)
 * [Google Is Still Seeing What Sticks](https://win-answers.techidaily.com/resolve-path-of-exile-lag-issues-a-step-by-step-guide/)
 * [Consumers Need a Focus on Data Security More Than Gimmicks](https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-c33-2023-drfone-by-drfone-virtual-android/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ![Gemini Live running on a Google Pixel 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gemini-live-running-on-a-google-pixel-9.jpg)  
 Justin Duino / How-To Geek  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Google introduced new AI features but focused more on hype than substance and practicality.
 * Gemini is Google's new generative model taking over as the default assistant on Android phones.
@@ -36,6 +40,10 @@ Justin Duino / How-To Geek
 
 ![Rick Osterloh on stage at MBG 24 discussing Gemini AI](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rick-ohsterloh.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Google
 
  “It's a complete end-to-end experience that only Google can deliver,” Rick Osterloh, Senior Vice President, Platforms & Devices at Google, told the assembled crowd. “For years, we've been pursuing our vision of a mobile AI assistant that you can work with as you work with a real-life personal assistant, but we've been limited by the bounds of what existing technologies could do.”
@@ -43,7 +51,7 @@ Google
  In order to exceed those limits, “we've completely rebuilt the entire system experience around our Gemini models,” he continued. “The new Gemini system can go beyond understanding your words to understanding your intent and communicate more naturally.”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Goes All In on Generative AI
@@ -64,10 +72,6 @@ Justin Duino / How-To Geek
 
 ![The on-stage Add Me demo at MBG 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/add-me.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Google
 
  You could also just ask a passerby to snap a quick photo of you as people have been doing since the advent of cameras or use one of those new-fangled “tripods” that holds your camera at the appropriate height and orientation and can remotely click the shutter. At the same time, you stand with the rest of your group. Given how resource-intensive just [running basic queries using AI is compared to conventional searches](https://www.brusselstimes.com/1042696/chatgpt-consumes-25-times-more-energy-than-google), I don’t understand how Google can justify developing a feature that solves what problem exactly—interacting with other people in public? Carrying a selfie stick? It's an interesting feature idea, to be sure, and a good showcase of AI's image manipulation powers, but I find it difficult to believe that "getting everybody into the group shot" is a pressing, real-world issue among many of Google's users.
@@ -80,16 +84,12 @@ Google
 
 ![Made by Google sign at Google I/O](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52887793038_f152af5f6d_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  Screenshots bears more than a passing resemblance to the defunct [Microsoft Recall feature](https://learn.microsoft.com/en-us/windows/ai/apis/recall) that was recently [shut down amid personal data privacy outcries](https://venturebeat.com/ai/microsofts-recall-feature-will-now-be-opt-in-and-double-encrypted-after-privacy-outcry/) by users—though, unlike Recall, it only ingests images taken directly by the user and can be manually toggled. Call Notes users will have to give Google real-time access to their phone calls in order for the feature to work. This opens up yet another source of your personal data that can (and likely will at some point) be leaked online. It’s not like the AI industry [has a particularly stellar track record](https://www.infosecurity-magazine.com/blogs/accidental-data-exposure-gen-ai/) for [maintaining data security](https://www.spiceworks.com/tech/artificial-intelligence/news/chatgpt-leaks-sensitive-user-data-openai-suspects-hack/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Consumers Need a Focus on Data Security More Than Gimmicks
@@ -113,19 +113,16 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-youtube-calendar-events-beyond-vidcon/"><u>[New] The Ultimate Youtube Calendar Events Beyond VidCon</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-selection-of-top-8-blu-ray-player-models/"><u>[Updated] Excellent Selection of Top 8 Blu-Ray Player Models</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-gain-traction-with-effective-video-descriptions-and-tagging/"><u>[Updated] In 2024, Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-action-camera-review-gopro-vs-yi-4k-fresh-perspectives/"><u>[Updated] In 2024, Ultimate Action Camera Review GoPro Vs. Yi 4K - Fresh Perspectives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-indoor-natural-lighting-tips/"><u>[Updated] Indoor Natural Lighting Tips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-side-by-side-display-logging-for-2024/"><u>[Updated] Side-by-Side Display Logging for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-final-flair-free-and-paid-templates-to-express-thanks/"><u>2024 Approved Final Flair Free & Paid Templates to Express Thanks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/efficient-edits-encapsulating-powerpoint-talks-for-2024/"><u>Efficient Edits Encapsulating PowerPoint Talks for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-lack-of-audio-hardware-detection-in-windows-11-tips-and-solutions/"><u>Fixing Lack of Audio Hardware Detection in Windows 11 - Tips and Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-boring-to-breathtaking-adopt-new-wallpapers-in-win11-for-2024/"><u>From Boring to Breathtaking Adopt New Wallpapers in Win11 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-passport-photography-made-simple-our-top-10-picks-list/"><u>In 2024, Free Passport Photography Made Simple Our Top 10 Picks List</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-reduce-mpeg2-file-size-a-guide-to-using-virtualdub-for-2024/"><u>New Reduce MPEG2 File Size A Guide to Using VirtualDub for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-pova-5-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Pova 5 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-install-applications-on-your-samsung-smart-television/"><u>Steps to Install Applications on Your Samsung Smart Television</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-insights-for-smooth-operation-of-win11/"><u>[New] Expert Insights for Smooth Operation of Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flying-high-with-husqvarna-the-drone-revolution/"><u>[New] Flying High with Husqvarna The Drone Revolution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-make-text-talk-on-screen-without-spending/"><u>[New] How to Make Text Talk on Screen Without Spending</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-transcribe-a-youtube-video-for-free-for-2024/"><u>[New] How to Transcribe a YouTube Video for FREE for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-phased-opening-visuals/"><u>[New] Phased Opening Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-the-right-sound-top-asmrists-advice/"><u>[Updated] Finding the Right Sound Top ASMRists Advice</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-optimizing-video-playback-for-engaged-audiences/"><u>2024 Approved Optimizing Video Playback for Engaged Audiences</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-from-screen-to-speakers-secrets-to-successful-video-sharing/"><u>In 2024, From Screen To Speakers Secrets to Successful Video Sharing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-s17-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo S17 Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Methods to Change GPS Location On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-infinix-hot-40-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Infinix Hot 40 Pro fingerprint</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems"
-date: 2025-01-28T06:59:04.375Z
-updated: 2025-01-29T04:28:27.179Z
+date: 2025-02-02T17:07:48.180Z
+updated: 2025-02-09T19:48:47.854Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf47
 ---
 
 ## Comprehensive Tutorial: Adjusting System Time and Date with Timedatectl in Linux Systems
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -50,10 +54,6 @@ timedatectl status
 
 ![The output from the tidedatectl command using the status operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/1-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Actually, you can drop the status and you'll still get the same output.
 
 timedatectl
@@ -76,15 +76,15 @@ timedatectl list-timezones | wc -l
 
 ![Counting the timedatectl time zones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/3-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's way more than there are [timezones in the world](https://www.timeanddate.com/time/current-number-time-zones.html). If we [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) into `grep` and filter out the entries for "America" and pipe that [into less](https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/), we can scroll through a more manageable list.
 
 timedatectl list-timezones | grep "America/" | less
 
 ![Filtering out American time zones with grep](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/4-4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you review that list you'll see "America" is taken to have its widest possible meaning. The second thing you'll notice is most of the entries aren't actual time zones.
 
@@ -106,10 +106,6 @@ timedatectl
 
  Our time zone has been changed, our local time has altered, and our offset from UTC has increased.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Manually Setting the Time and Date
 
  Although manually setting the time and date is possible, usually you won't need to. Using time synchronization and NTP is the preferred way to keep your computer's time and date accurate. If you try to change your computers' date or time you'll probably get an error, telling you that time synchronization is in use.
@@ -117,6 +113,10 @@ timedatectl
 timedatectl set-time 10:30:00
 
 ![You can't set the time if time synchronization is in force](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/7-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Use this command to turn off the time synchronization service:
 
@@ -132,10 +132,6 @@ timedatectl
 
 ![Manually setting the time and date](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/8-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The date and time have changed. Also, note the computer is using a false UTC time. We're also informed that the system clock is not being synchronized and the NTP service is inactive.
 
  If you have internet access, as soon as you restore the time synchronization service the time is retrieved and all of the details are correctly reset.
@@ -147,11 +143,11 @@ timedatectl
 ![Restarting the NTP service and restoring the correct time values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  RTC: UTC or LTZ?
@@ -169,6 +165,10 @@ timedatectl set-local-rtc 1
 timedatectl
 
 ![Setting the real-time clock to the local time zone, and the warning that accompanies that](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/10-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I think they've made their feelings clear.
 
@@ -199,19 +199,21 @@ timedatectl set-local-rtc 0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-guide-to-photo-transformation-tools/"><u>[New] Expert Guide to Photo Transformation Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-ultraedit-pro-for-video-cutting-2023/"><u>[New] In-Depth Look UltraEdit Pro for Video Cutting 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-srt-conversion-tactics-for-pc-and-mac/"><u>[New] Innovative SRT Conversion Tactics for PC and Mac</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-charting-the-course-to-youtube-livestream-mastery/"><u>[Updated] 2024 Approved Charting the Course to YouTube Livestream Mastery</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-building-an-iphone-photo-collage-tutorial/"><u>[Updated] Building an iPhone Photo Collage Tutorial</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-share-and-record-with-the-best-mac-video-capture-tools/"><u>[Updated] Capture, Share, and Record with the Best Mac Video Capture Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-your-ideal-viewing-experience-with-projection-or-television/"><u>2024 Approved Finding Your Ideal Viewing Experience with Projection or Television</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/capturing-moments-in-gaming-the-ultimate-how-to-for-taking-screenshots-on-xbox-one/"><u>Capturing Moments in Gaming: The Ultimate How-To for Taking Screenshots on Xbox One</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fast-track-fps-the-ultimate-speedy-extension-guide/"><u>Fast-Track FPS The Ultimate Speedy Extension Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/horizon-capture-setup-vr-for-2024/"><u>Horizon Capture Setup VR for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 8 to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ghostly-gag-gallery/"><u>In 2024, Ghostly Gag Gallery</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-challenges-dominance-with-galaxy-fold-a-head-to-head-review-against-the-google-pixel-techradar/"><u>Samsung Challenges Dominance with Galaxy Fold: A Head-to-Head Review Against the Google Pixel | TechRadar</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-green-frameworks-30plus-downloads-that-transform-your-videography-skills/"><u>[New] Green Frameworks 30+ Downloads That Transform Your Videography Skills</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonious-hues-choosing-pixel-rhythms/"><u>[New] Harmonious Hues Choosing Pixel Rhythms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-enhancement-the-top-tactics-for-better-storytelling/"><u>[New] In 2024, Instagram Enhancement The Top Tactics for Better Storytelling</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-master-iphone-and-ipad-best-free-video-editors-guide/"><u>[Updated] 2024 Approved Master iPhone & iPad Best Free Video Editors Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-radial-blur-techniques-in-photoshop/"><u>[Updated] Expert Tips for Radial Blur Techniques in Photoshop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-exploring-top-ios-psp-emulation-tools-for-gamers-for-2024/"><u>[Updated] Exploring Top iOS PSP Emulation Tools for Gamers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-vs-yi-4k-the-ultimate-battle-of-action-cam-innovation-in-23/"><u>[Updated] GoPro Vs. Yi 4K The Ultimate Battle of Action Cam Innovation in '23</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-online-destinations-for-video-promotion/"><u>[Updated] Ideal Online Destinations for Video Promotion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-enhancing-photos-via-online-tools/"><u>2024 Approved Expertise in Enhancing Photos via Online Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/amd-raises-the-bar-with-epyc-chips-outshining-nvidias-arm-based-grace-cpu-in-benchmark-speeds-by-200/"><u>AMD Raises the Bar with EPYC Chips, Outshining Nvidia's Arm-Based Grace CPU in Benchmark Speeds by 200%</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dive-into-the-most-effective-online-tools-your-guide-to-perfect-captions/"><u>Dive Into the Most Effective Online Tools Your Guide to Perfect Captions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-y17s-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo Y17s Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/face-motion-blur-magic-a-step-by-step-picsart-approach-for-2024/"><u>Face Motion Blur Magic A Step-by-Step Picsart Approach for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-infinix-smart-8-hd-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Smart 8 HD in Minutes | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-quick-solutions-for-non-functional-google-hangouts-mic/"><u>Troubleshooting Guide: Quick Solutions for Non-Functional Google Hangouts Mic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-jim-zemlins-insights-the-linux-foundations-expertise-in-open-source-strategies-featured-on-zdnet/"><u>Unveiling Jim Zemlin's Insights: The Linux Foundation's Expertise in Open Source Strategies - Featured on ZDNet</u></a></li>
 </ul></div>
 

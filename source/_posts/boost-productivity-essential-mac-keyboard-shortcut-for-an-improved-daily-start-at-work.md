@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2025-01-23T10:42:27.505Z
-updated: 2025-01-29T08:19:20.305Z
+date: 2025-02-04T19:34:47.620Z
+updated: 2025-02-09T19:43:22.179Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ## Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,19 +90,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-pilot-to-producer-editing-mastery-in-drone-filmmaking/"><u>[New] From Pilot to Producer Editing Mastery in Drone Filmmaking</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-podcast-upload-on-itunes/"><u>[New] In 2024, Mastering Podcast Upload on iTunes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-edge-photography-the-best-4k-mirrorless-cameras/"><u>[New] Leading Edge Photography The Best 4K Mirrorless Cameras</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-of-best-metaverse-visual-tech/"><u>[New] The Ultimate List of Best Metaverse Visual Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-depth-perception-iphone-xs-advantage/"><u>[Updated] Harnessing the Power of Depth Perception IPhone X's Advantage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-take-long-exposure-shots-with-iphone-in-ios-11-or-previous/"><u>[Updated] How to Take Long Exposure Shots with iPhone in iOS 11 or Previous</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-superior-budget-friendly-cam-viewer/"><u>[Updated] In 2024, Superior Budget-Friendly Cam Viewer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-infuse-kinetic-smear-into-photos-in-photoshop/"><u>[Updated] Infuse Kinetic Smear Into Photos in Photoshop</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ver-why-av1-is-a-game-changer-for-youtube-viewers-for-2024/"><u>Discover Why AV1 Is a Game Changer for YouTube Viewers for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-zdnets-ultimate-list-of-greatest-hp-pc-offers-for-holidays-discover-your-perfect-match/"><u>Explore ZDNet's Ultimate List of Greatest HP PC Offers for Holidays: Discover Your Perfect Match!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gastronomic-glamour-top-7-ingredients-for-stunning-cooking-videos/"><u>In 2024, Gastronomic Glamour Top 7 Ingredients for Stunning Cooking Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/screenshot-expert-evaluator/"><u>ScreenShot Expert Evaluator</u></a></li>
-<li><a href="https://games-able.techidaily.com/supers-clash-rtx-4070-super-versus-titan-and-4080-super-edition/"><u>Supers Clash: RTX 4070 Super Versus Titan and 4080 Super Edition</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-13-mini-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 13 mini has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-engagement-top-hashtags-for-gameplay-vids/"><u>[New] 2024 Approved Elevate Engagement Top Hashtags for Gameplay Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-gameplay-a-sims-4-tutorial/"><u>[New] Capturing Gameplay A Sims 4 Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-picks-15-innovative-mounts-to-elevate-your-gopro/"><u>[New] Expert Picks 15 Innovative Mounts to Elevate Your GoPro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-future-frames-the-years-top-cinematographic-innovations-2024/"><u>[New] Future Frames The Year's Top Cinematographic Innovations - 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-independent-filming-freedoms-agreement/"><u>[New] Independent Filming Freedoms Agreement</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-revolutionizing-your-webinar-recordings-a-blueprint-for-2024/"><u>[New] Revolutionizing Your Webinar Recordings A Blueprint for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-muddled-to-clear-mastering-photo-bg-removal/"><u>[Updated] From Muddled to Clear Mastering Photo Bg Removal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-guffaw-generator-pictorial-editor/"><u>[Updated] Guffaw Generator Pictorial Editor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hubs-for-high-quality-vr-watching/"><u>[Updated] Hubs for High-Quality VR Watching</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-seamless-wireless-media-casting-how-to-enable-airplay-like-features-on-your-windows-pc/"><u>1. Seamless Wireless Media Casting: How to Enable AirPlay-Like Features on Your Windows PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/belly-laughs-ledger-no-fee-funny-templates/"><u>Belly Laughs Ledger No-Fee Funny Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-to-know-the-pros-of-engaging-with-asmr/"><u>In 2024, Get to Know the Pros of Engaging with ASMR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-distortion-effects-in-photoshop/"><u>In 2024, How to Create Distortion Effects in Photoshop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-securing-your-snapshots-premium-and-budget-friendly-cloud-options/"><u>In 2024, Securing Your Snapshots Premium and Budget-Friendly Cloud Options</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-playbook-youtube-gaming-success/"><u>The Ultimate Playbook YouTube Gaming Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/top-iphones-and-android-premium-coverage-for-your-ig-highlights/"><u>Top iPhones & Android Premium Coverage for Your IG Highlights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-now-the-latest-version-of-brother-scanning-software-for-windows-computers/"><u>Update Now: The Latest Version of Brother Scanning Software for Windows Computers</u></a></li>
 </ul></div>
 

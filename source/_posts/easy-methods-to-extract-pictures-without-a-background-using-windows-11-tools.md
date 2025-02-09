@@ -1,7 +1,7 @@
 ---
 title: Easy Methods to Extract Pictures Without a Background Using Windows 11 Tools
-date: 2025-01-23T16:14:35.392Z
-updated: 2025-01-29T08:01:11.478Z
+date: 2025-02-06T16:17:16.803Z
+updated: 2025-02-09T18:42:20.138Z
 tags:
   - desktop
 categories:
@@ -16,10 +16,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Remove the Entire Background of an Image](https://screen-video-capture.techidaily.com/efficient-tactics-for-recording-vimeo-media/)
 * [Remove Background From the Selected Area of an Image](https://apple-account.techidaily.com/apple-id-unlock-on-iphone-12-how-to-fix-it-by-drfone-ios/)
 * [Replace an Image's Background With a Solid Color](https://youtube-data.techidaily.com/024-approved-profit-pinnacle-peak-your-income-by-monetizing-youtube-mobile-content/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,16 +37,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open With > Paint highlighted in an image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-open-photo-with-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When Paint opens, in the "Image" section at the top, click Remove Background (the icon of multiple lines and a person).
 
 !['Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-background-paint.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Paint to delete the background. When that’s done, you’ll see the edited image.
@@ -61,7 +53,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-save-photo-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And that’s it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Remove Background From the Selected Area of an Image
 
@@ -80,16 +80,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![An image area selection and 'Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-select-image-area-paint.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait while Paint deletes the background from the specified image area. Then, save your image by navigating to File > Save or pressing Ctrl+S.
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-save-edited-image-paint.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Replace an Image's Background With a Solid Color
 
@@ -104,7 +100,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Edit Image' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-edit-image-photos.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the following screen, from the options at the top, select the icon of a person with lines behind them. This is the background removal and replacement tool.
@@ -120,7 +116,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The color palette highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-choose-color-photos.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you make your color selection, you’ll find Photos showing you a demo of the end result. If you’re happy with it, at the bottom of the right pane, click "Apply." To reset your preferences, choose "Reset Background."
@@ -133,11 +129,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Image save options highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-save-edited-image-photos.jpg) 
 
- And Photos will perform your chosen action.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ And Photos will perform your chosen action.
 
 ###  What if You Don't Find the "Replace" Option in Photos
 
@@ -152,6 +148,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you see "Open" instead of "Update," your app version is already updated.
 
 !['Open' highlighted for Microsoft Photos in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17-update-photos-microsoft-store.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch Photos and you’ll find the option to replace your images’ backgrounds.
 
@@ -172,16 +172,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unveiling-youtubes-cc-policy-for-aspiring-creators/"><u>[New] In 2024, Unveiling YouTube's CC Policy for Aspiring Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-premier-free-overlay-tools-to-elevate-images/"><u>[Updated] Explore the Premier Free Overlay Tools to Elevate Images</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-decoding-your-path-to-prominence-on-youtube/"><u>[Updated] In 2024, Decoding Your Path to Prominence on YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-redefining-collaboration-the-power-of-immersive-vr-for-2024/"><u>[Updated] Redefining Collaboration The Power of Immersive VR for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-lineup-of-photo-backdrop-alternatives/"><u>2024 Approved Exclusive Lineup of Photo Backdrop Alternatives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-graceful-gallops-on-frozen-ground/"><u>2024 Approved Graceful Gallops on Frozen Ground</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-azure-transcript-services/"><u>2024 Approved Harnessing the Power of Azure Transcript Services</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-skyline-your-videos-reach-writing-captivating-youtube-descs-using-templates/"><u>2024 Approved Skyline Your Video's Reach Writing Captivating Youtube Descs Using Templates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-multitasking-media-expertise-in-using-picture-in-picture-for-2024/"><u>Navigating Multitasking Media Expertise in Using Picture-in-Picture for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/resolviendo-problemas-como-ver-videos-mp4-en-versiones-mas-recientes-de-windows/"><u>Resolviendo Problemas: Cómo Ver Videos MP4 en Versiones Más Recientes De Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-astro-a50-headphones-sound-problem-expert-advice-on-fixing-the-mic/"><u>Solving Your Astro A50 Headphones Sound Problem – Expert Advice on Fixing the Mic</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-diy-tips-for-instant-custom-youtube-shorts-coverage/"><u>[New] DIY Tips for Instant Custom YouTube Shorts Coverage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-flying-brain-games-top-11-knowledge-channels/"><u>[New] High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-track-your-favorites-on-netflix-with-playback-speeds/"><u>[Updated] Fast-Track Your Favorites on Netflix with Playback Speeds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-discovering-androids-premier-mobas-ranked/"><u>[Updated] In 2024, Discovering Android's Premier MOBAs Ranked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-hidden-depths-of-canvas-photo-editor-for-2024/"><u>Explore the Hidden Depths of Canva's Photo Editor for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/harnessing-youtubes-power-for-personal-image-amplification-for-2024/"><u>Harnessing YouTube's Power for Personal Image Amplification for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-pick-a-perfect-virtual-reality-device-evaluating-portability-mobile-versus-connected-experience-for-2024/"><u>How to Pick a Perfect Virtual Reality Device Evaluating Portability (Mobile) Versus Connected Experience for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-many-movies-fit-in-128gb-memory/"><u>In 2024, How Many Movies Fit in 128GB Memory</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/masterful-methods-for-keeping-track-of-messenger-communications/"><u>Masterful Methods for Keeping Track of Messenger Communications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-excessive-graphics-card-usage-by-desktop-window-manager-in-windows-1011-with-these-5-techniques/"><u>Resolve Excessive Graphics Card Usage by Desktop Window Manager in Windows 10/11 with These 5 Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-art-of-instagram-cultivating-a-robust-following/"><u>The Art of Instagram Cultivating a Robust Following</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-connecting-your-smartphone-with-chromecast-master-the-art-of-casting/"><u>The Ultimate Guide to Connecting Your Smartphone with Chromecast: Master the Art of Casting</u></a></li>
 </ul></div>
 

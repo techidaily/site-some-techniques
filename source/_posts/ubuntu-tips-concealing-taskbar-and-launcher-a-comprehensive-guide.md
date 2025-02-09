@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Tips: Concealing Taskbar & Launcher - A Comprehensive Guide"
-date: 2025-01-27T23:39:24.926Z
-updated: 2025-01-29T03:04:43.147Z
+date: 2025-02-02T17:21:17.734Z
+updated: 2025-02-09T17:09:11.854Z
 tags:
   - desktop
 categories:
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451
 
  Ultimately, the decision to hide the top bar and dock in Ubuntu is a matter of your personal preference and specific needs. You have the option to either hide them permanently or set them to auto-hide, depending on what you like.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Hide the Top Bar in Ubuntu
 
  To hide the top bar in Ubuntu, all you have to do is install the "Hide Top Bar" extension. By default, Ubuntu has no settings to hide the top bar. After installing this extension, you have the choice to either hide the top bar permanently or set it to auto-hide when any open window touches it.
@@ -59,10 +63,6 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![Search option displaying the Hide Top Bar extension and install button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you do not see the "Hide Top Bar" extension, change the search filter from "Popularity" to "Recent."
 
  After installing the extension, you can easily hide the top bar by dragging any window towards it.
@@ -75,31 +75,27 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![All installed extension displayed with the settings icon of the Hide Top Bar extension is highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here you will get different settings related to the top bar, such as sensitivity, animation, and others. You can even assign a keyboard shortcut to hide the top bar. Take a look at the given settings and tweak them as required.
 
 ![The Hide Top Bar extension settings menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With default settings, this extension tucks away the top bar when you drag a window near it. However, you can also permanently hide the top bar with a simple tweak in the settings. To do this, simply navigate to the "Intellihide" tab and disable the first option.
 
 ![The intellihide settings menu of the Hide Top Bar extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now the top bar will remain hidden, independent of the other application window movements.
 
  When you enable the Hide Top Bar extension, a portion of the Ubuntu dock or side panel gets tucked under the Activities overview. Although this may not be a serious issue, you can work around it by adjusting the dock position or turning off "Panel Mode" in appearance settings.
 
 ![Dock overlapping the Top bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Permanently Hide the Dock in Ubuntu
 
@@ -109,16 +105,16 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![All installed extensions displayed with the Ubuntu Dock option turned off](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Ubuntu dock is gone. Now enjoy a distraction-free desktop.
 
 ![The dock or side panel is hidden after dragging an application window towards it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Auto-Hide the Top Bar and Dock in Ubuntu
@@ -126,6 +122,10 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
  By default, the "Hide Top Bar" extension is already set to auto-hide the top bar. You don't need to modify any settings, just install and enable the extension. It will auto-hide the top bar whenever a window approaches it. You can modify these default settings from the "Intellihide" section.
 
 ![Intellihide settings menu with the first option enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To auto-hide the dock, right-click on the desktop and select "Display Settings."
 
@@ -135,11 +135,11 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 ![System Appearance settings with auto hide dock option enabled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/13-3.png) 
 
- That's it, now the dock will auto-hide when you drag a window near it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ That's it, now the dock will auto-hide when you drag a window near it.
 
 ##  Personalize Your Ubuntu Screen
 
@@ -160,24 +160,22 @@ sudo apt install gnome-shell-extensions gnome-shell-extension-manager
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-simple-method-setting-up-snapchat-for-mac-users/"><u>[New] 2024 Approved Simple Method Setting up Snapchat for Mac Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-find-your-favorite-with-these-top-5-iphone-podcast-services/"><u>[New] Find Your Favorite with These Top 5 iPhone Podcast Services</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-download-and-alter-sacred-audio-sounds/"><u>[New] How to Download and Alter Sacred Audio Sounds</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-learn-photoshops-core-techniques-for-shade-adjustment/"><u>[New] In 2024, Learn Photoshop's Core Techniques for Shade Adjustment</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-exquisite-film-series-selection-youtube-edition/"><u>[Updated] 2024 Approved Exquisite Film Series Selection - YouTube Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-virtual-reality-lgs-360-degree-experience/"><u>[Updated] Exploring Virtual Reality LG's 360-Degree Experience</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/hniques-to-retrieve-and-save-youtubes-iconic-images/"><u>3 Techniques to Retrieve & Save YouTube's Iconic Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-custom-gpts-you-can-start-using-right-now/"><u>8 Custom GPTs You Can Start Using Right Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-overlooked-the-creme-de-la-creme-mac-transcribers-for-2024/"><u>Exclusive, Overlooked The Crème De La Crème Mac Transcribers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/grandiose-know-it-all-challenges-online-for-2024/"><u>Grandiose KNOW-It All Challenges Online for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-simple-curvature-alteration-in-pics-for-2024/"><u>Guide to Simple Curvature Alteration in Pics for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/heaviest-airborne-haulers-drone-selection-insights-for-2024/"><u>Heaviest Airborne Haulers Drone Selection Insights for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-maximize-your-view-with-lg-27ud88-w-monitor-for-2024/"><u>How to Maximize Your View with LG 27UD88-W Monitor for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guiding-the-gaze-leading-line-techniques-for-iphones/"><u>In 2024, Guiding the Gaze Leading Line Techniques for iPhones</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-v30-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo V30 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-toms-tech-ultimate-insights-on-computer-hardware/"><u>Inside Tom's Tech: Ultimate Insights on Computer Hardware</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-digital-wallet-a-comprehensive-guide-to-using-apple-pay-online-and-in-store-why-its-worth-your-attention/"><u>Navigating the Digital Wallet: A Comprehensive Guide to Using Apple Pay Online and In-Store - Why It's Worth Your Attention!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/persistent-display-repository-solutions-for-2024/"><u>Persistent Display Repository Solutions for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-when-battlenet-refuses-to-launch-comprehensive-troubleshooting-guide-of-2024/"><u>Resolving the Issue: When Battle.net Refuses to Launch - Comprehensive Troubleshooting Guide of 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-tips-for-obtaining-pristine-photos-without-payment/"><u>[New] 2024 Approved Top Tips for Obtaining Pristine Photos Without Payment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expand-your-creative-toolkit-incorporating-custom-fonts-into-after-effects/"><u>[New] Expand Your Creative Toolkit Incorporating Custom Fonts Into After Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-future-of-interactive-headsets/"><u>[New] Exploring the Future of Interactive Headsets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frame-by-frame-helpdesk/"><u>[New] Frame by Frame Helpdesk</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-locales-for-stream-video-quality/"><u>[New] Iconic Locales for Stream Video Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-icy-immortals-top-athletes-from-the-freeze/"><u>[Updated] Icy Immortals Top Athletes From the Freeze</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-pro-level-motion-capture-cameras-with-satellite-position-tracking-for-2024/"><u>[Updated] Pro-Level Motion Capture Cameras with Satellite Position Tracking for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-trailer-highlight-assortment/"><u>2024 Approved Iconic Trailer Highlight Assortment</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-content-in-the-digital-age-top-strategies/"><u>Capturing Content in the Digital Age Top Strategies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/ceased-non-printer-error-on-hp-laserjet-pro-m637/"><u>Ceased Non-Printer Error on HP LaserJet Pro M637</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-soundscapes-transformed-a-ps4ps5-journey/"><u>In 2024, Game Soundscapes Transformed A PS4/PS5 Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-review-vrs-winning-features-and-faults/"><u>In 2024, In-Depth Review VR's Winning Features & Faults</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-swift-valorant-image-crafting-professionally-done-on-the-fly/"><u>In 2024, Swift Valorant Image Crafting Professionally Done on the Fly</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-15-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 15 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplified-guide-to-connecting-zoom-and-gmail-services/"><u>Simplified Guide to Connecting Zoom and Gmail Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tapping-into-self-awareness-with-gpt-tech/"><u>Tapping Into Self-Awareness with GPT Tech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-publicly-accessible-free-domain-name-system-alternatives/"><u>Unlocking Publicly Accessible, Free Domain Name System Alternatives</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boosting Linux Security on Your Laptop with These 7 Essential Tips
-date: 2025-01-26T09:05:15.630Z
-updated: 2025-01-28T20:31:12.621Z
+date: 2025-02-02T18:46:30.505Z
+updated: 2025-02-09T16:05:37.396Z
 tags:
   - desktop
 categories:
@@ -16,7 +16,7 @@ Chances are that part of the reason you broke away from Microsoft and switched t
  If you’re still looking to make the jump, check out our selection of the [best Linux laptops](https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  Encrypt Your Hard Drive 
@@ -36,7 +36,7 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
  Note that on most distros, full-disk encryption is only possible during setup. While we recommend encrypting the whole hard drive, you can also choose to just [secure partitions or folders](https://article-helps.techidaily.com/updated-personal-exploration-of-3d-printing-in-3dr-for-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Set a System Password 
@@ -44,10 +44,6 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
  In a similar vein, you should also always set a system password, which you enter to unlock the laptop on startup or when unlocking the screen—which we talk about in our next entry. This is a good idea on any device, as it prevents anybody from accessing your data. It’s particularly vital for any portable device as it can prevent unauthorized access should it get lost or stolen.
 
  You’ll be prompted to set a system password during setup, usually right after encrypting your hard drive. Make sure to create a [strong, memorable password](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/) that’s different from the hard disk password. Using the same password twice makes life far too easy for would-be thieves.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3  Set Up Screen Lock 
 
@@ -60,7 +56,7 @@ Jerome Thomas / How-To Geek
  If you’re with coworkers they could try and play a prank and send a message over your Slack account to a coworker, while at university a colleague could try and take a peek at your research. In a coworking space, somebody may try to gain access to confidential information. Locking your screen prevents all these scenarios.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  Install a VPN 
@@ -79,11 +75,19 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
 
  This encryption makes it much harder to track you, meaning anybody that may want to do you harm online will have a tougher time finding you. It also protects your laptop if a network you’re connected to gets hijacked, so you don’t have to worry about your data being stolen in that way. As an added bonus, the [best VPNs](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/) all offer anti-malware capabilities, too, cutting off that attack vector.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5  Set Up a Firewall 
 
  You may also want to consider setting up a software firewall on your system. Firewalls are programs that can regulate the network traffic going in and out of your computer. If malware does make it onto your laptop somehow, a firewall can make it so it can’t phone home while you work to purge it from your system.
 
  Most VPNs have some kind of limited firewall functionality, but you can also opt to use other software. We have a [guide on using firewalld on Linux](https://instagram-video-files.techidaily.com/updated-in-2024-examining-the-usefulness-of-instagrams-selfie-validation/), a free and open source firewall that we have found easy to use and set up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6  Disable Root Login Over SSH 
 
@@ -94,10 +98,6 @@ Hannah Stryker / How-To Geek
  The penultimate piece of advice is a little exotic, but useful. As you probably know, root privileges let you do anything you want on a Linux machine. The problem is that under very specific circumstances anybody accessing the device remotely through an [SSH tunnel](https://extra-approaches.techidaily.com/2024-approved-mastering-viral-potential-in-tiktok-unboxer-videos/) can gain those privileges and thus do whatever they want on your laptop.
 
  If you’re not planning to access your device remotely, you may want to consider [disabling root login over SSH](https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-n55-frp-bypass-with-best-methods-by-drfone-android/) and prevent this from happening. Though the chances are slim, it doesn’t hurt to be a little cautious.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7  Keep Your System Updated 
 
@@ -126,22 +126,19 @@ sudo apt-get update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-enhanced-window-recording-made-simple-with-spring/"><u>[Updated] 2024 Approved Enhanced Window Recording Made Simple with Spring</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-turn-off-default-recommended-podcast-listings-in-spotify/"><u>[Updated] How to Turn Off Default Recommended Podcast Listings in Spotify</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-htc-vive-headset-review/"><u>[Updated] HTC Vive Headset Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-imovie-soundscapes-enrich-your-visual-symphony/"><u>[Updated] IMovie Soundscapes Enrich Your Visual Symphony</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently/"><u>[Updated] Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fading-sounds-gently-a-guide-to-softening-audibility-in-lumafusion/"><u>2024 Approved Fading Sounds Gently A Guide to Softening Audibility in Lumafusion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immerse-in-hd-celestial-wonders-online/"><u>2024 Approved Immerse in HD Celestial Wonders Online</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporating-speech-recognition-into-slides/"><u>2024 Approved Incorporating Speech Recognition Into Slides</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-xiaomi-redmi-12-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Xiaomi Redmi 12.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dealing-with-delayed-or-non-syncing-gmail-step-by-step-solutions/"><u>Dealing With Delayed or Non-Syncing Gmail: Step-by-Step Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-m54-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-microsofts-hololens-a-hologram-horizon/"><u>In 2024, Exploring Microsoft's HoloLens A Hologram Horizon</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-to-download-star-performances-release/"><u>In 2024, Free-to-Download Star Performances Release</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-live-broadcast-toolkit-with-manycam-and-virtual-webcams/"><u>Ultimate Live Broadcast Toolkit with ManyCam and Virtual Webcams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-efficient-screen-capture-on-mac-with-ingenious-shortcuts/"><u>[New] 2024 Approved Efficient Screen Capture on Mac with Ingenious Shortcuts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-decoding-veiled-content-on-youtube/"><u>[Updated] Decoding Veiled Content on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-external-light-for-cozy-interior-spaces/"><u>[Updated] Harnessing External Light for Cozy Interior Spaces</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-edit-hauls-a-comprehensive-video-guide/"><u>[Updated] How to Edit Hauls A Comprehensive Video Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hue-harmonies-crafting-visual-balance/"><u>[Updated] Hue Harmonies Crafting Visual Balance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swift-and-free-eradicate-red-eye-in-iphone-photography-tips/"><u>[Updated] Swift and FREE Eradicate Red-Eye in iPhone Photography Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-programs-for-creating-video-from-pictures/"><u>2024 Approved Ideal Programs for Creating Video From Pictures</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-get-a-youtube-video-trending/"><u>How to Get a YouTube Video Trending</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-complete-tutorial-to-turn-gif-to-stickers-discordwhatsapptelegram/"><u>In 2024, Complete Tutorial to Turn GIF to Stickers [Discord/WhatsApp/Telegram]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-optimal-vr-headset-selection-freedom-or-connection/"><u>In 2024, Guide to Optimal VR Headset Selection Freedom or Connection?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-key-insights-on-market-research-for-effective-business-decisions/"><u>In 2024, Key Insights on Market Research for Effective Business Decisions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/labor-day-blowout-score-the-2nd-gen-apple-pencil-for-just-95-limited-time-deal/"><u>Labor Day Blowout! Score the 2Nd Gen Apple Pencil for Just $95 – Limited Time Deal</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-bluetooth-connectivity-issues-on-windows-11/"><u>Troubleshoot & Resolve Bluetooth Connectivity Issues on Windows 11</u></a></li>
 </ul></div>
 

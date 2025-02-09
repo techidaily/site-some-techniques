@@ -1,7 +1,7 @@
 ---
 title: "Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line"
-date: 2025-01-27T00:15:27.994Z
-updated: 2025-01-29T05:13:56.846Z
+date: 2025-02-05T19:31:04.282Z
+updated: 2025-02-09T19:12:46.614Z
 tags:
   - desktop
 categories:
@@ -11,18 +11,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
 ## Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Lock Your Windows 10 PC Using Command Prompt
@@ -49,10 +41,14 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
@@ -61,6 +57,10 @@ Rundll32.exe user32.dll,LockWorkStation
  To do this, you’ll need to [open Command Prompt as an admin](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Do so by typing “cmd” in the Windows Search bar and then right-clicking “Command Prompt” from the results. Next, select “Run As Administrator” from the menu that appears.
 
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With Command Prompt open, run this command.
 
@@ -73,7 +73,7 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
@@ -101,20 +101,20 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-lut-heaven-the-10-finest-and-accessible-resources/"><u>[New] Free LUT Heaven The 10 Finest and Accessible Resources</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-imagememe-magic-instant-jokes/"><u>[New] ImageMeme Magic Instant Jokes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-analysis-of-sonys-high-definition-video-gear/"><u>[Updated] Expert Analysis of Sony's High-Definition Video Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-full-spectrum-of-vsco-filters/"><u>[Updated] Harnessing the Full Spectrum of VSCO Filters</u></a></li>
-<li><a href="https://win-data.techidaily.com/comment-utiliser-tutosysprep-avec-windows-et-pour-preparer-et-diffuser-des-images-systeme-une-methode-optimale/"><u>Comment Utiliser TutoSysprep Avec Windows eT Pour Préparer Et Diffuser Des Images Système : Une Méthode Optimale</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-amd-radeon-rx-590-drivers-on-your-pc/"><u>Download & Install the Latest AMD Radeon RX 590 Drivers on Your PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/empower-your-wrist-tech-discover-chatgpts-revolutionary-effects-on-smartwatches/"><u>Empower Your Wrist Tech: Discover ChatGPT's Revolutionary Effects on Smartwatches</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-recommended-steadicams-for-professional-dslr-work-for-2024/"><u>Expert-Recommended Steadicams for Professional DSLR Work for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-scrolling-to-serenity-the-top-10-reasons-to-leave-the-facebook-journey/"><u>From Scrolling to Serenity: The Top 10 Reasons to Leave the Facebook Journey</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-narrative-crafting/"><u>In 2024, Fundamentals of Narrative Crafting</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-object-extraction-in-iphone-photography-with-top-6-apps-for-2024/"><u>Mastering Object Extraction in iPhone Photography with Top 6 Apps for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/not-just-a-phase-disproving-global-cooling-claims/"><u>Not Just a Phase: Disproving Global Cooling Claims</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-leading-list-for-best-vector-resources/"><u>The Leading List for Best Vector Resources</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-meme-playbook-no-10-essentials/"><u>The Ultimate Meme Playbook No. 10 Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>[New] From Zip to Sub Transforming Compressed Texts to SRT Format</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-make-your-solitary-voice-resonate/"><u>[New] How To Make Your Solitary Voice Resonate</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>[New] Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unlocking-the-power-of-skype-recordings-on-windows-and-mac-for-2024/"><u>[New] Unlocking the Power of Skype Recordings on Windows & Mac for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-best-soundshapers-for-content-makers-on-youtube-for-2024/"><u>[Updated] Best Soundshapers for Content Makers on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-free-fcp-download-options/"><u>[Updated] Explore FREE FCP Download Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>[Updated] Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-everyday-use-to-extraordinary-virtual-adventures-smartphone-vr-conversion-guide/"><u>2024 Approved From Everyday Use to Extraordinary Virtual Adventures Smartphone-VR Conversion Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-premium-internet-spots-for-glossy-3d-text-effects/"><u>2024 Approved Premium Internet Spots for Glossy 3D Text Effects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-virtual-worlds-pcs-1-list-of-vr-360-game-streamers/"><u>In 2024, Explore Virtual Worlds PC's #1 List of VR 360 Game Streamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovations-in-hand-tracking-and-gesture-detection/"><u>In 2024, Innovations in Hand Tracking and Gesture Detection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovative-techniques-improve-your-hp-laptop-screen-recordings/"><u>Innovative Techniques Improve Your HP Laptop Screen Recordings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/r-the-art-of-youtube-visibility-two-steps/"><u>Master the Art of YouTube Visibility (Two Steps)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcpx-video-accessibility-adding-subtitles-and-captions/"><u>Updated In 2024, FCPX Video Accessibility Adding Subtitles and Captions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Get Acquainted  A Quick Guide to Windows 11 Basics for 2024\""
-date: 2024-07-26T15:16:50.789Z
-updated: 2024-07-27T15:16:50.789Z
+date: 2025-02-03T17:27:11.615Z
+updated: 2025-02-09T18:57:29.651Z
 tags: 
   - screen-recording
   - ai video
@@ -20,23 +20,6 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
 # Must-Know Windows 10 Tips and Tricks
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -47,9 +30,6 @@ Windows is nowhere to rock the world! If you are so excited about updating your 
 
 #### 1. Personalize the Start Menu
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
@@ -82,9 +62,6 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 #### 5. Using Virtual Desktop Feature
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
@@ -125,9 +102,6 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 #### 2. Using Cortana in Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -138,9 +112,6 @@ While you are poking around the Cortana’s options, you may dive in the Noteboo
 
 #### 3. Additional Apps you should try
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
@@ -175,9 +146,6 @@ This is quite simple yet most people make use of the very capable contemporary e
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -226,9 +194,6 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 #### 5. Using Virtual Desktop Feature
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
@@ -237,25 +202,16 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
 
 #### 7. New Edge Browser
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -272,9 +228,6 @@ Windows is nowhere to rock the world! If you are so excited about updating your 
 
 #### 1. Personalize the Start Menu
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
@@ -299,9 +252,6 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -310,9 +260,6 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 #### 5. Using Virtual Desktop Feature
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
@@ -321,18 +268,12 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
 
 #### 7. New Edge Browser
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
@@ -367,7 +308,28 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-camera-choices-our-selection-of-top-12-vlogging-tools/"><u>[New] 2024 Approved Navigating Camera Choices Our Selection of Top 12 Vlogging Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertly-selected-6-premier-tools-to-refine-your-images-online/"><u>[New] Expertly Selected 6 Premier Tools to Refine Your Images Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-image-editing-online-cropping-essentials/"><u>[New] Immersive Image Editing Online Cropping Essentials</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-powerful-literary-trailer-vids/"><u>[New] In 2024, Powerful Literary Trailer Vids</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-precision-focused-speech-conversion-using-google-services/"><u>[New] In 2024, Precision-Focused Speech Conversion Using Google Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-study-simplified-hdr-mastery/"><u>[New] In-Depth Study Simplified HDR Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-clear-your-default-podcast-listings-on-spotify/"><u>[Updated] How to Clear Your Default Podcast Listings on Spotify</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-transferring-twitter-videos-to-whatsapp-effortlessly-for-2024/"><u>[Updated] Transferring Twitter Videos to WhatsApp Effortlessly for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-guide-to-7-superior-video-players-on-mac/"><u>[Updated] Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-essential-guide-to-enhancing-video-content-on-instagram/"><u>2024 Approved Essential Guide to Enhancing Video Content on Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expedite-your-content-with-smart-title-tools-for-2024/"><u>Expedite Your Content With Smart Title Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-dull-to-dynamic-a-pros-guide-to-shade-shifting-for-2024/"><u>From Dull to Dynamic A Pro's Guide to Shade Shifting for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios-for-2024/"><u>How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-the-latest-drivers-for-dell-2330d-and-2330dn-mono-laser-printers/"><u>How to Successfully Install the Latest Drivers for Dell 2330D and 2330DN Mono Laser Printers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-stay-grounded-in-virtual-reality-spaces/"><u>In 2024, How to Stay Grounded in Virtual Reality Spaces</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-illustrate-effortlessly-prime-ios-design-software/"><u>In 2024, Illustrate Effortlessly Prime iOS Design Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/navigate-through-the-5-best-mac-sniping-apps-easily/"><u>Navigate Through The 5 Best Mac Sniping Apps Easily</u></a></li>
+</ul></div>
 
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

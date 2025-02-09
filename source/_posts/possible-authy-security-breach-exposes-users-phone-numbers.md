@@ -1,7 +1,7 @@
 ---
 title: Possible Authy Security Breach Exposes Users' Phone Numbers
-date: 2025-01-22T18:38:14.735Z
-updated: 2025-01-28T23:20:22.831Z
+date: 2025-02-02T19:09:29.245Z
+updated: 2025-02-09T16:43:08.035Z
 tags:
   - web
 categories:
@@ -38,26 +38,26 @@ Authy is one of the best authentication services out there, as well as one of th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-game-themes-and-melodies-10-best-websites/"><u>[New] Free Game Themes & Melodies – 10 Best Websites</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-ultimate-routes-turning-pinterest-vids-into-music-files/"><u>[Updated] 2024 Approved Ultimate Routes Turning Pinterest Vids Into Music Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-first-steps-in-uav-world-the-syma-x5c-review-sets-you-up-right/"><u>[Updated] First Steps in UAV World? The Syma X5C Review Sets You Up Right</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-tier-ios-video-playback-tools-top-10/"><u>2024 Approved Explore Top-Tier iOS Video Playback Tools (Top 10)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-range-creativity-with-premium-ae-samples/"><u>2024 Approved Free-Range Creativity with Premium AE Samples</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-selections-economical-4k-home-theater-systems/"><u>2024 Approved Ideal Selections Economical 4K Home Theater Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-angles-shooting-vertical-smartphone-panos/"><u>2024 Approved Innovative Angles Shooting Vertical Smartphone Panos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unparalleled-access-8-leading-fb-movie-downloader-list/"><u>2024 Approved Unparalleled Access #8 Leading FB Movie Downloader List</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-error-finding-lost-ubisoft-launcher/"><u>Fixing the Error: Finding Lost Ubisoft Launcher</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-gtx-n-series-drivers-installed-on-windows-without-hesitation/"><u>Get the Latest NVIDIA GTX N-Series Drivers Installed on Windows Without Hesitation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro to others devices? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experience-cinematic-adventure-with-intova-edge-x/"><u>In 2024, Experience Cinematic Adventure With Intova Edge X</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-pro-features-of-dji-phantom-3-technology/"><u>In 2024, Exploring the Pro Features of DJI Phantom 3 Technology</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-color-grading-in-photoshop-the-power-of-3d-lut-techniques-for-2024/"><u>Mastering Color Grading in Photoshop The Power of 3D LUT Techniques for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-itel-p40-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Itel P40</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nokia-105-classic-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nokia 105 Classic</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/x-plane-cuatrocientos-once-reviewed-stunning-visuals-meet-cutting-edge-simulation-tech/"><u>X-Plane Cuatrocientos Once Reviewed: Stunning Visuals Meet Cutting-Edge Simulation Tech</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crafting-perfection-an-essential-guide-to-hdr-imaging-for-2024/"><u>[New] Crafting Perfection An Essential Guide to HDR Imaging for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-film-flashes-top-snippets-for-skilled-editors/"><u>[New] Film Flashes Top Snippets for Skilled Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-a-comprehensive-footage-study/"><u>[New] GoPro Hero5 A Comprehensive Footage Study</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-block-spotifys-unrequested-podcast-episodes/"><u>[New] How to Block Spotify's Unrequested Podcast Episodes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-screenplays-a-cinematic-legacy/"><u>[New] Iconic Screenplays A Cinematic Legacy</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-top-camera-brands-for-future-musical-video-production/"><u>[New] In 2024, Top Camera Brands for Future Musical Video Production</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-your-window-to-flawless-video-viewing-for-2024/"><u>[New] Your Window to Flawless Video Viewing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-best-slo-mo-camera-apps-on-iosandroid-platforms/"><u>[Updated] Explore Best Slo-Mo Camera Apps on iOS/Android Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-filmmakers-checklist-on-the-go-gear-guide/"><u>[Updated] Filmmaker's Checklist On-the-Go Gear Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/dissecting-ustream-with-comparative-views/"><u>Dissecting Ustream with Comparative Views</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-and-ghost-s-face-off-in-racing-realities-for-2024/"><u>GoPro and Ghost-S Face Off in Racing Realities for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-airborne-cameras-clash-dji-inspire-vs-gopro-max/"><u>In 2024, Airborne Cameras Clash DJI Inspire vs GoPro MAX</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-behind-the-scenes-understanding-m1-technology/"><u>In 2024, Behind The Scenes Understanding M1 Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-selections-best-virtual-reality-titles-for-cardboard/"><u>In 2024, Exclusive Selections Best Virtual Reality Titles for Cardboard</u></a></li>
+<li><a href="https://win-great.techidaily.com/schnelle-abhilfe-gegen-ihre-geratesteckprobleme-entdecken-sie-die-effizientesten-losungsmethoden/"><u>Schnelle Abhilfe Gegen Ihre Gerätesteckprobleme: Entdecken Sie Die Effizientesten Lösungsmethoden</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/shot-with-precision-the-top-10-camera-lens-choices-for-photographers-for-2024/"><u>Shot with Precision The Top 10 Camera Lens Choices for Photographers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-thievery-t5-unboxing-your-ultimate-guide-to-action-capture/"><u>The Thievery T5 Unboxing - Your Ultimate Guide to Action Capture</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

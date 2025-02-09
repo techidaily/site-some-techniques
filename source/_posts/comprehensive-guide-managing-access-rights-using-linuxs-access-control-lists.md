@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists"
-date: 2025-01-22T10:50:09.950Z
-updated: 2025-01-28T19:09:45.410Z
+date: 2025-02-05T16:16:09.781Z
+updated: 2025-02-09T18:58:54.409Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 ## Comprehensive Guide: Managing Access Rights Using Linux's Access Control Lists
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 
  Are you in charge of a shared file server between multiple groups of people, who all need varying access? In this tutorial we'll go over the basics of ACLs and employ them in a fictional office scenario.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Are ACLs?
 
  Access Control Lists (ACLs) supplement the [standard file system permissions model on Linux and Unix](https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/). In a nutshell, they allow you to go beyond the "user/group/other" concept to create additional sets of permissions for files and directories. They also do neat things like automatically applying permissions to new files and directories. But first, let's cover some basic Linux file system permissions concepts in which ACLs work alongside.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Standard File System Permissions
 
@@ -49,10 +57,6 @@ ls -l mysupersecretfile.txt
 
 ![A terminal window showing standard file permissions of a sample file on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. \[U\]ser (owner) permissions
 2. \[G\]roup permissions
 3. All \[O\]ther users' permissions
@@ -64,6 +68,10 @@ ls -l mysupersecretfile.txt
  The files and directories that users are allowed to modify depend on a couple of things, including whether the user "owns" it or if they otherwise have the appropriate permissions to via a group membership. Note that the [root user](https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/) can modify any file on the system, regardless of ownership.
 
  This approach to file system permissions works well for most at-home and standalone setups. Of course, when you're working with systems where multiple users are accessing the same file hierarchy, and you must give certain people access to some areas (and restrict them from others), you'll start to understand the standard "1 owner, 1 group" methodology falls a bit short.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How ACLs Enhance the Standard Permissions Model
 
@@ -84,6 +92,10 @@ ls -l report.pdf
 ![A terminal window showing file listing output on Debian.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-2.png) 
 
  What to do? Well, you _could_ just take an early lunch break. However, let's instead employ ACLs!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Checking for ACL Support on Your System
 
@@ -119,10 +131,6 @@ ls -l report.pdf
 
 ![A terminal window showing ls command output with ACL entry flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The setfacl Command
 
  The setfacl command is what actually _sets_ ACLs for files and directories. It adds and removes user and group entries, modifies permissions and other tasks like setting default ACLs on directories and working with masks. We'll use it to complete the request above by granting the lumberg user read access to report.pdf.
@@ -132,6 +140,10 @@ ls -l report.pdf
 sudo setfacl -m u:lumberg:r report.pdf
 
 ## ![A terminal window showing the setfacl command modifying a file's ACL entry.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **\-m** means we're modifying an ACL entry for the file
 * **u:** means it's a user we're adding, followed by a colon (:) separator (a **g:** adds a group and **o:** adds all other users' permissions)
@@ -145,15 +157,7 @@ getfacl report.pdf
 
 ![A terminal window showing output of getfacl command on our sample file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Do you spot our new entry?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Default ACLs
 
@@ -164,10 +168,6 @@ getfacl report.pdf
 sudo setfacl -d -m u:lumberg:rX Accounting
 
 ![A terminal window showing setfacl command to set permissions, then getfacl to show them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  An upper-case **X** applies the execute permission only against new subdirectories; not files.
 
@@ -188,14 +188,22 @@ sudo setfacl -d -m u:lumberg:rX Accounting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-find-your-perfect-match-gear-vr-compatible-phones-2023/"><u>[New] Find Your Perfect Match Gear VR-Compatible Phones 2023</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-success-channel-ideas-to-spark-momentum/"><u>[New] In 2024, Elevating Success Channel Ideas to Spark Momentum</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-windows-11s-high-dynamic-range-auto-hdr-for-better-visuals/"><u>[Updated] Harnessing Windows 11'S High Dynamic Range (Auto HDR) for Better Visuals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-to-the-best-10-vector-images-online/"><u>2024 Approved Exclusive Guide to the Best 10 Vector Images Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discovering-unmatched-premium-rate-free-luts-of-today/"><u>Discovering Unmatched Premium-Rate Free LUTs of Today</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-to-streamlined-subscription-links-for-video-channels/"><u>Guide to Streamlined Subscription Links for Video Channels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-capture-clear-and-smooth-aquatic-moments-for-2024/"><u>How to Capture Clear and Smooth Aquatic Moments for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nokia-g22-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nokia G22 Easily?</u></a></li>
-<li><a href="https://win-studio.techidaily.com/les-plus-performants-et-gratuits-alternatives-a-macrium-reflect-pour-le-clonage-hdd-sous-windows-11-10-8-ou-7/"><u>Les Plus Performants Et Gratuits Alternatives À Macrium Reflect Pour Le Clonage HDD Sous Windows (11, 10, 8 Ou 7)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-elevating-live-game-coverage-tips-and-tricks/"><u>[New] Elevating Live Game Coverage Tips and Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-dynamics-of-canon-timelapse-imagery/"><u>[New] Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-eye-catchers-of-tomorrow-discovering-6-future-oriented-genres/"><u>[New] Eye Catchers of Tomorrow Discovering 6 Future-Oriented Genres</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>[New] In 2024, Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-notetaking-for-mobile-photographers/"><u>[New] Innovative Notetaking for Mobile Photographers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-crafting-success-in-youtubes-creator-hub/"><u>[Updated] Crafting Success in YouTube's Creator Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funflicks-full-evaluation-and-instructions-24/"><u>[Updated] FunFlicks Full Evaluation & Instructions '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-radial-blur-effect-to-photos-in-photoshop/"><u>[Updated] How to Add Radial Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immerse-in-windows-11s-photo-quality-filter-options-and-music-playlists-for-2024/"><u>Immerse in Windows 11'S Photo Quality Filter Options and Music Playlists for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oneplus-nord-n30-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock OnePlus Nord N30 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hasty-steps-ios-photos-and-videos-on-windows/"><u>In 2024, Hasty Steps IOS Photos & Videos on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-illustration-tools-for-windows-no-cost-high-prices/"><u>In 2024, Ideal Illustration Tools for Windows No Cost, High Prices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-navigating-win11-like-a-pro-your-guidebook/"><u>In 2024, Navigating Win11 Like a Pro - Your Guidebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/iphoneandroid-integrating-playlists-into-your-fb-music/"><u>IPhone/Android Integrating Playlists Into Your FB Music</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2550560-9781937006501-moments-of-mindfulness/"><u>Moments of Mindfulness | Free Book</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speed-enhancement-tips-for-periscope-livestimation/"><u>Speed Enhancement Tips for Periscope Livestimation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/1-economical-cameras-for-professional-vloggers-for-2024/"><u>Top 11 Economical Cameras for Professional Vloggers for 2024</u></a></li>
 </ul></div>
 

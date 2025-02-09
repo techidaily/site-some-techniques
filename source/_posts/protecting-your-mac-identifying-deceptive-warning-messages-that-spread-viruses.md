@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses"
-date: 2025-01-28T05:23:41.945Z
-updated: 2025-01-29T07:09:12.254Z
+date: 2025-02-06T18:40:05.390Z
+updated: 2025-02-09T16:31:58.727Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ---
 
 ## Protecting Your Mac: Identifying Deceptive Warning Messages That Spread Viruses
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  Convincing macOS notifications attempt to send you to dodgy websites that promise a cure for all your Mac’s ailments. Here’s how to avoid the problem and fix it once and for all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's Going On?
@@ -40,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Safari website settings showing notification permissions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-11-at-14-42-17.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the websites in the list has been denied, while the other can send notifications. The notifications in question are some variation on the theme of “clean your Mac now,” listing a number of “issues found.”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Stop Seeing Misleading Notifications
@@ -59,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  If you’re getting these notifications in Chrome, launch Chrome and click the three-dots menu then navigate to Settings > Privacy and Security > Site Settings > Notifications to disable individual sites or turn the feature off. You can do the same for Firefox under Settings > Privacy & Security by clicking the “Settings…” button next to the “Notifications” header.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Avoid This Happening Again
 
  If you’ve turned the notifications feature off in your browser, you won’t see this problem again. Otherwise, make sure you are careful when allowing a website to send you notifications.
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![Legitimate website Pushalert.co requesting notification permission.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-18-at-11-49-47.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  These requests can come from all sorts of places, including rogue adverts integrated into perfectly innocent websites. Just be diligent when approving any such requests in the future.
@@ -90,19 +90,15 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-crafting-a-top-notch-linkedin-image-for-2024/"><u>[New] Crafting a Top-Notch LinkedIn Image for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-essentials-in-av1-compression/"><u>[New] Exploring the Essentials in AV1 Compression</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-examining-key-features-in-vr-headsets/"><u>[Updated] Examining Key Features in VR Headsets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies/"><u>[Updated] Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-eden-echoes-best-rural-role-playing-realms/"><u>[Updated] In 2024, Eden Echoes Best Rural Role-Playing Realms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-rising-stars-in-ai-for-self-driving-coding-solutions/"><u>7 Rising Stars in AI for Self-Driving Coding Solutions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/compendium-of-different-photographic-gadgets-for-2024/"><u>Compendium of Different Photographic Gadgets for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-gigabyte-sound-card-software/"><u>Free Download: Gigabyte Sound Card Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-poco-x6-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Poco X6 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-top-rated-image-transition-tools/"><u>In 2024, Explore Top-Rated Image Transition Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-modeling-software-for-animation-professionals/"><u>In 2024, Ideal Modeling Software for Animation Professionals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-initiate-now-a-comprehensive-plan-for-beginning-a-review-broadcast/"><u>In 2024, Initiate Now! A Comprehensive Plan for Beginning a Review Broadcast</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unravel-the-secrets-of-saving-and-playing-gifs-on-your-ios-device/"><u>Unravel the Secrets of Saving & Playing GIFs on Your iOS Device</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winodws-7s-nightmare-decoded-a-step-by-step-guide-to-fixing-the-0x00000050-bsod-error/"><u>Winodws 7'S Nightmare Decoded - A Step-by-Step Guide to Fixing the 0X00000050 BSoD Error</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dissecting-video-ranking-algorithms-on-youtube/"><u>[New] In 2024, Dissecting Video Ranking Algorithms on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-10-leading-4k-displays/"><u>2024 Approved 10 Leading 4K Displays</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-formulating-gripping-narratives-for-your-vlogs/"><u>2024 Approved Formulating Gripping Narratives for Your Vlogs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-archival-artifacts-radeons-revamp/"><u>In 2024, Archival Artifacts Radeon's Revamp</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-curating-background-beats-for-impactful-trailers/"><u>In 2024, Curating Background Beats for Impactful Trailers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experts-guide-to-infinite-space-utilization/"><u>In 2024, Expert's Guide to Infinite Space Utilization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-capacity-sd-card-for-sony-a7s-series/"><u>In 2024, High-Capacity SD Card for Sony A7S Series</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-metaverse-gags-and-their-creators-for-2024/"><u>Innovative Metaverse Gags & Their Creators for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/macx-dvd-ripper-pro-for-windows-expert-reviews-and-user-guides-delivered/"><u>MacX DVD Ripper Pro for Windows - Expert Reviews & User Guides Delivered!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-3-best-motion-blur-plugins-for-adobe-after-effects/"><u>Updated 2024 Approved 3 Best Motion Blur Plugins for Adobe After Effects</u></a></li>
 </ul></div>
 

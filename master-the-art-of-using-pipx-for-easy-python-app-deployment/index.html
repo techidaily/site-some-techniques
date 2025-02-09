@@ -33,8 +33,8 @@
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx08_run.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx09_list.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx07a_uninstall_cowsay.png">
-<meta property="article:published_time" content="2025-01-24T11:19:42.264Z">
-<meta property="article:modified_time" content="2025-01-28T15:13:03.579Z">
+<meta property="article:published_time" content="2025-02-07T08:50:11.020Z">
+<meta property="article:modified_time" content="2025-02-09T09:07:29.228Z">
 <meta property="article:author" content="Frank">
 <meta property="article:tag" content="desktop">
 <meta name="twitter:card" content="summary">
@@ -719,15 +719,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-01-24 19:19:42</span>
-        <span class="mobile">2025-01-24 19:19:42</span>
+        <span class="desktop">2025-02-07 16:50:11</span>
+        <span class="mobile">2025-02-07 16:50:11</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-28 23:13:03</span>
-            <span class="mobile">2025-01-28 23:13:03</span>
+            <span class="desktop">2025-02-09 17:07:29</span>
+            <span class="mobile">2025-02-09 17:07:29</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -778,7 +778,7 @@
 
         <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
             <h2 id="Master-the-Art-of-Using-Pipx-for-Easy-Python-App-Deployment"><a href="#Master-the-Art-of-Using-Pipx-for-Easy-Python-App-Deployment" class="headerlink" title="Master the Art of Using Pipx for Easy Python App Deployment"></a>Master the Art of Using Pipx for Easy Python App Deployment</h2><!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="Key-Takeaways"><a href="#Key-Takeaways" class="headerlink" title="Key Takeaways"></a>Key Takeaways</h3><ul>
@@ -792,6 +792,10 @@
 <p> I strongly discourage installing software at a system level with <strong>sudo pip install</strong> because this can cause conflicts with your system’s package manager and result in broken functionality, or in the worst case situation, a non-booting system. I’m not alone in this, either, as <a class="link"   target="_blank" rel="noopener" href="https://realpython.com/python-virtual-environments-a-primer/#why-do-you-need-virtual-environments" >RealPython <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and the <a class="link"   target="_blank" rel="noopener" href="https://virtualenv.pypa.io/en/latest/" >virtualenv documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> recommend this, and even the <a class="link"   target="_blank" rel="noopener" href="https://docs.python.org/3/tutorial/venv.html" >official Python docs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> call out the issue.</p>
 <p> Another option is to install at a user level with <strong>pip install –user</strong>, but not every package works flawlessly that way. Dependencies are still installed system-wide for that user, which can still cause problems as well.</p>
 <p> The Python community recommends using something called a virtual environment—often referred to as venvs—to create isolated folders that include all the required parts of a project to work, but using them when you’re not familiar with the process can be very frustrating, especially if you’re trying to script things. These are just some of the challenges users might face getting Python apps working on their system.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="pipx-to-the-Rescue"><a href="#pipx-to-the-Rescue" class="headerlink" title="pipx to the Rescue"></a>pipx to the Rescue</h2><p> To solve our problems, we can use an application called pipx. This is a user-friendly alternative to pip that’s aimed at end-users instead of programmers. It creates the virtual environments for you, installs the dependencies, and makes the programs available system-wide—all without requiring sudo privileges on your system as well. It also manages your installed python apps for you, making it easy to add, upgrade, or remove them as you see fit.</p>
 <p> Since pipx isn’t intended for programmers, it doesn’t support some of the critical features you’d want while developing, like installing editable packages for testing. This is strictly for users!</p>
 <p> To install pipx, the most straightforward way is to use your system’s package manager. First, let’s make sure the required packages are installed. If you’re on a Debian-based distribution like Ubuntu, you can use apt.</p>
@@ -802,10 +806,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx01_update_install_deps-1.png"
                       alt="installing python3-venv and python3-pip"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> This will install the core packages for virtual environments and the pip package manager. Many Linux distributions will have these preinstalled, but not all. Crucially, versions of Debian and Ubuntu don’t guarantee those packages will be preinstalled, so if you’re on those distros you should run the above commands. If you’re on a different distribution, use your relevant package manager, whether that’s yum, pacman, or even brew.</p>
 <p> Next, we can install the pipx package itself.</p>
 <p><img  
@@ -826,6 +826,10 @@
                 > </p>
 <p> On some distros, like Ubuntu, you may get a message that tells you that you may need to re-login for the path change to take effect. On Rhino Linux, things worked immediately, but on Ubuntu I had to log out and in again.</p>
 <p> And that’s it, pipx is ready to go! Let’s take a look at how to use it with some Python apps.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Installing-Python-CLI-Apps"><a href="#Installing-Python-CLI-Apps" class="headerlink" title="Installing Python CLI Apps"></a>Installing Python CLI Apps</h2><p> Let’s install a fun app called cowsay using pipx.</p>
 <p>pipx install cowsay</p>
 <p><img  
@@ -834,10 +838,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx07_cowsay_command.png"
                       alt="terminal window that shows the output of the cowsay command, a cow saying &#39;Welcome to How-To Geek!&#39;"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> You can use the Python app just as if it was a standard Linux command or app we installed. Under the hood, it’s running in its own virtual environment, and any dependencies are separated and kept away from our core operating system.</p>
 <p> If you need to run an app just once, and you don’t want to worry about installing and uninstalling, pipx has a run mode that handles that for you as well.</p>
 <p>pipx run speedtest-cli</p>
@@ -847,10 +847,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx08_run.png"
                       alt="terminal output of the speedtest command showing the bandwidth of the internet connection"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> You can also provide arguments for the app, so you can run specific commands. There are some caveats to the formatting, so be sure to check out the <a class="link"   target="_blank" rel="noopener" href="https://pipx.pypa.io/stable/docs/#pipx-run" >official pipx documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p> You can use pipx to see which installed Python apps you installed.</p>
 <p>pipx list</p>
@@ -860,6 +856,10 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx09_list.png"
                       alt="terminal window with the output of the pipx list command which shows only cowsay is installed"
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> You can see that <strong>speedtest-cli</strong> is not installed, but <strong>cowsay</strong> is still present on our system.</p>
 <p> You can also uninstall the cowsay app easily.</p>
 <p>pipx uninstall cowsay</p>
@@ -871,7 +871,7 @@
                 > </p>
 <p> Where pipx really helps is in managing more complex applications. As an example, you can easily write <a class="link"   target="_blank" rel="noopener" href="https://common-error.techidaily.com/rebooting-woes-windows-10-troubleshooting/" >simple bash scripts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to launch and maintain the calibre-web app to host your own ebook library because you can treat it as just another command. Without pipx, the service files you need to write would be much trickier for someone who doesn’t know Python and its deployment practices.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Expand-Your-App-Library-With-pipx"><a href="#Expand-Your-App-Library-With-pipx" class="headerlink" title="Expand Your App Library With pipx"></a>Expand Your App Library With pipx</h2><p> Now that you have pipx installed, there’s a wealth of new programs available to you! If you find projects on GitHub or PyPI that you want to utilize, pipx can make it simple to install and use them in just a minute or two.</p>
@@ -888,19 +888,21 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-recordings.techidaily.com/new-in-2024-insta-growth-the-10-most-important-hashtags-now/"><u>[New] In 2024, Insta Growth The 10 Most Important Hashtags Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-effortlessly-gain-premium-quality-pictures-online/"><u>[Updated] How to Effortlessly Gain Premium Quality Pictures Online</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-topics.techidaily.com/2024-approved-breakthrough-how-to-make-a-picture-speak/"><u>2024 Approved Breakthrough How to Make A Picture Speak</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-top-8-free-and-paid-videomosaic-apps-on-android-platforms/"><u>2024 Approved Exploring the Top 8 Free & Paid Videomosaic Apps on Android Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hot-topic-in-photos-memes-and-their-origin-tales/"><u>2024 Approved Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-screenplays-a-cinematic-legacy/"><u>2024 Approved Iconic Screenplays A Cinematic Legacy</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://buynow-info.techidaily.com/apple-books-app-review/"><u>Apple Books App Review</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook.techidaily.com/dissecting-the-upcoming-us-antitrust-measures-against-major-tech-firms/"><u>Dissecting the Upcoming US Antitrust Measures Against Major Tech Firms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-blending-multiple-hdr-photographs-in-lightroom-for-2024/"><u>Expert Tips for Blending Multiple HDR Photographs in Lightroom for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-subdued-to-striking-the-art-of-post-color-correction/"><u>In 2024, From Subdued to Striking The Art of Post-Color Correction</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/in-2024-the-breakdown-how-your-earnings-are-divided-in-youtube-shorts/"><u>In 2024, The Breakdown How Your Earnings Are Divided in YouTube Shorts</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-outstanding.techidaily.com/restoring-lost-notes-from-your-iphone-11-a-step-by-step-guide/"><u>Restoring Lost Notes From Your iPhone 11: A Step-by-Step Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/zippyzoom-tortoisepic-timestretch/"><u>ZippyZoom TortoisePic TimeStretch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-mastering-spotify-advertisement-techniques/"><u>[New] From Novice to Pro Mastering Spotify Advertisement Techniques</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/new-unveiling-secrets-for-instagram-chat-success-for-2024/"><u>[New] Unveiling Secrets for Instagram Chat Success for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-htc-vive-redefining-virtual-playtime-with-unmatched-immersion/"><u>[Updated] HTC Vive Redefining Virtual Playtime with Unmatched Immersion</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-renaissance.techidaily.com/20-anker-charger-the-ultimate-solution-to-portable-battery-woes-discover-how-on-zdnet/"><u>$20 Anker Charger: The Ultimate Solution to Portable Battery Woes - Discover How on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-video-timelines-on-youtube/"><u>2024 Approved Implementing Video Timelines on YouTube</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-vdieo-software.techidaily.com/best-timecode-conversion-tools-for-filmmaker/"><u>Best Timecode Conversion Tools for Filmmaker</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-howtos.techidaily.com/easy-fixes-for-non-responsive-keyboard-buttons-on-your-hp-laptop/"><u>Easy Fixes for Non-Responsive Keyboard Buttons on Your HP Laptop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-concept-to-completion-essential-design-actions-for-2024/"><u>From Concept to Completion Essential Design Actions for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-g54-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola G54 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-edit-text-in-image-photo-text-editor-online-and-app/"><u>In 2024, How to Edit Text in Image? [Photo Text Editor Online and App]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illustrators-secret-creating-seamless-image-movement/"><u>In 2024, Illustrator's Secret Creating Seamless Image Movement</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/in-2024-photo-perfection-seamless-text-integration-on-pc-and-mac-systems/"><u>In 2024, Photo Perfection Seamless Text Integration on PC & Mac Systems</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/lock-your-vivo-y36i-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y36i Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/vegas-pro-19-review-for-2024/"><u>VEGAS Pro 19 Review for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win11-tips.techidaily.com/winning-tactics-against-apex-freezes-on-windows-11/"><u>Winning Tactics Against Apex Freezes on Windows 11</u></a></li>
 </ul></div>
 
 
@@ -913,11 +915,11 @@
         <li><strong>Title:</strong> Master the Art of Using Pipx for Easy Python App Deployment</li>
         <li><strong>Author:</strong> Frank</li>
         <li><strong>Created at
-                :</strong> 2025-01-24 19:19:42</li>
+                :</strong> 2025-02-07 16:50:11</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-28 23:13:03
+                    :</strong> 2025-02-09 17:07:29
             </li>
         
         <li>
@@ -957,13 +959,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/in-2024-fingerprint-of-motion-tracking-systems/"
+                        href="/explore-new-realms-best-iphoneandroid-vr-games-for-2024/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">In 2024, Fingerprint of Motion Tracking Systems</span>
+                                <span class="post-nav-title-item">Explore New Realms Best iPhone/Android VR Games for 2024</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -973,10 +975,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/in-2024-hdr-tech-review-auroras-place-among-leaders/"
+                        href="/stay-protected-a-guide-to-risk-free-software-download-practices/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">In 2024, HDR Tech Review Aurora&#39;s Place Among Leaders</span>
+                                <span class="post-nav-title-item">Stay Protected: A Guide to Risk-Free Software Download Practices</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">

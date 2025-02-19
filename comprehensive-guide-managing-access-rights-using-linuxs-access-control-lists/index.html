@@ -19,12 +19,12 @@
     <meta name="googlebot" content="index,follow">
     <meta name="revisit-after" content="1 days">
     
-        <meta name="description" content="Comprehensive Guide: Managing Access Rights Using Linux’s Access Control Lists    Key Takeaways To view all ACL entries for a file, use the command ‘getfacl filename’ but replace ‘filename’ with the n">
+        <meta name="description" content="Comprehensive Guide: Managing Access Rights Using Linux’s Access Control ListsKey Takeaways To view all ACL entries for a file, use the command ‘getfacl filename’ but replace ‘filename’ with the name">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Comprehensive Guide: Managing Access Rights Using Linux&#39;s Access Control Lists">
 <meta property="og:url" content="https://some-techniques.techidaily.com/comprehensive-guide-managing-access-rights-using-linuxs-access-control-lists/index.html">
 <meta property="og:site_name" content="Some Techniques">
-<meta property="og:description" content="Comprehensive Guide: Managing Access Rights Using Linux’s Access Control Lists    Key Takeaways To view all ACL entries for a file, use the command ‘getfacl filename’ but replace ‘filename’ with the n">
+<meta property="og:description" content="Comprehensive Guide: Managing Access Rights Using Linux’s Access Control ListsKey Takeaways To view all ACL entries for a file, use the command ‘getfacl filename’ but replace ‘filename’ with the name">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-1.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-2.png">
@@ -35,8 +35,8 @@
 <meta property="og:image" content="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-1.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12.png">
-<meta property="article:published_time" content="2025-02-05T08:16:09.781Z">
-<meta property="article:modified_time" content="2025-02-09T10:58:54.409Z">
+<meta property="article:published_time" content="2025-02-17T12:13:56.843Z">
+<meta property="article:modified_time" content="2025-02-19T10:34:07.787Z">
 <meta property="article:author" content="Frank">
 <meta property="article:tag" content="desktop">
 <meta name="twitter:card" content="summary">
@@ -721,15 +721,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-02-05 16:16:09</span>
-        <span class="mobile">2025-02-05 16:16:09</span>
+        <span class="desktop">2025-02-17 20:13:56</span>
+        <span class="mobile">2025-02-17 20:13:56</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-02-09 18:58:54</span>
-            <span class="mobile">2025-02-09 18:58:54</span>
+            <span class="desktop">2025-02-19 18:34:07</span>
+            <span class="mobile">2025-02-19 18:34:07</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -779,23 +779,15 @@
 
 
         <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Comprehensive-Guide-Managing-Access-Rights-Using-Linux’s-Access-Control-Lists"><a href="#Comprehensive-Guide-Managing-Access-Rights-Using-Linux’s-Access-Control-Lists" class="headerlink" title="Comprehensive Guide: Managing Access Rights Using Linux’s Access Control Lists"></a>Comprehensive Guide: Managing Access Rights Using Linux’s Access Control Lists</h2><!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<h3 id="Key-Takeaways"><a href="#Key-Takeaways" class="headerlink" title="Key Takeaways"></a>Key Takeaways</h3><ul>
+            <h2 id="Comprehensive-Guide-Managing-Access-Rights-Using-Linux’s-Access-Control-Lists"><a href="#Comprehensive-Guide-Managing-Access-Rights-Using-Linux’s-Access-Control-Lists" class="headerlink" title="Comprehensive Guide: Managing Access Rights Using Linux’s Access Control Lists"></a>Comprehensive Guide: Managing Access Rights Using Linux’s Access Control Lists</h2><h3 id="Key-Takeaways"><a href="#Key-Takeaways" class="headerlink" title="Key Takeaways"></a>Key Takeaways</h3><ul>
 <li>To view all ACL entries for a file, use the command ‘getfacl filename’ but replace ‘filename’ with the name of your file.</li>
 <li>To set a new ACL entry for a file, use the command ‘setfacl -m u:username:rwx filename’</li>
 <li>To set a Default ACL entry on a directory, use the command ‘setfacl -d -m u:username:rwx dirname’</li>
 </ul>
 <p> Are you in charge of a shared file server between multiple groups of people, who all need varying access? In this tutorial we’ll go over the basics of ACLs and employ them in a fictional office scenario.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="What-Are-ACLs"><a href="#What-Are-ACLs" class="headerlink" title="What Are ACLs?"></a>What Are ACLs?</h2><p> Access Control Lists (ACLs) supplement the <a class="link"   target="_blank" rel="noopener" href="https://os-tips.techidaily.com/how-to-reset-waze-location-memory-on-ios-devices-a-step-by-step-guide/" >standard file system permissions model on Linux and Unix <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. In a nutshell, they allow you to go beyond the “user&#x2F;group&#x2F;other” concept to create additional sets of permissions for files and directories. They also do neat things like automatically applying permissions to new files and directories. But first, let’s cover some basic Linux file system permissions concepts in which ACLs work alongside.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="Standard-File-System-Permissions"><a href="#Standard-File-System-Permissions" class="headerlink" title="Standard File System Permissions"></a>Standard File System Permissions</h3><p> To understand file system permissions under Linux, first you need to know that Linux is a “multi-user operating system”. This means there exist multiple <a class="link"   target="_blank" rel="noopener" href="https://fox-links.techidaily.com/updated-gif-magic-transformations-without-extra-files-downloaded-for-2024/" >user accounts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> which essentially allow more than one person to log into the system, each having their own freedoms and restrictions.</p>
@@ -816,6 +808,10 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-1.png"
                       alt="A terminal window showing standard file permissions of a sample file on Linux."
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ol>
 <li>[U]ser (owner) permissions</li>
 <li>[G]roup permissions</li>
@@ -826,10 +822,6 @@
 <p> By default, each newly created user is also assigned to a new primary group of the same name. In the example above, #4 is the username “user” and #5 is the group name “user”. Keep that in mind when looking at output such as this as it may be confusing at first.</p>
 <p> The files and directories that users are allowed to modify depend on a couple of things, including whether the user “owns” it or if they otherwise have the appropriate permissions to via a group membership. Note that the <a class="link"   target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/updated-2024-approved-entrance-video-analysis-review/" >root user <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> can modify any file on the system, regardless of ownership.</p>
 <p> This approach to file system permissions works well for most at-home and standalone setups. Of course, when you’re working with systems where multiple users are accessing the same file hierarchy, and you must give certain people access to some areas (and restrict them from others), you’ll start to understand the standard “1 owner, 1 group” methodology falls a bit short.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h3 id="How-ACLs-Enhance-the-Standard-Permissions-Model"><a href="#How-ACLs-Enhance-the-Standard-Permissions-Model" class="headerlink" title="How ACLs Enhance the Standard Permissions Model"></a>How ACLs Enhance the Standard Permissions Model</h3><p> Access Control Lists add the ability to apply permission entries to multiple users and groups for files and directories. One example where ACLs are a good option is when you want to assign a certain user permission to a file that already has specific owner and group owner permissions assigned.</p>
 <p> ACLs for directories follow the standard permissions <strong>r</strong>&#x2F;<strong>w</strong>&#x2F;<strong>x</strong> model in that they give you the ability to (<strong>r</strong>)ead (list contents, but not enter) the directory, (<strong>w</strong>)rite (create) new files and directories <em>inside</em> the directory, and e(<strong>x</strong>)ecute (enter) the directory.</p>
 <p> How about an example? Let’s say you have a file, report.pdf, owned by a user, peter, with read+write permissions. You’ve additionally granted group ownership of this file to the accounting group. Now you’ve received a request to grant read access to the user named lumberg.</p>
@@ -847,10 +839,6 @@
                       alt="A terminal window showing file listing output on Debian."
                 > </p>
 <p> What to do? Well, you <em>could</em> just take an early lunch break. However, let’s instead employ ACLs!</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Checking-for-ACL-Support-on-Your-System"><a href="#Checking-for-ACL-Support-on-Your-System" class="headerlink" title="Checking for ACL Support on Your System"></a>Checking for ACL Support on Your System</h2><p> Most modern Linux distributions support ACLs out-of-the-box. Most common file systems support them, their default mount options include ACL support and default installations should include the proper packages.</p>
 <p> To verify on ext2&#x2F;3&#x2F;4 file systems, use tune2fs. For example, if you want to check &#x2F;dev&#x2F;sda1 (which contains an ext4 file system):</p>
 <p>sudo tune2fs -l &#x2F;dev&#x2F;sda1 | grep “Default mount options”</p>
@@ -869,6 +857,10 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6.png"
                       alt="A terminal window showing getfacl command and its output on a file."
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> Right now the output shows the <em>minimum ACL</em> of the file. The minimum ACL comprises the standard permissions for the owner, owning group and all other users.</p>
 <p> If there were an <em>extended ACL</em> entry for another user, let’s call them michael, we’d see this:</p>
 <p>getfacl report.pdf</p>
@@ -886,6 +878,14 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9.png"
                       alt="A terminal window showing ls command output with ACL entry flag."
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="The-setfacl-Command"><a href="#The-setfacl-Command" class="headerlink" title="The setfacl Command"></a>The setfacl Command</h2><p> The setfacl command is what actually <em>sets</em> ACLs for files and directories. It adds and removes user and group entries, modifies permissions and other tasks like setting default ACLs on directories and working with masks. We’ll use it to complete the request above by granting the lumberg user read access to report.pdf.</p>
 <p> To add the new user ACL entry, you’ll use setfacl with this syntax (which I’ll break down below):</p>
 <p>sudo setfacl -m u:lumberg:r report.pdf</p>
@@ -895,7 +895,7 @@
                      data-src="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-1.png"
                       alt="A terminal window showing the setfacl command modifying a file&#39;s ACL entry."
                 ></h2><!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ul>
@@ -938,23 +938,18 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/new-elevating-live-game-coverage-tips-and-tricks/"><u>[New] Elevating Live Game Coverage Tips and Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-dynamics-of-canon-timelapse-imagery/"><u>[New] Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-eye-catchers-of-tomorrow-discovering-6-future-oriented-genres/"><u>[New] Eye Catchers of Tomorrow Discovering 6 Future-Oriented Genres</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-helps.techidaily.com/new-in-2024-capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>[New] In 2024, Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-notetaking-for-mobile-photographers/"><u>[New] Innovative Notetaking for Mobile Photographers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-docs.techidaily.com/ed-crafting-success-in-youtubes-creator-hub/"><u>[Updated] Crafting Success in YouTube's Creator Hub</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funflicks-full-evaluation-and-instructions-24/"><u>[Updated] FunFlicks Full Evaluation & Instructions '24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-radial-blur-effect-to-photos-in-photoshop/"><u>[Updated] How to Add Radial Blur Effect to Photos in Photoshop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immerse-in-windows-11s-photo-quality-filter-options-and-music-playlists-for-2024/"><u>Immerse in Windows 11'S Photo Quality Filter Options and Music Playlists for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oneplus-nord-n30-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock OnePlus Nord N30 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hasty-steps-ios-photos-and-videos-on-windows/"><u>In 2024, Hasty Steps IOS Photos & Videos on Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-illustration-tools-for-windows-no-cost-high-prices/"><u>In 2024, Ideal Illustration Tools for Windows No Cost, High Prices</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-blue.techidaily.com/in-2024-navigating-win11-like-a-pro-your-guidebook/"><u>In 2024, Navigating Win11 Like a Pro - Your Guidebook</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/iphoneandroid-integrating-playlists-into-your-fb-music/"><u>IPhone/Android Integrating Playlists Into Your FB Music</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://novels-ebooks.techidaily.com/2550560-9781937006501-moments-of-mindfulness/"><u>Moments of Mindfulness | Free Book</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/speed-enhancement-tips-for-periscope-livestimation/"><u>Speed Enhancement Tips for Periscope Livestimation</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/1-economical-cameras-for-professional-vloggers-for-2024/"><u>Top 11 Economical Cameras for Professional Vloggers for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-record-videos.techidaily.com/updated-2024-approved-easy-access-to-no-cost-music-for-video-makers/"><u>[Updated] 2024 Approved Easy Access to No-Cost Music for Video Makers</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/updated-in-2024-unleash-photos-on-instagram-with-ease-follow-this-guide/"><u>[Updated] In 2024, Unleash Photos on Instagram with Ease – Follow This Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-industrys-airborenas-titans-10-lifters-reviewed/"><u>[Updated] Industry's Airborenas Titans 10 Lifters Reviewed</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-glue.techidaily.com/updated-premier-pro-expertise-for-sound-switchers-for-2024/"><u>[Updated] Premier Pro Expertise for Sound Switchers for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-direct.techidaily.com/updated-standout-soundstage-sagas-and-plots/"><u>[Updated] Standout Soundstage Sagas and Plots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-vs-yi-updated-battle-for-ultimate-action-recording/"><u>2024 Approved GoPro Vs. YI Updated Battle for Ultimate Action Recording</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-reviews.techidaily.com/apple-ipad-mini-5-review-pint-sized-powerhouse/"><u>Apple iPad Mini 5 Review: Pint-Sized Powerhouse</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-and-open-top-7-laptop-dvd-player-software-options-for-2024/"><u>Free & Open Top 7 Laptop DVD Player Software Options for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-c51-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme C51 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-jpggif-converters-the-best-10-list/"><u>In 2024, Free Online JPG/GIF Converters The Best 10 List</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://smart-video-editing.techidaily.com/in-2024-no-watermark-video-joiners-our-top-picks/"><u>In 2024, No-Watermark Video Joiners Our Top Picks</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-magic-5-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor Magic 5 without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 
 
@@ -967,11 +962,11 @@
         <li><strong>Title:</strong> Comprehensive Guide: Managing Access Rights Using Linux&#39;s Access Control Lists</li>
         <li><strong>Author:</strong> Frank</li>
         <li><strong>Created at
-                :</strong> 2025-02-05 16:16:09</li>
+                :</strong> 2025-02-17 20:13:56</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-02-09 18:58:54
+                    :</strong> 2025-02-19 18:34:07
             </li>
         
         <li>
@@ -1011,13 +1006,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/updated-experience-like-never-before-leading-10-vr-devices/"
+                        href="/new-evaluating-superiority-gopros-max-and-hero-11-face-off/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[Updated] Experience Like Never Before Leading 10 VR Devices</span>
+                                <span class="post-nav-title-item">[New] Evaluating Superiority GoPro&#39;s Max and Hero 11 Face-Off</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1027,10 +1022,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/updated-harmonizing-sound-dynamics-in-ableton/"
+                        href="/enhanced-windows-1n-update-installation-speed-and-efficiency/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[Updated] Harmonizing Sound Dynamics in Ableton</span>
+                                <span class="post-nav-title-item">Enhanced Windows 1N Update Installation Speed and Efficiency</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">

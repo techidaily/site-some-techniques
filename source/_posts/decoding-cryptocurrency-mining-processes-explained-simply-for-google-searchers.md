@@ -1,7 +1,7 @@
 ---
 title: "Decoding Cryptocurrency Mining: Processes Explained Simply for Google Searchers"
-date: 2025-01-23T09:11:07.703Z
-updated: 2025-01-28T17:21:10.450Z
+date: 2025-02-17T19:22:26.307Z
+updated: 2025-02-19T19:15:36.482Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
 ---
 
 ## Decoding Cryptocurrency Mining: Processes Explained Simply for Google Searchers
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/d0ab1cb7b8b22999ef087a383ed3db769492e1f7d
  Of course, you may wonder why these digital currencies even need to be mined: after all, it's make-believe money with no backing except what people will pay for it. Real currency, the kind backed up by governments, can be created by turning on a money printer, so it stands to reason that crypto could do the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  The Blockchain
@@ -45,7 +41,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  In this metaphor, each link is a block, and each block contains a set amount of cryptocurrency. For example, one block [has 6.25 Bitcoin in it](https://coinmarketcap.com/alexandria/article/how-long-does-it-take-to-mine-one-bitcoin). To unlock a new block you need to solve a complicated mathematical equation, which validates the block and adds it to the chain. Also, because the blocks are chained in a linear fashion, you have to go from one to the next, you can't pick one at random.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  The Ledger
@@ -55,7 +51,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  To summarize, the ledger records the creation and movement of coins in the blockchain. Mining is validating new blocks and gaining access to the coins within. Interestingly enough, since the blockchain has to be finite, it also means that most cryptocurrencies have a hard limit to how many can exist: Bitcoin for example has a [cap of 21 million](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Crypto Mining Works
@@ -67,7 +63,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  However, hashes are, by their very nature, incredibly complicated puzzles to solve. The phone or laptop you're most likely reading this article on would probably take millions of years to solve one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  DIY Supercomputers
@@ -87,6 +83,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  Interestingly enough, though, not all cryptocurrencies are mined. Rather than use proof of work, some currencies---like [Cardano](https://www.shutterstock.com/nl/image-illustration/block-chain-concept-consists-network-connections-1064476223) and [Ripple](https://ripple.com/)\---use something called "proof of stake." They still operate on blockchain for reasons of security, but instead of mining new blocks you "stake " them instead, claiming them for yourself ahead of time.
 
  The more you claim, the bigger the chances you'll be awarded blocks. It's a complicated system, even more so than mining, but it could very well be the future of cryptocurrency.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Future of Mining
 
@@ -109,16 +109,22 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-online-deals-on-webcam-protection-kits/"><u>[New] Best Online Deals on Webcam Protection Kits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gaggraphs-craft-your-own-jest/"><u>[New] GagGraphs Craft Your Own Jest</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-dive-into-the-world-of-self-expression-a-treasury-of-instagramcaptions-for-2024/"><u>[Updated] Dive Into the World of Self-Expression - A Treasury of #InstagramCaptions for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-greatest-free-online-movie-repositories-top-picks/"><u>Discover the Greatest Free Online Movie Repositories: Top Picks</u></a></li>
-<li><a href="https://win-superb.techidaily.com/fast-start-deaktivierung-mit-einfachem-workflow-losungen-fur-windows-11/"><u>Fast Start Deaktivierung Mit Einfachem Workflow: Lösungen Für Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-examining-benq-sw320-the-4k-visionary/"><u>In 2024, Examining BenQ SW320 The 4K Visionary</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-image-caption-manipulation/"><u>In 2024, Innovative Image Caption Manipulation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-through-your-new-laptops-m1-max-clips/"><u>In 2024, Navigating Through Your New Laptop's M1 Max Clips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-animation-solutions-with-advanced-3d-modellers-for-2024/"><u>Innovative Animation Solutions with Advanced 3D Modellers for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-k11-5g-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from K11 5G.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-for-zlibdll-error-resolution/"><u>Ultimate Troubleshooting Tips for 'zlib.dll' Error Resolution</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-precision-polling-on-instagram-crafting-survey-content/"><u>[New] In 2024, Precision Polling on Instagram Crafting Survey Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-comprehensive-blueprint-for-vimeo-video-logging/"><u>[Updated] The Comprehensive Blueprint for Vimeo Video Logging</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-periscopes-offerings-no-cost-entry-and-signup-process/"><u>2024 Approved Exploring Periscope's Offerings No Cost Entry & Signup Process</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-beginner-to-star-top-25-vlogging-ideas/"><u>2024 Approved From Beginner to Star Top 25 Vlogging Ideas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-heartfelt-thanks-otu-selection-at-your-fingertips/"><u>2024 Approved Heartfelt Thanks OTU Selection at Your Fingertips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hourly-video-consumption-total-daily-gb-amount/"><u>2024 Approved Hourly Video Consumption Total Daily GB Amount</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-combine-videos-into-one-on-iphone/"><u>2024 Approved How to Combine Videos Into One on iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-humorous-file-downloader-examination/"><u>2024 Approved Humorous File Downloader Examination</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-search-of-excellence-top-10-4k-displays/"><u>2024 Approved In Search of Excellence #Top 10 4K Displays</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-macpc-vmix-bridge-software/"><u>2024 Approved MacPC VMix Bridge Software</u></a></li>
+<li><a href="https://win-help.techidaily.com/act-now-windows-11-versions-21h2-and-22h2-approaching-end-of-life-upgrade-immediately-to-avoid-security-risks/"><u>Act Now: Windows 11 Versions 21H2 & 22H2 Approaching End-of-Life - Upgrade Immediately to Avoid Security Risks!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/best-free-full-featured-windows-1110-dvd-ripper-tools-top-picks-no-cost-downloads/"><u>Best Free Full-Featured Windows 11/10 DVD Ripper Tools (Top Picks) – No Cost Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-insight-into-mematics-app-features-for-2024/"><u>Exclusive Insight Into Mematic's App Features for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-transfer-videos-from-pc-to-iphone-with-or-without-itunes-save-effortlessly/"><u>How to Transfer Videos From PC to iPhone with or without iTunes - Save Effortlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-3-techniques-to-fix-iphone-hdr-blunders-in-premiere-pro/"><u>In 2024, 3 Techniques to Fix iPhone HDR Blunders in Premiere Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/razer-laptop-masterclass-a-deep-dive-into-the-groundbreaking-performance-of-blade-stealth-13/"><u>Razer Laptop Masterclass: A Deep Dive Into the Groundbreaking Performance of Blade Stealth 13</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solution-for-faulty-windows-0x80072af9-fix/"><u>Swift Solution for Faulty Windows: 0X80072AF9 Fix</u></a></li>
 </ul></div>
 

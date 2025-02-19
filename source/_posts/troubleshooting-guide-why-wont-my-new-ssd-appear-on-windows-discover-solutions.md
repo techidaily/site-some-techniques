@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions"
-date: 2025-02-08T18:41:38.700Z
-updated: 2025-02-09T17:01:04.896Z
+date: 2025-02-18T17:02:22.109Z
+updated: 2025-02-19T17:34:50.398Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 ---
 
 ## Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
  You installed a new hard drive in your computer and, to your dismay, it's nowhere to be found. Don't panic, you just need to give Windows a little nudge to bring it online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Most Common Reason Your Disk Is Missing
 
  You grabbed a nice big hard disk on sale, you cracked open your computer case, plugged the drive into the motherboard and power supply with the appropriate cables (no? better double check that before you keep reading), and when you booted your computer back up the new hard drive was nowhere to be found.
@@ -34,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
  As such, when you put the drive in your system, Windows simply waits for you to decide what to do with the drive instead of automatically formatting and adding it to the drive list. If you've never added a hard drive to your computer before, however, it can be pretty disconcerting when it appears like the drive is missing (or, worse, dead). Have no fear, though! It's easy to bring your hard drive out of hiding.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Bring Your Missing Drive Online
 
  Assuming that the hard drive is installed properly, and is not, (by some horrible dumb luck) defective out of the gate, bringing it online is a very simple process. To do so, you first need to pull up the Windows Disk Management tool.
@@ -45,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
  Press Windows+R on your keyboard to launch the Run dialog box. Type **diskmgmt.msc** into the box and press Enter.
 
 ![img_57c452aa264cd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c452aa264cd.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Before we proceed, we want to appropriately warn you: Do not play around in Disk Management. Although the task we're about to perform is very straightforward and simple to do, if you muck around with this tool you will have a very bad time. Double check every step. Make sure you're selecting the correct disk, or you can lose lots of data.
 
@@ -60,22 +60,22 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 ![img_57c45698e20bd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45698e20bd.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There are four bits of information here that indicate we're looking at the right disk. First, the disk is marked as "unknown" and "Not initialized" on the left, which a brand-new disk introduced to the system would be flagged as. Second, the drive size matches the size of the drive we just installed (around 1 TB), and the drive is flagged as unallocated, which means none of the hard drive space has been formatted or assigned a partition.
 
  Right click on the name portion of the disk entry, where it says "Disk \[#\]", and select "Initialize Disk" from the right-click context menu.
 
 ![img_57c457c7c1208](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c457c7c1208.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the first step of the initilization process, you'll be prompted to choose whether you want to use a Master Boot Record (MBR) or a GUID Partition Table (GPT) for the partition style of your disk. If you want to do some in depth reading before making a choice, you can [check out our explainer here](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/). In short, unless you have a pressing reason to use MBR, use GPT instead—it's newer, more efficient, and offers more robust protection against corruptions of the boot record.
 
 ![img_57c45b8a5fff8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45b8a5fff8.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click "OK" and you'll be returned to the main Disk Management window. There you'll find that your disk is now labeled "Basic" and "Online" on the left, but the contents are still "unallocated". Right click on the striped box presenting the unallocated drive space. Select "New Simple Volume".
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
  This will launch the New Simple Volume Wizard to guide you through the process of setting up the disk. In the first step, select how much space you want to include in the volume. By default the number is the full amount of available disk space--unless you're planning on reserving space for additional partitions, there's no reason to change this. Click "Next".
 
 ![img_57c45c8fc3c3e](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45c8fc3c3e.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the second step, assign a drive letter. The default is probably fine.
 
@@ -97,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
  When the process is complete, you'll see your new drive--allocated, formatted, and ready for action--in the Disk Management disk list.
 
 ![img_57c45e2278bff](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45e2278bff.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can now use the disk like any other on your system for media storage, games, and other purposes.
 
@@ -119,24 +119,20 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-brief-overview-of-the-quickest-chroma-key-tricks-for-2024/"><u>[New] Brief Overview of the Quickest Chroma Key Tricks for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-elevating-sims-4-chronicles-advanced-techniques-for-precise-game-recording/"><u>[New] Elevating Sims 4 Chronicles Advanced Techniques for Precise Game Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-tips-to-enhance-your-iphone-memo-making-skills/"><u>[New] Expert Tips to Enhance Your iPhone Memo-Making Skills</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-viral-success-the-most-loved-ae-themes-for-social-media/"><u>[New] Viral Success The Most Loved AE Themes for Social Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-ustream-and-its-counterparts/"><u>[Updated] Exploring Ustream & Its Counterparts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-grasping-the-advantages-of-av1-in-video-coding/"><u>[Updated] Grasping the Advantages of AV1 in Video Coding</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-e-commerce-avenues-for-aesthetic-box-personalization/"><u>[Updated] Ideal E-Commerce Avenues for Aesthetic Box Personalization</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-growth-in-focus-building-a-foundation-of-youtube-backlinks/"><u>2024 Approved Growth in Focus Building a Foundation of YouTube Backlinks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-extend-the-usage-of-your-gopro-battery/"><u>2024 Approved How to Extend the Usage of Your GoPro Battery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-to-flawlessly-insert-chapters-into-your-youtube-content/"><u>2024 Approved Innovative Approaches to Flawlessly Insert Chapters Into Your YouTube Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unearthing-the-skies-hubsan-h501x4-quad-drone-analysis/"><u>2024 Approved Unearthing the Skies Hubsan H501X4 Quad Drone Analysis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-virtual-realms-with-top-gadgets-and-peripherals-for-2024/"><u>Explore Virtual Realms with Top Gadgets and Peripherals for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/five-fantastic-iphones-for-podcast-fans-for-2024/"><u>Five Fantastic iPhones for Podcast Fans for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-static-to-dynamic-making-text-pop-on-instagram-stories-for-2024/"><u>From Static to Dynamic Making Text Pop on Instagram Stories for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-examining-dji-phantom-3s-advanced-video-capture-tech/"><u>In 2024, Examining DJI Phantom 3’S Advanced Video Capture Tech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-controlling-playback-rate-on-snapchat/"><u>In 2024, The Ultimate Guide to Controlling Playback Rate on Snapchat</u></a></li>
-<li><a href="https://games-able.techidaily.com/peak-into-vrs-expensive-ecosystem-exploring-four-factors/"><u>Peak Into VR's Expensive Ecosystem: Exploring Four Factors</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-repair-for-photo/"><u>Stellar Repair for Photo</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-code-43-errors-strategies-for-successful-correction/"><u>Unraveling Code 43 Errors: Strategies for Successful Correction</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-picture-puns-smilesketchers/"><u>[New] 2024 Approved Picture Puns SmileSketchers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-navigating-youtubes-comprehensive-comments-section/"><u>[New] Expert Tips for Navigating YouTube's Comprehensive Comments Section</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-screen-sanctuary-your-haven-of-a-thousand-games/"><u>[New] In 2024, Screen Sanctuary Your Haven of a Thousand Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-showcasing-your-voice-podcast-features-on-insta/"><u>[New] In 2024, Showcasing Your Voice Podcast Features on Insta</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-broadcast-blueprint-for-enthralling-cricket-matches/"><u>[New] The Ultimate Broadcast Blueprint for Enthralling Cricket Matches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-list-prime-business-sky-saver/"><u>[Updated] Expert's List Prime Business Sky Saver</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funimate-unraveled-your-path-to-mastery/"><u>[Updated] Funimate Unraveled Your Path to Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-slow-motion-pro-tips-for-gopro-hero-10-users/"><u>[Updated] Harnessing the Power of Slow Motion Pro Tips for GoPro Hero 10 Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space/"><u>2024 Approved How to Smoothly Integrate Linktree Into Your TikTok Bio Space</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-fb-chat-emojis-and-glyphs-meanings/"><u>Decoding FB Chat Emojis & Glyphs Meanings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-elevate-your-iphone-photography-dive-into-hdr-for-2024/"><u>How to Elevate Your iPhone Photography Dive Into HDR for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-expert-tips-for-3d-text-designing-in-ai/"><u>In 2024, Expert Tips for 3D Text Designing in AI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-film-teasers-with-music-selections/"><u>In 2024, Harmonizing Film Teasers with Music Selections</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-essential-iphone-gadgets-and-enhancements-for-optimal-use/"><u>Top Essential iPhone Gadgets and Enhancements for Optimal Use</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Arch Linux Experience: How to Prevent 'Pacman' Mishaps with Smart Mirror Update Automation"
-date: 2025-02-06T16:23:37.377Z
-updated: 2025-02-09T16:44:31.135Z
+date: 2025-02-17T16:45:58.002Z
+updated: 2025-02-19T20:54:54.269Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 ---
 
 ## Streamline Your Arch Linux Experience: How to Prevent 'Pacman' Mishaps with Smart Mirror Update Automation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 * [Using Reflector on the Command Line](https://digital-screen-recording.techidaily.com/updated-video-sharing-warriors-which-fights-better-obs-or-twitch-studio-in-2024/)
 * [Using the Reflector Service](https://windows11.techidaily.com/optimal-pc-performance-tests/)
 * [Use the Timer and Update When You Want](https://youtube-clips.techidaily.com/new-dslr-vs-mirrorless-optimal-choice-for-video-production/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -58,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 ![The Arch Linux mirror list generator web page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I’m selecting "United Kingdom" from the scrolling list and "HTTPS" and "IPV4" from the checkboxes. I’ve selected the "Use Mirror Status" checkbox, so only active mirrors are included in the results.
@@ -77,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
     
 ![Editing the mirrolist file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Replace “gedit” with your favorite editor. Copy and paste the list you’ve just created into the mirrorlist file, replacing the original contents. Save the file and close your editor.
 
  pacman will now use our new list.
@@ -90,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
  In Arch Linux, Reflector isn’t installed by default, but in other Arch-based distributions, it might be.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Installing Reflector on Arch Linux
@@ -111,11 +107,19 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
     
 ![Making a copy of the mirrorlist file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This example _doesn’t_ overwrite your mirror list.
 
         `reflector --verbose --ipv4 --protocol https --score 10 --sort rate`
     
 ![A mirror list generated by Reflector in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The options we used were:
 
@@ -130,10 +134,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
         `reflector --help`
     
 ![The Reflector help output in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As we've seen, omitting the --save option lets you dry-run Reflector commands without putting your existing mirror list at risk. Let's include the --save option so that we update our mirrorlist file. You need to use sudo when using this option.
 
@@ -154,13 +154,13 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
     
 ![Using less to view the mirrorlist](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Reflector writes a timestamped header, so you can see when the last update happened.
 
 ![The contents of the mirrorlist file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Using the Reflector Service
 
@@ -174,10 +174,6 @@ sudo systemctl enable reflector.timer
                     sudo systemctl start reflector.timer
 
 ![Enabling and starting the Reflector timer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To edit the Reflector configuration file, use your favorite editor in this command:
 
@@ -198,10 +194,14 @@ sudo systemctl enable reflector.timer
 ![Editing the Reflector timer configuration file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/16.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We've described [how to configure timers in-depth](https://screen-activity-recording.techidaily.com/smooth-video-capture-with-your-laptops-webcam/) in another article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the Timer and Update When You Want
 
@@ -222,24 +222,19 @@ sudo systemctl enable reflector.timer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-high-definition-with-dell-p2715q-reviewed/"><u>[New] Exploring High-Definition with Dell P2715Q Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-online-radio-recordings-a-practical-handbook/"><u>[New] Free Online Radio Recordings - A Practical Handbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-picture-haven-a-review-of-the-best-10-online-resources/"><u>[New] Free Picture Haven A Review of the Best 10 Online Resources</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr/"><u>[New] Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-graphic-design-evolution-post-acid-review/"><u>[New] Graphic Design Evolution Post-ACID Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-inside-influence-a-peek-at-top-25-social-media-icons-on-insta/"><u>[Updated] 2024 Approved Inside Influence A Peek at Top 25 Social Media Icons on Insta</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-financial-arrangements-in-buying-guides-online/"><u>[Updated] Financial Arrangements in Buying Guides Online?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-delivery-using-luts-with-adobe-ae/"><u>[Updated] From Concept to Delivery Using LUTs with Adobe AE</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-game-changer-or-gamble-a-2021-review-of-vegas-pros-evolution/"><u>2024 Approved Game Changer or Gamble? A 2021 Review of Vegas Pro's Evolution</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-best-video-software-vlc-against-mx/"><u>2024 Approved Unveiling Best Video Software VLC Against MX</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/daily-convenience-showdown-claude-or-chatgpt-app-which-reigns-supreme/"><u>Daily Convenience Showdown: Claude or ChatGPT App, Which Reigns Supreme?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-instantly-install-bcm20702a0-driver-on-windows/"><u>How to Instantly Install BCM20702A0 Driver on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-m54-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy M54 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-camera-to-feed-ig-photo-tutorial/"><u>In 2024, From Camera to Feed IG Photo Tutorial</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-14-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi 14 Pro to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-a18-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo A18 Phone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-vllo-for-macos-download-now-and-consider-these-alternatives/"><u>Updated In 2024, VLLO for macOS Download Now and Consider These Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-your-chatgpt-with-todays-gpt-4-features/"><u>Upgrade Your ChatGPT with Today's GPT-4 Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-focus-on-the-essentials-mastering-close-up-in-videoleap-videos/"><u>[New] Focus on the Essentials Mastering Close-Up in Videoleap Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-android-potential-for-stunning-time-lapse-videos/"><u>[New] Harnessing Android Potential for Stunning Time-Lapse Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-iphoneandroid-blur-application-guide/"><u>[Updated] Expert iPhone/Android Blur Application Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-getting-your-vlogging-started-key-items-and-software/"><u>[Updated] Getting Your Vlogging Started Key Items & Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-maximize-video-reach-with-effective-tags-titles-for-2024/"><u>[Updated] How to Maximize Video Reach with Effective Tags, Titles for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-reviving-old-youtube-videos-steps-for-online-reclamation/"><u>[Updated] Reviving Old YouTube Videos Steps for Online Reclamation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluation-the-advantages-and-challenges-in-samsung-photo-tools-for-2024/"><u>Evaluation The Advantages & Challenges in Samsung Photo Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-video-lighting-advice-maximizing-visual-impact-for-2024/"><u>Expert Video Lighting Advice Maximizing Visual Impact for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-f34-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy F34 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-editors-eye-view-visualscape-pro-edition/"><u>In 2024, Editor's Eye View VisualScape Pro Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-daily-dose-of-anime-magic-from-15-top-web-sources/"><u>In 2024, Your Daily Dose of Anime Magic From 15 Top Web Sources</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-followers-footprints-trail-blazing-techniques/"><u>Insta Followers Footprints Trail-Blazing Techniques</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/tiktoks-take-jujutsu-kaisen-challenges-and-laughs-for-2024/"><u>TikTok's Take Jujutsu Kaisen Challenges and Laughs for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-10-steps-to-youtube-to-mpeg-conversion/"><u>Top 10 Steps to YouTube-to-MPEG Conversion</u></a></li>
 </ul></div>
 

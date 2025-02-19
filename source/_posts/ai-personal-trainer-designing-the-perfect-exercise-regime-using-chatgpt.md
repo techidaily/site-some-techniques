@@ -1,7 +1,7 @@
 ---
 title: "AI Personal Trainer: Designing the Perfect Exercise Regime Using ChatGPT"
-date: 2025-02-03T17:56:42.430Z
-updated: 2025-02-09T20:11:51.451Z
+date: 2025-02-14T17:05:59.283Z
+updated: 2025-02-19T16:05:51.776Z
 tags:
   - cutting-edge
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
  Have you been meaning to start exercising regularly but aren't sure where to get started? You can easily use ChatGPT to create a workout routine. While its suggestions may not be tailored perfectly to everyone’s needs, they serve as a good starting point for anyone wanting to improve their fitness.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ChatGPT Can Create Workout Routines. They Just Need Some Work Themselves
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![Asking ChatGPT to create a workout routine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/asking-chatgpt-to-create-a-workout-routine.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can therefore either reply to the above questions, or you can go ahead from the outset and specify the kind of workout regime you’d like. For example, you can write something along the lines of, "Create a gym workout routine intended to build upper body strength. I'm a beginner and am able to work out three times a week."
@@ -41,10 +41,14 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![ChatGPT creates a workout routine for strength.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/chatgpt-creates-a-workout-routine-for-strength.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It also needs to be stressed that you should make sure to state how experienced and fit you are, while providing your age, height and weight is also a good idea. If the routine ChatGPT produces seems a little too hard (or maybe easy), you should probably start again and make it clear that you want something slightly different.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Always Ask a Personal Trainer First
 
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 ![Changing jogging times with ChatGPT routine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/changing-jogging-times-with-chatgpt-routine.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Secondly, and more generally, they should also ask trainers whether the routines provided by ChatGPT are actually suitable for their needs. In my case, I created a workout routine for myself centered around upper body strength, and the member of staff I spoke to at my gym pointed out how it could potentially benefit from at least one more exercise focused on the chest.
 
  More importantly, while ChatGPT did nothing wrong in itself in terms of outlining a helpful routine for improving upper body strength, it often lacks the context and bigger picture that could provide people with more useful advice. This became clear when the same trainer I spoke to also suggested that I shouldn’t focus only on upper body strength, and that I should also be looking at improving my core and leg strength.
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
  So while ChatGPT did create a decent enough upper body workout, if it were comparable to a qualified professional it would have also recommended a more holistic approach. This becomes particularly important if you’re entering the gym because you’re recovering from a health condition or injury, with experienced trainers likely to ask about such factors and advise accordingly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Hybrid Approach Works Best
@@ -95,16 +95,19 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-redefining-realities-practical-vr-uses/"><u>[New] Redefining Realities Practical VR Uses</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-android-and-ios-leaderboard-of-ps2-emulation-software-for-2024/"><u>[Updated] Android & iOS Leaderboard of PS2 Emulation Software for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-top-5-iphone-podcast-apps-guide/"><u>[Updated] Exclusive Top 5 iPhone Podcast Apps Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hps-visionary-color-display-dissecting-the-z32x-monitor/"><u>[Updated] HP’s Visionary Color Display Dissecting the Z32X Monitor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fun-on-a-budget-meme-creators-handbook/"><u>2024 Approved Fun on a Budget – Meme Creator’s Handbook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-headset-havens-weighing-google-cardboard-against-samsung-gear/"><u>In 2024, Headset Havens Weighing Google Cardboard Against Samsung Gear</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infusing-life-into-collage-a-photogenic-approach-for-2024/"><u>Infusing Life Into Collage A Photogenic Approach for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/revive-system-efficiency-upgrading-graphics-driver-on-windows/"><u>Revive System Efficiency: Upgrading Graphics Driver on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-behringer-sound-premium-audio-drivers-for-immediate-download/"><u>Secure Your Behringer Sound - Premium Audio Drivers for Immediate Download</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unbeatable-prime-day-bargains-acers-top-deals-for-2euef24-savvy-shoppers/"><u>Unbeatable Prime Day Bargains: Acer's Top Deals for 2Euef24 Savvy Shoppers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-wont-my-backspace-key-work-uncover-common-problems-and-fixes/"><u>Why Won't My Backspace Key Work? Uncover Common Problems & Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-10-drone-set-professional-filming-and-photography/"><u>[New] Excellent 10-Drone Set Professional Filming & Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-zip-to-srt-the-conversion-process-unveiled/"><u>[New] From ZIP to SRT The Conversion Process Unveiled</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-toggle-between-normal-and-picture-in-picture-view-for-youtube-on-iphone/"><u>[New] Toggle Between Normal and Picture In Picture View for Youtube on iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-passport-photography-made-simple-our-top-10-picks-list/"><u>[Updated] Free Passport Photography Made Simple Our Top 10 Picks List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-protect-your-privacy-top-webcam-shields-ranked/"><u>[Updated] Protect Your Privacy - Top Webcam Shields Ranked</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professional-image-perfection-the-premier-iphone-object-removal-apps/"><u>2024 Approved Professional Image Perfection The Premier iPhone Object Removal Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/get-ahead-with-these-must-know-pixlr-techniques-for-2024/"><u>Get Ahead with These Must-Know Pixlr Techniques for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-xs-max-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone XS Max?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-examining-the-best-technology-for-crystal-clear-4k-visuals/"><u>In 2024, Examining the Best Technology for Crystal-Clear 4K Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fixing-skewed-views-in-internet-based-videos/"><u>In 2024, Fixing Skewed Views in Internet-Based Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-generate-official-travel-ready-portraits-download-10-free-photos-today/"><u>In 2024, Generate Official Travel-Ready Portraits – Download 10 FREE Photos Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-the-warzone-20-wont-load-error-on-pc-ultimate-guide-with-7-key-fixes/"><u>Troubleshoot the 'Warzone 2.0 Won't Load' Error on PC: Ultimate Guide with 7 Key Fixes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/twist-and-turn-tales-transforming-visual-content-on-instagram-platforms-for-2024/"><u>Twist and Turn Tales Transforming Visual Content on Instagram Platforms for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/wave-weaver-toolkit-for-2024/"><u>Wave Weaver Toolkit for 2024</u></a></li>
 </ul></div>
 

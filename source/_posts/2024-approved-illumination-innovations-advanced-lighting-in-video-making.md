@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Illumination Innovations  Advanced Lighting in Video Making\""
-date: 2024-07-26T15:09:59.352Z
-updated: 2024-07-27T15:09:59.352Z
+date: 2025-02-17T16:22:10.619Z
+updated: 2025-02-19T17:27:13.075Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -46,16 +50,21 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
@@ -69,46 +78,38 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 ## Summary
@@ -143,7 +144,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-top-20-anime-opener-hits/"><u>[New] Exploring Top 20 Anime Opener Hits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-your-perfect-match-high-quality-lipo-units-for-drones/"><u>[New] Finding Your Perfect Match High-Quality LiPo Units for Drones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-learn-to-record-high-quality-audio-with-audacity-mac/"><u>[New] In 2024, Learn to Record High-Quality Audio with Audacity, Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-iosandroid-playback-silent-youtube-autoplay-tips/"><u>[Updated] 2024 Approved IOS/Android Playback Silent YouTube Autoplay Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flawless-photo-management-on-iphone-size-adjustment-basics/"><u>[Updated] Flawless Photo Management on iPhone Size Adjustment Basics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-food-videography-how-to-shoot-food-videos/"><u>[Updated] Food Videography How to Shoot Food Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-fps-levels-in-slow-motion-cinema/"><u>[Updated] Ideal FPS Levels in Slow Motion Cinema</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-action-gopro-for-dynamic-time-lapses/"><u>2024 Approved Expertise in Action GoPro for Dynamic Time-Lapses</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-go-pro-karma-drone-review/"><u>2024 Approved Go Pro Karma Drone Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-steps-to-prevent-windows-11-photos-app-failures/"><u>2024 Approved Steps to Prevent Windows 11 Photos App Failures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-list-of-top-8-wallpapers-for-macbooks-for-2024/"><u>Exclusive List of Top 8 Wallpapers for MacBooks for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/expert-psd-overhaul-techniques/"><u>Expert PSD Overhaul Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-earnings-from-a-million-youtube-globals/"><u>In 2024, Earnings From a Million YouTube Globals</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-90-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor 90 FRP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fusionflicker-compiling-media-on-sierra-screens/"><u>In 2024, FusionFlicker Compiling Media on Sierra Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-a-journey-through-toms-hardware/"><u>Unveiling the Latest in Computing: A Journey Through Tom's Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winxvideo-ai-advanced-image-and-video-enhancement-tools-for-optimal-editing-conversion-recording/"><u>Winxvideo AI – Advanced Image & Video Enhancement Tools for Optimal Editing, Conversion, Recording</u></a></li>
+</ul></div>
 

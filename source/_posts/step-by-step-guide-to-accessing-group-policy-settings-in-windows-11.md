@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Accessing Group Policy Settings in Windows 11
-date: 2025-02-03T17:36:26.851Z
-updated: 2025-02-09T20:26:22.643Z
+date: 2025-02-15T21:26:29.408Z
+updated: 2025-02-19T20:57:17.032Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Step-by-Step Guide to Accessing Group Policy Settings in Windows 11
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,11 +34,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Windows 10 Local Group Policy Editor Window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows_10_group_policy_editor.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Group Policy Editor is a Microsoft Management Console app with the filename gpedit.msc, and it's usually located in the "C:\\Windows\\System32" folder.
 
  It's important to note that Group Policy Editor is _not_ available in Windows 10 or Windows 11 Home. It only ships with Windows 10 or Windows 11 Pro or Enterprise editions. If you're not sure [which edition of Windows you have](https://ai-video-apps.techidaily.com/new-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook-for-2024/), it's easy to find out. Open Settings, navigate to System > About, and you'll see it listed under Edition.
 
  There are several ways to open Group Policy Editor in Windows 10 and Windows 11, so we'll cover a handful of major ways to do it below. Each one will get you to the same place, so pick whichever suits you best.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Open the Group Policy Editor from the Start Menu
 
@@ -52,10 +56,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Launching the group policy editor from the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/launching-group-polciy-editor-from-start.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Open the Group Policy Editor from the "Run" Window
 
  You can also quickly launch the Group Policy Editor with a Run command. Press Windows+R on your keyboard to open the Run window, type **gpedit.msc**, and then hit Enter or click "OK."
@@ -63,7 +63,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Press Windows+R, then type gpedit and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gpedit-from-run-box.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Open the Group Policy Editor from the Command Prompt
@@ -73,7 +73,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Enter gpedit into Command Promp, then press Enter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Launch the Group Policy Editor from Settings
@@ -81,10 +85,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can also launch the Group Policy Editor from the Settings app. Press Windows+i to open Settings (or [launch the Settings app](https://extra-lessons.techidaily.com/affordable-laptop-friendly-software-for-dvd-viewing/) however you normally might), then type **group policy** or **edit group policy** in the search bar in the upper-left corner. Click the "Edit Group Policy" result that appears. 
 
 ![Enter group policy into the search bar on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/from-the-settings-app.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Open the Group Policy Editor from Control Panel
 
@@ -109,24 +109,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-focused-freedom-advanced-mounting-solutions-for-phonescams/"><u>[New] Focused Freedom Advanced Mounting Solutions for Phones/Cams</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extensive-eye-level-surveillance-guide/"><u>[Updated] Extensive Eye-Level Surveillance Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-techniques-for-broadcasting-purpose-driven-lifestyle-plays/"><u>[Updated] Techniques for Broadcasting Purpose-Driven Lifestyle Plays</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-10-finest-iphone-photo-editors-and-filters/"><u>2024 Approved Explore the 10 Finest iPhone Photo Editors & Filters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-and-heartbreak-the-vhs-story-of-goofy-movie/"><u>2024 Approved Humor and Heartbreak The VHS Story of Goofy Movie</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/chromebook-video-editing-software-top-10-online-options/"><u>Chromebook Video Editing Software Top 10 Online Options</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ensure-your-podcasts-success-on-googles-uploading-service/"><u>Ensure Your Podcast’s Success on Google's Uploading Service</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000111391-guide-to-resolving-assassins-creed-odyssey-pc-malfunctions-swift-and-simple-solutions-available/"><u>Guide to Resolving 'Assassin's Creed Odyssey' PC Malfunctions – Swift and Simple Solutions Available</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-the-magic-of-photography-and-video-with-pixiz-for-2024/"><u>Harness the Magic of Photography and Video with Pixiz for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-start-participate-in-and-organize-zoom-calls-for-android-users-for-2024/"><u>How to Start, Participate in, and Organize Zoom Calls for Android Users for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideas-for-efficiently-using-gopro-power-supplies-for-2024/"><u>Ideas for Efficiently Using GoPro Power Supplies for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-beginners-primer-to-ps4-gameplay-screenshots-and-streaming/"><u>In 2024, A Beginner's Primer to PS4 Gameplay Screenshots and Streaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-resolution-spaces-for-online-viewers/"><u>In 2024, High-Resolution Spaces for Online Viewers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-subtitle-edits-rank-the-top-10-programs-for-2024/"><u>Innovative Subtitle Edits – Rank the Top 10 Programs for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-and-installing-linksys-ae2500s-newest-driver-update/"><u>Quick Guide to Downloading and Installing Linksys AE2500's Newest Driver Update</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/resizing-youtube-images-step-by-step-guide/"><u>Resizing YouTube Images Step-by-Step Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/revolutionize-your-broadcasts-discover-the-power-of-manycams-virtual-webcam-technology/"><u>Revolutionize Your Broadcasts: Discover the Power of ManyCam's Virtual Webcam Technology</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-asus-rog-phone-7-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Asus ROG Phone 7 Location | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-are-my-iphones-text-messages-arriving-late-explore-9-fixes/"><u>Why Are My iPhone's Text Messages Arriving Late? Explore 9 Fixes</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-optimal-8-video-tools-to-boost-live-viewership/"><u>[New] 2024 Approved Optimal 8 Video Tools to Boost Live Viewership</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-black-vs-yi-4k-action-camera-which-is-better/"><u>[New] GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unveiling-vrs-elite-accessories-top-10/"><u>[New] In 2024, Unveiling VR's Elite Accessories (Top 10)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-comparison-best-tablets-that-outshine-filmoras-capabilities/"><u>[New] The Ultimate Comparison Best Tablets That Outshine Filmora's Capabilities</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-sharing-wisdom-the-art-of-insta-duplication/"><u>[Updated] 2024 Approved Sharing Wisdom The Art of Insta Duplication</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fresh-talent-and-stunts-in-skating-highlights/"><u>[Updated] Fresh Talent and Stunts in Skating Highlights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fundamentals-of-motion-design-and-practical-application/"><u>[Updated] Fundamentals of Motion Design & Practical Application</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-ready-to-save-space-with-these-38-exceptional-android-compressor-apps/"><u>[Updated] Get Ready to Save Space with These 38 Exceptional Android Compressor Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infinite-frontier-the-best-sci-fi-films-that-redefine-universes/"><u>[Updated] Infinite Frontier The Best Sci-Fi Films That Redefine Universes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-heroic-duel-noir-knights-vs-aurora-guardians/"><u>2024 Approved Heroic Duel Noir Knights Vs Aurora Guardians</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-securely-saving-every-word-of-your-skype-chats/"><u>2024 Approved Securely Saving Every Word of Your Skype Chats</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-vlc-analysis-and-substitutes-revisited/"><u>2024 Approved VLC Analysis & Substitutes Revisited</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-play-your-iphone-videos-backward-for-2024/"><u>How to Play Your iPhone Videos Backward for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-pursuit-of-perfection-does-picku-outshine-other-android-tools/"><u>In Pursuit of Perfection Does PickU Outshine Other Android Tools?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/personalizing-the-ios-18-control-center-on-your-iphone-a-comprehensive-guide/"><u>Personalizing the iOS 18 Control Center on Your iPhone - A Comprehensive Guide</u></a></li>
 </ul></div>
 

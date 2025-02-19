@@ -1,7 +1,7 @@
 ---
 title: "Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?"
-date: 2025-01-23T22:32:07.602Z
-updated: 2025-01-29T07:19:43.790Z
+date: 2025-02-16T17:35:44.051Z
+updated: 2025-02-19T19:27:53.247Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 ---
 
 ## Understanding Artificial Intelligence: Does ChatGPT Experience Hallucinations?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
  Many of us think hallucinations are solely a human experience. However, even esteemed AI chatbots have the ability to hallucinate in their own way. But what exactly is AI hallucination, and how does it affect AI chatbots' responses?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is AI Hallucination?
@@ -81,10 +77,6 @@ Jason Montoya / How-To Geek
 
  The creator of Claude, Anthropic, has publicly stated that its chatbot can hallucinate. In an [Anthropic notice](https://docs.anthropic.com/claude/docs/claude-is-hallucinating), titled "Claude is hallucinating", it was stated that, despite Anthropic's efforts to minimize occurrences of hallucinations, they still happen. Specifically, Anthropic stated that the issue of hallucinations in Claude's responses "is not fully solved yet."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Observing AI Hallucinations
 
  We gave ChatGPT a contradictory scenario, and asked it to answer a question concerning the scenario. As you can see below, we interchanged facts multiple times in an effort to confuse the chatbot.
@@ -97,6 +89,10 @@ Jason Montoya / How-To Geek
 
 ![Screenshot of Claude AI bot's response to problem solving prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/claude-answer-problem.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this case, Claude missed both height inconsistencies, but still tried to solve the problem. It also provided nonsensical sentences, such as "He jumps off the building, so will fall 200 feet total (100 foot building height + 100 feet to ground).
 
  The [Google Bard chatbot](https://video-screen-grab.techidaily.com/new-master-the-art-of-gameye-and-webcam-recordings/) approached the same problem with a more mathematical step-by-step approach, but still failed to notice the contradictions in the prompt. Though the mathematical process was sound, the chatbot still provided a hallucinatory response.
@@ -104,10 +100,14 @@ Jason Montoya / How-To Geek
 ![Screenshot of Google Bard's response to a nonsensical prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/bard-answer-ai.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this instance, all three of the popular AI chatbots tested failed, either partially or entirely, to spot the errors in the prompt, giving way to hallucinatory responses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How AI Chatbots Are Improving
 
@@ -118,10 +118,6 @@ Jason Montoya / How-To Geek
  According to a [study conducted by Vectara](https://github.com/vectara/hallucination-leaderboard), GPT-4 and GPT-4 Turbo have the lowest rates of hallucination compared to other AI models. GPT-4 and GPT-4 Turbo had a hallucination rate of three percent, with GPT-3.5 Turbo coming in second place, having a hallucination rate of 3.5 percent. Evidently, the newer GPT versions have an improved hallucination rate here.
 
  Anthropic's Claude 2 had a hallucination rate of 8.5 percent, though time will tell whether Claude 2.1 (released in November 2023) will have a lower rate. Google's Gemini Pro AI model, the successor to LaMDA and Palm 2, had a hallucination rate of 4.8 percent. While Vectara did not provide a rate for the first Claude model, it did state that Google Palm 2 and Google Palm 2 chat had very high hallucination rates of 12.1 percent and 27.2 percent respectively. Again, it's evident that the newer Google AI model has cracked down on hallucinations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Avoid AI Hallucination
 
@@ -138,6 +134,10 @@ Jason Montoya / How-To Geek
  It's also important to fact-check any information an AI chatbot gives you. While these tools can be great factual resources, hallucination can give way to misinformation, so [AI chatbots shouldn't be used as a substitute to web search](https://vp-tips.techidaily.com/updated-unveiling-the-1-to-5-of-windows-free-screen-capture-apps-for-2024/).
 
  If you're very worried about AI hallucination, you may want to steer clear of AI chatbots for now, as hallucination is evidently still a prominent issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Be Wary of AI Hallucination
 
@@ -158,20 +158,24 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-applications-for-video-from-pics/"><u>[New] Expert Applications for Video From Pics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-framework-for-cost-analysis-in-music-video-making/"><u>[New] Framework for Cost Analysis in Music Video Making</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-chaos-unleashed-to-organized-oasis-edit-your-hefty-tiktoks/"><u>[New] From Chaos Unleashed to Organized Oasis Edit Your Hefty TikToks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-8-best-free-video-editing-software-for-youtube-for-2024/"><u>[Updated] 8 Best Free Video Editing Software for YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-direct-to-your-library-simple-windows-and-mac-techniques-for-downloading-igtv-for-2024/"><u>[Updated] Direct to Your Library Simple Windows & Mac Techniques for Downloading IGTV for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hearing-from-you-simple-windows-10-recorder-guide/"><u>[Updated] Hearing From You Simple Windows 10 Recorder Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>[Updated] In the Editor's Shadows Top Tips for Outstanding Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglegallery-log-in-and-make-magic-videos/"><u>2024 Approved GiggleGallery Log In and Make Magic Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-guide-industrys-favorites/"><u>2024 Approved Gimbal Guide Industry's Favorites</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dive-into-the-latest-features-of-apples-most-recent-ipad-release/"><u>Dive Into the Latest Features of Apple's Most Recent iPad Release</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974710557-graphical-gone-wrong-monster-hunts-fix-successful/"><u>Graphical Gone Wrong? Monster Hunt's Fix Successful</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-does-t-series-generate-revenue/"><u>How Does T-Series Generate Revenue?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-zero-5g-2023-turbo-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Zero 5G 2023 Turbo to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/transformative-techniques-looping-videos-that-engage-instagram-users/"><u>Transformative Techniques Looping Videos That Engage Instagram Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-sets-auto-gpt-apart-from-the-popular-chatgpt-exploring-key-differences/"><u>What Sets Auto-GPT Apart From the Popular ChatGPT? Exploring Key Differences</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-7-pulse-pounding-workouts-that-gain-traction-on-social-media/"><u>[Updated] In 2024, 7 Pulse-Pounding Workouts That Gain Traction on Social Media</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-builds-for-a-thriving-mc-village-homes/"><u>2024 Approved Best Builds for a Thriving MC Village Homes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluation-the-advantages-and-challenges-in-samsung-photo-tools/"><u>2024 Approved Evaluation The Advantages & Challenges in Samsung Photo Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-meme-mastery-top-resources-for-creative-folks/"><u>2024 Approved Free Meme Mastery Top Resources for Creative Folks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaining-unauthorized-entry-to-c-spans-vault/"><u>2024 Approved Gaining Unauthorized Entry to C-Span's Vault</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-heavy-haulers-face-off-t5-or-sjcam-s6-legend/"><u>2024 Approved Heavy Haulers Face-Off T5 or SJCAM S6 Legend?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-burst-mode-enhances-gopro-videos/"><u>2024 Approved How Burst Mode Enhances GoPro Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-optimize-your-browsing-with-ffxp/"><u>2024 Approved How to Optimize Your Browsing with FFXP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-perfectly-blend-audiotracks-in-slideshows/"><u>2024 Approved How to Perfectly Blend Audiotracks in Slideshows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-snip-save-and-share-high-quality-tamil-ringtones-easily/"><u>2024 Approved How to Snip, Save and Share High-Quality Tamil Ringtones Easily</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-innovative-insights-for-streaming-success-on-tiktoks-computer-interface/"><u>2024 Approved Innovative Insights for Streaming Success on TikTok's Computer Interface</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-google-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Google Fingerprint Lock</u></a></li>
+<li><a href="https://article-tips.techidaily.com/drone-innovation-reimagined-with-the-q500-typhoon-for-2024/"><u>Drone Innovation Reimagined with the Q500 Typhoon for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellence-in-quality-leading-4k-panels-for-filmmaking-for-2024/"><u>Excellence in Quality Leading 4K Panels for Filmmaking for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/italy-blocks-chatgpt-overnight-the-motivation/"><u>Italy Blocks ChatGPT Overnight: The Motivation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-blend-of-style-and-functionality-in-samsung-un6n-ru8000fxza-detailed-review/"><u>The Blend of Style & Functionality in Samsung UN6n-RU8000FXZA - Detailed Review</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-document-and-photo-scanners-the-ultimate-selection/"><u>Top-Rated Document & Photo Scanners: The Ultimate Selection</u></a></li>
 </ul></div>
 

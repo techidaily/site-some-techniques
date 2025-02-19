@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden System Files in Windows 11: A Comprehensive Guide"
-date: 2025-02-02T19:02:03.650Z
-updated: 2025-02-09T17:33:34.042Z
+date: 2025-02-14T16:47:49.908Z
+updated: 2025-02-19T17:05:59.810Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ---
 
 ## Unveiling Hidden System Files in Windows 11: A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  Once you have File Explorer open, you can proceed with the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Show Hidden Files on Windows 11 the Easy Way
@@ -44,14 +48,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ![show hidden files on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/Screenshot-2022-12-22-at-2.06.44-PM.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll immediately be able to start seeing regular hidden files this way. You won't, however, be able to see protected operating system files. To see those, keep reading below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Show Hidden Files on Windows 11 Using Options
 
@@ -63,15 +63,19 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 ![Click the "View" tab, then select "Show Hidden Files and folders."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/go-to-view-tba.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hidden files and folders will instantly become visible in File Explorer and on your desktop. When you see them, their icons will have a slightly translucent or faded appearance.
 
 ![A hidden folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/hidden-folder.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to hide them again later, use "Options" in File Explorer to open Folder Options again, click "View," select "Don't show hidden files, folders, or drives," and click "OK."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Show Protected Operating System Files in Windows 11
 
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  If you know what you're doing and are willing to accept the risks, click "Yes."
 
 ![Click "Yes" to confirm that you want to reveal protected files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/click-yes.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then close the Folder Options window by pressing "OK." As with the hidden files revealed in the section above, protected operating system files will appear translucent on your desktop and in File Explorer.
 
@@ -112,19 +112,14 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-childhood-wings-5-best-drone-companions/"><u>[New] 2024 Approved Childhood Wings 5 Best Drone Companions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-screen-grab-mastery-for-windows-users-3-techniques/"><u>[New] 2024 Approved Screen Grab Mastery for Windows Users (3 Techniques)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-attract-and-retain-more-viewers-on-youtube/"><u>[New] How to Attract and Retain More Viewers on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-action-spectacular-the-full-t5-camera-review/"><u>[New] In 2024, Action Spectacular The Full T5 Camera Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-extra-memory-for-sony-a7c-model/"><u>[Updated] Ideal Extra Memory for Sony A7C Model</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-benq-sw320-the-4k-visionary/"><u>2024 Approved Examining BenQ SW320 The 4K Visionary</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporating-industry-standards-working-with-cg-centrals-luts-in-post-production/"><u>2024 Approved Incorporating Industry Standards Working with CG Central's LUTs in Post-Production</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-streamline-editing-with-these-10-leading-software-tools/"><u>2024 Approved Streamline Editing with These 10 Leading Software Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capturing-desktop-image-on-windows-editions/"><u>Capturing Desktop Image on Windows Editions</u></a></li>
-<li><a href="https://win-unique.techidaily.com/enhance-pc-efficiency-learn-how-to-track-memory-and-processor-usage-for-speed-boost-insights-by-yl-software-solutions/"><u>Enhance PC Efficiency: Learn How to Track Memory & Processor Usage for Speed Boost - Insights by YL Software Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-golden-5-premier-macsierra-dvd-makers/"><u>In 2024, Golden 5 Premier MacSierra Dvd Makers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-tecno-spark-go-2023-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Tecno Spark Go (2023) Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/initiate-the-art-of-movie-making-xp-edition-for-2024/"><u>Initiate the Art of Movie Making Xp Edition for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/jpeg-movavi-jpg/"><u>고품질 JPEG 변환 소프트웨어 - Movavi JPG 변환 도구</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-your-camera-and-drone-with-a-pro-gimbal/"><u>[New] Harmonizing Your Camera and Drone with a Pro Gimbal</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-balancing-act-managing-your-off-facebook-activity-displays/"><u>[New] In 2024, The Balancing Act Managing Your Off-Facebook Activity Displays</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-video-magic-quick-angular-and-joint-editing-on-android/"><u>[New] In 2024, Video Magic Quick Angular and Joint Editing on Android</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-essential-skills-importing-snapchat-images-into-device-gallery/"><u>[Updated] Essential Skills Importing Snapchat Images Into Device Gallery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-face-off-a-detailed-comparison-guide/"><u>[Updated] GoPro Face-Off A Detailed Comparison Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-versatility-of-magix-designer/"><u>2024 Approved Exploring the Versatility of MAGIX Designer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-xbox-gameplay-perfect-screen-recording-guide/"><u>2024 Approved Xbox Gameplay Perfect Screen Recording Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highest-scoring-smartphone-cameras-for-video-making/"><u>In 2024, Highest Scoring Smartphone Cameras for Video Making</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-linking-your-pinterest-and-facebook-presence-seamlessly/"><u>The Ultimate Tutorial: Linking Your Pinterest and Facebook Presence Seamlessly</u></a></li>
 </ul></div>
 

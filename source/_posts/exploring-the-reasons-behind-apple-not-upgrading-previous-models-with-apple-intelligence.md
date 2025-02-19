@@ -1,7 +1,7 @@
 ---
 title: Exploring the Reasons Behind Apple Not Upgrading Previous Models with 'Apple Intelligence'
-date: 2025-02-06T18:17:14.135Z
-updated: 2025-02-09T16:56:06.133Z
+date: 2025-02-14T18:26:44.152Z
+updated: 2025-02-19T20:55:26.302Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Exploring the Reasons Behind Apple Not Upgrading Previous Models with 'Apple Intelligence'
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -22,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How Well Will Apple Intelligence Perform on M1 Chips?](https://some-techniques.techidaily.com/new-expert-picks-for-mp4-audio-gear/)
 * [Changes I Want to See in Apple Intelligence in the Future](https://some-guidance.techidaily.com/streamlined-guide-to-ingesting-ipodcast-content-for-2024/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * According to John Giannandrea, Apple's AI chief, older iPhones won't be getting Apple Intelligence because they don't have enough processing power to run it smoothly.
@@ -33,10 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Apple also has Private Cloud Compute, which Apple Intelligence can tap into when it thinks that the processing power on your device isn't sufficient and needs cloud resources to complete the task.
 
  Even though Apple Intelligence looks genuinely innovative, it's getting a lot of backlash due to its availability. The feature won't be coming to most iPhones on the market, even though they are technically capable of running it. But there is a very compelling reason behind this decision.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Apple Intelligence Is Not Coming to Older iPhones
 
@@ -67,12 +59,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![iPhone 15 Pro and 14 Pro NPU comparission](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/iphone-15-pro-and-14-pro-npu-comparission.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Furthermore, the iPhone 15 and all previous iPhone models have less than 8GB of RAM, which is currently the minimum RAM requirement to run Apple Intelligence on Apple devices. In short, the weaker NPU and a lack of RAM prevent it from running Apple Intelligence well.
 
  Additionally, John Giannandrea mentioned that if the plan were to withhold Apple Intelligence from older devices to boost sales of new ones, the company wouldn't be bringing it to older iPads and Macs either. This isn't the case, as Apple Intelligence is even coming to devices with the [M1 chip](https://hardware-help.techidaily.com/expert-guide-finding-and-installing-the-right-drivers-for-your-hp-thunderbolt-g2-dock-whether-you-need-120w-or-230w-power-support/), which was released back in 2020.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple and Privacy, A Never-Ending Story
@@ -85,19 +81,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Importantly, Apple mentions that "personal user data sent to PCC isn't accessible to anyone other than the user—not even to Apple." This means that unlike cloud servers used by other generative AI platforms, the data processed on Private Cloud Compute will not be accessible to anyone, even the company hosting the servers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Well Will Apple Intelligence Perform on M1 Chips?
 
  Apple Intelligence is compatible with M1 chips released back in 2020, which are almost four years old now. The Geekbench ML NPU score of the 3rd generation iPad Pro is 2688, which is significantly lower than the iPhone 15 Pro's score of 3640\. This lower NPU score suggests that Apple Intelligence performance on M1 chips should be slower compared to what you'll get with the latest chipset, like the M3.
 
 ![iPad Pro NPU score.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ipad-pro-npu-score.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For instance, on devices with M1 chips, you might be able to access [Intelligence features](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) like Writing Tools, Priority Messages, and Smart Reply. However, your device might struggle with more advanced processing tasks like Image Playground and Genmoji.
 
  To address potential performance limitations, Apple might use Private Cloud Compute. However, this is just speculation, and everything will become clearer when Apple Intelligence arrives on your devices this fall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Changes I Want to See in Apple Intelligence in the Future
 
@@ -122,21 +122,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-full-scoop-unveiling-googles-podcast-application/"><u>[New] Full Scoop Unveiling Google's Podcast Application</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-master-artwork-accelerated-techniques-for-editing-photos-on-pc/"><u>[New] Master Artwork Accelerated Techniques for Editing Photos on PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-no-followers-to-a-million-top-15-tricks-to-become-an-instagram-phenomenon-for-2024/"><u>[Updated] From No Followers to a Million Top 15 Tricks to Become an Instagram Phenomenon for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-mastering-the-art-of-selecting-premium-free-srt-translation-services-for-2024/"><u>[Updated] Mastering the Art of Selecting Premium Free SRT Translation Services for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-software-showdown-sns-vs-others/"><u>2024 Approved HDR Software Showdown SNS vs Others</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/avoiding-motion-illusions-tips-for-vr-users-for-2024/"><u>Avoiding Motion Illusions Tips for VR Users for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-edge-of-screen-innovation-with-benq-sw320-for-2024/"><u>Exploring the Edge of Screen Innovation with BenQ SW320 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fine-tuning-your-fly-top-tips-for-choosing-drone-propellers-for-2024/"><u>Fine-Tuning Your Fly Top Tips for Choosing Drone Propellers for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-mute-system-errors-restore-speakers-immediately/"><u>Fix Mute System Errors: Restore Speakers Immediately</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harnessing-the-power-of-zooms-video-features-on-youtube-platform-for-2024/"><u>Harnessing the Power of Zoom's Video Features on YouTube Platform for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-in-depth-world-of-magix-video-pro-x/"><u>In 2024, Exploring the In-Depth World of Magix Video Pro X</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopros-battle-royale-hero5-b-stacked-against-session/"><u>In 2024, GoPro's Battle Royale Hero5 B Stacked Against Session</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-songs-and-visuals-adding-youtube-music-to-videos/"><u>In 2024, Harmonizing Songs and Visuals Adding YouTube Music to Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-5-premium-ps1-game-simulators-for-pc-gamers/"><u>[New] 5 Premium PS1 Game Simulators for PC Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-asus-proart-329q-4k-monitor-capabilities/"><u>[New] Exploring the Asus ProArt 329Q 4K Monitor Capabilities</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-expert-advice-on-crafting-effective-youtube-video-tags-for-2024/"><u>[Updated] Expert Advice on Crafting Effective YouTube Video Tags for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gaming-and-beyond-a-deep-dive-into-the-cg318-4k-from-eizo/"><u>2024 Approved Gaming and Beyond A Deep Dive Into the CG318-4K From EIZO</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-improve-video-quality-in-zoom-meetings/"><u>2024 Approved How to Improve Video Quality in Zoom Meetings?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-instantly-recover-lost-reddit-posts/"><u>2024 Approved How to Instantly Recover Lost Reddit Posts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implement-shutter-speed-blurring-in-psx/"><u>2024 Approved Implement Shutter Speed Blurring in PSX</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approaches-to-lut-creation/"><u>2024 Approved Innovative Approaches to LUT Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-for-creating-standout-instagram-collages/"><u>2024 Approved Innovative Methods for Creating Standout Instagram Collages</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-film-techniques-flawless-virtual-backdrops-integration/"><u>2024 Approved Instagram Film Techniques Flawless Virtual Backdrops Integration</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-rotation-riddle-decoding-the-secrets-of-video-swapping-on-social-media/"><u>2024 Approved The Rotation Riddle Decoding the Secrets of Video Swapping on Social Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-communication-frontiers-10-critical-comparisons-between-bings-and-microsofts-chatgpt/"><u>Exploring AI Communication Frontiers - 10 Critical Comparisons Between Bing’s and Microsoft’s ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/foremost-haptic-feedback-devices-providers-for-2024/"><u>Foremost Haptic Feedback Devices Providers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-complete-guide-to-help-you-choose-the-best-hdr-cameras/"><u>In 2024, Complete Guide to Help You Choose the Best HDR Cameras</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-humor-hacks-simplifying-the-process-of-meme-creation/"><u>In 2024, Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/integrating-a-usb-scanner-into-your-lan-guidelines-from-yl-computing-experts/"><u>Integrating a USB Scanner Into Your LAN: Guidelines From YL Computing Experts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ranking-the-finest-five-screen-snipers-in-windows/"><u>Ranking the Finest Five Screen Snipers in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-no-sound-issues-easy-steps-for-clearer-calls-and-music/"><u>Solving iPhone No-Sound Issues: Easy Steps for Clearer Calls and Music</u></a></li>
 </ul></div>
 

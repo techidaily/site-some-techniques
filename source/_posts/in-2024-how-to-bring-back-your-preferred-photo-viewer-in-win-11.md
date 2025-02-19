@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Bring Back Your Preferred Photo Viewer in Win 11"
-date: 2025-01-08T16:48:05.718Z
-updated: 2025-01-15T17:15:13.630Z
+date: 2025-02-13T19:44:19.437Z
+updated: 2025-02-19T16:59:16.387Z
 tags: 
   - screen-recording
   - ai video
@@ -37,7 +37,7 @@ Stay tuned to learn more!
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why you prefer Windows Photo Viewer
@@ -70,7 +70,7 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
@@ -91,16 +91,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -112,7 +112,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -130,20 +130,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-advice-on-acquiring-royalty-free-high-quality-graphics/"><u>[New] Expert Advice on Acquiring Royalty-Free, High-Quality Graphics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fresh-selection-of-engagement-prompts-for-audio-audiences/"><u>[New] Fresh Selection of Engagement Prompts for Audio Audiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-text-to-screen-srt-to-subc-transformation-tips/"><u>[New] From Text to Screen SRT-to-SUBC Transformation Tips</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ioneering-proficiency-the-complete-guide-to-music-and-media-fusion-on-youtube-for-2024/"><u>[New] Pioneering Proficiency The Complete Guide to Music & Media Fusion on YouTube for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-bold-creation-mastering-timelapses-and-animations-with-movie-maker/"><u>[Updated] Bold Creation Mastering Timelapses & Animations with Movie Maker</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-quick-guide-to-video-extraction-from-youtube/"><u>[Updated] Quick Guide to Video Extraction From YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-chime-catcher-where-to-securely-download-tones/"><u>2024 Approved Chime Catcher Where to Securely Download Tones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-nubia-red-magic-9-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-a-beginners-pathway-to-iphone-audio-memos/"><u>In 2024, A Beginner's Pathway to iPhone Audio Memos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exceptional-aspects-of-inexpensive-asmr-microphones/"><u>In 2024, Exceptional Aspects of Inexpensive ASMR Microphones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-formula-field-report-game-reviews/"><u>In 2024, FORMULA FIELD REPORT Game Reviews</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-run-a-giveaway-facebook-post/"><u>In 2024, How to Run a Giveaway Facebook Post</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-clarity-combatting-unwanted-motion/"><u>In 2024, Image Clarity Combatting Unwanted Motion</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-youtube-studio-edits-demystified-for-aspiring-filmmakers/"><u>In 2024, YouTube Studio Edits Demystified for Aspiring Filmmakers</u></a></li>
-<li><a href="https://win-popular.techidaily.com/master-guide-optimizzazione-e-installazione-di-un-nuovo-ssd-su-alienware-m17-r5/"><u>Master Guide: Optimizzazione E Installazione Di Un Nuovo SSD Su Alienware M17 R5</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-enrich-your-viewing-habit-with-essential-movie-channels/"><u>[Updated] 2024 Approved Enrich Your Viewing Habit with Essential Movie Channels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-cyber-currents-videos-flow-on-twitter-wave-for-2024/"><u>[Updated] Cyber Currents Videos Flow on Twitter Wave for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-real-time-vs-recorded-entertainment-twitch-vs-youtube-analysis/"><u>[Updated] Real-Time vs Recorded Entertainment Twitch vs YouTube Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-thankful-compilation-professional-and-personalized-otus/"><u>[Updated] Thankful Compilation Professional & Personalized OTUs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-snap-in-hours-stars-quick-hit-video-winners/"><u>2024 Approved Snap-in-Hours Stars Quick Hit Video Winners</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210547932-expert-advice-eliminate-error-code-0x80072efd-from-windows-10-step-by-step-fixes/"><u>Expert Advice: Eliminate Error Code 0X80072EFD From Windows 10 - Step-by-Step Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-there-was-a-problem-boot-failures-on-your-windows-eighteen-machine/"><u>Expert Tips for Repairing ‘There Was a Problem’ Boot Failures on Your Windows Eighteen Machine</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-leader-mastering-social-media-marketing-smm-in-10-steps-for-2024/"><u>From Novice to Leader Mastering Social Media Marketing (SMM) in 10 Steps for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-obscurity-to-the-top-the-seo-playbook-for-podcasters-for-2024/"><u>From Obscurity to the Top The SEO Playbook for Podcasters for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-raw-files-to-artwork-beginners-guide-to-lunapic-for-2024/"><u>From Raw Files to Artwork Beginner’s Guide to LunaPic for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-storyboards-to-shortcuts-instra-to-tiksync-guide-for-2024/"><u>From Storyboards to Shortcuts Instra-to-TikSync Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-zero-to-trendsetter-solo-podcast-success-story-for-2024/"><u>From Zero to Trendsetter Solo Podcast Success Story for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frugal-shopping-for-cheap-vr-headsets-china-for-2024/"><u>Frugal Shopping for Cheap VR Headsets (China) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fusing-fun-and-functionality-top-6-engaging-video-formats-for-2024/"><u>Fusing Fun and Functionality Top 6 Engaging Video Formats for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/future-worlds-converge-or-diverge-metaverse-vs-omniverse-debated-for-2024/"><u>Future Worlds Converge or Diverge? Metaverse Vs. Omniverse Debated for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gamer-gold-grindings-pewdiepies-profit-profile-for-2024/"><u>Gamer Gold Grindings PewDiePie's Profit Profile for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-moto-g34-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Moto G34 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-news.techidaily.com/vrije-gratis-software-voor-oprichtingen-van-sd-drives/"><u>Vrije Gratis Software Voor Oprichtingen Van SD-Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/xmas-joy-gifting-apps-on-microsoft-store-platform/"><u>Xmas Joy: Gifting Apps on Microsoft Store Platform</u></a></li>
 </ul></div>
 

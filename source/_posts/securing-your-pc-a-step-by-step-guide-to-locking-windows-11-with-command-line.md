@@ -1,7 +1,7 @@
 ---
 title: "Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line"
-date: 2025-02-05T19:31:04.282Z
-updated: 2025-02-09T19:12:46.614Z
+date: 2025-02-17T18:25:47.270Z
+updated: 2025-02-19T16:43:25.179Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,18 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
 ## Securing Your PC: A Step-by-Step Guide to Locking Windows 11 with Command Line
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,15 +32,15 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Lock Your Windows 10 PC Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by opening the Start menu, typing “cmd” in the Windows Search bar, and then selecting “Command Prompt” from the search results.
 
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
 
@@ -40,14 +48,10 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
@@ -57,10 +61,6 @@ Rundll32.exe user32.dll,LockWorkStation
  To do this, you’ll need to [open Command Prompt as an admin](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Do so by typing “cmd” in the Windows Search bar and then right-clicking “Command Prompt” from the results. Next, select “Run As Administrator” from the menu that appears.
 
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With Command Prompt open, run this command.
 
@@ -73,7 +73,7 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
@@ -101,20 +101,18 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>[New] From Zip to Sub Transforming Compressed Texts to SRT Format</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-make-your-solitary-voice-resonate/"><u>[New] How To Make Your Solitary Voice Resonate</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>[New] Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unlocking-the-power-of-skype-recordings-on-windows-and-mac-for-2024/"><u>[New] Unlocking the Power of Skype Recordings on Windows & Mac for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-best-soundshapers-for-content-makers-on-youtube-for-2024/"><u>[Updated] Best Soundshapers for Content Makers on YouTube for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-free-fcp-download-options/"><u>[Updated] Explore FREE FCP Download Options</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>[Updated] Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-everyday-use-to-extraordinary-virtual-adventures-smartphone-vr-conversion-guide/"><u>2024 Approved From Everyday Use to Extraordinary Virtual Adventures Smartphone-VR Conversion Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-premium-internet-spots-for-glossy-3d-text-effects/"><u>2024 Approved Premium Internet Spots for Glossy 3D Text Effects</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-virtual-worlds-pcs-1-list-of-vr-360-game-streamers/"><u>In 2024, Explore Virtual Worlds PC's #1 List of VR 360 Game Streamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovations-in-hand-tracking-and-gesture-detection/"><u>In 2024, Innovations in Hand Tracking and Gesture Detection</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/innovative-techniques-improve-your-hp-laptop-screen-recordings/"><u>Innovative Techniques Improve Your HP Laptop Screen Recordings</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/r-the-art-of-youtube-visibility-two-steps/"><u>Master the Art of YouTube Visibility (Two Steps)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcpx-video-accessibility-adding-subtitles-and-captions/"><u>Updated In 2024, FCPX Video Accessibility Adding Subtitles and Captions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-amplify-tiktok-fame-in-just-a-minute-crucial-steps-unveiled-for-2024/"><u>[New] Amplify TikTok Fame in Just a Minute - Crucial Steps Unveiled for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-groundwork-on-image-detail-a-novices-reference/"><u>[New] Groundwork on Image Detail A Novice's Reference</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hidden-havens-of-hand-drawn-harmony-techniques/"><u>[New] Hidden Havens of Hand-Drawn Harmony Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-image-timestamping-techniques-unveiled/"><u>[New] Image Timestamping Techniques Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-likes-and-shares-for-financial-gain-on-snapchat-for-2024/"><u>[New] Leveraging Likes and Shares for Financial Gain on Snapchat for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-google-meet-unlocked-a-free-in-depth-user-manual/"><u>[Updated] 2024 Approved Google Meet Unlocked A Free, In-Depth User Manual</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-strategies-for-overcoming-8-typical-newbie-youtube-errors/"><u>[Updated] In 2024, Strategies for Overcoming 8 Typical Newbie YouTube Errors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-screenplay-treasures-for-each-movie-division/"><u>[Updated] Ultimate Screenplay Treasures for Each Movie Division</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/effortless-printer-setup-for-your-pc-or-mac-expert-advice-by-yl-software-professionals/"><u>Effortless Printer Setup for Your PC or Mac: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-realities-unveiled-vr-tour-essentials-for-2024/"><u>Experience Realities Unveiled VR Tour Essentials for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Tecno Camon 20 Premier 5G.</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/how-to-update-your-graphics-card-drivers-a-guide-by-yl-computing/"><u>How to Update Your Graphics Card Drivers: A Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-ascent-to-youtube-affiliates-with-10k-vistas-for-2024/"><u>Quick Ascent to YouTube Affiliates with 10K Vistas for 2024</u></a></li>
 </ul></div>
 

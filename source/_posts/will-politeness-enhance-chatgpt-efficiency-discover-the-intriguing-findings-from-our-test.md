@@ -1,7 +1,7 @@
 ---
 title: Will Politeness Enhance ChatGPT Efficiency? Discover the Intriguing Findings From Our Test
-date: 2025-01-27T05:14:00.106Z
-updated: 2025-01-28T23:32:35.297Z
+date: 2025-02-14T17:31:10.243Z
+updated: 2025-02-19T19:02:17.173Z
 tags:
   - cutting-edge
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Will Politeness Enhance ChatGPT Efficiency? Discover the Intriguing Findings From Our Test
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How We Tested](https://visual-screen-recording.techidaily.com/new-inexpensive-capture-apps-reviewed-for-budget-pcs/)
 * [Let The Prompting Commence!](https://phone-solutions.techidaily.com/device-unlock-realme-gt-5-pro-by-drfone-android-unlock-android-unlock/)
 * [Did Being Polite Help?](https://facebook-video-recording.techidaily.com/new-pioneering-techniques-youtube-to-facebook-amplification/)
 * [There's No Downside to Being Polite](https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,10 +44,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A Tweet censored for strong language that reads so a couple days ago i made a post about tipping chatgpt, and someone replied "huh would this actually help performance"  so i decided to test it and IT ACTUALLY WORKS. The tweet shows a bar chart where offering more tips to ChatGPT improves response length.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-03-at-15-40-49.png) 
 
  Instead of pretending to offer money to an AI that doesn't need it, we're going to look at being nice versus being neutral. Also, response length isn't the only thing we care about, but also the subjective quality of the response. I'll be using GPT-4, which is the more advanced version currently available to the public through [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Let The Prompting Commence!
 
@@ -74,7 +70,7 @@ Close
                     
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here it again gives better-formatted output when asked nicely, and on top of that, it's tone when speaking to me is nicer, too.
@@ -111,15 +107,19 @@ Close
                 ![An excerpt from a response by ChatGPT to a polite question about AI trends](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-49-31.png)
                     
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Prompt: What are the latest trends in artificial intelligence?** 
 
 ![An excerpt from a response by ChatGPT to a neutral question about AI trends](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-08-at-17-49-44.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With this final prompt, again the responses are pretty much the same overall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Did Being Polite Help?
 
@@ -134,7 +134,7 @@ Close
  You can, of course, try this yourself, and see if you get better help from your LLM if you throw in a few please and thank yous.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  There's No Downside to Being Polite
@@ -162,21 +162,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-luminous-filmmaking-transform-your-videos-with-pro-tips/"><u>[New] In 2024, Luminous Filmmaking Transform Your Videos with Pro Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outube-audience-analysis-the-art-of-finding-your-market/"><u>[New] Youtube Audience Analysis The Art of Finding Your Market</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-effortlessly-run-apps-and-videos-together-in-chrome/"><u>[Updated] How to Effortlessly Run Apps & Videos Together In Chrome</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-crafting-a-streamlined-media-route-from-twitter-vids-on-snapchat/"><u>2024 Approved Crafting a Streamlined Media Route From Twitter Vids on Snapchat</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-highlighted-are-there-limitations-to-aurora-hdrs-performance/"><u>2024 Approved Highlighted Are There Limitations to Aurora HDR's Performance?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-create-and-edit-videos-on-windows-10/"><u>2024 Approved How to Create and Edit Videos on Windows 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-picks-top-1-cookie-cutter-list-of-10-apps-for-basketball-and-rugby-streaming/"><u>In 2024, Expert Picks Top 1 Cookie Cutter List of 10 Apps for Basketball and Rugby Streaming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-picshots-magic-for-quick-photo-cohesion/"><u>In 2024, Explore Picshot’s Magic for Quick Photo Cohesion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gliding-giants-olympic-skate-tales/"><u>In 2024, Gliding Giants Olympic Skate Tales</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-green-settings-in-cinematic-production/"><u>In 2024, Green Settings in Cinematic Production</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-craft-an-effortless-facebook-photo-mosaic/"><u>In 2024, How to Craft an Effortless Facebook Photo Mosaic</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-orchestrate-a-photo-symphony-for-artistic-expression/"><u>In 2024, Orchestrate a Photo Symphony for Artistic Expression</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovation-showdown-google-bard-versus-microsofts-bing-chat-who-wins/"><u>Innovation Showdown: Google Bard Versus Microsoft's Bing Chat - Who Wins?</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/maximizing-memory-storing-snapshots-in-photo-albums-from-snapchat/"><u>Maximizing Memory Storing Snapshots in Photo Albums From Snapchat</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prodigious-editing-power-utilizing-inshot-on-devices-for-2024/"><u>Prodigious Editing Power Utilizing Inshot on Devices for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/trends-in-firmware-enhancement-what-every-surface-user-needs-to-know/"><u>Trends in Firmware Enhancement: What Every Surface User Needs to Know</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/b-share-strategies-for-your-youtube-content/"><u>[New] FB Share Strategies for Your YouTube Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-keeping-crystal-clear-avoiding-lens-haze/"><u>[New] In 2024, Keeping Crystal Clear Avoiding Lens Haze</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-the-art-of-video-clarity-with-version-22-vce/"><u>[New] Mastering the Art of Video Clarity with Version 2.2 VCE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-firefox-pip-simplified-for-the-everyday-user/"><u>2024 Approved Firefox PIP Simplified for the Everyday User</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-graphic-design-journeys-from-passion-to-profession/"><u>2024 Approved Graphic Design Journeys From Passion to Profession</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-insights-for-importer-mastery-on-windows-10/"><u>2024 Approved Hidden Insights for Importer Mastery on Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-definition-aesthetics-exclusive-top-15-lut-selection-for-gopro/"><u>2024 Approved High-Definition Aesthetics Exclusive Top 15 LUT Selection for GOPRO</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-pursuit-of-perfection-the-in-depth-review-of-benqs-27-high-def-display-bl2711u/"><u>2024 Approved In Pursuit of Perfection The In-Depth Review of BenQ’s 27” High-Def Display, BL2711U</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster/"><u>2024 Approved In-Depth Dive Perfecting the Art of Green Screen with Kinemaster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-indispensable-top-vr-movie-adventures/"><u>2024 Approved Indispensable Top VR Movie Adventures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-to-soundtrack-the-complete-conversion-manual/"><u>2024 Approved Instagram to Soundtrack The Complete Conversion Manual</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-mediameld-editsuite/"><u>2024 Approved MediaMeld EditSuite</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/division-2-stability-restored-fast-troubleshooting-guide/"><u>Division 2 Stability Restored - Fast Troubleshooting Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/efficient-path-japans-numeral-system-in-minutes/"><u>Efficient Path: Japan's Numeral System in Minutes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extracting-images-from-videos-in-windows-11-photos-for-2024/"><u>Extracting Images From Videos in Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/freeze-the-frame-overcoming-shake-phenomena-for-2024/"><u>Freeze the Frame Overcoming Shake Phenomena for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-maze-of-fs-mode-in-ppro/"><u>In 2024, Navigating the Maze of FS Mode in PPro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/investigating-the-safety-of-independent-chatgpt-plugins/"><u>Investigating the Safety of Independent ChatGPT Plugins</u></a></li>
+<li><a href="https://discover-able.techidaily.com/yl-softwares-elegant-black-pink-background-images-for-a-stylish-visual-upgrade-discover-our-unique-color-combinations/"><u>YL Software's Elegant Black-Pink Background Images for a Stylish Visual Upgrade – Discover Our Unique Color Combinations</u></a></li>
 </ul></div>
 

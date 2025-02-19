@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Renaming: A Comprehensive Guide Using PowerShell"
-date: 2025-02-04T16:29:06.115Z
-updated: 2025-02-09T18:39:25.168Z
+date: 2025-02-17T18:25:41.188Z
+updated: 2025-02-19T18:52:44.629Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 ## Mastering File Renaming: A Comprehensive Guide Using PowerShell
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/2f5a7138163b464da142425b5cd4fc9ef8759bb93
 
  That action has copied your selected item’s full path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) wherever required in the commands below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Rename a Specific File
 
  To give a new name to a specific file on your PC, use PowerShell’s Rename-Item [cmdlet](https://extra-guidance.techidaily.com/new-prophotomaster-the-ai-enhanced-editing-edge/). This cmdlet takes your file’s full path, the new name you want to assign, and renames your file.
@@ -56,10 +52,14 @@ Rename-Item "C:\Users\Username\Desktop\Old-Test.txt" -NewName “New-Test.txt”
 !['Rename-Item' cmdlet in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-rename-file-with-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  PowerShell won’t display a message confirming your file is renamed, but know that the job is done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Rename Files in a Folder With an Increasing Number
 
@@ -72,7 +72,7 @@ Get-ChildItem PATH -Recurse -Include "*.txt" | ForEach-Object -Begin { $Counter 
 ![Files with an increasing number in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-add-numbers-to-file-names.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Add a Prefix or Suffix to a File Name
@@ -86,7 +86,7 @@ Get-ChildItem PATH | Rename-Item -NewName {"PREFIX" + $_.Name}
 Get-ChildItem PATH | Rename-Item -NewName {$_.BaseName + "SUFFIX" + $_.Extension}
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Add Timestamps to All Files in a Folder
@@ -118,16 +118,24 @@ Get-ChildItem PATH -Recurse -Include "*.*" | ForEach-Object { Rename-Item -Path 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-search.techidaily.com/1-top-5-fixes-when-your-usb-drive-wont-show-up-on-the-computer/"><u>1. Top 5 Fixes When Your USB Drive Won't Show Up on the Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-honoring-heritage-photo-conversion-and-visual-storytelling/"><u>2024 Approved Honoring Heritage Photo Conversion and Visual Storytelling</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/3-innovative-methods-for-large-head-effects-in-tiktok-videos-for-2024/"><u>3 Innovative Methods for Large Head Effects in TikTok Videos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-ways-to-tackle-real-time-dialogue-disruptions-with-chatgpt/"><u>7 Ways to Tackle Real-Time Dialogue Disruptions with ChatGPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enabling-and-using-in-built-fm-receivers-in-mobile-phones/"><u>Enabling and Using In-Built FM Receivers in Mobile Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-snip-save-and-share-high-quality-tamil-ringtones-easily-for-2024/"><u>How to Snip, Save and Share High-Quality Tamil Ringtones Easily for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-video-for-2024/"><u>How to Use GoPro Hero5 Black Tips for Shooting Great Photos and Video for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/humor-in-pixels-kapwings-meme-crafting-app-for-2024/"><u>Humor in Pixels Kapwing’s Meme Crafting App for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-versatility-in-vsco-imagery/"><u>In 2024, Exploring Versatility in VSCO Imagery</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-tricks-in-sports-video-production-for-2024/"><u>Top Tricks in Sports Video Production for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/update-home-screen-with-new-photo-ps5/"><u>Update Home Screen with New Photo (PS5)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-download-fb-links-8-free-online-tools/"><u>[New] Download FB Links 8 FREE, Online Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-review-prime-cars-surveillance-devices/"><u>[New] Exclusive Review Prime Cars Surveillance Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevating-film-colors-using-luts-methods/"><u>[New] In 2024, Elevating Film Colors Using Luts Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-kinetics-evaluation-2023/"><u>[New] In-Depth Kinetics Evaluation 2023</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-leading-streaming-tools-for-online-video-games-for-2024/"><u>[New] Leading Streaming Tools for Online Video Games for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterclass-in-timelapse-capture-via-gopro-studio/"><u>[New] Masterclass in Timelapse Capture via GoPro Studio</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-easy-guide-to-see-youtube-liked-comments/"><u>[Updated] Easy Guide to See YouTube Liked Comments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-eye-catching-text-top-10-photo-writing-tools-for-smartphones/"><u>[Updated] Eye-Catching Text Top 10 Photo Writing Tools for Smartphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-film-flashes-top-snippets-for-skilled-editors/"><u>[Updated] Film Flashes Top Snippets for Skilled Editors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-the-world-of-no-fee-visual-aids/"><u>[Updated] Navigating the World of No-Fee Visual Aids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-picks-for-superior-steadicams-in-aerial-cinema-for-2024/"><u>Expert Picks for Superior Steadicams in Aerial Cinema for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-iphone-images-jpeg-png-guided-conversion-to-pdfs-for-2024/"><u>From iPhone Images (JPEG, PNG) - Guided Conversion to PDFs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlighting-heroics-at-the-x-olympics-2022-for-2024/"><u>Highlighting Heroics at the X-Olympics 2022 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-framed-fantasies-expert-recommendations-on-software-and-sites/"><u>In 2024, Framed Fantasies Expert Recommendations on Software & Sites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-innovators-crafting-immersive-viewscape/"><u>In 2024, Innovators Crafting Immersive Viewscape</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-os-bridging-virtualmix-pro/"><u>In 2024, OS-Bridging VirtualMix Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-updates-to-optimize-your-gpus-nvidia-drivers/"><u>Swift Updates to Optimize Your GPU's Nvidia Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-complete-guide-to-canon-eos-driver-updates-and-free-downloads/"><u>The Complete Guide to Canon EOS Driver Updates and Free Downloads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-do-when-you-encounter-a-missing-coredll-file/"><u>What to Do When You Encounter a Missing Core.dll File</u></a></li>
 </ul></div>
 

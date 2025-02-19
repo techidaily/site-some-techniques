@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Windows 11: Longing for the Classic Windows 10 Functions I Loved"
-date: 2025-02-04T16:17:26.185Z
-updated: 2025-02-09T18:58:42.635Z
+date: 2025-02-14T21:07:41.085Z
+updated: 2025-02-19T16:40:02.413Z
 tags:
   - deals
 categories:
@@ -13,16 +13,12 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 I switched to Windows 11 recently, and it has been an interesting experience. Besides from the [wildly-unpopular Recall update](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/), there are a few things already in the operating system that have made me unhappy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Upgrading to Windows 11 Was Painless
 
 ![Laptop with some windows 11 screens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/laptop-with-some-windows-11-screens.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek
@@ -31,17 +27,9 @@ Lucas Gouveia / How-To Geek
 
  I will say that the upgrade was completely painless. It was quite different from my previous installation scenarios, although I figure if I ever had to reinstall the operating system, the from-scratch installation is probably more complicated than the upgrade. After about twenty minutes of downloading and updating files, the machine rebooted, and I was immediately into Windows 11\. And that's where things started to go downhill.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Enabling TPM 2.0
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benj Edwards / How-To Geek
 
@@ -63,6 +51,10 @@ Benj Edwards / How-To Geek
 
  Probably the worst change Windows 11 made was to make it impossible to throw the Taskbar anywhere on the screen. In Windows 10, if I wanted a Taskbar hanging from the top of the screen, I could do that. In Windows 11, [that's just not possible](https://www.windowscentral.com/microsoft-explains-why-you-cant-move-windows-11-taskbar), and you have to live with the Taskbar on the bottom. If you're not used to that, or want to change it, Microsoft says tough cookies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Truncated Context Menus Hurt Usability
 
 ![Windows 11 context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/context.png) 
@@ -74,18 +66,26 @@ Benj Edwards / How-To Geek
  Back in Windows 10, when you right-clicked a file, you got a simple drop-down menu that outlined _all_ your potential options. It was a context menu that actually gave you context. The new Windows 11 context menu hides context from the user, making it seem like they tried to please everyone and ended up pleasing no one. Luckily, there are [ways to restore the old context menu system in Windows 11](https://fox-boxes.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences-for-2024/), so it's not a dealbreaker.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Sorting Options Are All Wonky
 
 ![Sort By Options (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sort-by-options-light.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As a power user, I like sorting my stuff in a particular way. Sometimes, I like seeing thumbnails (if it's images), sometimes I like seeing details if I want to determine which file is the largest and needs to be deleted. Back in Windows 10, it was such an easy thing to arrange your icons by date, or size. Now, Windows 11 has made it more unintuitive for users to sort their files.
 
  The biggest issue I have is the number of grouping options. Why are there so many? Windows 10 made it relatively easy to arrange things in an intuitive way. If you wanted additional sorting options, you just needed to hit the "More" button under Sort By. Windows 11 makes this much messier—the More button at the top of File Explorer does something different from the More button in the right-click context menu, and you can't add or remove sorting options for files or groups independently of one another. If you want to group your files one way, then sort those groups according to a separate criteria, you can't do it without adding the option to both the Sort By and Group menu. Sometimes, [Windows 11 just refuses to sort things](https://learn.microsoft.com/en-us/answers/questions/1117096/windows-11-file-explorer-has-wrong-sorting-order?orderBy=Helpful) the way you want them, defeating the entire purpose of a sort button.
 
  Windows 11 has shifted its file arrangement system from something that almost anyone can use to something that even the most skilled power users have a hard time wrapping their heads around. On the bright side, once you set up a sorting schedule for a particular folder, it keeps that sorting. There are small wins here and there, at least.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The "Action Center" Is No More
 
@@ -120,18 +120,24 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gamers-graphically-glorious-reviews/"><u>[New] GAMER'S GRAPHICALLY GLORIOUS REVIEWS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-add-motion-blur-to-face-with-picsart/"><u>[New] How to Add Motion Blur to Face with Picsart</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-14-visual-effects-with-text-animations/"><u>[New] Ideal 14 Visual Effects with Text Animations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-pick-and-personalize-gospel-ringtones-effectively/"><u>[Updated] How to Pick and Personalize Gospel Ringtones Effectively</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-unveil-full-length-videos-in-yt/"><u>[Updated] How to Unveil Full-Length Videos in YT</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-crafting-compelling-iphone-shadow-images/"><u>2024 Approved Crafting Compelling iPhone Shadow Images</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-free-and-premium-4k-video-editors-of-2022-ultimate-guide-for-mac-and-pc-users/"><u>Best Free and Premium 4K Video Editors of 2022 - Ultimate Guide for Mac & PC Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funimate-unraveled-your-path-to-mastery-for-2024/"><u>Funimate Unraveled Your Path to Mastery for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-mastering-splitting-your-windows-11-workspace-into-multiple-tabs/"><u>Guide: Mastering Splitting Your Windows 11 Workspace Into Multiple Tabs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-list-of-affordable-high-definition-cameras/"><u>In 2024, Prime List of Affordable High Definition Cameras</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-proficient-use-of-audacity-for-high-quality-recordings/"><u>In 2024, Proficient Use of Audacity for High-Quality Recordings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-gecata-analyzer-report/"><u>In 2024, Ultimate GECATA Analyzer Report</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-way-to-a-running-steam-application/"><u>Streamline Your Way to a Running Steam Application</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-efficient-music-integration-in-premiere-pro/"><u>[New] Expert Tips for Efficient Music Integration in Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-definition-war-av1-vs-vp9-codecs-comparison/"><u>[New] High-Definition War Av1 vs VP9 Codecs Comparison</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-benefits-of-tubebuddy-manage-your-youtube-channel-more-easily/"><u>[New] In 2024, The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-leading-the-field-in-remotely-recorded-content-creation/"><u>[Updated] 2024 Approved Leading the Field in Remotely Recorded Content Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-ipad-users-easily-convert-photos-to-pdf/"><u>2024 Approved Expert Tips for iPad Users Easily Convert Photos to PDF</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-quality-evaluating-luminances-performance/"><u>2024 Approved HDR Quality Evaluating Luminance's Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-insights-into-windows-superior-video-players-for-2024/"><u>Exclusive Insights Into Window's Superior Video Players for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/expanding-horizons-the-vr-in-classroom-effect/"><u>Expanding Horizons The VR in Classroom Effect</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-dim-to-dazzling-a-guide-to-selecting-top-quality-displays-for-2024/"><u>From Dim to Dazzling A Guide to Selecting Top-Quality Displays for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-recover-deleted-apps-on-your-laptop-running-windows-11-10-8-or-navigating-windows-7/"><u>How to Recover Deleted Apps on Your Laptop Running Windows 11, 10, 8 or Navigating Windows 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-rookie-to-veteran-10-must-have-cinema-cameras/"><u>In 2024, From Rookie to Veteran 10 Must-Have Cinema Cameras</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-gt-neo-5-se-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme GT Neo 5 SE Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-investment-introspection-the-podcasts-financial-frontier/"><u>In 2024, In-Depth Investment Introspection The Podcast's Financial Frontier</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infuse-sound-with-microsoft-powerpoint-decks-for-2024/"><u>Infuse Sound with Microsoft PowerPoint Decks for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-bilingual-documents-emeditor-and-its-superior-chinese-language-support/"><u>Mastering Bilingual Documents: EmEditor and Its Superior Chinese Language Support</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-zte-nubia-z60-ultra-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for ZTE Nubia Z60 Ultra Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/tech-leaders-the-most-advanced-video-capture-software-for-2024/"><u>Tech Leaders The Most Advanced Video Capture Software for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209853454-9781999738754-the-path-to-happy/"><u>The path to HAPPY | Free Book</u></a></li>
 </ul></div>
 

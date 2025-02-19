@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Latest Innovation for Prime Day: Mastering Sales with Rufus - The Advanced AI Assistant Bot"
-date: 2025-02-05T18:40:06.914Z
-updated: 2025-02-09T19:00:29.891Z
+date: 2025-02-13T17:40:18.321Z
+updated: 2025-02-19T20:54:29.985Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ---
 
 ## Amazon's Latest Innovation for Prime Day: Mastering Sales with Rufus - The Advanced AI Assistant Bot
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -27,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
  The original [Rufus (1994-2009)](https://www.amazon.com/gp/help/customer/display.html?nodeId=3711811&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003905&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-get-ready-for-prime-day-with-rufus-amazon-shoppings-new-ai-assistant-chatbot%2F&asc%5Fcampaign=Short-Term) was a beloved Welsh Corgi who seems to have morphed into a bit of a legend at Amazon and is credited with starting Amazon's dog-friendly workplace culture. Released in February, Amazon's new AI shopping assistant is named in his honor. Rufus, the AI, is trained in Amazon's product catalog, customer reviews, and product Q & As.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Where Is Rufus?
 
  When preparing to write this article, I opened the Amazon website [on my second monitor](https://youtube-sure.techidaily.com/r-the-art-of-subtitlecc-integration-in-youtube-with-this-guide-for-2024/) and was surprised that Rufus wasn't there. I shrugged, opened up my iPad, and settled on the couch with my little dogs. OG Rufus would be proud! To my surprise, Rufus wasn't on my iPad, either. It turns out Rufus is still only available on [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003905/https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping&hl=en%5FUS) and [iPhone](https://apps.apple.com/us/app/amazon-shopping/id297606951) mobile Amazon Shopping apps, and only in the U.S.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Rufus Searches for General Product Ideas
 
@@ -40,12 +44,16 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ![Side-by-side screenshots of the two outdoor toys prompts and Rufus' responses.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_195714_amazon-shopping.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  My 3rd prompt was, "What are some fun outdoor toys for older kids under $500?" Rufus nailed it. Out of the five products Rufus suggested, we already own two of them and have long been in the market for the 3rd suggestion. Rufus' suggestions are exactly the type of product I was looking for.
 
 ![A screenshot of the above prompt and Rufus' response. Only the suggestion of a large outdoor basketball hoop is shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_200000_amazon-shopping.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Follow-up Questions
 
@@ -54,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ![A side-by-side of screenshots of Rufus' follow-up questions and its response to the follow-up question "What outdoor toys foster teamwork among kids?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_215749_amazon-shopping.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specific Product Searches
@@ -67,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
  I notice that Rufus' product suggestions do not include prices. This is because they are product searches for a specific product instead of the product information page. You have to leave Rufus by clicking on one of the product search suggestions to see pricing information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Shopping Help
 
  Next on my shopping list were [Chromebooks](https://screen-mirroring-recording.techidaily.com/new-2024-approved-tranquility-techniques-how-to-mute-and-manage-gmeet-distractions/). I do much of my writing on my home office desktop, and I also follow my children around with a cheap Chromebook. I love Chromebooks because they run quickly without all the [baggage of Windows](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-14-pro-without-puk-codes-by-drfone-android/), and they're cheap enough that it's not a crisis if they get lost or damaged. Since I work mostly from the cloud, I don't need the power of a PC. My most recent 2yr old Chromebook was mysteriously drenched by a pool toy in our backyard last week —we do not have a pool. So, I need to replace it, likely with another no-frills option. I know what brands I like, but I don't keep up with what product specs are current. I'm hoping Rufus can update me.
@@ -79,15 +83,15 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
 ![A side-by-side screenshot of the Chrome book prompt and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204847_amazon-shopping.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Data Privacy and Security
 
  Customer interactions with Rufus are used for 28 days for additional testing and training to improve Rufus. After 28 days, the conversations are deleted and inaccessible by Amazon or the customer. An alternative for customers who want more data privacy is to delete their chat history immediately after use to prevent the chat from being reviewed by Amazon. You can do this by tapping the three dots in the right-hand corner of Rufus and accessing the "Manage Chats" options.
 
 ![Three screenshots that highlight the steps of tapping the three dots, tapping "Manage chat", and "Clear chat history".](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_225642_amazon-shopping.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other Rufus Notes
 
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
  Rufus is advertised as an Amazon search assistant, and I found that to be accurate. It answers questions with product search suggestions instead of products, and will not give pricing information. When I asked Rufus for a price while looking at the product price on the product information screen, it still said it did not have access to real-time product data.
 
  Rufus access from a product information page will suggest questions you can ask about that product, not including the price. At this point, I think we're all familiar enough with Amazon's product pages to scroll to the Q & A's and product specifications quicker than we can access Rufus. However, as Rufus develops, this ability may progress into something more useful.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ![A screenshot of Rufus responding to a prompt with](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_213130_amazon-shopping-2.jpg) Prime Day Ready?
 
@@ -122,20 +122,14 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-find-your-next-vector-the-best-10-pics-sites/"><u>[New] Find Your Next Vector The Best 10 Pics Sites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hidden-insights-for-importer-mastery-on-windows-10/"><u>[New] Hidden Insights for Importer Mastery on Windows 10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-smooth-playback-on-instagram-videos-for-2024/"><u>[New] Mastering Smooth Playback on Instagram Videos for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-smooth-operations-boosting-memory-allocation-to-minecraft/"><u>[Updated] 2024 Approved Smooth Operations Boosting Memory Allocation to Minecraft</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-an-introduction-to-effective-image-previews/"><u>[Updated] An Introduction to Effective Image Previews</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-star-feature-to-your-advantage/"><u>[Updated] How to Use Star Feature to Your Advantage</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-3dlut-mobility-boost-image-and-video-quality/"><u>2024 Approved 3DLUT Mobility Boost Image & Video Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-curated-8-best-4k-blu-ray-players-guide/"><u>2024 Approved Expertly Curated 8 Best 4K Blu-Ray Players Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flash-frame-fable-framework/"><u>2024 Approved Flash Frame Fable Framework</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/aspx-what-is-it-and-how-do-i-open-and-edit-it/"><u>ASPX: What Is It & How Do I Open and Edit It?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-vlc-a-deep-dive-into-media-players/"><u>Beyond VLC A Deep Dive Into Media Players</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/grandest-directors-trailers-for-2024/"><u>Grandest Director's Trailers for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphone-macro-and-close-up-photography-tips/"><u>IPhone Macro and Close-Up Photography Tips</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-apaches-modrewrite-a-comprehensive-guide-for-boosted-seo-strategies/"><u>Mastering Apache's Mod_Rewrite: A Comprehensive Guide for Boosted SEO Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-a54-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy A54 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-vr-cameras-clash-the-2023-showdown-between-gopro-and-yi/"><u>[New] VR Cameras Clash The 2023 Showdown Between GoPro & Yi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-apple-podcasts-a-quick-download-method/"><u>[Updated] Apple Podcasts A Quick Download Method</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-transforming-viewers-into-loyalists-with-essential-youtube-tips/"><u>2024 Approved Transforming Viewers Into Loyalists with Essential YouTube Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/escaping-realms-backup-your-buildings-bring-them-back/"><u>Escaping Realms: Backup Your Buildings, Bring Them Back</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illustrate-with-precision-prime-ipados-design-apps-for-2024/"><u>Illustrate with Precision Prime iPadOS Design Apps for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-discoveries-prime-websites-and-methods-to-download-tamil-ringtone-files/"><u>In 2024, Exclusive Discoveries Prime Websites & Methods to Download Tamil Ringtone Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-rhythm-analysis-boost-your-dj-skills-efficiently/"><u>In 2024, Free Online Rhythm Analysis Boost Your DJ Skills Efficiently</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-facetune-review-the-pathway-to-picture-perfection/"><u>In 2024, Full Facetune Review The Pathway to Picture Perfection</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-list-of-cartoon-video-makers-for-beginners/"><u>New 2024 Approved The Ultimate List of Cartoon Video Makers for Beginners</u></a></li>
 </ul></div>
 

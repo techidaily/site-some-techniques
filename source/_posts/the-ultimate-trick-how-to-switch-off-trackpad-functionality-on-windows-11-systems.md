@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Trick: How To Switch Off Trackpad Functionality On Windows 11 Systems"
-date: 2025-02-08T18:25:10.347Z
-updated: 2025-02-09T18:57:03.538Z
+date: 2025-02-13T19:06:05.310Z
+updated: 2025-02-19T17:04:04.256Z
 tags:
   - deals
 categories:
@@ -39,19 +39,11 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ![Fn Key on the keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/fn-key.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Aman Kumar / How-To Geek
 
  After disabling the touchpad, you will see a confirmation message on your screen saying, "TouchPad is disabled."
 
  To enable the touchpad, press that function key again with the Fn key.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. Disable the Touchpad Using the Settings App
 
@@ -59,13 +51,13 @@ Aman Kumar / How-To Geek
 
 ![Touchpad option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/touchpad-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On this screen, turn off the toggle next to "Touchpad".
 
 ![Touchpad toggle in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/touchpad-toggle.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll now see that the [touchpad has stopped working](https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-a79-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/). To enable the touchpad again in the future, simply turn on the "Touchpad" toggle.
 
@@ -81,10 +73,6 @@ Aman Kumar / How-To Geek
 
 ![Properties button in Mouse Properties window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/properties.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the "Change settings" option in the General tab.
 
 ![Change settings option in Mouse Properties window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/change-settings-option.jpg) 
@@ -93,10 +81,14 @@ Aman Kumar / How-To Geek
 
 ![Disable device option in Mouse Properties window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/disable-device-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have completed these steps, your touchpad will be disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  4\. Disable the Touchpad Using the Device Manager
@@ -105,15 +97,19 @@ Aman Kumar / How-To Geek
 
 ![Device Manager option in Poweruser menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/device-manager-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Double-click the "Mice and other pointing devices" node. Then, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) your touchpad and select "Disable device". Click "Yes" to confirm.
 
 ![Disable device option in Device Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/disable-device-option-in-device-manager-1.jpg) 
 
- Your touchpad will now be disabled, and you can start using your external mouse or trackpad.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Your touchpad will now be disabled, and you can start using your external mouse or trackpad.
 
 ###  5\. Disable the Touchpad Using the Registry Editor
 
@@ -131,10 +127,6 @@ Aman Kumar / How-To Geek
 
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) for the changes to take effect. To reverse this, change the value back to "1".
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Automatically Disable the Touchpad When an External Mouse Is Connected
 
  Although you can easily turn off the touchpad using either of the above methods, it can be annoying to manually disable it every time you connect an external mouse. To solve this problem, you can configure your computer to automatically turn off the touchpad whenever the mouse is connected.
@@ -143,7 +135,15 @@ Aman Kumar / How-To Geek
 
 ![Leave touchpad on when a mouse is connected option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/leave-touchpad-on-when-a-mouse-is-connected-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it! Windows will now automatically disable the built-in touchpad whenever you connect an external mouse or trackpad to your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Enable the Touchpad Without a Mouse
 
@@ -154,7 +154,7 @@ Aman Kumar / How-To Geek
 ![Typing Turn the touchpad on or off in Start menu search field](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/turn-the-touchpad-on-or-off.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Keep pressing the Tab key until you reach the touchpad toggle. Then, press the Space key to toggle on the touchpad.
@@ -178,18 +178,18 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-highest-rated-10-apps-to-watch-golf-and-soccer-in-the-moment/"><u>[New] Highest Rated 10 Apps to Watch Golf & Soccer in the Moment</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-effortless-sound-transformation-from-youtube-to-wav-format/"><u>[New] In 2024, Effortless Sound Transformation From YouTube to WAV Format</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-blur-and-hide-private-information-in-recorded-video/"><u>[New] In 2024, How to Blur and Hide Private Information in Recorded Video</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-seeing-the-unseen-tracking-instagram-viewers-meticulously/"><u>[New] In 2024, Seeing the Unseen Tracking Instagram Viewers Meticulously</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-guide-to-the-enhanced-2024-video-show-app/"><u>[Updated] Full Guide to the Enhanced 2024 Video Show App</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-navigating-snapchats-new-spotlight-functionality/"><u>[Updated] Navigating Snapchat's New Spotlight Functionality</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-3-ways-convert-pinner-vids-into-audios-for-2024/"><u>[Updated] Top 3 Ways Convert Pinner Vids Into Audios for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-devices-of-now/"><u>2024 Approved Immersive Devices of Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exemplary-execution-using-apple-watch-to-open-mac-for-2024/"><u>Exemplary Execution Using Apple Watch to Open Mac for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-key-steps-to-perfectly-mix-obs-and-zoom/"><u>In 2024, The Key Steps to Perfectly Mix OBS & Zoom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-mac-exclusive-free-drawing-platforms/"><u>In 2024, Top 10 Mac-Exclusive Free Drawing Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-transitions-for-professional-videos-for-2024/"><u>Innovative Transitions for Professional Videos for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-solve-avidemux-no-audio-problem-updated-guide/"><u>Updated 2024 Approved Solve Avidemux No Audio Problem Updated Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-a-decades-best-anime-opening-songs-compiled/"><u>[New] 2024 Approved A Decade's Best Anime Opening Songs Compiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-prime-video-chat-solutions-for-pcs-and-phones/"><u>[New] 2024 Approved Prime Video Chat Solutions for PCs & Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-net-archives-downloading-personal-tones/"><u>[New] Expert Net Archives Downloading Personal Tones</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-one-step-guide-for-sharing-tiktok-videos-on-facebook-for-2024/"><u>[New] One-Step Guide for Sharing TikTok Videos on Facebook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-2023s-standout-professional-360cameras/"><u>[Updated] Exploring 2023'S Standout Professional 360°Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-make-text-talk-on-screen-without-spending/"><u>[Updated] How to Make Text Talk on Screen Without Spending</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-professional-techniques-for-sims-4-live-action-for-2024/"><u>[Updated] Professional Techniques for Sims 4 Live-Action for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-your-vlogging-started-key-items-and-software/"><u>In 2024, Getting Your Vlogging Started Key Items & Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-top-vr-content-developers-you-should-know/"><u>In 2024, Top VR Content Developers You Should Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-quiet-command-for-xbox-systems/"><u>The Ultimate Quiet Command for Xbox Systems</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-15-pro-max-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 15 Pro Max Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/visionary-vittles-steps-to-craft-food-films-for-2024/"><u>Visionary Vittles Steps to Craft Food Films for 2024</u></a></li>
 </ul></div>
 

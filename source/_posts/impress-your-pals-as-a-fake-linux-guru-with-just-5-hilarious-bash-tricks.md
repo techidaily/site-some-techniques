@@ -1,7 +1,7 @@
 ---
 title: Impress Your Pals as a Fake Linux Guru with Just 5 Hilarious Bash Tricks
-date: 2025-02-05T17:10:01.702Z
-updated: 2025-02-09T19:02:56.984Z
+date: 2025-02-16T18:09:17.602Z
+updated: 2025-02-19T18:15:39.613Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 While I am a Linux daily driver, and I do sprinkle the terminal with commands now and then, I'm by no means a hacker. That didn't stop me from looking the part, though, since it turns out several simple commands (and a whole app) exist to make you look like a star in a florid cyberthriller. Here they are and how to run them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  neofetch 
@@ -22,7 +22,7 @@ While I am a Linux daily driver, and I do sprinkle the terminal with commands no
 ![neofetch command output on an Ubuntu operating system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-14_16h38_17.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Starting simple, neofetch is perfect for when you want to send your friends a screenshot of your sweet new Linux desktop with a terminal open to make it look like you know how to use it. You simply run the command and some stats about your system will be printed next to a big [ASCII art](https://en.wikipedia.org/wiki/ASCII%5Fart) version of your distro's logo. If you've ever checked out r/UnixPorn, you'll recognize it as one of the more popular outputs to have printed in an open terminal.
@@ -42,7 +42,7 @@ sudo pacman -S neofetch
  Then simply enter the command **neofetch** in your terminal to see your unique printout. Remember that the colors used will depend on your terminal settings. If the defaults don't look good, learn [how to customize your Bash prompt](https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  cmatrix 
@@ -69,10 +69,6 @@ cmatrix
 
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3  genact 
 
 Your browser does not support the video tag. 
@@ -90,7 +86,7 @@ snap install genact
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  hollywood 
@@ -112,6 +108,10 @@ dnf install hollywood
 sudo pacman -S hollywood
 
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  eDEX-UI 
 
@@ -140,18 +140,24 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-unlimited-access-to-fcp/"><u>[Updated] Explore Unlimited Access to FCP</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-green-settings-in-cinematic-production/"><u>[Updated] Green Settings in Cinematic Production</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-on-turning-dynamic-hdr-on-in-windows-11/"><u>[Updated] Guide on Turning Dynamic HDR on in Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-solve-windows-11-photos-app-crashes-effectively/"><u>2024 Approved How to Solve Windows 11 Photos App Crashes Effectively</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-environments-for-digital-streaming/"><u>2024 Approved Ideal Environments for Digital Streaming</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/digital-detox-how-to-turn-off-youtube-on-computers-and-phones/"><u>Digital Detox How to Turn Off Youtube on Computers and Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-engagement-leveraging-chatgpt-for-perfect-tweets/"><u>Enhancing Engagement: Leveraging ChatGPT for Perfect Tweets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humor-hub-for-apple-devices/"><u>In 2024, Humor Hub for Apple Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagrams-hottest-25-minds-in-the-digital-age/"><u>Instagram's Hottest 25 Minds in the Digital Age</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-lightrooms-artistic-control-creating-and-merging-hdr-images-for-2024/"><u>Master Lightroom's Artistic Control Creating & Merging HDR Images for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/reversing-time-retracing-your-steps-for-lost-snaps-for-2024/"><u>Reversing Time Retracing Your Steps for Lost Snaps for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/tecnicas-para-recuperacion-exitosa-de-archivos-sobreescritos-en-almacenamientos-exteriores-un-paseo-por-dos-soluciones/"><u>Técnicas Para Recuperación Exitosa De Archivos Sobreescritos en Almacenamientos Exteriores: Un Paseo Por Dos Soluciones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tunes-on-a-budget-how-to-claim-your-very-own-spotify-academic-deal/"><u>Tunes on a Budget: How to Claim Your Very Own Spotify Academic Deal</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-adhering-to-correct-aspect-ratio-in-twitter-videos/"><u>[New] Adhering to Correct Aspect Ratio in Twitter Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-strategies-for-high-quality-gopro-4k-footage-editing/"><u>[New] Expert Strategies for High-Quality GoPro 4K Footage Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frame-perfect-videos-with-these-1-10-zoom-editors/"><u>[New] Frame Perfect Videos with These #1-10 Zoom Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-transforming-videos-using-vida/"><u>[New] From Novice to Pro Transforming Videos Using Vida</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hacking-back-photo-viewing-in-windows-11-easily/"><u>[Updated] Hacking Back Photo Viewing in Windows 11 Easily</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-transform-videos-on-vimeo-using-zero-dollar-resources/"><u>[Updated] In 2024, Transform Videos on Vimeo Using Zero-Dollar Resources</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-exploration-decoding-googles-podcast-app/"><u>2024 Approved Full Exploration Decoding Google's Podcast App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unveiling-top-6-microphones-perfect-for-online-streaming-success/"><u>2024 Approved Unveiling Top 6 Microphones Perfect for Online Streaming Success</u></a></li>
+<li><a href="https://win11.techidaily.com/decoy-control-panel-mastering-invisibility-in-win-1011/"><u>Decoy Control Panel - Mastering Invisibility in Win 10/11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/film-fanatics-unite-ioss-best-free-and-paid-filmmaking-tools-for-2024/"><u>Film-Fanatics Unite! IOS's Best Free & Paid Filmmaking Tools for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-tools-to-master-voice-manipulation-and-sound-design-for-2024/"><u>Free Tools to Master Voice Manipulation and Sound Design for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-dull-to-dynamic-a-guide-to-chromatic-finesse-for-2024/"><u>From Dull to Dynamic A Guide to Chromatic Finesse for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-f14-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy F14 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-channel-your-inner-metaverse-wit/"><u>In 2024, How to Channel Your Inner Metaverse Wit</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-revolutionizing-video-content-youtube-marketings-top-5-secrets/"><u>In 2024, Revolutionizing Video Content YouTube Marketing's #Top 5 Secrets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-techniques-for-outstanding-gopro-vlogs/"><u>In 2024, Top Techniques for Outstanding GoPro Vlogs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-s23-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel S23 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-checklist-for-windows-11-in-place-upsizing/"><u>The Essential Checklist for Windows 11, In-Place Upsizing</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A05s | Dr.fone</u></a></li>
 </ul></div>
 

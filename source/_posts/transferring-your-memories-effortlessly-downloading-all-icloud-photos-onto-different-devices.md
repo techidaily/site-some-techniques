@@ -1,7 +1,7 @@
 ---
 title: "Transferring Your Memories Effortlessly: Downloading All iCloud Photos Onto Different Devices"
-date: 2025-02-05T17:35:53.894Z
-updated: 2025-02-09T17:02:42.962Z
+date: 2025-02-17T16:53:22.984Z
+updated: 2025-02-19T16:25:24.846Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 ## Transferring Your Memories Effortlessly: Downloading All iCloud Photos Onto Different Devices
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 ![Data used by media in iCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-50-07.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can check this by first heading to Settings > Your Name > iCloud > Manage Account Storage and taking a look at how much storage space you have used for Photos (above). Now head to Settings > General > iPhone Storage (or iPad Storage) to see how much free space you have available (below).
 
 ![Available storage on a 128GB iPhone 13 Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-50-30.png) 
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 ![Enable original photo storage on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_2489.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can reverse this selection if you decide you’d rather let your devices manage free space and store everything in iCloud again.
@@ -58,9 +62,17 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 ![Checking remaining storage on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-52-45.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To download your images from iCloud, open the Photos app and click on Photos > Settings at the top of the screen. Beneath the “iCloud Photos” checkbox select the “Download Originals to this Mac” radio button. Now wait as Photos downloads everything locally.
 
 ![Enabling original media downloads in macOS Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-14-54-20.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Switching back to “Optimize Mac Storage” will reverse the decision, removing local media files while keeping them safe in the cloud.
 
@@ -77,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 ![Enabling iCloud Photos in iCloud for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-11-09-01.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also turn on Shared folders and tweak a few other settings while you’re here. Be patient while things download. To reverse your decision, and delete everything locally but keep your media safe in the cloud, simply disable the “iCloud Photos” checkbox again.
@@ -87,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 ![Disabling iCloud Photos warning in iCloud for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-11-09-18.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are other options for Windows users including using the iCloud website, a command line tool, and requesting data from Apple as noted below.
@@ -105,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 ![iCloud Photos downloading in a ZIP archive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-15-01-12.png) 
 
  Linux users can also use the command line utility and request data from Apple as detailed below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Download iCloud Photos With a Command Line Utility
 
@@ -133,24 +141,16 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 ![Downloading iCloud Photos using a mobile browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/icloud-photos.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hit the ellipsis “…” icon in the bottom-right corner of the screen and choose “Download” or “More Download Options” to download the photos to your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Download iCloud Photos from Apple Directly
 
  There’s one more option that should work for all platforms, and that’s to download a copy of your data from Apple directly. To do this, log in to [privacy.apple.com](http://privacy.apple.com) with your Apple ID email address and password and then choose “Request a copy of your data” at the top of the page.
 
 ![Apple's Privacy website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-24-at-13-56-06.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the next screen, check “iCloud Photos” and anything else you’d like a copy of, then hit the blue “Continue” button at the bottom of the page. Your request will be processed by Apple and you’ll eventually receive an invitation to download your data.
 
@@ -179,21 +179,22 @@ icloudpd --directory /data --username my@email.address --watch-with-interval 360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expressive-photography-techniques-applying-motion-blur-to-faces/"><u>[New] Expressive Photography Techniques Applying Motion Blur to Faces</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-effortless-group-video-chat-with-androids-facetime/"><u>[New] In 2024, Effortless Group Video Chat with Android's Facetime</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-secrets-of-captivating-audiences-in-your-videos/"><u>[Updated] 2024 Approved The Secrets of Captivating Audiences in Your Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-closer-look-at-virtual-reality-flaws/"><u>[Updated] A Closer Look at Virtual Reality Flaws</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-cutting-edge-techniques-for-exceptional-podcast-recordings-via-zoom/"><u>[Updated] Cutting Edge Techniques for Exceptional Podcast Recordings via Zoom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-googles-musical-sidekick-ringers-guide/"><u>[Updated] Google's Musical Sidekick Ringers Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-video-color-correction-for-youtube-beauty/"><u>[Updated] In 2024, Video Color Correction for YouTube Beauty</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-syma-x8c-tech-specifications-study/"><u>[Updated] Syma X8C Tech Specifications Study</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-utilization-of-final-cut-pro-an-in-depth-guide/"><u>2024 Approved Full Utilization of Final Cut Pro An In-Depth Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-editing-tools-best-phones-options-for-gopro-videos/"><u>2024 Approved Ideal Editing Tools Best Phones' Options for GoPro Videos</u></a></li>
-<li><a href="https://facebook.techidaily.com/acquire-your-facebook-stash-images-and-videos-guide/"><u>Acquire Your Facebook Stash: Images and Videos Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/astral-archive-top-performers-and-enthusi-written-by-user/"><u>Astral Archive: Top Performers & Enthusi Written by User</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-guide-to-adobe-cloud-storage-and-best-alternatives-for-2024/"><u>Full Guide to Adobe Cloud Storage and Best Alternatives for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-ultimate-fcp-efficiency/"><u>In 2024, Expert Tips for Ultimate FCP Efficiency</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-tech-equipment-picking-game/"><u>In 2024, High-Tech Equipment Picking Game</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721926695089-no-more-waiting-embrace-an-expert-open-source-conversation-tool-while-chatgpt-is-on-hold/"><u>No More Waiting – Embrace an Expert Open Source Conversation Tool While ChatGPT Is on Hold</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-strategic-game-plays-with-top-casters/"><u>[New] 2024 Approved Strategic Game Plays with Top Casters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-foundations-of-virtual-reality-speak/"><u>[New] Foundations of Virtual Reality Speak</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-with-updated-windows-11-gems/"><u>[New] Game On with Updated Windows 11 Gems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highpoint-design-suite-examination/"><u>[New] Highpoint Design Suite Examination</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-discovering-why-filmora-captivates-your-heart/"><u>[New] In 2024, Discovering Why Filmora Captivates Your Heart</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illustrating-brilliance-the-most-trusted-vector-tools-reviewed/"><u>[Updated] Illustrating Brilliance The Most Trusted Vector Tools Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-macs-best-capture-exploring-leading-screen-recording-software-for-2024/"><u>[Updated] Mac's Best Capture Exploring Leading Screen Recording Software for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-content-engagement-configuring-picture-in-picture-mode-ios/"><u>[Updated] Seamless Content Engagement Configuring Picture-in-Picture Mode (iOS)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-haven-for-harmonious-hits-download-classics-now/"><u>2024 Approved Haven for Harmonious Hits Download Classics Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-14-ultra-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fix-for-guilty-gear-strive-continuous-crashing-on-desktop-pcs/"><u>Comprehensive Fix for Guilty Gear Strive Continuous Crashing on Desktop PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-tech-video-magnifier-kit-for-2024/"><u>High-Tech Video Magnifier Kit for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-raw-to-ready-adding-elegant-fades-in-premiere/"><u>In 2024, From Raw to Ready Adding Elegant Fades in Premiere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hatch-humorous-habits/"><u>In 2024, Hatch Humorous Habits</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-free-video-blurring-tools-your-go-to-resource-for-2024/"><u>New Unlock Free Video Blurring Tools Your Go-To Resource for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solutions-for-unsupported-video-technologies/"><u>Solutions for Unsupported Video Technologies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-apple-devices-transition-from-high-sierra-to-mojave-on-2017s-m3-macbook-pro-and-late-model-imac-insights-for-tech-enthusiasts-zdnet-guide/"><u>Upgrade Your Apple Devices: Transition From High Sierra to Mojave on 2017'S M3 MacBook Pro and Late-Model iMac - Insights for Tech Enthusiasts [ZDNet Guide]</u></a></li>
 </ul></div>
 

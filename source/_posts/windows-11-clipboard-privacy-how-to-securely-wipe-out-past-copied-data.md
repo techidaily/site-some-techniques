@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Clipboard Privacy: How to Securely Wipe Out Past Copied Data"
-date: 2025-02-07T20:13:06.726Z
-updated: 2025-02-09T19:21:11.124Z
+date: 2025-02-16T20:57:36.513Z
+updated: 2025-02-19T20:15:47.629Z
 tags:
   - desktop
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 * [How to Clear Clipboard History in Windows 10](https://hardware-updates.techidaily.com/update-or-install-targus-usb-graphics-drivers-compatible-with-windows-1087/)
 * [Another Way to Clear All Clipboard Data](https://extra-skills.techidaily.com/2024-approved-navigating-through-gopro-models-and-specifications/)
 * [How to Disable Clipboard History in Windows 10](https://android-frp.techidaily.com/top-5-meizu-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 ![The Clipboard history pop-up window on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/clipboard_history_plain.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove individual items from Clipboard history, call up the list with Windows+V and then click the three dots (ellipses) beside the item you'd like to delete.
@@ -51,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 ![Click the ellipses in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_ellipses.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A small menu will pop up. Click "Delete" and the item will be removed from the list.
@@ -62,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
 ![Click clear all in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_clear_all.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Any remaining items on the list after you click "Clear All" are pinned in place. If you'd like to remove a pinned item, click the ellipses beside it and select "Unpin." Then you can either delete it or try "Clear All" from the ellipses menu again.
 
  Note that with Clipboard history enabled, new items will continue to appear in the Clipboard history list every time you copy something to the Clipboard. If you would like to prevent Windows from storing your Clipboard history, you will need to disable the feature in Windows Settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Another Way to Clear All Clipboard Data
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 ![Select 'Clipboard' to the left, then disable 'Clipboard History.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once disabled, if you press Windows+V, you will see a small window alerting you that Windows 10 cannot show your Clipboard history because the feature is turned off.
@@ -115,24 +115,19 @@ thumbnail: https://thmb.techidaily.com/cd161aa122231bb69ca4c1e6bbe1e4e7f5305ae20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-premium-vr-showrooms/"><u>[New] Guide to Premium VR Showrooms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-identifying-high-impact-hdr-photography-tools/"><u>[New] Identifying High-Impact HDR Photography Tools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-11-must-know-tricks-for-effective-fb-video-seo-and-performance/"><u>[New] In 2024, 11 Must-Know Tricks for Effective FB Video SEO and Performance</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-5-best-ps1-emulators-for-pc/"><u>[Updated] 2024 Approved Top 5 Best Ps1 Emulators for PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-inject-harmony-into-ppt-decks/"><u>[Updated] Inject Harmony Into PPT Decks</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-steps-to-manage-user-accounts-create-and-delete-options-in-yl-computing-software/"><u>1. Steps to Manage User Accounts: Create and Delete Options in YL Computing Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/all-about-siriusxm-an-in-depth-guide-to-the-perfect-mix-of-sports-coverage-and-diverse-playlists/"><u>All About SiriusXM: An In-Depth Guide to the Perfect Mix of Sports Coverage & Diverse Playlists</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782642-9781594779497-chakra-frequencies-2nd-ed/"><u>Chakra Frequencies (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/experiential-playground-vr-innovations-for-2024/"><u>Experiential Playground VR Innovations for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-high-quality-gopro-4k-footage-editing-for-2024/"><u>Expert Strategies for High-Quality GoPro 4K Footage Editing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-top-affordable-online-resources-your-dream-toolkit-for-visual-filmmaking/"><u>In 2024, Explore Top Affordable Online Resources - Your Dream Toolkit for Visual Filmmaking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero-10-secrets-for-flawless-long-exposure-films/"><u>In 2024, GoPro Hero 10 Secrets for Flawless Long-Exposure Films</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-simple-curvature-alteration-in-pics/"><u>In 2024, Guide to Simple Curvature Alteration in Pics</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oneplus-nord-3-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from OnePlus Nord 3 5G Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-10t-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme 10T 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-broadcasting-a-guide-to-chroma-key-excellence-for-2024/"><u>Innovative Broadcasting A Guide to Chroma Key Excellence for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ess-content-propagation-beyond-youtube-and-facebook-for-2024/"><u>Seamless Content Propagation Beyond YouTube and Facebook for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-x100-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo X100 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://some-skills.techidaily.com/trusted-6-online-communities-driving-business-growth-for-2024/"><u>Trusted 6 Online Communities Driving Business Growth for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-premium-downloader-suite-for-vimeo-content/"><u>[New] 2024 Approved Premium Downloader Suite for Vimeo Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-banter-bonanza-the-best-comedians-on-the-web-for-2024/"><u>[New] Banter Bonanza The Best Comedians on the Web for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hearthsongs-the-quintessential-playlist-for-engagement/"><u>[New] Hearthsongs The Quintessential Playlist for Engagement</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-tricks-for-capturing-video-tweets-and-converting-to-audible-format/"><u>[New] Tricks for Capturing Video Tweets and Converting to Audible Format</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pro-screencast-strategies-secrets-for-video-creators/"><u>[Updated] 2024 Approved Pro Screencast Strategies Secrets for Video Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-network-broadcast-with-vlc/"><u>[Updated] Innovative Approaches to Network Broadcast with VLC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tutorial-for-effective-telegram-usage/"><u>2024 Approved Expert Tutorial for Effective Telegram Usage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-potential-of-movie-maker-for-anime/"><u>2024 Approved Exploring the Potential of Movie Maker for Anime</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-dynamic-filters-transform-your-videos-digitally/"><u>2024 Approved Implementing Dynamic Filters Transform Your Videos Digitally</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971020420-download-samsung-m2070-printer-drivers-fast-and-simple-installation/"><u>Download Samsung M2070 Printer Drivers: Fast & Simple Installation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-instructions-on-how-to-disable-and-delete-windows-11-copilot-feature/"><u>Easy Instructions on How to Disable and Delete Windows 11 Copilot Feature</u></a></li>
+<li><a href="https://win-best.techidaily.com/ejecucion-simple-de-la-sincronizacion-automatica-de-archivos-en-windows-11-y-versiones-anteriores/"><u>Ejecución Simple De La Sincronización Automática De Archivos en Windows 11 Y Versiones Anteriores</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-bypass-a-youtube-strike-and-keep-creating-videos-for-2024/"><u>How to Bypass a YouTube Strike and Keep Creating Videos for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-harmonizing-visuals-and-sounds-displaying-audio-waves-and-adding-expressive-animation-in-magix-movie-edit-pro/"><u>New In 2024, Harmonizing Visuals & Sounds Displaying Audio Waves & Adding Expressive Animation in Magix Movie Edit Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 14 Multiplayer Co-Op Mobile Games for Enjoying Time Together on Android
-date: 2025-02-06T18:32:48.392Z
-updated: 2025-02-09T17:56:23.780Z
+date: 2025-02-13T20:40:43.523Z
+updated: 2025-02-19T20:08:43.904Z
 tags:
   - mobile
 categories:
@@ -31,7 +31,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Have you ever spent a casual afternoon in stitches because one of your friends kept setting off all the traps? If yes, you know how much fun co-op gaming can be. Alas, Android games that aren't PvP games are hard to come by, so I've curated a list of games that are an absolute blast to play with friends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 [Otherworld Legends](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en%5FUS) 
@@ -52,33 +52,33 @@ _Minecraft_ is probably the most versatile game you can play with friends, as it
 
 _PewPew Live_ is a chaotic top-down shooter with support for LAN co-op and five different game modes. Its twin-joystick controls and colorful vector graphics make the game look deceptively simple; it requires a fast reaction time, as you have to dodge spheres and projectiles while destroying these spheres simultaneously.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 [Sky: Children of the Light](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en%5FUS) 
 
 _Sky: Children of the Light_ is the most relaxing multiplayer puzzle adventure game you've ever seen. It's one of the few games with 100% cross-platform co-op, meaning you can play it with friends on PC or consoles as well. You spend a lot of time just exploring the world, so it's a perfect game to play while discussing unrelated topics with your friends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 [Soul Knight](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter) 
 
 _Soul Knight_ is another roguelite game made by the same developer, ChillyRoom, as Otherworld Legends. Although these two games have the same pixel art style and share the same core mechanics, they're still distinct games with different feelings, gameplay, characters, enemies, and spells. There's also the [_Soul Knight Prequel_](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel) once you're done with the original game. Just like Otherworlds Legends, you can play co-op with up to three other players.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 [Bloons TD 6](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd6&hl=en%5FUS) 
 
 _Bloons TD 6_ is one of the best tower defense games on Android, so it's great that it supports 4-player co-op. The goal of any tower defense game is to build towers that shoot down enemy waves that are trying to go past your defenses to destroy your base. The charm of Bloons is that the towers are monkeys, and the enemies are balloons, so it's a perfect game to play with your kids.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8 [The Past Within](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.RustyLake.ThePastWithin&hl=en) 
 
  If you want a serious co-op game, maybe it's best to get a co-op-only game, which is what we have here with _The Past Within_. The game is a two-player cross-platform co-op game that requires constant communication with your teammate. You're in the same environment, but one of you is in the future, and the other in the past, and you have to work together to solve puzzles in both 2D and 3D. The puzzles aren't too challenging, so it's the perfect type of game to play with [someone who isn't into games](https://some-techniques.techidaily.com/in-2024-explore-the-best-dvd-players-for-your-portable-laptop/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9 [Keep Talking & Nobody Explodes](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.steelcrategames.keeptalkingandnobodyexplodes&hl=en%5FUS) 
 
@@ -93,7 +93,7 @@ _Pepelo_ is a 3D puzzle platformer that you can play alone or with friends. The 
 _Maximus 2_ is an old-school beat-em-up brawler that doesn't take itself too seriously. The game supports co-op with up to four players, but the coolest part is that you can all play on a single device if you have Bluetooth controllers. You progress through different levels, fight bosses, and you heal and revive your teammates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 12 [Northgard](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.playdigious.northgard) 
@@ -127,20 +127,21 @@ _Storiado_ is a fun new party game where you and your friends create stories abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fb-videos-made-quick-proximity-tricks-for-instant-uploaddownload/"><u>[New] FB Videos Made Quick Proximity Tricks for Instant Upload/Download</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-golden-collection-classic-ringtones-at-your-fingertips/"><u>[New] Golden Collection Classic Ringtones at Your Fingertips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-to-superior-cloud-solutions-for-your-needs/"><u>[New] Navigating to Superior Cloud Solutions for Your Needs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-luts-techniques-for-movie-visuals-enhancement/"><u>[Updated] 2024 Approved Luts Techniques for Movie Visuals Enhancement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-for-improved-minecraft-zooms/"><u>[Updated] Expert Advice for Improved Minecraft Zooms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-review-of-powerdirector-apps-latest-edition-2024/"><u>[Updated] Expert Review of PowerDirector App's Latest Edition - 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-the-finest-yt-unboxing-sequences/"><u>[Updated] Explore the Finest YT Unboxing Sequences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-core-of-m1-apples-innovation/"><u>2024 Approved Exploring the Core of M1 Apple's Innovation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-magic-of-photography-and-video-with-pixiz/"><u>2024 Approved Harness the Magic of Photography and Video with Pixiz</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-v30-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme V30 Lock Screen Password?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-7-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 7</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/leaderboards-best-12-action-recorders-including-satellite-positioning/"><u>Leaderboard's Best 12 Action Recorders Including Satellite Positioning</u></a></li>
-<li><a href="https://win11.techidaily.com/leap-across-borders-masterful-mouse-skills-in-powertoys/"><u>Leap Across Borders - Masterful Mouse Skills in PowerToys</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/master-your-images-with-the-best-overlay-apps-for-ios-and-android-for-2024/"><u>Master Your Images with the Best Overlay Apps for iOS & Android for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-freezes-stability-improvements-for-age-of-empires-ii-hd-edition-players/"><u>No More Freezes: Stability Improvements for Age of Empires II HD Edition Players</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-free-pc-video-capture-software-roundup/"><u>[New] 2024 Approved Best Free PC Video Capture Software Roundup</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-showcase-a-dialogue-in-one-instagram-post/"><u>[New] 2024 Approved Showcase a Dialogue in One Instagram Post</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-turning-video-tutorials-into-virtual-income/"><u>[New] 2024 Approved Turning Video Tutorials Into Virtual Income</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-frame-to-script-innovative-ways-of-integrating-text-in-images/"><u>2024 Approved From Frame to Script Innovative Ways of Integrating Text in Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-of-animation-unveiled-selection-of-state-of-the-art-modelling-apps/"><u>2024 Approved Future of Animation Unveiled Selection of State-of-the-Art Modelling Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-energy-for-health-selecting-prime-workout-music/"><u>2024 Approved Harness Energy for Health Selecting Prime Workout Music</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-quality-8-cam-transformations-for-streaming/"><u>2024 Approved High-Quality 8 Cam Transformations for Streaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/definitive-mac-handbook-expert-tips-and-tricks-for-peak-performance-on-your-apple-device/"><u>Definitive Mac Handbook: Expert Tips and Tricks for Peak Performance on Your Apple Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-amateur-to-expert-15-must-knows-in-tiktok-video-edits-for-2024/"><u>From Amateur to Expert 15 Must-Knows in TikTok Video Edits for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-provision-new-vms-with-iso-files-on-vmware-vsphere-a-comprehensive-tutorial/"><u>How To Provision New VMs With ISO Files on VMware vSphere - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-basics-of-effective-vlogging/"><u>In 2024, Exploring the Basics of Effective Vlogging</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-for-newcomers-on-screen-quality-measures/"><u>In 2024, Fundamentals for Newcomers on Screen Quality Measures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-speed-windowed-image-inspector/"><u>In 2024, High-Speed Windowed Image Inspector</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-x-fold-2-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo X Fold 2 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-protected-online-5-key-tips-every-newbie-should-know/"><u>Stay Protected Online: 5 Key Tips Every Newbie Should Know</u></a></li>
 </ul></div>
 

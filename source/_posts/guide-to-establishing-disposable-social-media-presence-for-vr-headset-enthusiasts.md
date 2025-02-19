@@ -1,7 +1,7 @@
 ---
 title: Guide to Establishing Disposable Social Media Presence for VR Headset Enthusiasts
-date: 2025-01-23T23:34:39.978Z
-updated: 2025-01-28T17:16:38.852Z
+date: 2025-02-12T18:32:19.236Z
+updated: 2025-02-19T21:15:15.920Z
 tags:
   - cutting-edge
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 * [Quest headsets no longer require Facebook accounts](https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/), so there's no need to create a "throwaway" one. You still have to create a Meta account to keep track of your purchases, but it doesn't have to be linked to Facebook.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Why Make a Throwaway Account?](https://mondly-stories.techidaily.com/making-languid-latin-lessons-a-blast/)
@@ -29,13 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  The [Oculus Quest 2](https://www.amazon.com/dp/B099VMT8VZ/?tag=htg-v2-3lqek2p-20&ascsubtag=UUhtgUeUpU208100&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F765034%2Fhow-to-create-a-throwaway-facebook-account-for-oculus-quest%2F&asc%5Fcampaign=Short-Term) is the [best all-around VR headset](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) you can buy, but that recommendation comes with a huge asterisk. In order to use a Quest 2, you need a Facebook account! Luckily, you can minimize that hassle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  UPDATE: 8/24/22
 
 [Quest headsets no longer require Facebook accounts](https://tech-revival.techidaily.com/understanding-the-controversy-whats-gptbot-and-how-did-it-get-banned-online/), so there's no need to create a "throwaway" one. You still have to create a Meta account to keep track of your purchases, but it doesn't have to be linked to Facebook.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Make a Throwaway Account?
 
@@ -52,7 +48,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  Assuming that you aren't willing to risk the wrath of Mr. Zuckerberg and want to stick within Facebook's policies, there are a few limited options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  If You Already Have a Facebook Account
@@ -73,13 +69,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Facebook Settings and Privacy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Facebook-Settings-and-Privacy.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, choose "Privacy Checkup."
 
 ![Facebook Privacy Checkup Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Privacy-Checkup-Option.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, choose "Who can see what you share."
 
@@ -89,17 +85,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Enter Facebook profile information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Facebook-Viewable-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under Posts and stories, set Future posts to "Only Me." Since this profile won't have any friends, you can leave stories on "Friends." And, since there should be no past posts, there's no need to use the "Limit past posts" option.
 
 ![Posts and Stories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Posts-and-Stories.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The final step involves blocking specific users, but for this account that's irrelevant, so just complete the wizard. Now you should have an account that's Facebook policy-compliant but is locked down as much as possible.
 
 ![Account Quest 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Account-Quest-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Modding Your Quest 2
 
@@ -120,16 +120,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-how-to-force-youtube-cc-to-stay-on-and-get-more-views-for-2024/"><u>[Updated] How to Force YouTube CC to Stay On and Get More Views for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-deciphering-numbers-an-introduction-to-facebook-insight/"><u>[Updated] In 2024, Deciphering Numbers An Introduction to Facebook Insight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-fixes-syncing-iphone-photos-with-computer/"><u>2024 Approved Fast Fixes Syncing iPhone Photos with Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-8-support-systems-for-high-res-4k-cameras/"><u>2024 Approved Ideal 8 Support Systems for High Res 4K Cameras</u></a></li>
-<li><a href="https://win-able.techidaily.com/cracking-down-on-cod-fixes-and-advice-for-resolving-the-dev-error-6328-in-call-of-duty-warzone/"><u>Cracking Down on Cod: Fixes & Advice for Resolving the Dev Error 6328 in Call of Duty Warzone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhance-productivity-with-macos-montereys-custom-focus-feature-a-step-by-step-guide-on-staying-distraction-free/"><u>Enhance Productivity with macOS Monterey's Custom Focus Feature – A Step-by-Step Guide on Staying Distraction-Free</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-best-free-image-layers-and-enhancers-on-iosandroid-for-2024/"><u>Explore the Best, FREE Image Layers & Enhancers on iOS/Android for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-recover-and-edit-damaged-film-footage-mp4-mov-with-the-help-of-vlc-media-player/"><u>How to Recover and Edit Damaged Film Footage (MP4, MOV) with the Help of VLC Media Player</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-groundbreaking-no-cost-image-editors-unveiled/"><u>In 2024, Groundbreaking No-Cost Image Editors Unveiled</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/selecting-the-superior-vehicle-compasses-of-2024/"><u>Selecting the Superior Vehicle Compasses of 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-future-with-apple-why-skipping-the-iphone-15-means-losing-out-on-innovation-techinsight/"><u>Unveiling the Future with Apple: Why Skipping the iPhone 15 Means Losing Out on Innovation | TechInsight</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-webcam-tricks-for-smooth-video-on-hp-devices/"><u>[Updated] In 2024, Webcam Tricks for Smooth Video on HP Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-framing-the-frame-top-camera-techniques-for-visuals/"><u>2024 Approved Framing the Frame Top Camera Techniques for Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-greatest-stop-motion-animations-ranked-1-15/"><u>2024 Approved Greatest Stop-Motion Animations Ranked #1-15</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-potential-how-to-excel-on-spotify-ads/"><u>2024 Approved Harnessing Potential How to Excel on Spotify Ads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infinity-sphere-shooting-accessories/"><u>2024 Approved Infinity Sphere Shooting Accessories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-photo-cropping-apps-how-to-crop-photos-on-iphone/"><u>2024 Approved Photo Cropping Apps How to Crop Photos on iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/enhancing-meetings-with-top-5-free-and-paid-zoom-transcribers/"><u>Enhancing Meetings with Top 5 Free & Paid Zoom Transcribers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-review-of-powerdirector-features-and-tips-for-2024/"><u>Expert Review of PowerDirector - Features & Tips for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-motorola-moto-g14-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Motorola Moto G14 Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-aural-tales-the-best-of-radio-plays/"><u>In 2024, Aural Tales The Best of Radio Plays</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-v27e-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo V27e?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-magic5-ultimate-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor Magic5 Ultimate to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ipads-drawing-dynasty-top-8-sketch-apps/"><u>IPad's Drawing Dynasty Top 8 Sketch Apps</u></a></li>
 </ul></div>
 

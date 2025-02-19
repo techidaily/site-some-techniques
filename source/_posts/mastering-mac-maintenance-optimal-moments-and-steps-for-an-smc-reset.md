@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset"
-date: 2025-02-06T19:33:43.012Z
-updated: 2025-02-09T16:42:34.556Z
+date: 2025-02-17T21:15:10.060Z
+updated: 2025-02-19T16:50:10.902Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 ---
 
 ## Mastering Mac Maintenance: Optimal Moments & Steps for an SMC Reset
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
  If you're experiencing weird Mac behavior, like a computer that's not responding properly when you press the power button or open the lid or the backlight is playing up, one solution is to reset the system management controller or SMC. It sounds technical, but it actually isn't. Let's take a closer look.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is an SMC, and What Does It Do?
@@ -44,21 +40,25 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  The way to perform the reset is different on MacBooks and desktops, as well as models with the T2 Security Chip. On Macs with Apple Silicon, there is no dedicated system management controller. All the functions of the SMC are built into the main chip.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Reset the SMC on an Apple Silicon Mac
 
  Because Apple Silicon Macs don't have an SMC, you don't need to—and indeed can't—reset it. That doesn't mean you won't ever encounter any of the problems that might be related to an SMC issue. It just means there's a far easier way to fix them: simply reboot your Mac.
 
  Click the Apple menu in the top left corner of your screen, then either select "Restart," or choose "Shut Down" and hit the power button once it is done. The Apple Silicon equivalent of an SMC reset will happen automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Reset the SMC on an Intel Mac with a T2 Security Chip
 
  On Intel MacBooks with the T2 chip, which means most models from 2018 or later, Apple recommends an extra step before resetting the SMC. Shut down your Mac and press and hold the power button for 10 seconds. Wait a few extra seconds and then turn your Mac back on to see if the problem has been fixed.
 
 ![The key combination to reset the SMC on a MacBook with the T2 chip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-a-macbook-with-the-t2-chip.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -73,7 +73,7 @@ Hannah Stryker / How-To Geek
  On desktop Macs with the T2 chip, it's far simpler. Just shut the Mac down and unplug the power cord. After 15 seconds, plug the power cord back in, wait another five seconds, and then power on your Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Reset the SMC on Older Intel Macs
@@ -83,7 +83,7 @@ Hannah Stryker / How-To Geek
 ![The key combination to reset the SMC on an older Intel MacBook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-key-combination-to-reset-the-smc-on-an-older-intel-macbook.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -118,20 +118,21 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-leading-popular-instagram-after-effects-designs/"><u>[New] In 2024, Leading Popular Instagram After Effects Designs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-image-malleability-the-art-of-photographic-warping/"><u>[Updated] Image Malleability The Art of Photographic Warping</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-seamless-visual-storytelling-through-advanced-chroma-techniques/"><u>[Updated] In 2024, Seamless Visual Storytelling Through Advanced Chroma Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-video-playback-vlc-vs-mx/"><u>2024 Approved Exploring Video Playback VLC Vs. MX</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gently-unveiled-scene/"><u>2024 Approved Gently Unveiled Scene</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-alive-silent-office-outlook-mail-feeds/"><u>Bringing Alive Silent Office Outlook Mail Feeds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/fine-tuning-online-discussions-with-advanced-zooming-skills/"><u>Fine-Tuning Online Discussions with Advanced Zooming Skills</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-idea-to-hit-solo-podcast-production-tactics-for-2024/"><u>From Idea to Hit Solo Podcast Production Tactics for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-scoop-deciphering-the-google-podcast-app-for-2024/"><u>Full Scoop Deciphering the Google Podcast App for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-rotational-photography-versus-3d-scanning-for-2024/"><u>Full-Rotational Photography versus 3D Scanning for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-back-to-seamless-transfers-fixing-faulty-airdrop-links-for-2024/"><u>Get Back to Seamless Transfers Fixing Faulty Airdrop Links for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-windows-music-mastery-for-2024/"><u>Immersive Windows Music Mastery for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cropping-and-resizing-images-in-final-cut-pro-x-made-easy/"><u>New In 2024, Cropping and Resizing Images in Final Cut Pro X Made Easy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-onedrive-fixing-invalid-tag-errors-in-windows/"><u>Troubleshooting OneDrive: Fixing Invalid Tag Errors in Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-11-black-screen-woes-top-fixes-to-restore-your-desktop-view/"><u>Windows 11 Black Screen Woes? Top Fixes to Restore Your Desktop View</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-excellent-video-cameras-ideal-for-future-musical-shootouts/"><u>[New] Excellent Video Cameras Ideal for Future Musical Shootouts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-guiding-you-to-enable-auto-video-feature-on-facebook/"><u>[New] In 2024, Guiding You to Enable Auto-Video Feature on Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-videography-instagram-captioning-techniques/"><u>[Updated] Elevate Your Videography Instagram Captioning Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-the-best-approaches-to-live-cricket-broadcasting/"><u>[Updated] Expert Insights The Best Approaches to Live Cricket Broadcasting</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-secretive-story-viewing-tactics-for-android-iphone-and-pc-for-2024/"><u>[Updated] Secretive Story Viewing Tactics for Android, iPhone & PC for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ice-acceleration-showdown-at-the-olympics-2022/"><u>2024 Approved Ice Acceleration Showdown at the Olympics, 2022</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-one-screen-many-screens-the-art-of-parallel-viewing/"><u>2024 Approved One Screen, Many Screens The Art of Parallel Viewing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-ultimate-techniques-for-enhancing-vimeo-videos-with-subtitles/"><u>2024 Approved Ultimate Techniques for Enhancing Vimeo Videos with Subtitles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoiding-photo-redundancy-combining-repeated-subject-pictures-on-ios-and-macos-devices/"><u>Avoiding Photo Redundancy: Combining Repeated Subject Pictures on iOS & macOS Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-apple-experience-exclusive-insights-into-the-latest-free-macos-15-upgrade-features-zdnet/"><u>Elevate Your Apple Experience - Exclusive Insights Into the Latest, Free MacOS 15 Upgrade Features | ZDNET</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/eye-catching-text-top-10-photo-writing-tools-for-smartphones-for-2024/"><u>Eye-Catching Text Top 10 Photo Writing Tools for Smartphones for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/following-review-innovative-outlooks-for-2024/"><u>Following Review Innovative Outlooks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonys-choice-top-10-songs-that-say-yes-for-2024/"><u>Harmony's Choice Top 10 Songs That Say 'Yes!' For 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-comprehensive-guide-to-share-facebook-videos-with-whatsapp/"><u>In 2024, A Comprehensive Guide to Share Facebook Videos with WhatsApp</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-nba-game-broadcasting/"><u>In 2024, Innovative Approaches to NBA Game Broadcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-use-of-multimedia-in-modern-classrooms-for-2024/"><u>Innovative Use of Multimedia in Modern Classrooms for 2024</u></a></li>
 </ul></div>
 

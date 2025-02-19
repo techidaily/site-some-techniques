@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips"
-date: 2025-02-07T20:05:03.490Z
-updated: 2025-02-09T17:25:11.941Z
+date: 2025-02-14T19:44:22.027Z
+updated: 2025-02-19T19:49:12.126Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 ---
 
 ## Apple's Latest Innovation: Comparing the Power of M4 and M3 Chips
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 * [Is M4 More Efficient Than M3?](https://some-tips.techidaily.com/instantaneous-installation-laugh-with-ifunny-memes-easily-for-2024/)
 * [M4 on MacBooks? It Might Happen Soon](https://games-able.techidaily.com/compact-your-collection-smart-iso-size-cutting-via-chdman-method/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * For the first time, Apple launched a new M-series chip with an iPad - the M4 Silicon.
@@ -36,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
  Apple's M4 system-on-chip is the first M chip to launch outside of a MacBook, debuting in the 2024 iPad Pro. So how does it compare to its replacement, the M3?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Introducing Apple M4 Silicon
 
  On the surface, the M4 is the fourth iteration of Apple's M-branded system-on-a-chip (SoC) that houses a nine or 10-core CPU, a 10-core GPU, and a 16-core Neural Engine. Currently, it is only available in two configurations (where one variant has more processing cores than the other) [on the 2024 iPad Pro](https://some-guidance.techidaily.com/new-transform-your-note-habits-with-mematics-tools/). However, Apple could soon add more variants to the M4 lineup.
 
 ![Apple's M4 Silicon mascot on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m4-chip-announced-with-2024-ipad-pro.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -61,10 +53,6 @@ Apple
  The new Apple M4 Silicon comes in two variants: one with a nine-core CPU with three performance and four efficiency cores, and another with a 10-core CPU with one additional performance core. Compared to the M4, [the M3 only ships with eight cores](https://screen-sharing-recording.techidaily.com/updated-obs-clash-livestream-prodigies-for-2024/), half of which tackle performance, while the other half looks after lighter tasks.
 
 ![Apple M4 Silicon's representative image highlighting the number of performance and efficiency cores.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-s-m4-chip-gets-more-efficiency-cores.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Apple
 
@@ -85,7 +73,7 @@ Apple
  On the brighter side, the M4's media engine now supports hardware-accelerated 8K H.264, HEVC, ProRes, and ProRes RAW formats, a clear upgrade over [2023's M3 chip](https://screen-sharing-recording.techidaily.com/updated-obs-clash-livestream-prodigies-for-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What About the M4's Neural Engine?
@@ -100,15 +88,27 @@ Apple
 
  Another report by [MacWorld](https://www.macworld.com/article/2328448/m4-ipad-pro-benchmarks-single-multi-core-neural-engine-scores.html) claims that the new chip scores about 12% more points in the Geekbench ML test than the baseline M3\. However, since the variant listed on Geekbench features 16GB of RAM, the one with 8GB of RAM won't perform as well. To sum up, the Neural Engine on the M4 Silicon is more powerful than the one on the M3, but not by a significant margin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Is M4 More Efficient Than M3?
 
  Since M4 is based on the second generation of TSMC's 3nm fabrication process, it should be more efficient than M3\. However, that is the extent of information about the chip's efficiency. Apple does mention that "M4 can deliver the same performance as M2 using just half the power,_"_ but it doesn't compare the M4 directly to the M3\. Further, the company says its latest chip can deliver the same performance as the newest PC chip in a thin, light laptop using just a fourth of the power.
 
 ![Screenshot of Apple M2 Silicon's features and specifications.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/apple-m2-chip-on-the-new-ipad-air.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
 
  Nonetheless, the M4 iPad Pro has become the longest-lasting iPad in [Tom's Guide](https://www.tomsguide.com/tablets/ipads/ipad-pro-2024-and-ipad-air-2024-tested-heres-how-apples-m4-silicon-performs) tests, indicating that the chipset is indeed more efficient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  M4 on MacBooks? It Might Happen Soon
 
@@ -143,19 +143,20 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-get-a-faster-live-streaming-on-periscope/"><u>[New] How to Get a Faster Live Streaming on Periscope</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-audio-capture-methods-in-windows-11-operating-system/"><u>[New] Top 5 Audio Capture Methods in Windows 11 Operating System</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlock-your-phones-potential-for-high-quality-snapchat-recordings-for-2024/"><u>[New] Unlock Your Phone's Potential for High-Quality Snapchat Recordings for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-cutting-edge-beat-detection-for-aspiring-producers/"><u>[Updated] Free, Cutting-Edge Beat Detection for Aspiring Producers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-featured-sierra-drives-files-and-more/"><u>[Updated] Full-Featured Sierra Drives, Files, and More</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-slow-motion-mobile-photography-and-video-apps-iosandroid/"><u>2024 Approved Premium Slow Motion Mobile Photography & Video Apps iOS/Android</u></a></li>
-<li><a href="https://win-best.techidaily.com/esegui-facilmente-il-backup-completo-del-sistema-operativo-seguendo-questi-cinque-passaggi-essenziali/"><u>Esegui Facilmente Il Backup Completo Del Sistema Operativo Seguendo Questi Cinque Passaggi Essenziali</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unable-to-connect-to-the-remote-server/"><u>How to Fix Unable to Connect to the Remote Server</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-video-displays-the-best-5-for-playstation-5-for-2024/"><u>Ideal Video Displays The Best 5 for PlayStation 5 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-6-apps-for-video-interpretation/"><u>In 2024, Excellent 6 Apps for Video Interpretation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782329-9781591437543-the-mysterious-origins-of-hybrid-man/"><u>The Mysterious Origins of Hybrid Man | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-driver-verifier-within-win11-control-panel/"><u>Unveiling Driver Verifier Within Win11 Control Panel</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winx-dvd-ripper-platina-conversao-simples-e-instantanea-de-dvd-para-mp4-em-h264hevc/"><u>WinX DVD Ripper Platina - Conversão Simples E Instantânea De DVD Para MP4 Em H.264/HEVC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-ultimate-windows-11-video-editing-showcase/"><u>[New] 2024 Approved The Ultimate Windows 11 Video Editing Showcase</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-a-guide-for-building-cool-metaverse-content/"><u>[New] From Novice to Pro A Guide for Building Cool Metaverse Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-straightforward-path-to-windows-voice-transformation-for-fishy-sounds/"><u>[New] In 2024, The Straightforward Path to Windows Voice Transformation for Fishy Sounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-boring-to-breathtaking-adopt-new-wallpapers-in-win11/"><u>[Updated] From Boring to Breathtaking Adopt New Wallpapers in Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-fix-no-video-on-sony-a6400-camera/"><u>[Updated] How to Fix No Video On Sony A6400 Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-pick-a-perfect-virtual-reality-device-evaluating-portability-mobile-versus-connected-experience/"><u>[Updated] How to Pick a Perfect Virtual Reality Device Evaluating Portability (Mobile) Versus Connected Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-rehabilitating-faulty-obs-camera-connection/"><u>[Updated] Rehabilitating Faulty OBS Camera Connection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-faces-in-flux-perfecting-motion-blur-on-human-figures-in-photos/"><u>2024 Approved Faces in Flux Perfecting Motion Blur on Human Figures in Photos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-distort-pic-using-different-tools/"><u>2024 Approved How to Distort Pic Using Different Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-vr-revolutionizes-movie-watching/"><u>2024 Approved How VR Revolutionizes Movie-Watching</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mastering-windows-animation-top-9-apps-for-high-quality-gif-capture/"><u>2024 Approved Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-2023-guide-to-top-value-streaming-tools-for-all-platform-users/"><u>2024 Approved The 2023 Guide to Top Value Streaming Tools for All Platform Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-setting-new-pace-with-apple-watch-fitness-goals-smart-strategies-unveiled-by-zdnets-gurus/"><u>Master the Art of Setting New Pace with Apple Watch Fitness Goals | Smart Strategies Unveiled by ZDNET's Gurus</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-scanning-experience-free-canon-scanner-drivers-for-windows-systems/"><u>Seamless Scanning Experience: Free Canon Scanner Drivers for Windows Systems</u></a></li>
 </ul></div>
 

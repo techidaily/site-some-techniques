@@ -1,7 +1,7 @@
 ---
 title: "Inside Story: Crafting Microsoft's Famous 3D Pipe Screen Saver for Windows Operating System"
-date: 2025-02-03T19:26:14.419Z
-updated: 2025-02-09T16:22:48.109Z
+date: 2025-02-16T16:20:56.403Z
+updated: 2025-02-19T20:10:37.771Z
 tags:
   - deals
 categories:
@@ -40,28 +40,22 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-unleash-creativity-learning-snapseeds-power-tools/"><u>[New] Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/irtual-validation-subscribers-buttons-reward-system/"><u>[New] Virtual Validation Subscribers, Buttons Reward System</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premier-live-tv-service-showdown-a-comparative-look/"><u>[Updated] 2024 Approved Premier Live TV Service Showdown A Comparative Look</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funnybox-simple-setup-for-content-creators/"><u>[Updated] FunnyBox Simple Setup for Content Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-vanish-obscuring-elements-and-sharpen-your-images-in-affinity-photo/"><u>[Updated] How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovating-virtual-reality-gaming-the-2023-update/"><u>[Updated] Innovating Virtual Reality Gaming - The 2023 Update</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-smaller-brands-bigger-impacts-infographics-for-2024/"><u>[Updated] Smaller Brands, Bigger Impacts (Infographics) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-selfies-to-skies-uncovering-the-intricacies-with-the-dji-spark/"><u>2024 Approved From Selfies to Skies Uncovering The Intricacies with the DJI Spark</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-still-to-moving-adding-animated-effects-to-your-text-ig-stories/"><u>2024 Approved From Still to Moving Adding Animated Effects to Your Text IG Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-go-live-on-youtube-from-a-phone-no-need-for-huge-fans-yet/"><u>2024 Approved Go Live on YouTube From a Phone, No Need for Huge Fans Yet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hasty-yet-stunning-the-quick-path-to-perfect-collage-pics/"><u>2024 Approved Hasty, Yet Stunning The Quick Path to Perfect Collage Pics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-optimal-methods-for-converting-arf-archives-into-accessible-formats/"><u>Comprehensive Guide: Optimal Methods for Converting ARF Archives Into Accessible Formats</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-block-unsolicited-messages-in-ios/"><u>Effective Methods to Block Unsolicited Messages in iOS</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-the-shift-key-stops-working/"><u>Effective Solutions for When the Shift Key Stops Working</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-free-photo-upscaler-for-modern-devices-for-2024/"><u>Exclusive Free Photo Upscaler for Modern Devices for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-safeaccess-usb-fingerprint-scanner-software-instantly-effortless-download-options/"><u>Get Your [SAFE_ACCESS] USB Fingerprint Scanner Software Instantly – Effortless Download Options!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-ai-visualization-toolset/"><u>In 2024, Expert AI Visualization Toolset</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/urgent-alert-windows-11-versions-21h2-and-22h2-hit-end-of-life-act-fast-to-secure-your-upgrade/"><u>Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life; Act Fast to Secure Your Upgrade!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-pick-the-ideal-lens-for-immersive-4k-filming/"><u>[Updated] How to Pick the Ideal Lens for Immersive 4K Filming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chip-revolution-editing-videos-flawlessly-with-m1/"><u>2024 Approved Chip Revolution Editing Videos Flawlessly with M1</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-on-syncing-gmail-and-zoom-for-remote-collaboration/"><u>2024 Approved Expert Tips on Syncing Gmail and Zoom for Remote Collaboration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-octane-comparison-gopro-hero-4-vs-drift-ghost-s/"><u>2024 Approved High Octane Comparison GoPro Hero 4 Vs. Drift Ghost-S</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-does-imovie-set-dimensions/"><u>2024 Approved How Does iMovie Set Dimensions?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/capcutyoutube/"><u>CapCut使いこなせば、簡単にYouTube動画/音楽を加工 :ステップバイステップガイド</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-these-14-fascinating-text-based-animations-for-2024/"><u>Explore These 14 Fascinating Text-Based Animations for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-logitech-g903-mouse-software-and-drivers-for-windows-pcs/"><u>Free Logitech G903 Mouse Software & Drivers for Windows PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-smartphone-to-screen-uploading-pics-on-youtube/"><u>From Smartphone to Screen Uploading Pics on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-frame-reconfigurator-for-videos/"><u>In 2024, Frame Reconfigurator for Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-tecno-spark-20-proplus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Tecno Spark 20 Pro+ Location | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/live-action-anytime-anywhere-our-ultimate-12-stream-service-for-2024/"><u>Live Action Anytime, Anywhere - Our Ultimate 12-Stream Service for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/navigating-through-the-excellent-windowed-and-mac-compatible-daws-top-10-selection/"><u>Navigating Through the Excellent Windowed & Mac Compatible DAWs - Top 10 Selection</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
-date: 2025-02-07T18:35:38.721Z
-updated: 2025-02-09T17:34:26.410Z
+date: 2025-02-13T20:38:40.537Z
+updated: 2025-02-19T20:58:37.193Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Troubleshooting the 'App Not Supported on PC' Issue in Windows 11 – Effective Solutions and Tips
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,10 +45,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Run as Administrator' highlighted for an app in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-run-app-as-an-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the [User Account Control (UAC)](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) prompt, select "Yes."
 
 ##  Use App Compatibility Troubleshooter
@@ -55,20 +55,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Run Compatibility Troubleshooter' highlighted in an app's properties.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-run-app-compatibility-troubleshooter.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait while the tool runs various checks and finds issues with the app. Then, follow the tool’s recommendations to fix your problem.
 
 ![Windows 11's App Compatibility Troubleshooter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-windows-11-app-compatibility-troubleshooter.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Activate Developer Mode
@@ -83,11 +75,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Developer Mode' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-enable-developer-mode-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Quit Settings and launch your app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Remove and Reinstall the App
 
@@ -100,16 +92,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Uninstall' highlighted for an app in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-remove-app-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the open prompt, select "Uninstall" to delete the app.
 
  Reinstall the app by visiting the app developer’s website, downloading the app, and running the app installer. There may also be a version on the Microsoft Store, if you want to try that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The App Is Not Supported on Windows 11
 
  If the app doesn’t work even after reinstalling, it may not be compatible with your Windows 11 version. This usually happens when the developer doesn’t add support for the latest Windows version to their apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The App Can't Run on Your PC's Hardware
 
@@ -134,19 +134,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-essential-info-on-valheim-sowing-top-seeds-ranked-for-2024/"><u>[New] Essential Info on Valheim Sowing Top Seeds Ranked for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-basic-to-advanced-understanding-dynamic-range-imaging/"><u>[New] From Basic to Advanced Understanding Dynamic Range Imaging</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-free-clip-art-legally/"><u>[Updated] Harnessing Free Clip Art Legally</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-infuse-motion-blur-into-image-sequence/"><u>[Updated] Infuse Motion Blur Into Image Sequence</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-keep-your-content-clout-authentic-resist-the-like-lie-in-for-2024/"><u>[Updated] Keep Your Content Clout Authentic Resist the Like Lie-In for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-analysis-complete-look-at-xvideo-studio-essentials/"><u>2024 Approved Expert Analysis Complete Look at XVideo Studio Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-quantum-hdrs-impact-on-photography/"><u>2024 Approved Exploring Quantum HDR's Impact on Photography</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-comfortable-and-efficient-ergonomic-mice-for-office-use-in-202-instruction-1-same-difficultyformatlength-solution/"><u>Discover the Most Comfortable & Efficient Ergonomic Mice for Office Use in 202# Instruction 1 (Same Difficulty/Format/Length) Solution:</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-official-gigabyte-driver-for-gc-wb867d-wifi-router-instantly/"><u>Get the Official Gigabyte Driver for GC-WB867D WiFi Router Instantly</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-breaking-barriers-7-top-tools-for-artists-transforming-into-nfts/"><u>In 2024, Breaking Barriers 7 Top Tools for Artists Transforming Into NFTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-advantages-in-video-workflow-over-traditional-sdr/"><u>In 2024, HDR Advantages in Video Workflow Over Traditional SDR</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/step-by-step-strategies-to-thrive-on-reddit-for-2024/"><u>Step-by-Step Strategies to Thrive on Reddit for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/system-prerequisites-for-running-big-sur-on-macs/"><u>System Prerequisites for Running Big Sur on Macs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-whispers-from-the-past-secrets-unveiled-in-age-old-texts/"><u>[New] 2024 Approved Whispers From the Past Secrets Unveiled in Age-Old Texts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-list-top-5-affordable-screen-recorders-for-windows/"><u>[New] Exclusive List Top 5 Affordable Screen Recorders for Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fade-techniques-to-pare-down-audio-intensity-in-logic-pro/"><u>[New] Fade Techniques to Pare Down Audio Intensity in Logic Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-desktop-snapshot-made-simple-free-tools-for-windows/"><u>[Updated] Desktop Snapshot Made Simple – Free Tools for Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-navigating-digital-dialogues-insider-secrets-to-proficient-zoom-conversations/"><u>[Updated] In 2024, Navigating Digital Dialogues Insider Secrets to Proficient Zoom Conversations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-rapid-routines-for-capturing-video-calls/"><u>[Updated] In 2024, Rapid Routines for Capturing Video Calls</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-tvs-to-accompany-your-highest-rated-consoles/"><u>2024 Approved Best TVs to Accompany Your Highest Rated Consoles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-photosvideos-the-role-of-watermarks/"><u>Facebook Photos/Videos The Role of Watermarks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-concepts-to-recordings-a-step-by-step-guide-for-podcast-writers-for-2024/"><u>From Concepts to Recordings A Step-by-Step Guide for Podcast Writers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-full-potential-of-video-enhancer-22-for-your-work-for-2024/"><u>Harnessing the Full Potential of Video Enhancer 2.2 for Your Work for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-overcome-usb-compatibility-issues-with-canon-260ci-wi-fi-adapter/"><u>How to Overcome USB Compatibility Issues with Canon 260Ci Wi-Fi Adapter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-match-top-4-sites-for-custom-tones/"><u>In 2024, Find Your Match Top 4 Sites for Custom Tones</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210659455-9781951879105-memoarer-fran-andra-dimensionen-del-1/"><u>Memoarer Från Andra Dimensionen, Del 1 | Free Book</u></a></li>
 </ul></div>
 

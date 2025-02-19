@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments"
-date: 2025-01-27T20:53:29.584Z
-updated: 2025-01-29T08:11:38.776Z
+date: 2025-02-16T18:31:36.820Z
+updated: 2025-02-19T19:11:57.310Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ## Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 * Deep Game, an AI fiction writer, excels in creating engaging stories, offering various genres, and even allows users to direct the plot development.
 
  If you browse the "Explore GPTs" section of ChatGPT, you'll find a near-endless selection of custom GPTs for everything you can think of and at least a few things you'd never think of!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Astrology Birth Chart GPT
 
@@ -46,14 +50,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 ![A screenshot of the response including Sun sign and moon sign explanations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225219_chatgpt.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is a detailed birth chart! However, it doesn't take AI to do a birth chart, just an extensive database. A real test would be to prompt the GPT to apply this chart to a specific scenario.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Prompt: What Would Be a Good Career for Me Based on This Info?
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 "Rizz" is a slang term that refers to someone's charisma or ability to attract and charm others, especially in a romantic context. It's short for "charisma," and is often used to describe someone with a smooth, confident, and engaging personality. If someone is said to have "rizz," it means they can easily flirt or make connections with people through their charm and wit."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Prompt: Give 5 Good Pickup Lines for a 73-Year-Old to Use at the Nursing Home
@@ -99,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  If I were involved in training this AI, I'd consider this response a failure. In addition to the fact that many of these aren't especially witty, funny, or well-written, some aren't relevant to the prompt. That's a big miss! Is the "senior" prom line supposed to be a play on words or did the AI confuse both uses of the word? The inclusion of the "BINGO" piece at the end of the "U" and "I" line doesn't quite make sense, and the magician and map lines aren't relevant at all.
 
 ![Screenshot of GPTs response to the prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225152_chatgpt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Despite this red flag, I pressed on. I described my work, hobbies, kids, and preferences, and asked it to write me a dating profile. The resulting response was poorly written, formulaic, cheesy, and exactly what one would expect from the author of those pickup lines. It later occurred to me that using that profile as an obvious joke on a dating site might actually generate interest. I didn't test it out, but it made me wonder if I was taking the AI too seriously. Is this AI supposed to be a caricature of Gen Z? Perhaps I'm too old to get the joke. However, not meeting the basic standards of AI we've come to expect from GPTs means the joke is poorly executed, in my opinion.
 
@@ -121,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
  Without missing a beat, Deep Game continued the story, "The sun blazes high in the sky, its relentless heat beating down on the small, desolate island. Palm trees sway gently in the breeze, their fronds rustling softly. The sand beneath your feet is hot, almost unbearable. You've managed to set up a small camp using the few supplies you had, but with no rain in days, your collected water is dangerously low."
 
 ![Screenshot of prompt and the first part of the GPT response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240801_225031_chatgpt.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The writing is verbose and the story lines are archaic. However, that's typical of AI writing, in my experience. This AI is as good as ChatGPT gets. Of the three GPTs I tried, this is the only one I can see myself using again. I'm thoroughly a non-fiction writer. However, if I did start writing fiction and inevitably got stuck, I think I could enter the plot I had so far to see what it suggested. It could be fun to do with kids. It might also be useful for fantasy tabletop role-playing games like _Dungeons & Dragons_, because the user can direct the story while Deep Game paints the scenes both with words and art. For those with [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/) accounts, it can generate an image of the scene just described. Just use the command "/visualize".
 
@@ -143,19 +143,24 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-creating-high-impact-yt-cover-images/"><u>[Updated] Creating High-Impact YT Cover Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-experience-seamless-video-production-start/"><u>[Updated] Experience Seamless Video Production Start</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-calm-to-captivating-techniques-for-motion-blur-mastery/"><u>[Updated] From Calm to Captivating Techniques for Motion Blur Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-photoshop-sway-effective-or-not/"><u>2024 Approved Evaluating Photoshop Sway Effective or Not?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-the-unseen-commentary-on-online-videos/"><u>Discovering the Unseen Commentary on Online Videos</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/exploring-aftermath-unveiling-the-outcomes-of-the-boxer-rebellion-insights-by-yl-computing-and-yl-software/"><u>Exploring Aftermath: Unveiling the Outcomes of the Boxer Rebellion - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fix-excel-2013-formula-not-showing-result-stellar-by-stellar-guide/"><u>Fix Excel 2013 formula not showing result | Stellar</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flash-fiction-directorial-map-for-2024/"><u>Flash Fiction Directorial Map for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/freedom-from-filmage-tiktok-videos-without-stickers-for-2024/"><u>Freedom From Filmage TikTok Videos Without Stickers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-complete-guide-icloud-drives-desktop-anddocuments-access-in-sierra/"><u>In 2024, [Complete Guide] iCloud Drive’s Desktop &Documents Access in Sierra</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/macbook-showdown-understanding-the-key-differences-between-air-and-pro-models/"><u>MacBook Showdown: Understanding the Key Differences Between Air and Pro Models</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-ranking-of-studied-languages-outside-us-borders/"><u>The Ranking of Studied Languages Outside U.S. Borders</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-photobooth-playback-error-constant-pause-issues/"><u>[New] 2024 Approved Photobooth Playback Error Constant Pause Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-slide-show-tools-for-iphone-series-10-13-upgrades/"><u>[New] Ideal Slide Show Tools For iPhone Series 10-13 Upgrades</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-interviews-fans-magnetism-in-audio/"><u>[New] Innovative Interviews Fans' Magnetism in Audio</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comedy-collection-a-1992-review-of-the-goofys/"><u>[Updated] 'Comedy Collection' A 1992 Review of The Goofys</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-on-crafting-an-ideal-video-conference-room/"><u>[Updated] Expert Advice on Crafting an Ideal Video Conference Room</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-lg-bp350-monitors-unique-features/"><u>[Updated] Exploring the LG BP350 Monitor's Unique Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foremost-recommendations-audio-customization-pros/"><u>[Updated] Foremost Recommendations Audio Customization Pros</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-spoofing-success-the-path-to-parody-proficiency-for-2024/"><u>[Updated] Spoofing Success The Path to Parody Proficiency for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-acclaimed-tools-the-finest-ps1-emulators-for-pc-gaming/"><u>2024 Approved Acclaimed Tools The Finest PS1 Emulators for PC Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-unlock-mac-with-apple-watch-sierra/"><u>2024 Approved How to Unlock Mac with Apple Watch [Sierra]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illustration-ingenuity-3d-text-magic/"><u>2024 Approved Illustration Ingenuity 3D Text Magic</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-android-to-apple-how-iphone-16-innovations-might-just-convince-this-user/"><u>From Android to Apple? How iPhone 16 Innovations Might Just Convince This User</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-crop-image-online-in-2024/"><u>How To Crop Image Online, In 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-magic-vs-2-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor Magic Vs 2 Screen | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-pursuit-of-perfection-highest-rated-phones-for-smooth-videos-for-2024/"><u>In Pursuit of Perfection Highest Rated Phones for Smooth Videos for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-lava-blaze-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Lava Blaze Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/wmv-flac/"><u>필립 WMV FLAC 변환 - 최고의 무료 대화형 기술: 실시간 이미지와 오디오를 위해</u></a></li>
 </ul></div>
 

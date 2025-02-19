@@ -1,7 +1,7 @@
 ---
 title: "Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps"
-date: 2025-02-04T19:22:43.495Z
-updated: 2025-02-09T19:29:11.895Z
+date: 2025-02-16T16:16:33.433Z
+updated: 2025-02-19T21:21:05.516Z
 tags:
   - mobile
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
 ## Android Dominance: How Google Has Emerged as the Top Creator of Extra Apps
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Google and Android Are Not One and the Same](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c55-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/)
@@ -19,16 +23,16 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 * [Some Preinstalled Apps Are Better Than Google's](https://win-blog.techidaily.com/error-0xc19001e1-in-windows-10-a-complete-walkthrough-to-restore-system-health/)
 * [Google Apps Make Android Phones All Feel the Same](https://fox-friendly.techidaily.com/decreasing-audio-intensity-protocol/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Google controls the most popular store for distributing Android apps and requires Android phone makers to ship a suite of Google software in order to have access.
 * Some OEM apps are better than Google's, but fewer phone companies are going through the effort of making their own software.
 
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Google and Android Are Not One and the Same
 
@@ -38,12 +42,16 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  After Android Became Popular, Google Wanted More Control
 
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -60,10 +68,6 @@ Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  I Don't Want to Give All of My Data to Google
 
  I made efforts to de-Google my life years ago, deleting my Google account entirely. I re-created one years later when an organization I'm involved with wanted to use Google Calendar to manage our schedule. I started to use this same account to log into Google Play for apps, but that's about it.
@@ -73,10 +77,6 @@ Justin Duino / How-To Geek
  It's not that I don't use any Google apps. I find Google Maps useful, especially due to how much information it provides about local businesses. I watch YouTube, since it is the primary way major and independent publishers alike distribute video. But these apps don't provide essential phone functionality in the way that a gallery app and a local video player do. They're the kind of programs many people would immediately seek out on their own in the Play Store. Still, they're preinstalled to drive more people toward Google services and provide the company with more marketable data.
 
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Some Preinstalled Apps Are Better Than Google's
 
@@ -93,7 +93,7 @@ Close
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Apps Make Android Phones All Feel the Same
@@ -129,19 +129,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-the-ultimate-handbook-to-effective-spotify-marketing-for-2024/"><u>[New] The Ultimate Handbook to Effective Spotify Marketing for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-playbook-capturing-ps3-game-highlights/"><u>[New] The Ultimate Playbook Capturing PS3 Game Highlights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gastronomy-in-action-a-guide-to-high-quality-food-videos/"><u>[Updated] Gastronomy in Action A Guide to High-Quality Food Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-displays-of-2024-essential-photo-editing-gear-selection/"><u>[Updated] Ideal Displays of 2024 Essential Photo Editing Gear Selection</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iosandroid-leading-photo-writing-app-list/"><u>[Updated] IOS/Android Leading Photo-Writing App List</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-starfield-cpu-drain-expert-fixes-and-insights/"><u>Beat the Starfield CPU Drain - Expert Fixes and Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-video-to-verse-ranking-the-best-16-platforms-for-flawless-translation-for-2024/"><u>From Video to Verse Ranking the Best 16 Platforms for Flawless Translation for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funimate-android-adventure-the-apk-breakdown-for-2024/"><u>Funimate Android Adventure The APK Breakdown for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-maintain-youtube-session-in-the-background-for-2024/"><u>How to Maintain YouTube Session in the Background for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-staking-rituals-player-views/"><u>In 2024, HIGH-STAKING RITUALS Player Views</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-rapid-fire-fb-videos-guide-premium-apps-to-fasten-your-content/"><u>In 2024, Rapid-Fire FB Videos Guide - Premium Apps to Fasten Your Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-academic-success-with-our-top-6-pick-of-homework-apps-for-parents-and-students/"><u>Navigating Academic Success with Our Top 6 Pick of Homework Apps for Parents and Students</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-7-advantages-how-chromebooks-outshine-traditional-laptops-for-everyday-use-insights-by-zdnet/"><u>Top 7 Advantages: How Chromebooks Outshine Traditional Laptops for Everyday Use – Insights by ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-6-competitive-video-apps-as-periscope-substitutes/"><u>[New] 6 Competitive Video Apps as Periscope Substitutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/code-10-mishaps-expert-tips-on-starting-devices-that-refuse-to-turn-on/"><u>Code 10 Mishaps: Expert Tips on Starting Devices That Refuse to Turn On</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-services-a-look-at-hulu-vs-hulu-plus/"><u>Comparing Services: A Look at Hulu Vs. Hulu Plus</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-ai-naming-software-for-podcasters-for-2024/"><u>Explore the Best AI Naming Software for Podcasters for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-definition-at-its-peak-top-10-4k-screens-for-2024/"><u>High Definition at Its Peak #Top 10 4K Screens for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hubsan-h501s-exploration-the-ultimate-fpv-experience-for-2024/"><u>Hubsan H501S Exploration The Ultimate FPV Experience for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-bring-your-youtube-vision-to-life-with-free-banner-resources/"><u>In 2024, Bring Your YouTube Vision to Life with FREE Banner Resources</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-evaluating-the-skys-new-kid-on-the-block-syma-x5c-review/"><u>In 2024, Evaluating the Sky's New Kid on the Block – Syma X5C Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-focusing-on-the-small-web-details/"><u>In 2024, Expert Tips Focusing on the Small Web Details</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-enhancing-your-gopro-cinematic-vision/"><u>In 2024, Expert Tips for Enhancing Your GoPro Cinematic Vision</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-tecno-spark-10c-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Tecno Spark 10C</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-photo-editing-via-vsco-a-compreeved-guide/"><u>In 2024, In-Depth Photo Editing via VSCO A Compreeved Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picsart-remove-bg-comprehensive-tutorial/"><u>In 2024, Picsart Remove Bg Comprehensive Tutorial</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-6s-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 6s Making It Possible</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-mastery-the-craft-of-comical-mocks/"><u>Mirroring Mastery The Craft of Comical Mocks</u></a></li>
 </ul></div>
 

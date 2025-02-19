@@ -1,7 +1,7 @@
 ---
 title: "Guide: Implementing Windows 11 on Non-Certified Hardware with Ease"
-date: 2025-02-07T18:19:09.991Z
-updated: 2025-02-09T18:08:08.232Z
+date: 2025-02-16T18:27:42.183Z
+updated: 2025-02-19T16:30:59.330Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 ---
 
 ## Guide: Implementing Windows 11 on Non-Certified Hardware with Ease
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 * [Registry Hack for Unsupported CPUs and/or Only TPM 1.2](https://mondly-stories.techidaily.com/linguistic-tools-portuguese-shortcuts-in-brazil-and-europe/)
 * [PCs With No TPM at All, No UEFI, or Other Major Problems](https://extra-skills.techidaily.com/2024-approved-master-stitching-gopro-content-in-extended-panorama-videos/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  To install Windows 11 on an unsupported PC, try making the PC supported by enabling TPM 2.0, Secure Boot, and switching to GPT. If those features cannot be enabled on your PC, you must use a few registry hacks to force Windows 11 to install.
 
  Windows 11 has [strict system requirements](https://screen-activity-recording.techidaily.com/windows-11-gamers-guide-to-stunning-game-recordings-for-2024/), but there are ways around them. For example, it requires at least an 8th-generation Intel, AMD Zen 2, or Qualcomm 7 or 8 Series CPU — but you can install Windows 11 on PCs with older CPUs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Should You Upgrade an Unsupported PC?
 
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  In some situations, you can make your PC officially supported with a configuration change or two.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to See Why Your PC Is Unsupported
 
  You can [check if Windows 11 supports your PC](https://remote-screen-capture.techidaily.com/2024-approved-simplify-meetings-a-comprehensive-guide-to-skype-call-recorders/) by downloading and running [Microsoft's PC Health Check app](https://www.microsoft.com/en-us/windows/windows-11#pchealthcheck).
@@ -56,14 +56,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
  If Windows 11 doesn't officially support your PC, the PC Health Check will say it "doesn't currently meet Windows 11 system requirements" and tell you why. If the tool reports your PC is unsupported, the process you need to follow will depend on the problem it reports. You may just have to change a setting in your PC's [UEFI firmware (the modern replacement for the BIOS)](https://twitter-videos.techidaily.com/updated-expert-tips-for-twitter-video-interactions/) to make your PC supported — or the process may be more involved.
 
 ![The PC Health Check app saying a PC doesn't currently meet Windows 11's minimum requirements.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/pc-not-supported.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Enable TPM 2.0
 
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 Benj Edwards / How-To Geek
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Enable Secure Boot
 
  If PC Health Check reports your computer isn't using [Secure Boot](https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-poco-x6-drfone-by-drfone-virtual-android/), you should also look in UEFI firmware settings for a "Secure Boot" option and enable it, if possible.
@@ -93,10 +89,6 @@ Benj Edwards / How-To Geek
 
 ![In your UEFI's "Boot" menu, look for "Secure Boot" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/secure_boot_enabled.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benj Edwards / How-To Geek
 
 ##  How to Fix No UEFI (MBR Instead of GPT)
@@ -106,6 +98,10 @@ Benj Edwards / How-To Geek
  There are several ways to do this. [Microsoft's MBR2GPT tool](https://docs.microsoft.com/en-us/windows/deployment/mbr-to-gpt) may allow you to convert a drive from MBR to GPT format. Microsoft warns that you should only do this if you know your PC supports UEFI, and that you may have to change settings in your PC's firmware to make it boot in UEFI mode rather than legacy BIOS mode afterward.
 
  If this is your only problem, one easier way would be to perform a clean install. First, be sure to back up your files (we recommend backing up your files before upgrading anyway.) Then, use [Microsoft's Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11) to create bootable Windows 11 installation media on a USB drive or DVD. Now, use the installation media to perform a clean installation of Windows 11, wiping your drive — you may have to put your computer's firmware into UEFI mode first. Windows 11 will erase your Windows 10 system and set up your drive in GPT mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Registry Hack for Unsupported CPUs and/or Only TPM 1.2
 
@@ -131,10 +127,6 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Double-click &quot;AllowUpgradesWithUnsupportedTPMOrCPU&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/create-setting.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Double-click the "AllowUpgradesWithUnsupportedTPMOrCPU" value here, set it to "1", and click "OK."
 
 ![Enter &quot;1&quot; and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/set-registry-value.png) 
@@ -147,11 +139,19 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 ![Double-click the REG file and click &quot;Yes&quot; to agree.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/reg-file.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To ensure the change takes effect, reboot your PC before continuing.
 
  You can now download and run the [Windows Installation Assistant tool](https://www.microsoft.com/en-us/software-download/windows11) from Microsoft's website to upgrade your PC to Windows 11, just as if it had a supported CPU or TPM 2.0\. You'll just have to [agree to a warning first](https://www.reviewgeek.com/98372/microsoft-makes-you-sign-a-waiver-if-you-install-windows-11-on-an-unsupported-pc/).
 
  Bear in mind that this only does two things: It makes Windows 11 ignore the CPU requirement, and it lets Windows 11 install with TPM 1.2 instead of TPM 2.0\. It won't get around other requirements. For example, if your PC doesn't have a TPM at all or has only a legacy BIOS instead of UEFI firmware, this registry setting won't help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  PCs With No TPM at All, No UEFI, or Other Major Problems
 
@@ -180,17 +180,24 @@ AllowUpgradesWithUnsupportedTPMOrCPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-sky-sprints-guide-to-excellence-plus-ultimate-fpv-drones-for-speed-for-2024/"><u>[New] Sky Sprints Guide to Excellence + Ultimate FPV Drones for Speed for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-30-must-have-youtube-intros-tools-for-beginners-all-free/"><u>[Updated] 2024 Approved 30 Must-Have YouTube Intros Tools for Beginners, All Free</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-bridging-the-gap-facebook-to-television-screenplay/"><u>[Updated] 2024 Approved Bridging the Gap Facebook to Television Screenplay</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-automated-iphone-podcast-downloads/"><u>[Updated] Step-By-Step Guide to Automated iPhone Podcast Downloads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flexistabilizer-the-ultimate-videographers-tool/"><u>2024 Approved FlexiStabilizer The Ultimate Videographer's Tool</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-silence-to-sounds-windows-10-recorder-use/"><u>2024 Approved From Silence to Sounds Windows 10 Recorder Use</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-toggle-pip-mode-in-ios-a-step-by-step-approach/"><u>2024 Approved How to Toggle PIP Mode in iOS A Step-by-Step Approach</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-gt-5-240w-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies-for-2024/"><u>Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-effective-online-image-trimming-for-2024/"><u>Expert Strategies for Effective Online Image Trimming for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-expert-tips-for-preventing-and-repairing-frontier-crashes-on-windows-computers/"><u>Solution Found! Expert Tips for Preventing and Repairing 'Frontier' Crashes on Windows Computers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-the-ultimate-gameplay-setup-with-samsungs-q60r-qled-4k-series/"><u>Unboxing the Ultimate Gameplay Setup with Samsung's Q60R QLED 4K Series</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-required-for-mastery-of-ios-11s-camera/"><u>[New] Expertise Required for Mastery of iOS 11'S Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-filmoras-prime-selective-screen-change-list/"><u>[New] Filmora's Prime Selective Screen Change List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-reality-the-vr-story/"><u>[New] From Concept to Reality The VR Story</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guiding-through-graphic-image-alteration/"><u>[New] Guiding Through Graphic Image Alteration</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-essential-tips-for-computer-users-to-start-tiktok-live/"><u>[New] In 2024, Essential Tips for Computer Users to Start TikTok LIVE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-infinite-frontier-the-best-sci-fi-films-that-redefine-universes/"><u>[New] Infinite Frontier The Best Sci-Fi Films That Redefine Universes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-top-14-youtube-titles-to-skyrocket-your-gaming-channels-popularity/"><u>[Updated] 2024 Approved Top 14 YouTube Titles to Skyrocket Your Gaming Channel's Popularity</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-the-secrets-of-video-editing-on-youtube/"><u>[Updated] 2024 Approved Unveiling the Secrets of Video Editing on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-imovie-rhythms-a-sound-experts-handbook/"><u>[Updated] IMovie Rhythms A Sound Expert's Handbook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-pro-broadcast-hardware-for-seamless-livestreams/"><u>[Updated] Pro Broadcast Hardware for Seamless Livestreams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chucklecircuit-meme-studio-free-download-for-2024/"><u>ChuckleCircuit Meme Studio (Free Download!) For 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-google-wireless-nest-doorbell-a-battery-powered-home-security-review/"><u>Exploring The Google Wireless Nest Doorbell - A Battery-Powered Home Security Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-on-google-podcast-upload-for-2024/"><u>Guide on Google Podcast Upload for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ideal-chatgpt-questions-for-authentic-character-building/"><u>Ideal ChatGPT Questions for Authentic Character Building</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-shops-for-unique-crafted-gift-enclosures/"><u>In 2024, Ideal Shops for Unique, Crafted Gift Enclosures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovate-brand-identity-complimentary-logo-templates-customization-for-2024/"><u>Innovate Brand Identity Complimentary Logo Templates Customization for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/mastering-multimedia-meetings-fusing-zooms-potential-with-skype/"><u>Mastering Multimedia Meetings Fusing Zoom's Potential with Skype</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-essential-dog-bark-samples-for-audio-projects/"><u>New 2024 Approved Essential Dog Bark Samples for Audio Projects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sensory-storytelling-crafting-engaging-food-videos/"><u>Sensory Storytelling Crafting Engaging Food Videos</u></a></li>
 </ul></div>
 

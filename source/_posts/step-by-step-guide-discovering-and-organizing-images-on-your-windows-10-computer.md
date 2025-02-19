@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer"
-date: 2025-02-08T16:49:03.997Z
-updated: 2025-02-09T19:39:34.796Z
+date: 2025-02-16T19:41:16.648Z
+updated: 2025-02-19T18:15:12.337Z
 tags:
   - desktop
 categories:
@@ -11,15 +11,15 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 
 ## Step-by-Step Guide: Discovering and Organizing Images on Your Windows 10 Computer
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Find All Your Photos Manually](https://facebook-videos.techidaily.com/from-chats-to-files-the-methodical-approach-to-downloading-fb-video-for-2024/)
 * [A Better Way: Let Windows Search Find All Your Photos](https://article-helps.techidaily.com/2024-approved-windowsmacos-execute-and-enjoy-srt-files/)
 * [Use a Third-Party App](https://screen-capture.techidaily.com/updated-in-2024-obs-alternatives-reviewed-by-experienced-broadcinas/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Better Way: Let Windows Search Find All Your Photos
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/33c08cf35f6b5e5c15d53520e124508a521ab9ce2
  You can also search a particular hard drive or folder. For this example, we're going to search our C: drive.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, click the search box at the top right of the window. Doing so will display the otherwise hidden "Search" tab at the top. Switch to that tap, click the "Kind" button, and then select "Pictures" from the drop-down menu.
 
@@ -73,19 +77,11 @@ kind:=picture
 
 ![/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use a Third-Party App
 
  You can also use a third-party app, like [WizTree](https://diskanalyzer.com/), to find image files. Launch or install the app, then click "Scan" to analyze your hard drive and create an index of all of your files.
 
 ![Click the "Scan" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-scan-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once it is done you'll see a colorful array of blocks at the bottom that represent the files and folders on your PC. Click the filter button at the top, enter **\*.** followed by an image file format, then click "Apply Filter." If you wanted to find every PNG file, for example, you'd enter **\*.png** into the filter field. If you wanted to find JPEGs, you'd enter **\*.jpeg** into the filter field instead.
 
@@ -93,12 +89,16 @@ kind:=picture
 
 ![Click the filter button, enter an image format, then click "Apply Filter."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-include-filter-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The colored blocks at the bottom will now only represent image files (in our case PNGs). You can click on them one by one, or open entire folders.
 
 ![Individual PNG files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-individual-files.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  PNGs and JPEGs aren't the only image formats, though. Here are some common ones you might want to look for:
@@ -129,21 +129,18 @@ kind:=picture
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-comprehensible-periscope-steps/"><u>[New] From Novice to Pro Comprehensible Periscope Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-youtube-to-high-definition-prime-downloader-choices/"><u>[New] From YouTube to High Definition Prime Downloader Choices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-giggle-engineer-apocalyptic-comic-relief/"><u>[New] Giggle Engineer Apocalyptic Comic Relief</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guidelines-to-broaden-youtube-content-area/"><u>[New] Guidelines to Broaden YouTube Content Area</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-boost-visual-impact-selecting-excellent-edges-for-instagram-shots/"><u>[New] In 2024, Boost Visual Impact Selecting Excellent Edges for Instagram Shots</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-chortle-circle-spooky-androids-with-a-twist/"><u>2024 Approved Chortle Circle Spooky Androids with a Twist</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/best-free-onlinemobile-images-conversion-tools-of-2022-top-10-list/"><u>Best Free Online/Mobile Images Conversion Tools of 2022 - Top 10 List</u></a></li>
-<li><a href="https://fox-info.techidaily.com/boxes-that-speak-love-the-top-10-websites-offering-custom-wrapped-treasures-for-2024/"><u>Boxes That Speak Love The Top 10 Websites Offering Custom Wrapped Treasures for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/five-ultimate-tricks-to-reduce-the-size-of-your-mkv-videos-without-paying/"><u>Five Ultimate Tricks to Reduce the Size of Your MKV Videos without Paying</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/fixing-the-full-screen-freeze-in-obs-for-2024/"><u>Fixing the Full-Screen Freeze in OBS for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-ready-to-win-more-with-this-purely-gratis-voice-modifier-for-2024/"><u>Get Ready to Win More with This Purely Gratis Voice Modifier for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-star-feature-to-your-advantage-for-2024/"><u>How to Use Star Feature to Your Advantage for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approach-to-3d-text-in-photoediting/"><u>In 2024, Innovative Approach to 3D Text in PhotoEditing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-transforming-outdoor-vision-into-online-presence-gopro-to-periscopefacebook/"><u>In 2024, Transforming Outdoor Vision Into Online Presence GoPro to Periscope/Facebook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-six-critical-pillars-for-building-effective-digital-twins-with-ai-enhancements-expert-analysis-by-zdnet/"><u>The Six Critical Pillars for Building Effective Digital Twins with AI Enhancements | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-platform-showdown-podcast-vs-youtube-for-2024/"><u>The Ultimate Platform Showdown Podcast vs YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-airplay-to-download-apple-podcasts-simplified/"><u>[New] From Airplay to Download Apple Podcasts Simplified</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-pixels-to-perfection-the-advantages-of-srgb-over-rgb/"><u>[New] From Pixels to Perfection The Advantages of Srgb over Rgb</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-key-principles-of-metaverse-commercial-strategy/"><u>[New] In 2024, Key Principles of Metaverse Commercial Strategy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellence-in-image-making-via-premium-grid-makers/"><u>[Updated] Excellence in Image Making via Premium Grid Makers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infusing-audio-from-yt-into-video-artistry/"><u>[Updated] Infusing Audio From YT Into Video Artistry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-top-7-video-apps-for-apple-devices/"><u>2024 Approved Ideal Top 7 Video Apps for Apple Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-your-flv-files-for-free-change-to-avi-wmv-mp4-or-mp3-with-our-top-ranked-converter-tool/"><u>Convert Your FLV Files for Free - Change to AVI, WMV, MP4 or MP3 with Our Top-Ranked Converter Tool!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/idea-to-execution-creating-youtube-trailers-in-filmora/"><u>From Idea to Execution Creating YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-visuals-and-sounds-with-canvas-audio-features-for-2024/"><u>Harmonizing Visuals & Sounds with Canva's Audio Features for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-non-game-console-apps-excelling-at-game-recordings/"><u>In 2024, Non-Game Console Apps Excelling at Game Recordings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-the-potential-of-todays-drones-for-tomorrow/"><u>In 2024, Unveiling the Potential of Today's Drones for Tomorrow</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
 

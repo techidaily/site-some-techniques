@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond"
-date: 2025-02-04T19:43:04.493Z
-updated: 2025-02-09T18:21:06.994Z
+date: 2025-02-15T18:42:20.040Z
+updated: 2025-02-19T18:13:28.716Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ## Unlocking Potential with Proton Docs: Navigating Its Boundaries and Beyond
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ![The document editor interface in Proton Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072812.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In my experience, generative text features are only useful if what you're writing needs to be predictable in content and sterile in tone. That's a rare need in my workflow and daily life, so I don't feel I'm missing much by using Proton Docs. Those menu options other apps have with the little "stars" icon that, for some reason, signifies generative AI have become an eyesore to me; there's nothing celestial about those tools.
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
  Aside from that, I'm generally optimistic about the direction of the Proton suite. For about five years, [Proton's email](https://extra-guidance.techidaily.com/updated-maximizing-impact-with-googles-podcast-platform/) and VPN services have been mainstays for me. In that time I've had to stick to Google Docs when I needed a collaborative, cloud-based word processor. So I'm looking forward to using Proton Docs as an alternative, and without any pop-ups begging me to let a machine write for me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Edit Documents With Proton
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 ![Screenshot of the Proton Drive menu with annotations pointing to the 'New' button and 'New Document' menu option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240708_072723.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're then in the document edit mode and can start writing. You can also upload documents made in another editor and click "Open in Docs." There's no support for ODT documents yet, but again, there's still more to come with Proton Docs—just hopefully not involving generative AI.
@@ -68,15 +68,21 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-speedy-integration-of-voice-input-feature-in-your-powerpoint-shows/"><u>[New] Speedy Integration of Voice Input Feature in Your PowerPoint Shows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-drone-flight-q500-typhoon-review/"><u>2024 Approved Innovative Drone Flight - Q500 Typhoon Review</u></a></li>
-<li><a href="https://win-best.techidaily.com/googol/"><u>如何找回並修復Googol雲端硬碟失去的檔案 - 最新五大方法解決計劃</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/beyond-borders-blurring-techniques-for-global-audienes/"><u>Beyond Borders Blurring Techniques for Global Audienes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/extraordinary-assessment-and-alternative-choices-for-2024/"><u>Extraordinary Assessment & Alternative Choices for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-behind-the-scenes-top-storytelling-channels-on-yt-2023/"><u>In 2024, Behind-the-Scenes Top Storytelling Channels on YT, 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-pixel-processor-windowsmac/"><u>In 2024, Flawless Pixel Processor (Windows/Mac)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-leading-list-where-to-find-gamers-music-without-costs/"><u>In 2024, The Leading List Where to Find Gamers' Music Without Costs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovations-in-crafting-engaging-vlogging-scripts-for-2024/"><u>Innovations in Crafting Engaging Vlogging Scripts for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lost-your-login-info-find-out-how-to-retrieve-your-email-address/"><u>Lost Your Login Info? Find Out How to Retrieve Your Email Address</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freely-enhance-your-photos-iosandroids-best-overlay-apps/"><u>[New] Freely Enhance Your Photos IOS/Android's Best Overlay Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-navigating-networked-video-streaming-with-vlc/"><u>[New] In 2024, Navigating Networked Video Streaming with VLC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-top-open-source-video-tools-for-pcs-and-macs/"><u>[Updated] Exploring Top Open Source Video Tools for PCs and Macs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gazegraphic-reviews-synopsis/"><u>[Updated] GazeGraphic Reviews Synopsis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-triggering-windows-11-hdr-in-dynamic-mode/"><u>[Updated] Triggering Windows 11 HDR in Dynamic Mode</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-professionals-primer-to-perfecting-picture-colors/"><u>2024 Approved A Professional's Primer to Perfecting Picture Colors</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/come-recuperare-partizioni-eliminate-un-manuale-di-ripristino-per-windows-10-e-11/"><u>Come Recuperare Partizioni Eliminate: Un Manuale Di Ripristino per Windows 10 E 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fine-tuned-focus-mastering-online-zooms-and-closures-for-2024/"><u>Fine-Tuned Focus Mastering Online Zooms and Closures for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-nubia-red-magic-8s-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nubia Red Magic 8S Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-music-in-premiere-pro-for-2024/"><u>How To Add Music In Premiere Pro for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-14-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 14?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-non-inshot-video-software-for-pcs/"><u>In 2024, Finding Non-Inshot Video Software for PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-hot-40-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Hot 40 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-choices-for-comprehensive-movement-recording/"><u>In 2024, Ideal Choices for Comprehensive Movement Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/leading-ipad-audio-recorder-software-list-3/"><u>Leading iPad Audio Recorder Software List #3</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-xiaomi-redmi-13c-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Xiaomi Redmi 13C fingerprint</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Retro Innovation in Tech: Experience iPhone's Echo of the Original Macintosh"
-date: 2025-02-06T17:38:29.139Z
-updated: 2025-02-09T17:39:56.432Z
+date: 2025-02-13T18:45:15.515Z
+updated: 2025-02-19T19:13:12.948Z
 tags:
   - mobile
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,21 +64,21 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-best-focus-effects-iphone-vs-android-photo-solutions/"><u>[New] Best Focus Effects IPhone vs Android Photo Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-examining-dji-phantom-3s-advanced-video-capture-tech/"><u>[New] Examining DJI Phantom 3’S Advanced Video Capture Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-the-best-17-image-editing-utilities/"><u>[New] Guide to the Best 17 Image Editing Utilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ingenious-ways-to-change-song-duration-in-spotify/"><u>[New] Ingenious Ways to Change Song Duration in Spotify</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ranscribing-online-master-the-art-of-free-youtube-conversion-for-2024/"><u>[New] Transcribing Online Master the Art of Free YouTube Conversion for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-freezing-fun-at-the-beijing-olympics-2022/"><u>[Updated] Freezing Fun at the Beijing Olympics 2022</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-the-art-of-live-streams-merge-obs-zoom/"><u>[Updated] Mastering the Art of Live Streams Merge OBS, Zoom</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-luminaries-for-greater-exposure/"><u>2024 Approved Leveraging Luminaries for Greater Exposure</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-can-i-watch-facebook-videos-on-my-apple-tv-for-2024/"><u>How Can I Watch Facebook Videos on My Apple TV for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hubsan-x4-quadcopter-examination-an-in-depth-guide-for-2024/"><u>Hubsan X4 Quadcopter Examination An In-Depth Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-sns-hdrs-value-and-alternatives-for-hdr-editing/"><u>In 2024, Evaluating SNS HDR's Value & Alternatives for HDR Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-advanced-a-polarr-photo-editor-journey/"><u>In 2024, From Basics to Advanced A Polarr Photo Editor Journey</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-se-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone SE Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-live-videos-with-the-best-video-translator/"><u>In 2024, Translate Live Videos With The Best Video Translator</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-walkthrough-for-movie-making-on-windows-8-for-2024/"><u>The Ultimate Walkthrough for Movie Making on Windows 8 for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-mac-maintenance-software-of-2022-revealed-expert-picks-and-comprehensive-review-by-techenthusiast/"><u>Top Rated Mac Maintenance Software of 2022 Revealed: Expert Picks & Comprehensive Review by TechEnthusiast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-blank-page-to-airwaves-writing-engaging-podcast-episodes/"><u>[New] From Blank Page to Airwaves Writing Engaging Podcast Episodes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-high-quality-photos-from-androids/"><u>[New] Harnessing High-Quality Photos From Androids</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-the-mystery-of-youtubes-monetization-rates/"><u>[New] Unveiling the Mystery of YouTube's Monetization Rates</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-breathing-new-life-into-anime-with-impactful-tiktoks/"><u>[Updated] 2024 Approved Breathing New Life Into Anime with Impactful TikToks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-mac-screen-clips-roundup-under-156-chars/"><u>[Updated] Best Mac Screen Clips Roundup (Under 156 Chars)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-file-funneling-transfer-techniques-for-your-computer/"><u>[Updated] File Funneling Transfer Techniques for Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-spectrum-analysis-unpacking-adobes-data-preservation-and-alternatives/"><u>[Updated] Full Spectrum Analysis Unpacking Adobe's Data Preservation and Alternatives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-in-the-front-row-ranked-no-8-image-synthesis-app/"><u>[Updated] In 2024, In the Front Row Ranked No. 8 Image Synthesis App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-insights-7-best-in-market/"><u>2024 Approved Gimbal Insights 7 Best in Market</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-homes-with-suns-invisible-light/"><u>2024 Approved Infusing Homes with Sun's Invisible Light</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206841251-crack-the-code-of-warframe-update-malfunctions-now-corrected/"><u>Crack the Code of Warframe Update Malfunctions - Now Corrected!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-filters-to-fun-factors-maximizing-iphones-gif-capabilities/"><u>In 2024, From Filters to Fun Factors Maximizing iPhone's GIF Capabilities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/key-sites-for-enhancing-youtube-video-popularity-for-2024/"><u>Key Sites for Enhancing YouTube Video Popularity for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tech-tips-efficient-gameplay-archiving-in-roblox-on-macos/"><u>Tech Tips Efficient Gameplay Archiving in Roblox on MacOS</u></a></li>
+<li><a href="https://win-docs.techidaily.com/unlock-the-secrets-of-google-seo-in-depth-guide-expert-insights-plus-essential-tips-from-seo-powersuite/"><u>Unlock the Secrets of Google SEO - In-Depth Guide, Expert Insights + Essential Tips From SEO PowerSuite</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c22-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C22 Device</u></a></li>
 </ul></div>
 

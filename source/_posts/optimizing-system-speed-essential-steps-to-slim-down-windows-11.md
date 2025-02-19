@@ -1,7 +1,7 @@
 ---
 title: "Optimizing System Speed: Essential Steps to Slim Down Windows 11"
-date: 2025-02-02T19:40:17.186Z
-updated: 2025-02-09T18:56:49.747Z
+date: 2025-02-16T18:28:02.126Z
+updated: 2025-02-19T17:46:36.757Z
 tags:
   - desktop
 categories:
@@ -13,10 +13,6 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 ## 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Bloatware slows down Windows 11 PCs by taking up resources, disk space, and causing visual clutter.
@@ -24,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 * Disable startup apps and optional features to further improve performance by preventing unnecessary background resource usage.
 
  Windows 11 comes with a lot of extra 'stuff' installed that slows it down: instant messaging apps, music and streaming services, software trials, bad games and clunky third-party antivirus, and worst still, it tends to come back when your computer updates. Here's how to clear it all out. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Bloatware Slows Down Your Windows 11 PC
 
@@ -41,23 +33,19 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  However, if you want to check out some of these tools (at your own risk), [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil "https://github.com/ChrisTitusTech/winutil") and [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) both offer the ability to add and remove both pre-installed apps and Windows components, as well as make other Windows 11 tweaks. If you're using these kinds of system tweaking tools, you should [back up your data](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/) before you make any changes, just in case they break something.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Uninstalling BloatWare From the Settings App
 
  The first place you can remove bloatware is from the Windows Settings app. Open the Start menu and search for **Settings** then open the app. From here, click on the Apps menu item in the sidebar, and then select Installed Apps from the menu to the right.
 
 ![debloat1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/debloat1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Brad Morton / How-To Geek
 
  Scroll through the list of installed apps and decide whether you wish to keep each one. If you decide an app is "bloat", uninstall it by clicking on the dots to reveal the button to uninstall.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Disabling Startup Apps
 
@@ -65,11 +53,11 @@ Brad Morton / How-To Geek
 
 ![debloat2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/debloat2.png) 
 
-Brad Morton / How-To Geek
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Brad Morton / How-To Geek
 
 ##  Disabling Optional Windows Features
 
@@ -86,15 +74,27 @@ Brad Morton / How-To Geek
 
  You can also remove Copilot in Windows (Microsoft's new, intrusive AI companion) and disable the Widgets menu from the task bar inSettings > Personalization > Taskbar. You can also disable content suggestions and other cloud search features in Settings > Privacy & security > Search Permissions to improve search responsiveness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Clearing Out Temporary Files
 
  If you are running low on disk space, you can adjust the settings to automatically remove temporary files. From Settings > System > Storage, you can enable Storage Sense which will automatically clear temporary files as needed, and view Windows' cleanup recommendations for large unused apps or files you could potentially remove. You can also [manually delete your cached/temporary files](https://facebook-videos.techidaily.com/in-2024-the-path-to-success-integrating-past-recordings-in-real-time-on-social-media/) if you want to make sure it has been done recently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What About Removing Preinstalled Antivirus Software?
 
  Probably the most commonly pre-installed apps that come with new PCs (and that most people definitely consider to be bloatware) is Antivirus software. Unfortunately, antivirus apps have become pushy, nagging, and alarmist in trying to get you to sign up for a subscription. Their aim is often to scare inexperienced users into forking over money for a product they may not need (Windows Defender, the antivirus built into Windows 11, is often sufficient for most use-cases).
 
  Instead of relying on whatever antivirus product ships with your computer, you should compare the free and paid options, and [choose the best one for your own needs](https://extra-skills.techidaily.com/new-pinnacle-of-video-quality-3-key-transcoder-strategies/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Optimize your Windows PC for Different Tasks
 
@@ -115,17 +115,16 @@ Brad Morton / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hero-11-and-max-360-gopro-challenge-video-quality-faceoff/"><u>[New] Hero 11 & Max 360 GoPro Challenge - Video Quality Faceoff</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-personalizing-your-android-a-step-by-step-guide-to-ringtone-and-sound-settings/"><u>[New] Personalizing Your Android A Step-by-Step Guide to Ringtone & Sound Settings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-tools-for-efficient-screen-recording-on-windows-os/"><u>[Updated] Free Tools for Efficient Screen Recording on Windows OS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-pixlr-editor-tutorial-deep-dive/"><u>[Updated] In 2024, Pixlr Editor Tutorial Deep Dive</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-social-stardom-awaits-add-1k-to-your-insta-profile-each-month/"><u>[Updated] In 2024, Social Stardom Awaits Add 1K to Your Insta Profile Each Month</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-post-production-top-11-techniques-for-vibrant-colors/"><u>2024 Approved Harness the Power of Post-Production Top 11 Techniques for Vibrant Colors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-utilizing-the-teleport-feature-in-minecraft-gaming/"><u>Expert Tips on Utilizing the Teleport Feature in Minecraft Gaming</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmony-in-sounds-legally-downloaded-meditation-chants-and-more-for-2024/"><u>Harmony in Sounds Legally Downloaded Meditation Chants & More for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/horizon-zero-dawn-pc-performance-errors-fixed-no-more-crashes/"><u>Horizon Zero Dawn PC Performance Errors Fixed – No More Crashes!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y100a-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y100A Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-10-free-recorder-apps-for-slack-meetings-and-video-conferencing/"><u>In 2024, 10 FREE Recorder Apps for Slack Meetings & Video Conferencing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-avi-conversions-create-gifs-with-filmora-on-pcmac-for-2024/"><u>Streamlining AVI Conversions Create GIFs with Filmora on PC/Mac for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-best-fit-essential-tips-to-choose-your-ideal-4k-monitor/"><u>[New] Finding the Best Fit Essential Tips to Choose Your Ideal 4K Monitor</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-cameras-that-complement-best-hats-for-capturing-motorcycle-adventures-for-2024/"><u>[Updated] Cameras That Complement Best Hats for Capturing Motorcycle Adventures for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-offline-audio-to-text-solutions/"><u>2024 Approved Expert Offline Audio to Text Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explaining-video-trims-the-logic-of-trimming/"><u>2024 Approved Explaining Video Trims The Logic of Trimming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggle-generation-top-ten-templates-for-viral-effect-for-2024/"><u>Giggle Generation Top Ten Templates for Viral Effect for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-4-ways-to-set-up-your-youtube-talking-head-shots/"><u>In 2024, 4 Ways To Set Up Your YouTube Talking-Head Shots</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes/"><u>In 2024, Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-brand-identity-complimentary-logo-templates-customization/"><u>In 2024, Innovate Brand Identity Complimentary Logo Templates Customization</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-ultimate-guide-10-cost-free-passport-image-makers/"><u>In 2024, The Ultimate Guide 10 Cost-Free Passport Image Makers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-victorious-battles-against-links-enemies-defeat-a-breath-of-the-wild-lynel/"><u>Ultimate Guide to Victorious Battles Against Link's Enemies: Defeat a Breath of the Wild Lynel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-laptop-keyboard-working-tips-for-diagnosis-and-repair/"><u>Why Isn't My Laptop Keyboard Working? Tips for Diagnosis and Repair</u></a></li>
 </ul></div>
 

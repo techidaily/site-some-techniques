@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Underworld of PCs: Explore 5 Essential Terminal Commands for Enhanced System Control on Windows"
-date: 2025-02-05T19:59:47.922Z
-updated: 2025-02-09T19:12:34.238Z
+date: 2025-02-15T18:21:18.737Z
+updated: 2025-02-19T21:29:09.021Z
 tags:
   - desktop
 categories:
@@ -45,7 +45,7 @@ color 2
 ![Windows command prompt color change to green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-command-prompt-color-change-to-green.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "color" command only works in Windows Command Prompt (cmd) and not in PowerShell.
@@ -57,7 +57,7 @@ color
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use dir /s Command to Create a Lot of Scrolling Text
@@ -87,14 +87,6 @@ dir /s | more
 
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use the ping-t Command to Ping a Website Continuously
 
  Next up is the ping command with the -t option:
@@ -111,6 +103,10 @@ Your browser does not support the video tag.
 
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
 
  Let's step it up a notch with a command that truly embodies the hacker aesthetic—cmatrix. This command creates the falling green text effect popularized by The Matrix movies. Now this is a Linux command, and you’ll need to first install it on your system before you can use it. To do this, open the Ubuntu terminal—or whichever Linux terminal you've installed using WSL, and enter the following command:
@@ -126,7 +122,7 @@ Your browser does not support the video tag.
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
@@ -158,6 +154,10 @@ genact -m _module-name_
 genact -m cryptomining
 
 Your browser does not support the video tag. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
 
@@ -196,18 +196,21 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-speaking-for-characters-the-screenwriters-challenge/"><u>[New] 2024 Approved Speaking for Characters The Screenwriter's Challenge</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/onstructing-captivating-conclusions-for-2024/"><u>[New] Constructing Captivating Conclusions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-eye-catching-vr-adventures-top-5-psvr-games-awaiting-release/"><u>[Updated] Eye-Catching VR Adventures Top 5 PSVR Games Awaiting Release</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-luts-revolutionize-your-photo-editing-experience/"><u>[Updated] How LUTs Revolutionize Your Photo Editing Experience</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-learn-to-sharpen-images-blur-and-excise-background-edges-for-2024/"><u>[Updated] Learn to Sharpen Images Blur and Excise Background Edges for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-panasonic-hx-a1-actioncam-in-depth-review-for-2024/"><u>[Updated] Panasonic HX-A1 ActionCam In-Depth Review for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-top-free-screen-recorders-ranked-list/"><u>2024 Approved Explore the Top Free Screen Recorders Ranked List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flawless-mobile-filmmaking-leading-phones-with-image-stability-for-2024/"><u>Flawless Mobile Filmmaking Leading Phones with Image Stability for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-basic-to-bold-invest-in-excellent-cam-add-ons-for-2024/"><u>From Basic to Bold Invest in Excellent Cam Add-Ons for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-metaverse-humor-generating-unique-memes/"><u>In 2024, Innovative Metaverse Humor Generating Unique Memes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-tier-visual-data-keepers/"><u>Top Tier Visual Data Keepers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-enhanced-apple-airpods-discover-the-top-4-newest-improvements-across-all-models/"><u>Unveiling Enhanced Apple AirPods: Discover the Top 4 Newest Improvements Across All Models</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/e-to-viral-fame-crafting-high-quality-content-as-a-travel-vlogger-for-2024/"><u>Voyage to Viral Fame Crafting High-Quality Content as a Travel Vlogger for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-efficient-translation-the-top-8-best-apps-reviewed/"><u>[New] Free, Efficient Translation The Top 8 Best Apps Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-gaming-to-content-creation-twitch-versus-youtube/"><u>[New] From Gaming to Content Creation Twitch Versus YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fast-windows-file-check-up-tips-and-tricks/"><u>[Updated] Fast Windows File Check-Up Tips and Tricks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevate-video-experience-ranking-the-best-12-players/"><u>2024 Approved Elevate Video Experience Ranking the Best 12 Players</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-very-best-in-ios-video-playback-tools/"><u>2024 Approved Explore the Very Best in iOS Video Playback Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebooks-top-visual-discoveries-a-guide/"><u>2024 Approved Facebook's Top Visual Discoveries A Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-how-to-choose-vr-headset-mobile-vr-or-tethered-vr/"><u>2024 Approved How to Choose VR Headset? Mobile VR or Tethered VR?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/comparing-social-platforms-facebook-live-vs-youtube-live-and-twitter-periscope/"><u>Comparing Social Platforms Facebook LIVE Vs. YouTube Live & Twitter Periscope</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/edu-top-ten-inspiring-educational-content-yt-for-2024/"><u>Edu-Top Ten Inspiring Educational Content YT for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellent-unrestricted-pubg-visual-sequences-for-2024/"><u>Excellent Unrestricted PUBG Visual Sequences for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-your-camera-and-drone-with-a-pro-gimbal-for-2024/"><u>Harmonizing Your Camera and Drone with a Pro Gimbal for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-13c-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-action-quick-tips-for-online-photo-trimming/"><u>In 2024, Expertise in Action Quick Tips for Online Photo Trimming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/syncing-visuals-and-soundtracks-in-video-magic/"><u>Syncing Visuals & Soundtracks in Video Magic</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-10-methods-fur-ein-schnelles-und-hochwertiges-konvertieren-von-ts-zu-mp4/"><u>Top 10 Methods Für Ein Schnelles Und Hochwertiges Konvertieren Von TS Zu MP4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-creative-writing-and-note-taking-apps-that-have-transformed-our-lives/"><u>Top 6 Creative Writing and Note-Taking Apps That Have Transformed Our Lives</u></a></li>
 </ul></div>
 

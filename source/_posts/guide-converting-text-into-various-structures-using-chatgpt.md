@@ -1,7 +1,7 @@
 ---
 title: "Guide: Converting Text Into Various Structures Using ChatGPT"
-date: 2025-01-22T21:59:48.198Z
-updated: 2025-01-28T21:01:15.823Z
+date: 2025-02-18T19:22:59.357Z
+updated: 2025-02-19T18:45:56.016Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 ---
 
 ## Guide: Converting Text Into Various Structures Using ChatGPT
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,7 +33,7 @@ Related: [What Is ChatGPT Plus?](https://android-location.techidaily.com/in-2024
  That being said, I have copied some pretty broken text into ChatGPT and the results were great. For example, copying the entire auto-transcribed [chat history of a Microsoft Teams Meeting](https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/) into ChatGPT and having it write a concise meeting report works surprisingly well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Working in Chunks and Prompting ChatGPT
@@ -61,7 +57,7 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 ![ChatGPT YouTube script prompt with original text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/2-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now submit the prompt.
@@ -75,7 +71,7 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
  As with the other examples you'll see below, a major advantage of having ChatGPT transform text rather than generate it, is that you don't have to worry about it making stuff up that wasn't in the original text. You _still need to quality-control the transformed text_, but I have yet to encounter a situation where ChatGPT added anything into my scripts that were not in the original text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Example 2: Changing a Technical Document Into a Popular Article
@@ -93,12 +89,16 @@ Related: [Does ChatGPT Have an App?](https://win11-tips.techidaily.com/how-to-us
 ![ChatGPT Einstein paper conversion](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/5-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're a [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/) subscriber, you can make use of the beta [plugins store](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/), which includes [ChatWithPDF](https://foundr.ai/product/chatwithpdf), a plugin that lets you load a PDF and then interact with it using ChatGPT. This may be a more efficient way to get complex technical PDFs into the Chatbot.
 
 ![ChatGPT EINSTEIN output](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The resulting output should be a reader-friendly article that conveys the essence of the technical document in simpler terms. Remember that you can prompt ChatGPT to write text at a particular level, such as a specific grade level in school.
 
@@ -145,17 +145,21 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-injecting-spark-into-your-unique-podcast-format/"><u>[New] Injecting Spark Into Your Unique Podcast Format</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-frozen-delight-ice-cream-cam-and-comprehensive-tutorial/"><u>[Updated] 2024 Approved Frozen Delight Ice Cream Cam & Comprehensive Tutorial</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-apex-cameras-capturing-sporting-triumphs/"><u>[Updated] Apex Cameras Capturing Sporting Triumphs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-avoid-youtube-previews-on-all-platforms-and-devices/"><u>[Updated] Avoid YouTube Previews on All Platforms & Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-optimal-vr-for-drone-pilots/"><u>[Updated] Expert Picks Optimal VR for Drone Pilots</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-infuse-sound-into-your-whatsapp-status-update/"><u>[Updated] Infuse Sound Into Your WhatsApp Status Update</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-the-art-of-archiving-with-these-13-key-techniques/"><u>[Updated] Master the Art of Archiving with These 13 Key Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-make-any-tiktok-audio-the-ultimate-cellphone-sound/"><u>2024 Approved How To Make Any TikTok Audio, the Ultimate Cellphone Sound</u></a></li>
-<li><a href="https://fox-http.techidaily.com/avoiding-common-mistakes-in-macos-mixer-streaming-for-2024/"><u>Avoiding Common Mistakes in MacOS Mixer Streaming for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-save-big-on-macbook-air-available-for-only-280-today/"><u>Exclusive Deal Alert: Save Big on MacBook Air - Available for Only $280 Today!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-luts-showcase-10-standouts-with-direct-downloads-for-2024/"><u>Free LUTs Showcase 10 Standouts with Direct Downloads for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-a79-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo A79 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-battlefield-legends-the-ultimate-list-of-top-7-total-war-victories/"><u>[New] 2024 Approved Battlefield Legends The Ultimate List of Top 7 Total War Victories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-superior-methods-for-soundless-footage/"><u>[New] 2024 Approved Superior Methods for Soundless Footage</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-the-underestimated-aspects-of-instagram-for-2024/"><u>[Updated] Mastering the Underestimated Aspects of Instagram for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-complete-hulu-recording-manual-for-pc-mac-and-mobile-users-for-2024/"><u>[Updated] The Complete Hulu Recording Manual for PC, Mac & Mobile Users for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprelevant-listings-best-free-tools-to-watch-webm-videos/"><u>2024 Approved Comprelevant Listings Best Free Tools to Watch WebM Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-four-essential-tips-for-acquiring-youtube-srt/"><u>2024 Approved Four Essential Tips for Acquiring YouTube SRT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>2024 Approved Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-the-powerhouse-that-is-dji-phantom-3/"><u>2024 Approved In-Depth Analysis The Powerhouse That Is DJI Phantom 3</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incremental-diminution-strategies-for-fl-studio-enthusiasts/"><u>2024 Approved Incremental Diminution Strategies for FL Studio Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-after-effects-text-enhancements/"><u>2024 Approved Premium After Effects Text Enhancements</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-review-of-advanced-parrot-ar-drone-for-2024/"><u>Expert Review of Advanced Parrot AR Drone for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-frontier-top-360-cameras-for-industry-pros-2023-for-2024/"><u>Exploring the Frontier Top 360° Cameras for Industry Pros, 2023 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/eye-catching-graphic-principles-for-podcast-titles-for-2024/"><u>Eye-Catching Graphic Principles for Podcast Titles for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-obtain-the-newest-drivers-for-an-epson-xp-310-printer/"><u>How to Obtain the Newest Drivers for an Epson XP 310 Printer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/immediate-image-revamp-the-six-top-iphone-object-removal-apps/"><u>Immediate Image Revamp The Six Top iPhone Object-Removal Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-lava-storm-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Lava Storm 5G with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
 

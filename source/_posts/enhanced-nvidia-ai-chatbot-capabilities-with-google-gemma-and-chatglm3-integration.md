@@ -1,7 +1,7 @@
 ---
 title: Enhanced NVIDIA AI Chatbot Capabilities with Google Gemma & ChatGLM3 Integration
-date: 2025-01-23T19:21:46.858Z
-updated: 2025-01-29T10:06:01.309Z
+date: 2025-02-16T21:29:58.874Z
+updated: 2025-02-19T17:13:39.593Z
 tags:
   - cutting-edge
 categories:
@@ -42,28 +42,24 @@ The third update for NVIDIA's ChatRTX app has arrived. It adds new image recogni
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-forge-viral-content-adobe-memes/"><u>[New] 2024 Approved Forge Viral Content Adobe Memes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-veiled-viewing-of-facebook-flashbacks/"><u>[New] 2024 Approved Veiled Viewing of Facebook Flashbacks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-insights-into-making-the-most-out-of-mac-preview/"><u>[New] Expert Insights Into Making the Most Out of Mac Preview</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-unexpected-sideway-effects-in-ig-videos/"><u>[New] Exploring the Unexpected Sideway Effects in IG Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-flipbooks-to-frames-7-core-strategies-for-crafting-engaging-gifs/"><u>[New] From Flipbooks to Frames 7 Core Strategies for Crafting Engaging GIFs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-huawei-p10-analysis-unveiling-performance-and-design/"><u>[New] Huawei P10 Analysis Unveiling Performance & Design</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-sonic-shadows-the-art-of-sound-and-image-blending/"><u>[New] Sonic Shadows The Art of Sound and Image Blending</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guffaw-generator-pictorial-mixer/"><u>[Updated] Guffaw Generator Pictorial Mixer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-lyrics-with-images-on-instagram/"><u>[Updated] Harmonizing Lyrics with Images on Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmony-color-calibrator/"><u>[Updated] Harmony Color Calibrator</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-syncing-muted-voices-with-obs-streams-for-2024/"><u>[Updated] Syncing Muted Voices with OBS Streams for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-tutorial-transferring-youtube-videos-to-social-media-facebook-edition/"><u>2024 Approved Tutorial Transferring YouTube Videos to Social Media - Facebook Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-nvidia-rtx-2060-drivers-compatible-with-windows-111087/"><u>Download Updated NVIDIA RTX 2060 Drivers Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/free-screen-snip-androids-highest-rated-recorders-countdown-eight-edition-for-2024/"><u>Free Screen Snip Android's Highest-Rated Recorders Countdown – Eight Edition for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y78-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y78 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-direct-youtube-stream-of-google-meet-step-by-step-instructions/"><u>In 2024, Direct YouTube Stream of Google Meet - Step-by-Step Instructions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-gif-animation-mastery/"><u>In 2024, Fundamentals of GIF Animation Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-fade-audio-in-ableton/"><u>In 2024, How to Fade Audio in Ableton</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-windows-integration-for-steam-deck-users/"><u>Seamless Windows Integration for Steam Deck Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-exploring-non-google-ar-visual-interactions/"><u>[New] Exploring Non-Google Ar Visual Interactions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-learning-the-pixiz-method-for-photo-based-video-crafting-for-2024/"><u>[New] Learning the Pixiz Method for Photo-Based Video Crafting for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-techniques-for-reversing-chronological-order/"><u>[New] Techniques for Reversing Chronological Order</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-faster-film-fun-time-lapse-techniques-for-iphones/"><u>2024 Approved Faster Film Fun Time-Lapse Techniques for iPhones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-forge-funny-online-content-on-the-fly/"><u>2024 Approved Forge Funny Online Content on the Fly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frugal-shopping-for-cheap-vr-headsets-china/"><u>2024 Approved Frugal Shopping for Cheap VR Headsets (China)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-transfer-playlists-between-music-services/"><u>2024 Approved How to Transfer Playlists Between Music Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-write-a-great-podcast-techniques-and-10plus-free-example-scripts-inside/"><u>2024 Approved How to Write a Great Podcast Techniques & 10+ Free Example Scripts Inside</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-manage-srt-files-in-winmac-environments/"><u>2024 Approved Manage SRT Files in Win/Mac Environments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-selection-of-8-online-sites-featuring-golden-text-in-3d-for-2024/"><u>Exclusive Selection of 8 Online Sites Featuring Golden Text in 3D for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-free-after-effects-resources-for-2024/"><u>Explore the Best FREE After Effects Resources for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-enlightened-mind-games-general-knowledge/"><u>In 2024, Enlightened Mind Games - General Knowledge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/september-2024s-unbeatable-amazon-discounts-find-them-all-in-our-latest-zdnet-roundup/"><u>September 2024'S Unbeatable Amazon Discounts: Find Them All in Our Latest ZDNet Roundup!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-enhancing-view-in-roblox-worlds/"><u>Step-By-Step Enhancing View in Roblox Worlds</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-creating-catchy-youtube-channel-titles-for-blogging-and-filming-no-more-than-156-characters/"><u>The Ultimate Guide to Creating Catchy Youtube Channel Titles For Blogging & Filming (No More than 156 Characters)</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

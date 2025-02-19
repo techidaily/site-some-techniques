@@ -1,7 +1,7 @@
 ---
 title: Possible Authy Security Breach Exposes Users' Phone Numbers
-date: 2025-02-02T19:09:29.245Z
-updated: 2025-02-09T16:43:08.035Z
+date: 2025-02-13T16:58:40.195Z
+updated: 2025-02-19T16:07:01.060Z
 tags:
   - web
 categories:
@@ -38,26 +38,19 @@ Authy is one of the best authentication services out there, as well as one of th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-crafting-perfection-an-essential-guide-to-hdr-imaging-for-2024/"><u>[New] Crafting Perfection An Essential Guide to HDR Imaging for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-film-flashes-top-snippets-for-skilled-editors/"><u>[New] Film Flashes Top Snippets for Skilled Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-a-comprehensive-footage-study/"><u>[New] GoPro Hero5 A Comprehensive Footage Study</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-block-spotifys-unrequested-podcast-episodes/"><u>[New] How to Block Spotify's Unrequested Podcast Episodes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-iconic-screenplays-a-cinematic-legacy/"><u>[New] Iconic Screenplays A Cinematic Legacy</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-top-camera-brands-for-future-musical-video-production/"><u>[New] In 2024, Top Camera Brands for Future Musical Video Production</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-your-window-to-flawless-video-viewing-for-2024/"><u>[New] Your Window to Flawless Video Viewing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-best-slo-mo-camera-apps-on-iosandroid-platforms/"><u>[Updated] Explore Best Slo-Mo Camera Apps on iOS/Android Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filmmakers-checklist-on-the-go-gear-guide/"><u>[Updated] Filmmaker's Checklist On-the-Go Gear Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/dissecting-ustream-with-comparative-views/"><u>Dissecting Ustream with Comparative Views</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-and-ghost-s-face-off-in-racing-realities-for-2024/"><u>GoPro and Ghost-S Face Off in Racing Realities for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-airborne-cameras-clash-dji-inspire-vs-gopro-max/"><u>In 2024, Airborne Cameras Clash DJI Inspire vs GoPro MAX</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-behind-the-scenes-understanding-m1-technology/"><u>In 2024, Behind The Scenes Understanding M1 Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-selections-best-virtual-reality-titles-for-cardboard/"><u>In 2024, Exclusive Selections Best Virtual Reality Titles for Cardboard</u></a></li>
-<li><a href="https://win-great.techidaily.com/schnelle-abhilfe-gegen-ihre-geratesteckprobleme-entdecken-sie-die-effizientesten-losungsmethoden/"><u>Schnelle Abhilfe Gegen Ihre Gerätesteckprobleme: Entdecken Sie Die Effizientesten Lösungsmethoden</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/shot-with-precision-the-top-10-camera-lens-choices-for-photographers-for-2024/"><u>Shot with Precision The Top 10 Camera Lens Choices for Photographers for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-thievery-t5-unboxing-your-ultimate-guide-to-action-capture/"><u>The Thievery T5 Unboxing - Your Ultimate Guide to Action Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gigglegenius-funniest-memes-await/"><u>[New] GiggleGenius Funniest Memes Await</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-harnessing-monetization-potential-with-youtube-ad-strategies/"><u>[Updated] Harnessing Monetization Potential with YouTube Ad Strategies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-live-life-in-hd-with-panasonic-hx-a1-cam/"><u>[Updated] In 2024, Live Life in HD with Panasonic HX-A1 Cam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-tier-tools-transforming-remote-discussions-for-2024/"><u>[Updated] Top-Tier Tools Transforming Remote Discussions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-easytime-timer-services/"><u>2024 Approved Excellent EasyTime Timer Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concept-to-screen-writing-a-winning-docu-script/"><u>2024 Approved From Concept to Screen Writing a Winning Docu-Script</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-nokia-c12-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Nokia C12 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guiding-principles-for-integrating-videos-in-education/"><u>In 2024, Guiding Principles for Integrating Videos in Education</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-s24plus-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy S24+ Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-customizing-windows-11-walls-for-2024/"><u>Step-by-Step Customizing Windows 11 Walls for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

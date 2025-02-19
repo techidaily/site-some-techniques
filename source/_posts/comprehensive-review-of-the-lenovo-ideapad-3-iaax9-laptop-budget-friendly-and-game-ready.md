@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of the Lenovo Ideapad 3 (IAAX9) Laptop - Budget Friendly and Game Ready!
-date: 2025-02-04T18:22:39.717Z
-updated: 2025-02-09T18:53:20.919Z
+date: 2025-02-17T18:47:49.272Z
+updated: 2025-02-19T17:00:01.003Z
 tags:
   - deals
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  With a plethora of gaming laptops and handhelds available, it's a great time to be a PC gamer on the go. Generally, the more you spend, the better the gaming performance, but those on a budget also deserve some portable fun. One such option is the [Lenovo LOQ 15IAX9I](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) gaming laptop, which hopes to attract budget-conscious enthusiasts with its no-nonsense approach. For the most part, Lenovo has done a solid job of paring down the PC gaming experience to the absolute essentials, although not every concession may be worth the savings.
 
 ![Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6573727cv3d.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo LOQ 15IAX9I 
 
@@ -43,10 +47,6 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 [$499.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price and Availability** 
 
@@ -113,7 +113,7 @@ Expand
 ![Lenovo LOQ 15IAX9I closed next to its charger on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-with-the-charger_53589684049_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -126,13 +126,13 @@ Jerome Thomas / How-To Geek
 
  The 500GB SSD for storage is plenty for a standard productivity machine, but for a modern gaming laptop like this installing major PC releases, it's a bit anemic. If you want to install, say, "Destiny 2" and "Call of Duty: Modern Warfare," you're already talking over 300GB of space gone just for those two games alone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **I/O: Diverse Port Selection and Complete Keyboard** 
 
 ![The ports on the rear of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-back-of-the-lenovo-loq-15iax9i_53589810480_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -149,7 +149,7 @@ Jerome Thomas / How-To Geek
 ![Overhead view of the keyboard area of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/top-view-of-the-keyboard-on-the-lenovo-loq-15iax9i_53589683999_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -157,10 +157,6 @@ Jerome Thomas / How-To Geek
  For gaming purposes, particularly with the use of the classic W, A, S, and D keys for movement, I found the keyboard only OK. It was a little sluggish. It's definitely not a deal-breaker when gaming, but you likely won't be setting any eSports records with the key response times. The touchpad is relatively small and not as smooth as on some other laptops, but it's still perfectly usable and supports touch gestures.
 
  The power button turns on or puts the laptop to sleep, but it also has an LED ring to indicate operating mode. Blue is a low-performance quiet mode, red is performance mode, white is a balance between the two, and purple is for a custom mode should you want to set your own parameters. Naturally, the Red performance mode uses the most power, has the most fan noise, and drains the battery the fastest, so it's best to leave the laptop plugged in when using this more game-centric setting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Sights and Sounds: Optimized for Gaming** 
 
@@ -177,6 +173,10 @@ Jerome Thomas / How-To Geek
  The built-in [Nahimic](https://steelseries.com/nahimic)\-driven speakers sound OK with reasonable clarity, fair separation, and minimal distortion even at 100% volume, but the default audio profile lacks fullness and bass. They get the job done, especially for laptop speakers, but you'll want to connect to external speakers or headphones for better sound for most entertainment use cases.
 
  The built-in FHD webcam and microphone both do serviceable jobs in terms of clarity. Windows Hello facial recognition is not supported, and there's no fingerprint reader either, so for login and general security purposes, you're left typing in a PIN code.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Games, Benchmarks, and Overall Performance: Full HD or Bust** 
 
@@ -229,14 +229,19 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-haven-in-virtual-realms-mastering-20plus-funny-metaverse-imagery/"><u>2024 Approved Humor Haven in Virtual Realms Mastering 20+ Funny Metaverse Imagery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopros-rivalry-with-drift-ghost-the-racing-camera-faceoff-for-2024/"><u>GoPro's Rivalry with Drift Ghost - The Racing Camera Faceoff for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-the-sun-and-bulbs-for-stellar-iphone-photos-for-2024/"><u>Harness the Sun and Bulbs for Stellar Iphone Photos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-premium-free-online-tools-for-professional-video-tweaks/"><u>In 2024, Explore Premium Free Online Tools for Professional Video Tweaks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-itel-a05s-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Itel A05s Phone Screen?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/merging-melodies-the-art-of-crossfading-for-2024/"><u>Merging Melodies The Art of Crossfading for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722987125949-say-goodbye-to-constant-kodi-malfunctions-weve-fixed-it/"><u>Say Goodbye to Constant Kodi Malfunctions – We’ve Fixed It</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-zero-5g-2023-turbo-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Zero 5G 2023 Turbo Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-upgrade-enhanced-nvidia-geforce-driver-release/"><u>Windows 10 Upgrade: Enhanced NVIDIA GeForce Driver Release</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-pursuit-of-perfection-highest-rated-phones-for-smooth-videos/"><u>[New] In Pursuit of Perfection Highest Rated Phones for Smooth Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incredible-method-unlock-mac-using-apple-watch/"><u>[New] Incredible Method Unlock Mac Using Apple Watch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-initial-learning-executing-fade-ins-professionally/"><u>[New] Initial Learning Executing Fade-Ins Professionally</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-windows-11-guide-titling-video-files-in-photos-app/"><u>[New] Windows 11 Guide Titling Video Files in Photos App</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arise-ue4-glitch-resolution-guide-overcoming-fatal-errors/"><u>Arise UE4 Glitch Resolution Guide: Overcoming Fatal Errors</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/enhancing-robotic-cognition-through-advanced-content-analysis-explore-the-insights-on-abbyys-official-site/"><u>Enhancing Robotic Cognition Through Advanced Content Analysis - Explore the Insights on ABBYY's Official Site</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-list-the-10-leading-vimeo-downloaders-web-for-2024/"><u>Essential List The 10 Leading Vimeo Downloaders Web for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fastest-audio-playback-speed-controlers-collection-for-2024/"><u>Fastest Audio Playback Speed Controlers Collection for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-a1-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo A1 5G Phone Screen?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1716777278294-how-to-reverse-videos-on-android-in-2024/"><u>How to Reverse Videos on Android, In 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-still-on-the-move-gopro-stability-tips/"><u>In 2024, How to Get Still on the Move GoPro Stability Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-gratuit-generateurs-deffets-glitch-pour-decorer-vos-creations/"><u>Top 8 Gratuit Generateurs D'Effets Glitch Pour Décorer Vos Créations</u></a></li>
+<li><a href="https://win-special.techidaily.com/windows-update-0x800f081f/"><u>Windows Update エラー 0X800F081F: 原因と修正手順の詳細ガイド</u></a></li>
 </ul></div>
 

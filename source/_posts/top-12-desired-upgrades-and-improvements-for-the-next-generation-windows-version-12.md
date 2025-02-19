@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Desired Upgrades and Improvements for the Next Generation: Windows Version 12"
-date: 2025-02-03T17:58:18.491Z
-updated: 2025-02-09T16:56:43.401Z
+date: 2025-02-15T19:58:04.246Z
+updated: 2025-02-19T16:01:57.309Z
 tags:
   - deals
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
  It feels like Windows 11 was just released yesterday, but there is good reason to believe Windows 12 will be released in 2024 or 2025\. Here are some things we'd love to see included in Windows 12.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Finish the Settings App and Remove Control Panel
 
  The modern Settings app has been present in Windows since the days of Windows 8, but it still doesn’t contain everything that Control Panel does.
@@ -44,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Universal Noise Cancellation Built-in
 
  Many applications now have noise cancelation built in, but the quality is widely variable. [Discord, which uses Krisp](https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/), has excellent noise cancelation. NVIDIA also offers [NVIDIA Broadcast](https://extra-skills.techidaily.com/in-2024-orchestrating-the-scene-adding-cropping-and-adjusting-music-in-canva/), which includes a noise cancellation feature. NVIDIA Broadcast allows users with an NVIDIA GPU to filter out echoes or troublesome background noise. It works really well, but it requires [an RTX GPU](https://remote-screen-capture.techidaily.com/2024-approved-mastering-mayhem-and-mystery-the-essential-gaming-list-top-10/) to run.
@@ -58,15 +58,7 @@ thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d
 
 ![A microphone on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52730616053_b68b4eca6b_o.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Andrew Heinzman / How-To Geek
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Live and Dynamic Backgrounds
 
@@ -84,9 +76,17 @@ Andrew Heinzman / How-To Geek
 
 ![The widgets on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h16_21.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It would be nice to see Windows 12 offer more granular control over what is displayed in the Widgets menu, how the widgets themselves are displayed, and where you can place them.
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Control Over the Right-Click Menu
 
@@ -104,13 +104,13 @@ Andrew Heinzman / How-To Geek
 
 ![The Emoji picker on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h15_16.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It would be great to have the option to build a favorites tab that opens by default. It would be even better if the favorites tab let you assign a key to each favorited item for faster access, much like [how the Power User Menu works](https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/).
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Better Control Over the Start Menu
 
@@ -131,7 +131,7 @@ Andrew Heinzman / How-To Geek
  The Xbox app needs some TLC from Microsoft to reach its maximum potential. Hopefully we’ll see that with Windows 12 (or sooner!)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Better Device Backup Options in Windows Backup
@@ -144,7 +144,7 @@ Andrew Heinzman / How-To Geek
 2. Users need more control over which files and folders are included in the backup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Improve Windows Start Search
@@ -182,16 +182,22 @@ Andrew Heinzman / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-the-complete-laptop-and-mobile-manual-for-old-fb-stories/"><u>[New] The Complete Laptop & Mobile Manual for Old FB Stories</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-discover-the-top-6-android-music-video-platforms-for-2024/"><u>[Updated] Discover the Top 6 Android Music Video Platforms for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevating-video-view-count-top-hashtag-trends-guide/"><u>[Updated] Elevating Video View Count Top Hashtag Trends Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-examining-the-best-technology-for-crystal-clear-4k-visuals/"><u>[Updated] Examining the Best Technology for Crystal-Clear 4K Visuals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-insights-top-30-hidden-windows-11-tips-uncovered/"><u>[Updated] Exclusive Insights Top 30 Hidden Windows 11 Tips Uncovered</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-brand-makeover-made-easy-revel-in-our-array-of-over-50-free-online-promotional-artwork/"><u>[Updated] In 2024, Brand Makeover Made Easy Revel in Our Array of over 50 Free Online Promotional Artwork</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrator-tips-achieving-natural-motion-blur/"><u>2024 Approved Illustrator Tips Achieving Natural Motion Blur</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/external-microphones-to-elevate-film-quality-for-2024/"><u>External Microphones to Elevate Film Quality for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-basics-to-expertise-the-quantum-hdr-journey-for-2024/"><u>From Basics to Expertise The Quantum HDR Journey for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-professional-color-grading-top-11-for-2024/"><u>The Ultimate Guide to Professional Color Grading (Top 11) for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/water-found-in-iphone-charger-port-how-to-fix-it-or-deal-with-the-issue/"><u>Water Found in iPhone Charger Port: How to Fix It or Deal with the Issue</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-celebrating-the-best-movies-that-evoke-hope-and-courage/"><u>[New] Celebrating the Best Movies that Evoke Hope and Courage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-world-of-digital-color-grading/"><u>[New] Exploring the World of Digital Color Grading</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-alternatives-to-blockbuster-flicks/"><u>[Updated] 2024 Approved Best Alternatives to Blockbuster Flicks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>[Updated] 2024 Approved Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tutorial-on-utilizing-googles-automatic-speech-transcription/"><u>[Updated] Expert Tutorial on Utilizing Google's Automatic Speech Transcription</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-with-numbers-tips-for-tiktok-video-enhancements/"><u>2024 Approved Innovating with Numbers Tips for TikTok Video Enhancements</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-narrative-strategies-for-engaging-docu-films/"><u>2024 Approved Narrative Strategies for Engaging Docu-Films</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-chatgpts-wisdom-remains-unaltered/"><u>Debunking: ChatGPT's Wisdom Remains Unaltered</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/discover-the-power-of-icomponent-for-net-custom-controls-and-reusability/"><u>Discover the Power of IComponent for .NET Custom Controls and Reusability</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grasping-video-clarity-the-first-lessons-on-hd-for-2024/"><u>Grasping Video Clarity The First Lessons on HD for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-extract-and-convert-twitter-videos-hosted-on-youtube-to-mp3s-for-2024/"><u>How to Extract and Convert Twitter Videos Hosted on YouTube to MP3s for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-avoiding-drone-pitfalls-key-factors-for-a-smart-purchase/"><u>In 2024, Avoiding Drone Pitfalls Key Factors for a Smart Purchase</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-leading-platforms-offering-premium-vectr-art-resources/"><u>In 2024, Explore Leading Platforms Offering Premium Vectr Art Resources</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-guide-clearing-up-youtube-watchlater-stored-list/"><u>In 2024, Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-onscreen-power-expert-tips-on-cropping-images/"><u>In 2024, Harnessing Onscreen Power Expert Tips on Cropping Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-practices-for-enhancing-vhs-photos-via-pcs/"><u>In 2024, Innovative Practices for Enhancing VHS Photos via PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-13-best-free-pdf-editing-tools-july-2024-edition/"><u>Top 13 Best Free PDF Editing Tools - July 2024 Edition</u></a></li>
 </ul></div>
 

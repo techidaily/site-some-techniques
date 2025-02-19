@@ -1,7 +1,7 @@
 ---
 title: "Finally, the Windows Release: My Journey with GoodNotes on PC Proves Worthy"
-date: 2025-02-05T17:32:26.172Z
-updated: 2025-02-09T17:13:38.473Z
+date: 2025-02-13T17:41:44.400Z
+updated: 2025-02-19T16:23:49.825Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 ---
 
 ## Finally, the Windows Release: My Journey with GoodNotes on PC Proves Worthy
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,27 +36,27 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 ![Tap or click 'Goodnotes Pro.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/goodnotes-pro-option.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Goodnotes on Windows Has Incredible Note-Taking Features
 
  I ran the Goodnotes app on an HP Envy x360 with Windows 11 to get the tablet-like effect. Here are some of the cool features I used.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Multiple Page Formats
 
 ![A variety of paper formats displayed in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/paper-formats.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After launching the Goodnotes app and setting it up, you’ll need a notebook to start taking notes. Much like the iOS versions, Goodnotes for Windows offers many different page formats for taking notes and even daily planning to stay organized. I was very impressed to see different music sheet options, so you can write music using the app.
 
  If you use Goodnotes to take notes in class or a meeting and prefer writing in a straight line, there is a ruled paper option. And if you love to bullet journal, you can now do so digitally with the dotted page options. There are also blank pages for drawing or jotting down ideas freely. The best part is customizing your own templates to make your notes exactly how you like.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Offline Access
@@ -69,13 +65,13 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ###  Planners And To-Do Templates![The Planner page in Goodnotes, with a few different views visible.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/planner-option-for-goodnotes.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The planner and to-do templates in Goodnotes might be the least exciting feature to many, but if you love [digital planners and organization tools](https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-g22-drfone-by-drfone-virtual-android/) like myself, Goodnotes has plenty of options.
 
  From accounting sheets to planning your finances, a variety of monthly and weekly planner sheets and a standard to-do sheet to keep your day organized. The templates are quite basic, but they give you the creative room to customize them and make them your own.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Lasso Tool
 
@@ -95,19 +91,23 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 ![Click the 'Share' button on Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sharing-option-for-goodnotes.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that the sharing feature on your Windows computer is only available with paid subscriptions to Goodnotes for Windows or Goodnotes Pro.
 
 ###  Beta Testing Marketplace
 
 ![Tap or click 'Marketplace' to check out new features, templates, formats, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/marketplace-option-goodnotes-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Goodnotes on the Windows version is beta testing a marketplace where you can explore and download a wide range of paper templates, notebook covers, and tools to amp up your note-taking experience.
 
  You also have the option to join as a creator and show off your skills, which is a plus. All the templates currently listed in the marketplace section are free for users with a paid subscription to either Goodnotes on Windows or Goodnotes Pro.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What We’d Like To See
 
@@ -132,18 +132,18 @@ thumbnail: https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-to-perfectly-integrate-jump-cuts-into-videos/"><u>[Updated] Tips to Perfectly Integrate Jump Cuts Into Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fusing-film-and-frequencies-win11-edition/"><u>2024 Approved Fusing Film & Frequencies Win11 Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/9-ways-to-facebook-video-black-screen-issues-on-chromesafarifir-for-2024/"><u>9 Ways to Facebook Video Black Screen Issues on Chrome/Safari/Fir for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windows-10dvdiso/"><u>必見！Windows 10上におすすめDVD作成：ISOイメージ書き込み方法全解説</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-s17e-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Vivo S17e Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-tech-marvel-of-lg-ud88-w-monitors/"><u>In 2024, Exploring the Tech Marvel of LG UD88-W Monitors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focus-and-frame-essential-iphone-tools-for-cropping-photos/"><u>In 2024, Focus & Frame Essential iPhone Tools for Cropping Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-glide-and-glory-short-track-highlights-from-22/"><u>In 2024, Glide and Glory Short Track Highlights From '22</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-complete-youtube-editors-toolkit-for-post-publish-adjustments/"><u>In 2024, The Complete YouTube Editor's Toolkit for Post-Publish Adjustments</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-and-snapdragon-showdown-who-wins-when-it-comes-to-elite-battery-life-for-laptops/"><u>Intel and Snapdragon Showdown: Who Wins When It Comes to Elite Battery Life for Laptops?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/navigating-the-world-of-amr-wmas-an-in-depth-guide-to-file-conversion-techniques-2023/"><u>Navigating the World of AMR WMAs An In-Depth Guide to File Conversion Techniques 2023</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-0x80070643-issue-tips-and-tricks-for-smooth-windows-updates/"><u>Solving the 0X80070643 Issue: Tips and Tricks for Smooth Windows Updates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-focused-freedom-advanced-mounting-solutions-for-phonescams/"><u>[Updated] Focused Freedom Advanced Mounting Solutions for Phones/Cams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-audio-quality-top-10-blenders-for-podcasting/"><u>[Updated] Harmonizing Audio Quality Top 10 Blenders for Podcasting</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unlock-advanced-features-of-obs-studio-on-android-platforms/"><u>[Updated] Unlock Advanced Features of OBS Studio on Android Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-to-youtube-comment-sections-swiftly/"><u>2024 Approved Navigating to YouTube Comment Sections Swiftly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eradicating-invalid-configuration-segment-in-inf/"><u>Eradicating Invalid Configuration Segment in INF</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-jarring-edits-to-seamless-inshot-integration-for-2024/"><u>From Jarring Edits to Seamless Inshot Integration for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-enhancement-tools-for-the-modern-ps5-user/"><u>Game Enhancement Tools for the Modern PS5 User</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-wmv-teams-in-mp4-online-vervangen-professioneel-en-efficient/"><u>Gratis WMV-Teams in MP4 Online Vervangen - Professioneel en Efficiënt</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-search-of-excellence-top-10-4k-displays/"><u>In 2024, In Search of Excellence #Top 10 4K Displays</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/splash-to-fame-surfers-choice-camera-picks-2e3-for-2024/"><u>Splash to Fame Surfer's Choice Camera Picks (2E3) for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-effektive-aomei-backupper-beste-alternative-zu-norton-ghost/"><u>Top Effektive AOMEI Backupper: Beste Alternative Zu Norton Ghost</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-portrait-a-step-by-step-guide-to-enable-rotation-on-your-iphone/"><u>Unstuck From Portrait: A Step-by-Step Guide to Enable Rotation on Your iPhone</u></a></li>
 </ul></div>
 

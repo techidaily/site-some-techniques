@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-date: 2025-02-05T17:21:24.005Z
-updated: 2025-02-09T19:15:46.803Z
+date: 2025-02-17T17:55:36.112Z
+updated: 2025-02-19T21:24:35.232Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Top 10 Essential Cybersecurity Practices Endorsed by Your IT Team
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,6 +32,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your work IT colleagues probably seem a bit grumpy sometimes, and there's a reason: They're always busy working behind the scenes to keep you secure from hackers and other digital threats. You can make them less grumpy (and improve your own online security outside the office too) by following these tips.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Open Links in Emails That Lead to a Login Screen
 
  It's pretty common to receive an email with a link or a button that leads to a login screen, but you shouldn't use them. It's all too easy for a scammer to create their own fake login screen, email you a convincing looking email with a link, and then steal your password using it.
@@ -43,16 +43,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Instead, if you click on a link that lands you at a login page, close the browser tab or window, open a fresh one, and type in the address for the website yourself (or, if you're using an app, re-open it). Once you've logged in to the right website, you can check your notifications from your account there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Strong Passwords and Two-Factor Authentication (And Don't Share Them!)
 
 ![An illustration of someone using their phone for 2FA.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/586e508f.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
@@ -62,27 +58,27 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  Of course, you can't be expected to remember all of these different passwords, so you should [use a password manager](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) to keep track of them. You should also [enable two-factor authentication wherever possible](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), so that even if your password is leaked, attackers still won't be able to access your accounts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Don't Ignore Windows Security Prompts (UAC)
 
 ![UAC prompting us to allow the Audacity install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uac-audacity.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Every Windows user has seen these annoying security prompts from User Account Control (UAC). Whenever a change needs to be made to the system, one of these alerts will pop up and ask an Administrator to approve the action. While they're annoying, you shouldn't ignore them, and carefully read the information they display before dismissing them or allowing the change.
 
  This is because viruses and malware will usually need some kind of Administrator access to burrow deep into your system. These prompts are designed to stop them from doing this. Make sure you check that the application requesting access is from a verified publisher, and from a source you trust. Importantly, make sure you understand why the prompt has been triggered: if a UAC security prompt pops up from an unknown program or when you haven't taken any action, you should decline it and [check your system for viruses](https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Keep Your Work and Private Life Separate
 
  You don't want your employer to know all the details about your personal life, and your employer doesn't want you to be accidentally leaking company information through your social media profiles. Keep your work and private lives separate by using different email accounts and profiles for each. This helps prevent information from leaking, for example, by making it more difficult for you to accidentally put your dating schedule in the work calendar, or email a sensitive financial report to your yoga class.
 
  The most effective way to do this is to create [separate user accounts](https://remote-screen-capture.techidaily.com/updated-screen-recording-mastery-with-lenovo-gear-for-2024/) on your computer. You can also use [Firefox Containers](https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-huawei-nova-y91-location-drfone-by-drfone-virtual-android/) or Safari Profiles, or isolate different activities by using a different browser for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Set a Passcode On All Of Your Devices
 
@@ -104,6 +100,10 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If you receive an email with a strange or unexpected attachment, don't open it, and confirm that the sender is trusted and intentionally sent the attachment. And, under no circumstances should you run macros from a Microsoft Office document emailed to you: They're almost never something people use outside of work, and if you're at work, your IT department should manage which macros are trusted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Antivirus and Stay Up-To-Date
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
@@ -118,13 +118,13 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If there's something tech related you aren't sure about, you can search our [thousands of articles](https://desktop-recording.techidaily.com/2024-approved-ace-the-art-of-game-recordings-in-windows-11/) and find the answer from one of our experts. You can also [subscribe to our newsletter](https://fox-that.techidaily.com/effective-solutions-to-reactivate-your-imessage-on-an-iphone/) to stay up to date with all the latest gadgets, apps, and feature updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Panic!
 
 ![Photo illustration of a man reacting to spam coming from his monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/spam_guy.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-stressed-handsome-businessman-working-desk-1071449234)_
 
@@ -147,19 +147,17 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gnasher-no-cost-and-paid-alternatives-to-lightroom/"><u>[New] Gnasher No-Cost & Paid Alternatives to Lightroom</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-cross-platform-content-strategy-with-igtv-and-fb/"><u>[Updated] 2024 Approved Crafting Cross-Platform Content Strategy with IGTV and FB</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-optimizing-youtube-profits-understanding-your-adsense-earnings-per-kv/"><u>[Updated] 2024 Approved Optimizing Youtube Profits Understanding Your AdSense Earnings per KV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-list-top-20-open-source-pubg-slideshows/"><u>2024 Approved Exclusive List Top 20 Open-Source PUBG Slideshows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-groups-shaping-future-of-vr-worlds/"><u>2024 Approved Innovative Groups Shaping Future of VR Worlds</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-u23-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on U23</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-your-snapseed-journey-starts-here-for-2024/"><u>From Novice to Pro Your Snapseed Journey Starts Here for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-on-crafting-an-ideal-video-conference-room/"><u>In 2024, Expert Advice on Crafting an Ideal Video Conference Room</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/inside-out-essential-vr-dictionary-words/"><u>Inside Out Essential VR Dictionary Words</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-your-console-experience-overcoming-call-of-duty-error-code-g7t05a-b-in-black-ops-cold-war/"><u>Master Your Console Experience: Overcoming Call of Duty Error Code G7T05A-B in Black Ops Cold War</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/masterful-visuals-in-motion-an-insiders-guide-to-creating-impressive-thumbnails/"><u>Masterful Visuals in Motion An Insider's Guide to Creating Impressive Thumbnails</u></a></li>
-<li><a href="https://win-online.techidaily.com/resolving-your-printers-connection-problem-expert-tips-from-yl-computing/"><u>Resolving Your Printer's Connection Problem: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/samurais-modern-journey-10-games-similar-to-ghost-of-tsushima-for-2024/"><u>Samurai's Modern Journey 10 Games Similar to Ghost of Tsushima for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/top-mp4-encoder-of-2023-guia-paso-a-paso-para-optimizacion-de-videos/"><u>Top MP4 Encoder of 2023: Guía Paso a Paso Para Optimización De Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-reverse-a-video-on-iphone/"><u>[New] How to Reverse a Video on iPhone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-smoothing-playback-the-truth-behind-frozen-photo-booth-videos/"><u>[New] In 2024, Smoothing Playback The Truth Behind Frozen Photo Booth Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-vegaspros-progressive-changes-2019/"><u>2024 Approved Evaluating VegasPro's Progressive Changes (2019)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977792346-effortless-ft2ft232rusbuartdriver-quick-access-and-download-now/"><u>Effortless FT2#FT232R_USB_UART_Driver: Quick Access & Download Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hubs-for-high-quality-vr-watching-for-2024/"><u>Hubs for High-Quality VR Watching for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-fidelity-videos-our-selection-of-the-three-finest-phones/"><u>In 2024, High Fidelity Videos Our Selection of the Three Finest Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-home-theater-choosing-the-best-3d-players/"><u>In 2024, Immersive Home Theater Choosing the Best 3D Players</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inshot-unveiled-assessing-its-edge-over-other-editors-for-2024/"><u>InShot Unveiled Assessing Its Edge Over Other Editors for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-windows-11-installation-with-these-easy-to-implement-tweaks/"><u>Optimize Your Windows 11 Installation with These Easy-to-Implement Tweaks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-8-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone 8 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-fixing-fifa-20-pc-game-crashes-step-by-step-tutorial/"><u>Ultimate Guide: Fixing FIFA 20 PC Game Crashes - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-warcraft-lag-no-more-a-comprehensive-2024-guide-to-overcome-low-fps-challenges/"><u>World of Warcraft Lag No More: A Comprehensive 2024 Guide to Overcome Low FPS Challenges</u></a></li>
 </ul></div>
 

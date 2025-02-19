@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Discord Windows Mic Issues"
-date: 2025-02-03T17:57:58.468Z
-updated: 2025-02-09T20:23:49.930Z
+date: 2025-02-15T19:15:58.541Z
+updated: 2025-02-19T17:00:04.455Z
 tags:
   - desktop
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  As a basic fix, restart your computer and see if that makes the mic working again. If it doesn't, use the troubleshooting tips below. Make sure to launch Discord and see if the mic works after each method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Run Discord as an Admin
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 !['Run as Administrator' highlighted for Discord in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-discord-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select "Yes" in the User Account Control prompt.
 
 ##  Test Your Mic in Another App and Give Discord Microphone Access
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  If you're on Windows 11, find and launch "Sound Recorder" from the Start Menu. If you're on Windows 10, find and open "Voice Recorder". Then, click Record (a mic icon) or press Ctrl+R and start speaking into your mic.
 
 !['Record' highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-record-voice-sound-recorder.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the app records your voice, the mic is functional. In this case, use the further fixes below. If the app doesn’t record your voice, the mic might be disabled in Windows Settings. [Enable the mic](https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-best-windows-10-photos-alternatives/) using the following steps.
 
@@ -66,16 +66,12 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 ![Click the gear icon to open User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/discord-gear.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From the left sidebar, choose "Voice & Video." On the right pane, select the "Input Device" drop-down menu and choose the correct mic.
 
 !['Voice & Video' and 'Input Device' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-choose-mic-discord.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Disable QoS High Packet Priority in Discord
 
@@ -86,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 !['Voice & Video' and 'Enable Quality of Service High Packet Priority' highlighted in Discord User Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-disable-qos-discord.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Reset Discord's Voice Settings
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  In the open prompt, select "Okay."
 
 !['Okay' highlighted in the 'Reset Voice Settings' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-reset-voice-settings-prompt-discord.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Close and relaunch Discord](https://techtrends.techidaily.com/navigating-the-digital-age-laptops-smartphones-and-literary-treasures-galore/) and check if your mic is working. 
 
@@ -122,15 +122,16 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-highlighting-the-best-of-fig-skates-2022/"><u>[New] Highlighting the Best of Fig Skates 2022</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-illuminated-imagery-standing-out-in-the-visual-field/"><u>[New] Illuminated Imagery Standing Out in the Visual Field</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-why-trust-matters-more-than-just-numbers-on-feeds/"><u>[New] In 2024, Why Trust Matters More Than Just Numbers on Feeds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-iconic-imagery-tales-untold/"><u>2024 Approved Iconic Imagery Tales Untold</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/celestial-showcase-premier-vlogs-plus-client-admiration/"><u>Celestial Showcase: Premier Vlogs + Client Admiration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-on-how-to-refresh-the-driver-software-for-an-acer-nitro-5-laptop/"><u>Expert Tips on How to Refresh the Driver Software for an Acer Nitro 5 Laptop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertise-unlocked-smooth-video-cuts-on-photos-via-windows-11-for-2024/"><u>Expertise Unlocked Smooth Video Cuts on Photos via Windows 11 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/integrating-d-drive-into-explorer-toolbar/"><u>Integrating D: Drive Into Explorer Toolbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-windows-11-microsoft-store-error-0x80073cf3/"><u>Remedying Windows 11 Microsoft Store Error 0X80073cf3</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-extra-convenience-with-your-electric-vehicle-hov-lane-use-and-preferred-parking-options/"><u>Unlocking Extra Convenience with Your Electric Vehicle: HOV Lane Use and Preferred Parking Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gigglegridiron-craft-memes-from-anywhere-anytime/"><u>[New] GiggleGridiron Craft Memes From Anywhere, Anytime</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-chapters-the-secrets-to-seamless-inshot-edits/"><u>[New] Harmonizing Chapters The Secrets to Seamless Inshot Edits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-express-yourself-accessibility-available-for-free/"><u>[Updated] Express Yourself, Accessibility Available for Free</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-live-footage-at-its-best-gamers-recording-tips-for-2024/"><u>[Updated] Live Footage at Its Best Gamers' Recording Tips for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-your-perfect-electronic-notepad-highly-rated-digital-journals-evaluated-by-professionals/"><u>Find Your Perfect Electronic Notepad: Highly Rated Digital Journals Evaluated by Professionals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expeditious-windows-file-audit-tactics/"><u>In 2024, Expeditious Windows File Audit Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-shaky-to-steady-selecting-the-best-gimbals-for-your-drones/"><u>In 2024, From Shaky to Steady Selecting the Best Gimbals for Your Drones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimizing-your-podcasts-itunes-placement/"><u>In 2024, Optimizing Your Podcast's iTunes Placement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-formula-1-2021-on-your-pc-techniques-to-avoid-disruptive-crashes-and-play-smoothly/"><u>Mastering Formula 1 2021 on Your PC: Techniques to Avoid Disruptive Crashes & Play Smoothly</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/navigating-15-of-tiktoks-hottest-innovations-for-2024/"><u>Navigating 15 of TikTok's Hottest Innovations for 2024</u></a></li>
 </ul></div>
 

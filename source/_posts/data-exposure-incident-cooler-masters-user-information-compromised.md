@@ -1,7 +1,7 @@
 ---
 title: "Data Exposure Incident: Cooler Master's User Information Compromised"
-date: 2025-02-06T17:22:32.586Z
-updated: 2025-02-09T17:30:02.125Z
+date: 2025-02-12T17:34:01.384Z
+updated: 2025-02-19T16:13:54.521Z
 tags:
   - web
 categories:
@@ -38,23 +38,25 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-zero-to-hero-with-photoshop-basics-in-snapseed/"><u>[New] From Zero to Hero with Photoshop Basics in Snapseed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-7-video-players-for-apple-devices/"><u>[New] Ideal 7 Video Players for Apple Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transforming-srt-a-complete-reference-guide-for-conversion/"><u>[Updated] Transforming SRT A Complete Reference Guide for Conversion</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-isolating-still-images-from-motion-in-windows-11-photos/"><u>2024 Approved Isolating Still Images From Motion in Windows 11 Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/friendly-frenemies-top-social-vr-games-for-2024/"><u>Friendly Frenemies Top Social VR Games for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/grasping-basics-your-guide-to-av1-encoding-for-2024/"><u>Grasping Basics Your Guide to AV1 Encoding for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-se-2022-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone SE (2022)? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-video-edits-is-inshot-top-choice/"><u>In 2024, Exploring Video Edits Is InShot Top Choice?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-magic-cutting-edge-camcorders-reviewed/"><u>In 2024, High-Definition Magic Cutting-Edge Camcorders Reviewed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-faster-windows-11-boots-a-triad-of-tips/"><u>Mastering Faster Windows 11 Boots: A Triad of Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-viewing-mov-videos-on-your-windows-11-pc/"><u>Step-by-Step Guide: Viewing MOV Videos on Your Windows 11 PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-value-for-money-laptops-comprehensive-reviews-by-tech-experts-pcmag/"><u>Top Value-for-Money Laptops : Comprehensive Reviews by Tech Experts | PCMag</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-tapping-into-youtubes-creative-commons-for-video-creators/"><u>[New] 2024 Approved Tapping Into YouTube's Creative Commons for Video Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopros-newest-clash-max-360-versus-hero-11-showdown/"><u>[New] GoPro's Newest Clash Max 360 Versus Hero 11 Showdown</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-thirteen-for-professional-cinematic-equipment/"><u>[New] Ultimate Thirteen for Professional Cinematic Equipment</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-discovering-picsarts-future-comprehensive-guide-and-review-update/"><u>[Updated] 2024 Approved Discovering PicsArt's Future - Comprehensive Guide and Review Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-enhance-your-iphone-x-animoji-skills/"><u>[Updated] Expert Guide to Enhance Your iPhone X Animoji Skills</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-framing-brilliance-nikon-d500s-high-definition-journey/"><u>[Updated] Framing Brilliance Nikon D500's High-Definition Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-five-lookout-breakdown/"><u>[Updated] High-Five Lookout Breakdown</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mp3-conversion-hack-youtube-to-macs-mp3-tutorial-for-2024/"><u>[Updated] MP3 Conversion Hack YouTube to Mac's MP3 Tutorial for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-utilizing-funimate-downloader/"><u>2024 Approved Expert Tips for Utilizing Funimate Downloader</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/asus-notebook-deadlock-powerless-state-sparking-remedies/"><u>ASUS Notebook Deadlock: Powerless State - Sparking Remedies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-the-right-apple-laptop-macbook-air-vs-macbook-pro-a-detailed-comparison-zdnet/"><u>Choosing the Right Apple Laptop: MacBook Air Vs. MacBook Pro - A Detailed Comparison | ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-blend-into-the-crowd-watching-instagram-live-anonymously-for-2024/"><u>How to Blend Into the Crowd Watching Instagram Live Anonymously for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-filmoquery-your-guide-to-video-editing-insights/"><u>In 2024, FilmoQuery Your Guide to Video Editing Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenating-computers-without-the-windows-lockdown/"><u>Rejuvenating Computers Without the Windows Lockdown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vivacut-mastery-in-depth-2024-editor-analysis-and-tips/"><u>VivaCut Mastery In-Depth 2024 Editor Analysis and Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725288096865-winx-hd-video-converter-deluxe/"><u>WinX HD Video Converter Deluxeの安さには参加しない: コードで最高優先サイズを確保する手順</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

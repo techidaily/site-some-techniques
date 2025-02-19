@@ -1,7 +1,7 @@
 ---
 title: "Guide: Unlocking ChatGPT’s Capabilities Through Browser Integration and Plugin Support"
-date: 2025-01-22T21:31:01.160Z
-updated: 2025-01-28T22:51:25.655Z
+date: 2025-02-12T19:30:16.080Z
+updated: 2025-02-19T18:38:38.619Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 ---
 
 ## Guide: Unlocking ChatGPT’s Capabilities Through Browser Integration and Plugin Support
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
 [ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) can now browse the web to find up-to-date information. It also supports other plug-ins---for example, it can turn to Wolfram for computations, OpenTable for restaurant reservations, and Instacart for grocery orders. Here's how to turn these features on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Enable Web Browsing and Plugins in ChatGPT
 
  You can activate ChatGPT's Web Browsing and Plugins features from ChatGPT's Settings. However, these features are available exclusively for [ChatGPT Plus subscribers](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/) as of May 2023\. You can [sign up for ChatGPT Plus](https://openai.com/blog/chatgpt-plus) for $20 per month if you haven't done so already. In addition to these features, ChatGPT Plus gives you access to [the more powerful and capable GPT 4 language model](https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x50i-drfone-by-drfone-virtual-android/)\---the free version of ChatGPT uses gpt-3.5-turbo.
@@ -42,12 +34,16 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
 ![GPT Beta Features Settings Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-13.58.19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Beta Features" at the left side of the Settings page to access the beta features panel.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Turn on the features you want to use here. You can activate either Web Browsing, Plugins, or both. In the future, other beta features may also appear here.
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
  Now, start a new chat in ChatGPT with the "New Chat" button.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Before you write anything, click on GPT-4 as your preferred model, then click on the dropdown arrow and choose between the Default, Browsing, or Plugins modes.
 
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT will inform you about how plugins work. Note that they're not controlled by OpenAI, and they may send parts of your ChatGPT conversation to an external service. Finally, note that ChatGPT itself will choose when to use plugins during a conversation based on which plugins you have enabled.
 
  Click "OK" to proceed.
@@ -83,16 +79,12 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Choose the plugins you want to use and click "Install" to install them for your ChatGPT account. You can also uninstall plugins from your account here. Close the plugin store when you're done.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you should see small icons representing your active plugins below the "GPT-4" option at the top of the page.
 
@@ -104,17 +96,29 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
  Now you're ready to use plugins with ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use Web Browsing in ChatGPT
 
  To invoke the web browsing feature, ask a question that requires internet-based information, such as "What's the latest update about OpenAI?" or "Who won the Oscars this year?". ChatGPT will display "Browsing the web..." and try to find the information for you.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use Plugins in ChatGPT
 
  Once the plugins are activated in your settings, you can instruct ChatGPT to employ a specific plugin for a task. For instance, you could type "Use Wolfram to calculate the current distance between the Earth and Mars." ChatGPT will let you know which plugin it used.
 
 ![GPT Settings Menu Beta Features Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-18-at-14.04.13.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT doesn't replicate a standard web browser experience. Instead of presenting the entire webpage, it narrates the page content in a conversational tone, focusing on the information relevant to your query.
 
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
  This expands the possibilities of what you can get it to do even more. For example, there's no need to [manually feed it information](https://twitter-videos.techidaily.com/updated-2024-approved-bridge-gap-twitter-video-and-chrome-compatibility/) newer than its cutoff date. The underlying model may be "stuck" in 2021 from a knowledge perspective, but if can browse the web to find more up-to-date information---just like [Bing Chat](https://facebook-video-recording.techidaily.com/new-in-2024-the-insiders-look-at-securing-fb-status-videos/).
 
  When we tried this feature, we didn't always get ChatGPT to access the web consistently to get the information required to complete the requested task. However, adding something like "check the web" to your prompt will do it every time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  When Should You Use ChatGPT Plugins?
 
@@ -155,24 +155,16 @@ Related: [How to (Temporarily) Add New Knowledge to ChatGPT](https://twitter-vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-revolutionizing-graphics-an-examination-of-cg318-4k-by-eizo/"><u>[New] 2024 Approved Revolutionizing Graphics An Examination of CG318-4K by EIZO</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-chortle-calls-greatest-funny-ringtone-hubs/"><u>[New] Chortle Calls Greatest Funny Ringtone Hubs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fade-to-darkness-instantaneously/"><u>[New] Fade to Darkness Instantaneously</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-focus-and-frame-essential-iphone-tools-for-cropping-photos/"><u>[New] Focus & Frame Essential iPhone Tools for Cropping Photos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-best-tripod-for-iphone-and-android-smartphone/"><u>[New] The Best Tripod for iPhone and Android Smartphone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-future-frames-the-years-top-cinematographic-innovations-2024/"><u>[Updated] Future Frames The Year's Top Cinematographic Innovations - 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonic-hurdle-jumpstarts-best-tunes-to-initiate-audio-starts/"><u>[Updated] Harmonic Hurdle Jumpstarts Best Tunes to Initiate Audio Starts</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-a-swift-guide-to-faster-more-engaging-tiktoks/"><u>[Updated] In 2024, A Swift Guide to Faster, More Engaging TikToks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-the-intricacies-of-transferring-videos-to-youtube/"><u>[Updated] Navigating the Intricacies of Transferring Videos to YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hear-got-music-top-sites-to-download-ringtones/"><u>2024 Approved Hear GoT Music - Top Sites to Download Ringtones</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bring-clarity-back-repairing-zoom-cam-for-crystal-clear-calls/"><u>Bring Clarity Back: Repairing Zoom Cam for Crystal-Clear Calls</u></a></li>
-<li><a href="https://extra-information.techidaily.com/clip-on-lens-accessories-and-stabilizers/"><u>Clip-On Lens Accessories and Stabilizers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/discover-leading-free-apps-excellent-srt-file-converters/"><u>Discover Leading Free Apps Excellent Srt File Converters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-insights-into-the-world-of-google-photos-for-2024/"><u>Expert Insights Into the World of Google Photos for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-effortless-video-editing-how-to-add-effects-in-fcp-x-in-3-steps/"><u>In 2024, Effortless Video Editing How to Add Effects in FCP X in 3 Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-infinite-a-look-at-lgs-vr-technology/"><u>In 2024, Exploring the Infinite A Look at LG's VR Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-calculating-your-podcasts-cost/"><u>In 2024, In-Depth Analysis Calculating Your Podcast's Cost</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-features-of-the-latest-win11-release-for-2024/"><u>Innovative Features of the Latest Win11 Release for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-selective-image-editing-in-photo-software/"><u>[New] Expert Tips for Selective Image Editing in Photo Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonious-hush-managing-music-on-pc-mac/"><u>[New] Harmonious Hush Managing Music on PC, Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-ignite-interest-a-list-of-30-video-themes/"><u>[Updated] In 2024, Ignite Interest A List of 30 Video Themes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-methods-for-3d-text-illustration/"><u>[Updated] Innovative Methods for 3D Text Illustration</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximize-youtube-exposure-in-156-characters-or-less/"><u>[Updated] Maximize YouTube Exposure in 156 Characters or Less</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-directly-download-youtube-videos/"><u>2024 Approved Directly Download YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-great-outdoors-choose-between-dji-action-4-gopro-max-360-and-insta360-x3/"><u>2024 Approved Exploring the Great Outdoors Choose Between DJi Action 4, GoPro Max 360 & Insta360 X3</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/auroras-approach-to-hdv-standing-out-or-same-old-for-2024/"><u>Aurora's Approach to HDV Standing Out or Same Old for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/free-online-converter-change-tga-images-to-jpeg-format-with-ease-movavi/"><u>Free Online Converter: Change TGA Images to JPEG Format with Ease - Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-huawei-nova-y71-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Huawei Nova Y71 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/implementing-gradual-diminishing-techniques-on-soundtracks-with-audacity-for-2024/"><u>Implementing Gradual Diminishing Techniques on Soundtracks with Audacity for 2024</u></a></li>
 </ul></div>
 

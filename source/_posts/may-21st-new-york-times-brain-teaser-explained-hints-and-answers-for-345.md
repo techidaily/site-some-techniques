@@ -1,7 +1,7 @@
 ---
 title: "May 21St New York Times Brain Teaser Explained: Hints and Answers for #345"
-date: 2025-02-02T17:08:44.457Z
-updated: 2025-02-09T18:34:38.303Z
+date: 2025-02-18T16:40:12.255Z
+updated: 2025-02-19T17:16:11.454Z
 tags:
   - web
 categories:
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 * **Purple:** A social media company and a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Are Today's Connections Groups?
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 ![May 21st's words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -60,17 +60,9 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 * **Blue:** Billiards Equipment
 * **Purple:** \_\_\_Book (That's Not a Book)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Today's NYT Connections Answers
 
 ![May 21st Connections groups and words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-21st-connections-filled.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Smidgen (Yellow):** 
 
@@ -88,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
  Face, Mac, Match, Pocket
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 21st was pretty straightforward. 
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
  The next group I spotted was Purple. Purple often hinges on missing or added words, so I started blindly attaching words to them to see if anything jumped out. Face immediately made me think Facebook, which seemed like a strong lead. Book also fits with Mac, Match, and Pocket. The group name was "\_\_\_\_book(That's Not a Book)." 
 
  That left buy, deal, steal, and value in the Green group, which was "Bargain." 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -128,16 +128,17 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-expert-navigating-telegram-web/"><u>[Updated] From Novice to Expert Navigating Telegram Web</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-isolate-frames-as-photos-in-windows-11/"><u>[Updated] How to Isolate Frames as Photos in Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-launch-sequence-the-right-moment-for-podcasts/"><u>2024 Approved Launch Sequence The Right Moment for Podcasts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-the-joy-of-playing-and-plugging-with-the-singing-machine-sml385btbk-a-revolutionary-karaoke-system/"><u>Experience the Joy of Playing & Plugging with the Singing Machine SML385BTBK - A Revolutionary Karaoke System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-and-paid-drawing-tools-for-windows-enthusiasts-for-2024/"><u>Free and Paid Drawing Tools for Windows Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-standard-to-stylish-installation-of-personalized-ringtones-and-alerts-in-android-for-2024/"><u>From Standard to Stylish Installation of Personalized Ringtones & Alerts in Android for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-maximize-google-photos-for-photography-enthusiasts/"><u>In 2024, How to Maximize Google Photos for Photography Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-stride-solutions-top-vr-treadmills-reviewed/"><u>In 2024, Innovative Stride Solutions Top VR Treadmills Reviewed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-v30-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo V30 Phones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/outshine-samsung-gear-360-with-these-top-camera-alternatives-for-2024/"><u>Outshine Samsung Gear 360 with These Top Camera Alternatives for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-get-it-right-three-pro-tips-for-lol-gameplay-captures/"><u>[New] In 2024, Get It Right Three Pro Tips for LOL Gameplay Captures</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-innovative-imagery-boost-integrating-filters-into-pcmobile-videos/"><u>[New] Innovative Imagery Boost Integrating Filters Into PC/Mobile Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-crafting-captivating-captions-elevate-your-pages-popularity/"><u>[Updated] 2024 Approved Crafting Captivating Captions Elevate Your Page's Popularity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exceptional-online-tv-services-featuring-community-broadcasts/"><u>[Updated] Exceptional Online TV Services Featuring Community Broadcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gradual-volume-lessening-in-music-creation-garageband/"><u>[Updated] Gradual Volume Lessening in Music Creation (Garageband)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-detailed-analysis-of-dynamic-actions-capture/"><u>[Updated] In 2024, Detailed Analysis of Dynamic Actions Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-charger-kits-for-gopro-hero5-official-and-alternative-models/"><u>2024 Approved Exclusive Charger Kits for GoPro Hero5 – Official & Alternative Models</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-light-and-motion-for-gopro-time-lapse-magic/"><u>2024 Approved Harnessing Light and Motion for GoPro Time-Lapse Magic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/imovies-beat-based-filmmaking-for-2024/"><u>IMovie's Beat-Based Filmmaking for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-how-can-i-share-ps4-screenshots-online/"><u>In 2024, How Can I Share PS4 Screenshots Online</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-14-ultra-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi 14 Ultra ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovating-your-reality-essential-vr-peripherals-guide/"><u>Innovating Your Reality Essential VR Peripherals Guide</u></a></li>
 </ul></div>
 

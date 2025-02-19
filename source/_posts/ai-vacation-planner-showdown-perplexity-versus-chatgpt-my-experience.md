@@ -1,7 +1,7 @@
 ---
 title: "AI Vacation Planner Showdown: Perplexity Versus ChatGPT - My Experience"
-date: 2025-01-21T20:34:33.685Z
-updated: 2025-01-29T05:28:41.942Z
+date: 2025-02-17T16:41:13.769Z
+updated: 2025-02-19T18:51:34.294Z
 tags:
   - cutting-edge
 categories:
@@ -18,16 +18,12 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
 
  ChatGPT and Perplexity AI are both versatile AI-powered chatbots that claim the ability to research relying on an extensive database of existing knowledge supported by limited internet search abilities. I put these claims to the test as these bots help me plan a big multi-generational family vacation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  My Two Favorite AI Chatbots
 
  Perplexity AI is my [go-to AI for research](https://twitter-videos.techidaily.com/new-2024-approved-step-by-step-live-tweeting-tactics/) because it validates its answers with curated internet search results, and provides those sources. ChatGPT, on the other hand, might be the best all-around AI in my opinion. It's certainly the most popular, and this has spawned a growing number of [customized GPTs](https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/) for specific purposes. There are at least three different travel-themed custom GPTs available in the "Explore GPTs" section. I experimented with a few of them, and their performance was poor and inconsistent. I suspect they are each customized to specialize in just one aspect of travel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Choosing a Great Location
@@ -57,24 +53,28 @@ Prompt: Please suggest 10 family-friendly things to do or see there. Include a f
  Dolly Parton's Dollywood theme park was what made Pigeon Forge a vacation destination, and it sees just under 3 million guests per year. Its omission from Perplexity's list of recommended activities is nearly a disqualification. Furthermore, we're just given the name of the attraction and a single sentence about it. ChatGPT nails the prompt by separating the list into "Outdoor Activities", "Indoor and Rainy-Day Activities", and "Budget-Friendly Options". However, the budget-friendly National Park activities were included under "Outdoor Activities" instead of the budget options. Neither model mentioned any of the multiple skyways, sky bridges, or sky parks, but the activities offered were otherwise well-representative of the area.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ![A screenshot of the short prompt, and the first part of ChatGPT's response.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gptprompt2.png)Itineraries
 
  Aren't itineraries the most tedious part of vacation planning? It's fun to look at all the unique activities and share favorites with your family. It's good to show older kids activities you know they'll like and watch them get excited about the trip. The hard part is planning what to do each day to mix just the right amount of adventure and relaxation. Even exciting dinner shows can be too much for little kids (and moms!) who have already had a full day. This is the part that both first-timers and experienced travelers would appreciate help with. I admit, I did not think AI was up to the challenge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Basic Itinerary Challenge
 
  First, I gave both AIs a complex prompt that gave parameters without choosing specific activities. It requested 2 days in Dollywood, 1 rest day, and a few days in the National Park. To my surprise, both AIs nailed the challenge!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  ChatGPT
 
  ChatGPT divided each day into morning, afternoon, and evening. Days with morning and afternoon activities included relaxed evenings at the campground. The requested rest day was on Wednesday (I love it when the AI makes sense!) and included a relaxed morning and afternoon at the campground. This was followed by an outing for dinner and a show in the evening. It followed the restrictions of the prompt with two days of Dollywood (Monday and Thursday) and three days at the National Park. It did not repeat activities, and it suggested the Gatlinburg Skylift Park. Finally, a sky activity!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Perplexity
 
@@ -84,6 +84,10 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
 
 ![A screenshot of the challenge prompt and GPT's detailed response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gptbasicchallenge.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Detailed Itinerary Challenge
 
  My final prompt to both chatbots was:
@@ -92,17 +96,13 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
 
  They both nailed it, again! Both included all the requested activities and stuck to the same format as they did in the first challenge. ChatGPT went through each day's morning, afternoon, and evening, while Perplexity gave an overview of each day. I'm thrilled with both results!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ![A screenshot of the complex prompt and Perlexity's more vague response.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/perplexitycomplexchallenge.png) And the Winner Is?
 
- AI chatbots work for travel planning! We are the winners! I'll be using AI chatbots to assist with travel planning in the future, especially to new places. Will I tap Perplexity AI or ChatGPT? If I'm looking for one right answer (perhaps anticipating where my mom would like to stay?) I will at least check Perplexity, but ChatGPT surpassed my expectations on this challenge.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ AI chatbots work for travel planning! We are the winners! I'll be using AI chatbots to assist with travel planning in the future, especially to new places. Will I tap Perplexity AI or ChatGPT? If I'm looking for one right answer (perhaps anticipating where my mom would like to stay?) I will at least check Perplexity, but ChatGPT surpassed my expectations on this challenge.
 
 ##  Obligatory Final Word About Internet Safety and AI Limitations
 
@@ -123,22 +123,16 @@ Plan a weeklong itinerary for a multigenerational family staying at the Pigeon F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-detailed-guidance-on-crafting-dynamic-yt-profiles/"><u>[New] 2024 Approved Detailed Guidance on Crafting Dynamic YT Profiles</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-8-budget-friendly-cross-platform-video-conferencing-tools-revealed-for-2024/"><u>[New] 8 Budget-Friendly, Cross-Platform Video Conferencing Tools Revealed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-avoid-watermarks-in-stock-purchases/"><u>[New] How To Avoid Watermarks in Stock Purchases</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-post-a-picture-on-youtube/"><u>[New] How to Post a Picture on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hololens-analysis-a-3d-interface-revolution-by-microsoft/"><u>[Updated] HoloLens Analysis A 3D Interface Revolution by Microsoft</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-manipulating-iphone-photos/"><u>2024 Approved Expert Techniques for Manipulating iPhone Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-film-star-access-pass-talent-release/"><u>2024 Approved Film Star Access Pass - Talent Release</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-frozen-frontier-showcasing-2022s-olympic-peaks-and-precision-riders/"><u>2024 Approved Frozen Frontier Showcasing 2022'S Olympic Peaks and Precision Riders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-text-limit-characterswords-counted/"><u>ChatGPT's Text Limit: Characters/Words Counted?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-first-timer-accessories-transform-your-gopro-experience/"><u>In 2024, First-Timer Accessories - Transform Your GoPro Experience</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 6s Plus?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-secretive-suggestions-for-enhanced-vlc-usage/"><u>In 2024, Secretive Suggestions for Enhanced VLC Usage</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-srt-subtitle-switch-up-success-strategies-highlighted/"><u>In 2024, SRT Subtitle Switch-Up Success Strategies Highlighted</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/influencing-minds-with-music-selection-for-movie-previews-for-2024/"><u>Influencing Minds with Music Selection for Movie Previews for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-practices-for-designing-compelling-youtube-video-thumbnails-for-2024/"><u>[Updated] Best Practices for Designing Compelling YouTube Video Thumbnails for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-creativity-6-aplus-apps-for-instagram-reels-for-2024/"><u>[Updated] Elevate Your Creativity 6 A+ Apps for Instagram Reels for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-breakthrough-backdoor-facebook-access-restored/"><u>2024 Approved Breakthrough Backdoor Facebook Access Restored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exciting-joint-ventures-in-the-virtual-metaverse/"><u>2024 Approved Exciting Joint Ventures in the Virtual Metaverse</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-raw-to-refined-a-complete-guide-to-polarr-photo-tools/"><u>2024 Approved From Raw to Refined A Complete Guide to Polarr Photo Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gamers-guide-to-best-4k-laptop-models/"><u>2024 Approved Gamer's Guide to Best 4K Laptop Models</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-with-imagination-pro-tiktok-edits-revealed/"><u>2024 Approved Innovating with Imagination Pro TikTok Edits Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/7-essential-gif-creation-techniques/"><u>7 Essential GIF Creation Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-colors-of-wings-in-bebops-parrot-edition-for-2024/"><u>Exploring the Colors of Wings in Bebop's Parrot Edition for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nokia-c32-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nokia C32 to iPod | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-adventure-in-baldurs-gate-iii-starting-problem-solved/"><u>Unlock the Adventure in Baldur's Gate III – Starting Problem Solved!</u></a></li>
 </ul></div>
 

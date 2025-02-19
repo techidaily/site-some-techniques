@@ -1,7 +1,7 @@
 ---
 title: "Top-Notch Robotic Showcases : The Best So Far!"
-date: 2025-01-27T02:03:46.372Z
-updated: 2025-01-29T02:42:24.868Z
+date: 2025-02-14T20:43:53.565Z
+updated: 2025-02-19T19:46:57.325Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 ---
 
 ## Top-Notch Robotic Showcases : The Best So Far!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
  While everyone is fixated on generative AI and its implications for knowledge and creative work, robotics have been quietly approaching a similar apparently sudden point of advancement. The year 2024 may well go down in history as the start of the true AI automation revolution for physical labor, and even this early in the year there have been some jaw-dropping demonstrations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Figure 01
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
  According to Figure, this is not an edited or cut video, which feels likely to be true thanks to the long processing pauses as the robot "thinks" about what to do or say next, but as always, we only have their word for this until these systems make it into third party hands. Figure is coming in hot with these robots though, with trials already happening in [partnership with BMW](https://techcrunch.com/2024/01/18/bmw-will-deploy-figures-humanoid-robot-at-south-carolina-plant/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Agility Robotics & Amazon's Digit
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  However, perhaps even more impressive was this earlier demo of Digit showing its reasoning ability. What really makes this an amazing demo is that we can see the bot's internal monologue and thought processes as it dynamically reasons its way through the task it's been given verbally.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Boston Dynamics Spot V.4 Update
 
  You can't have a list of robot demo videos without Boston Dynamics on the list, except this time it's sadly not an [adorable dancing robot video](https://www.youtube.com/watch?v=fn3KWM1kuAw), but perhaps something far more impressive. Boston Dynamics shows off how they've used virtual simulations and a form of machine learning known as reinforcement to give their Spot robot a serious upgrade when it comes to mobility. Before, Spot relied entirely on a predictive model fine-tuned by Boston Dynamics to predict how it should move when traversing terrain, but now with the latest update it uses a hybrid of that model and a model trained using reinforcement.
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
  The end result is where the old Spot software version would trip and fall on loose or slippery surfaces, the latest version can keep it together even when grip is nonexistent or the terrain is unpredictable. It might not be the flashiest thing anyone is showing off, but it's a big deal when you need robots to go into places that don't offer a perfectly predictable environment, such as disaster sites or inclement weather.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Tesla's Optimus Gen 2
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
  The video is quite impressive, but it's not clear what's autonomous, what's pre-programmed, and what's direct tele-operation. Still, to go from having nothing to show to a working hardware platform in such a short time is worth applauding. In [another clip](https://twitter.com/elonmusk/status/1746964887949934958) posted by Elon Musk on X (formerly Twitter) we can see Optimus folding clothes, however Musk then clarified that this [isn't being done autonomously yet](https://twitter.com/elonmusk/status/1746970616060580326). Getting the hopes of lazy people everywhere, just to knock them down again,
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Stanford's Mobile ALOHA
@@ -92,20 +92,20 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-15-best-free-youtube-introduction-tools/"><u>[New] 2024 Approved 15 Best Free YouTube Introduction Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-screen-capture-solutions-top-5-recommendations-for-windows/"><u>[New] Free Screen Capture Solutions – Top 5 Recommendations for Windows</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-management-top-8-tools-for-effective-task-allocation/"><u>[Updated] 2024 Approved Mastering Management Top 8 Tools for Effective Task Allocation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-visualize-success-with-these-three-insta-video-caption-approaches/"><u>[Updated] 2024 Approved Visualize Success with These Three Insta Video Caption Approaches</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-groundbreaking-top-10-photo-grid-software/"><u>[Updated] Groundbreaking Top 10 Photo Grid Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harness-the-power-of-gopro-for-captivating-time-lapse-videos/"><u>[Updated] Harness the Power of GoPro for Captivating Time-Lapse Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gadgets-that-shine-in-travel-videography-for-2024/"><u>Gadgets That Shine in Travel Videography for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-notable-platforms-offering-text-modifications-for-2024/"><u>Guide to Notable Platforms Offering Text Modifications for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-infinix-hot-40-pro-by-drfone-android/"><u>How to Bypass FRP from Infinix Hot 40 Pro?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expeditious-steps-for-reclaiming-deleted-reddit-content/"><u>In 2024, Expeditious Steps for Reclaiming Deleted Reddit Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-ftd2xxdll-file-not-found-issues-a-step-by-step-guide/"><u>Resolving the ftd2XX.dll File Not Found Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/spotify-how-to-exclude-recommended-podcasts-for-2024/"><u>Spotify How to Exclude Recommended Podcasts for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1725290305294-winxdvd/"><u>WinXDVD 소프트웨어를 제대로 사용하는 데 도움이 되는 전문가 수락 - 강력한 교육기</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-selection-of-budget-friendly-4k-projector-brands-for-2024/"><u>[New] Ultimate Selection of Budget-Friendly 4K Projector Brands for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-techniques-for-discarding-backlogged-youtube-videos-for-2024/"><u>[Updated] Techniques for Discarding Backlogged YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-kostenlose-software-fur-den-clonenden-download-von-besten-microsd-karten-unter-windows/"><u>1. Kostenlose Software Für Den Clonenden Download Von Besten microSD-Karten Unter Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-streamers-choice-of-live-broadcasting-apps/"><u>2024 Approved Exclusive Streamer's Choice of Live Broadcasting Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gear-360-vs-lgcam-determining-best-in-3d-capture/"><u>2024 Approved Gear 360 vs LGCam Determining Best in 3D Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglegraphics-suite/"><u>2024 Approved GiggleGraphics Suite</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guiding-audio-dimming-in-fl-studio/"><u>2024 Approved Guiding Audio Dimming in FL Studio</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-device-compatibility-mf4770n-update-in-w11win8w7-os/"><u>Enhance Device Compatibility: MF4770n Update in W11/Win8/W7 OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-your-favorites-ranking-of-8-preferred-mp3-extractors-android-for-2024/"><u>Find Your Favorites Ranking of 8 Preferred MP3 Extractors (Android) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-components-to-creativity-designing-your-own-4k-editor-pc-for-2024/"><u>From Components to Creativity Designing Your Own 4K Editor PC for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-gifs-to-videos-in-a-snap-top-online-platforms-for-content-upgraders-for-2024/"><u>From GIFs to Videos in a Snap Top Online Platforms for Content Upgraders for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-12-mini-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 12 mini If Youve Tried Everything</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-quick-online-mp3-generator-from-fb-videos-2023-updates/"><u>In 2024, Quick Online MP3 Generator From FB Videos, 2023 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-your-airpods-windows-11-connectivity-challenges-the-latest-fixes/"><u>Overcome Your AirPods-Windows 11 Connectivity Challenges - The Latest Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wi-fi-troubleshooting-guide-reactivating-wi-fi-on-all-devices/"><u>Wi-Fi Troubleshooting Guide: Reactivating Wi-Fi on All Devices</u></a></li>
 </ul></div>
 

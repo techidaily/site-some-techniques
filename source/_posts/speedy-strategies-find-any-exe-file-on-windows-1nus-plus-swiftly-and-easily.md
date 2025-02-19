@@ -1,7 +1,7 @@
 ---
 title: "Speedy Strategies: Find Any .exe File on Windows 1Nus Plus Swiftly and Easily"
-date: 2025-02-05T20:00:16.345Z
-updated: 2025-02-09T17:12:52.746Z
+date: 2025-02-14T19:25:24.702Z
+updated: 2025-02-19T17:41:10.691Z
 tags:
   - desktop
 categories:
@@ -11,19 +11,11 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ## Speedy Strategies: Find Any .exe File on Windows 1Nus Plus Swiftly and Easily
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Find an EXE from a Shortcut](https://fox-direct.techidaily.com/extensive-circular-camera-assessment-for-2024/)
 * [If You Can't Find a Shortcut to Use](https://techno-recovery.techidaily.com/troubleshooting-the-d3d9dll-file-not-found-problem/)
 * [Where are EXEs for Apps From the Microsoft Store Located?](https://hardware-help.techidaily.com/effortless-installation-of-new-acer-audio-drivers-step-by-step-tips/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 ![In Windows 10, right-click a desktop shortcut and select "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/right_click_desktop_shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the shortcut is pinned to your taskbar, right-click it, then right-click its name again in the menu that pops up just above it. In the menu that appears, click "Properties."
@@ -58,16 +50,12 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 ![To find an application's EXE file, right-click a shortcut and click "Open File Location" in the Properties window on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_click_open_file_location.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll be taken directly to the EXE's location in File Explorer.
 
 ![Locating an application's EXE file in File Explorer on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/win10_located_exe_file.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  What you do next depends on what you're trying to achieve. Just be careful in there---modifying or moving a program's files can make it not work properly.
 
@@ -79,13 +67,25 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Where are EXEs for Apps From the Microsoft Store Located? 
 
  Apps you install from the Microsoft Store, and their executables, are stored in "C:\\Program Files\\WindowsApps."
 
 ![The WhatsApp exe located in the WindowsApps folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-whatsapp-exe-in-windowsapps.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The WindowsApp folder has very restricted permissions applied to it that will prevent regular user accounts (and even administrator accounts) from even viewing the contents by default. You can [take ownership of the folder](https://screen-activity-recording.techidaily.com/new-breakdown-of-streamlabs-obs-features-and-functions/) if you want, but we don't recommend it—it could cause issues with the apps.
 
@@ -104,18 +104,24 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hardware-hurdles-whats-necessary-for-big-sur/"><u>[New] Hardware Hurdles What's Necessary for Big Sur?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-maximizing-your-sound-the-best-microphones-for-podcasting/"><u>[New] In 2024, Maximizing Your Sound The Best Microphones for Podcasting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-individuality-at-your-fingertips-setting-your-own-tones-for-android-devices/"><u>[New] Individuality at Your Fingertips Setting Your Own Tones for Android Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-screenshots-made-simple-free/"><u>[New] Screenshots Made Simple - Free</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-cameras-for-full-sphere-livestream-experience/"><u>[Updated] Ideal Cameras for Full Sphere Livestream Experience</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-fusing-genres-a-youtube-music-strategy/"><u>2024 Approved Fusing Genres A YouTube Music Strategy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-quickly-assemble-your-facebook-gallery/"><u>2024 Approved How to Quickly Assemble Your Facebook Gallery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-book-lovers-app-choices/"><u>Discover the Best Book Lovers' App Choices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/impressive-initiations-podcasting-prose-poems-for-2024/"><u>Impressive Initiations Podcasting Prose Poems for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fixing-warped-youtube-videos-step-by-step/"><u>In 2024, Fixing Warped YouTube Videos Step-by-Step</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-google-pixel-8-pro-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Google Pixel 8 Pro</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ripristino-rapido-di-immagini-cancellate-su-fotocamere-sony-2-metodi-efficaci/"><u>Ripristino Rapido Di Immagini Cancellate Su Fotocamere Sony: 2 Metodi Efficaci</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-hdx-format-support-on-your-phone-expert-tips-for-optimizing-media-experience-on-android-devices/"><u>Seamless HDX Format Support on Your Phone: Expert Tips for Optimizing Media Experience on Android Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-easy-steps-to-capturing-films-on-various-operating-systems/"><u>[New] 2024 Approved Easy Steps to Capturing Films on Various Operating Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-which-is-superior-obs-or-streamlabs-for-your-livestream-needs/"><u>[New] In 2024, Which Is Superior, OBS or Streamlabs for Your Livestream Needs?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-image-editors-your-ultimate-text-companion/"><u>[New] Innovative Image Editors Your Ultimate Text Companion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-green-frameworks-30plus-downloads-that-transform-your-videography-skills/"><u>[Updated] 2024 Approved Green Frameworks 30+ Downloads That Transform Your Videography Skills</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-samsungs-ue590-4k-gamer-monitor/"><u>[Updated] Exploring Samsung's UE590 4K Gamer Monitor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-action-spectacular-the-full-t5-camera-review/"><u>2024 Approved Action Spectacular The Full T5 Camera Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-10-vectors-online-archives/"><u>2024 Approved Explore the Best 10 Vectors Online Archives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-leading-10-macwindows-srt-enhancers/"><u>2024 Approved Exploring the Leading 10 Mac/Windows SRT Enhancers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ordinary-to-extraordinary-creating-hdr-in-lightroom/"><u>2024 Approved From Ordinary to Extraordinary Creating HDR in Lightroom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>2024 Approved How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airpod-connection-techniques-on-an-hp-computer/"><u>AirPod Connection Techniques on an HP Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creating-professional-looking-text-with-line-formatting-in-microsoft-word/"><u>Creating Professional-Looking Text with Line Formatting in Microsoft Word</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellent-live-feed-frames-for-2024/"><u>Excellent Live Feed Frames for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-premium-gif-software-for-iphone-users-for-2024/"><u>Exploring Premium GIF Software for iPhone Users for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-steps-in-ps-essential-editing-techniques-unlocked-for-2024/"><u>First Steps in PS Essential Editing Techniques Unlocked for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Plus Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-enhancing-customer-engagement-with-snapchat-tactics/"><u>In 2024, Enhancing Customer Engagement with Snapchat Tactics</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/twilight-tones-adobe-premiere-blackouts/"><u>Twilight Tones Adobe Premiere Blackouts</u></a></li>
 </ul></div>
 

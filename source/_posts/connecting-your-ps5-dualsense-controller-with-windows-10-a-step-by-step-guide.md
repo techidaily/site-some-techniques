@@ -1,7 +1,7 @@
 ---
 title: "Connecting Your PS5 DualSense Controller with Windows 10: A Step-by-Step Guide"
-date: 2025-02-07T16:05:14.973Z
-updated: 2025-02-09T18:21:34.275Z
+date: 2025-02-13T20:09:10.857Z
+updated: 2025-02-19T17:30:55.631Z
 tags:
   - deals
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 
 ## Connecting Your PS5 DualSense Controller with Windows 10: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Pairing Your PS5 Controller to a Windows 10 PC](https://instagram-video-files.techidaily.com/updated-tricks-to-improve-instagram-video-load-speeds-mobile/)
 * [Pairing and Configuring a PS5 Controller for Steam](https://buynow-info.techidaily.com/navigating-photoscapes-features-a-detailed-analysis-of-free-high-quality-image-editing-software/)
 * [Using a PS5 Controller for Non-Steam PC Games](https://fox-blue.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 * Outside of Steam, use the third-party apps DualSenseX or ReWASD to connect and configure your PS5 controller.
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
@@ -35,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From the Control Panel menu, click on "Devices and Printers."
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
@@ -46,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
@@ -65,11 +69,11 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
- Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
 ##  Pairing and Configuring a PS5 Controller for Steam
 
@@ -79,16 +83,12 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
@@ -99,13 +99,13 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
@@ -138,20 +138,24 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-identifying-the-best-online-tv-service-providers/"><u>[New] Identifying the Best Online TV Service Providers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-movie-watchlists-streamlining-screen-time-for-2024/"><u>[New] Ultimate Movie Watchlists Streamlining Screen Time for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-tech-for-effective-pc-image-capture-the-5-best/"><u>[Updated] 2024 Approved Essential Tech for Effective PC Image Capture, The 5 Best</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-tips-to-transform-your-videos-into-social-media-stars/"><u>[Updated] 2024 Approved Tips to Transform Your Videos Into Social Media Stars</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-h501x4-fpv-quadcopter-unveiled-review-breakdown/"><u>[Updated] H501X4 FPV Quadcopter Unveiled - Review Breakdown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmony-and-law-instagrams-music-codex/"><u>[Updated] Harmony & Law Instagram's Music Codex</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-microphones-for-precision-in-4k-video-and-sound-recording/"><u>2024 Approved Ideal Microphones for Precision in 4K Video & Sound Recording</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/el-design-mastery-selecting-the-right-yt-banner-and-art-sizes/"><u>Channel Design Mastery Selecting the Right YT Banner & Art Sizes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/discover-phoenix-the-new-toolset-for-perfecting-photos-on-macos/"><u>Discover Phoenix: The New Toolset for Perfecting Photos on macOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-software-gamers-streaming-companions-for-2024/"><u>Exclusive Software Gamers' Streaming Companions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertise-unlocked-converting-text-formats-to-voice-ready-srt-for-2024/"><u>Expertise Unlocked Converting Text Formats to Voice-Ready SRT for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-page-to-picture-writing-a-film-for-2024/"><u>From Page to Picture Writing a Film for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docx file electronically</u></a></li>
-<li><a href="https://video-capture.techidaily.com/instagram-live-with-professional-obs-for-2024/"><u>Instagram Live with Professional OBS for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/losungen-fur-probleme-mit-nicht-gefundenen-pst-datenbankdateien-was-tun/"><u>Lösungen Für Probleme Mit Nicht Gefundenen PST-Datenbankdateien: Was Tun?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-templates-for-sustainable-storytelling/"><u>[New] Free Templates for Sustainable Storytelling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-the-power-of-iphones-shutter-speed-for-motion-blurs/"><u>[New] Harness the Power of iPhone’s Shutter Speed for Motion Blurs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-teaching-techniques-with-youtube-a-practical-approach/"><u>[Updated] Teaching Techniques with YouTube A Practical Approach</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/15-recommended-stop-motion-films-of-all-time/"><u>15 Recommended Stop Motion Films of All Time</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ps5-ssd-and-hdd-wonders-top-10-exteriors/"><u>2024 Approved PS5 SSD & HDD Wonders Top 10 Exteriors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revolutionize-your-youtube-content-with-advanced-video-editing-in-sony-vegas/"><u>2024 Approved Revolutionize Your YouTube Content with Advanced Video Editing in Sony Vegas</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-strategies-for-compelling-facebook-video-content/"><u>2024 Approved Strategies for Compelling Facebook Video Content</u></a></li>
+<li><a href="https://discover-help.techidaily.com/complete-guide-restore-accidentally-erased-footage-from-your-gopro-camera/"><u>Complete Guide: Restore Accidentally Erased Footage From Your GoPro Camera</u></a></li>
+<li><a href="https://discover-able.techidaily.com/discover-the-ultimate-collection-free-hd-music-video-downloads-top-picks/"><u>Discover the Ultimate Collection: Free, HD Music Video Downloads (Top Picks)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellence-collection-highest-quality-webcam-supports-for-2024/"><u>Excellence Collection Highest Quality Webcam Supports for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-next-gen-coding-is-av1-superior-to-vp9-for-2024/"><u>Exploring Next-Gen Coding Is AV1 Superior to VP9 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-bland-to-brilliant-elevate-your-images-in-canva-for-2024/"><u>From Bland to Brilliant Elevate Your Images in Canva for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-final-cut-pro-full-using-guide/"><u>In 2024, Final Cut Pro Full Using Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fusion-of-video-files-for-ios-devices/"><u>In 2024, Fusion of Video Files for iOS Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initiate-memelore-creation-on-giphy/"><u>In 2024, Initiate Memelore Creation on Giphy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-up-to-date-techniques-for-screenshotting-idevices/"><u>In 2024, Up-to-Date Techniques for Screenshotting iDevices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-grading-techniques-for-modern-filmmaking-these-7-for-2024/"><u>Innovative Grading Techniques for Modern Filmmaking (These 7) for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-5-best-free-mov-video-joiners/"><u>New Top 5 Best Free MOV Video Joiners</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/scrutinizing-splitcam-a-leader-in-video-tech-for-2024/"><u>Scrutinizing SplitCam - A Leader in Video Tech for 2024</u></a></li>
 </ul></div>
 

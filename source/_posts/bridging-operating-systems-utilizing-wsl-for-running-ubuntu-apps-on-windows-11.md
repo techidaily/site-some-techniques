@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: Utilizing WSL for Running Ubuntu Apps on Windows 11"
-date: 2025-02-07T18:49:25.044Z
-updated: 2025-02-09T17:58:36.867Z
+date: 2025-02-14T19:21:42.361Z
+updated: 2025-02-19T16:59:54.480Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Use Ubuntu Apps on Windows 11?
 
  Adding Ubuntu to Windows 11 enables access to a wide variety of free applications unavailable on Windows alone. These aren't just ordinary programs either; they can accomplish nearly any task on your computer, from enhancing your file management to creative projects. For example, if you're looking for a great photo management tool not found on Windows 11, you might try [Shotwell](https://shotwell-project.org/doc/html/) with WSL. Or, if you're not a fan of the email apps available on Windows, you can install the Ubuntu-native [Geary](https://wiki.gnome.org/Apps/Geary) email client. There are many great exclusive applications for Ubuntu that can level up your Windows PC.
@@ -25,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
  Furthermore, if you enjoy crafting and coding, the combination of Windows and Ubuntu significantly benefits you. It simplifies the process of working on Linux-oriented projects without the need to leave the Windows environment. This integration reduces complications and amplifies productivity, whether your pursuits involve coding for enjoyment or constructing significant projects.
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Requirements Before You Begin
 
@@ -48,9 +48,17 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Installing Ubuntu
 
@@ -70,15 +78,15 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
 
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -91,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
@@ -113,7 +121,7 @@ sudo apt upgrade
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
@@ -138,19 +146,11 @@ nohup program_name & disown
 
  Alternatively, applications can be started from the Windows 11 start menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Integration with Windows 11
 
  When apps are installed through WSL, they integrate into Windows 11 quite well by installing themselves into the Windows 11 Start menu. To access your installed WSL programs from Windows 11, look through your programs. Each integrated application will have a Linux icon.
 
  The WSL integration with Windows 11 is quite good. However, keep in mind that not every single application is going to create a desktop icon. Sometimes, you may need to launch your Ubuntu programs directly from the terminal. You typically do this by typing its package name and hitting Enter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Troubleshooting Common Setup Issues
 
@@ -179,22 +179,16 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-practical-methods-reflecting-video-via-vlc-software/"><u>[New] 2024 Approved Practical Methods Reflecting Video via VLC Software</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-capturing-excellence-the-premium-seven-selection/"><u>[New] Capturing Excellence The Premium Seven Selection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fable-creators-circle-a-list-eight/"><u>[New] Fable Creators Circle - A-List Eight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-meta-to-omni-a-new-age-digital-odyssey-guide/"><u>[New] From Meta to Omni A New Age Digital Odyssey Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonymix-pro-mac-and-windows-version/"><u>[New] HarmonyMix Pro Mac & Windows Version</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-channel-growth-essential-steps-for-youtube-backlink-creation/"><u>2024 Approved Channel Growth Essential Steps for YouTube Backlink Creation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-ffmpegs-commitment-to-authentic-audio-formats/"><u>2024 Approved Examining FFmpeg’s Commitment to Authentic Audio Formats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-soundscape-elements-advanced-techniques-for-smooth-transitions-audacity/"><u>2024 Approved Harmonizing Soundscape Elements Advanced Techniques for Smooth Transitions (Audacity)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-techniques-for-enhancing-livestream-quality/"><u>2024 Approved Innovative Techniques for Enhancing Livestream Quality</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-navigating-screen-capture-across-pcs-and-mobile-devices/"><u>2024 Approved Navigating Screen Capture Across PCs and Mobile Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-selection-of-budget-friendly-4k-projectors/"><u>2024 Approved Premium Selection of Budget-Friendly 4K Projectors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comic-creators-charter-zero-cost-endless-laughs-for-2024/"><u>Comic Creators' Charter Zero Cost, Endless Laughs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flexible-cam-balancer-toolkit-for-2024/"><u>Flexible Cam Balancer Toolkit for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-master-merging-and-splitting-pdfs-with-the-best-software-solutions-available/"><u>How to Master Merging and Splitting PDFs with the Best Software Solutions Available</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-circling-success-how-to-captivate-your-instagram-audience/"><u>In 2024, Circling Success How to Captivate Your Instagram Audience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fabricate-personalized-viral-memes/"><u>In 2024, Fabricate Personalized Viral Memes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-logo-magic-sprucing-up-your-podcasts-visual-appeal/"><u>In 2024, Logo Magic Sprucing Up Your Podcast's Visual Appeal</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-essential-info-on-crafting-engaging-yt-shorts/"><u>[New] 2024 Approved Essential Info on Crafting Engaging YT Shorts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-streaming-spectacle-how-twitch-stacks-up-against-youtube/"><u>[New] 2024 Approved Streaming Spectacle How Twitch Stacks Up Against YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-clear-sound-conference-experience-via-skype-for-2024/"><u>[New] Clear Sound Conference Experience via Skype for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge/"><u>[New] Unlocking the Potential of Multi-Stream Video on Microsoft Edge</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-complete-evaluation-of-camstudio-screen-recorder/"><u>[Updated] Complete Evaluation of CamStudio Screen Recorder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-movie-talent-release-declaration/"><u>[Updated] Free Movie Talent Release Declaration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-implementing-photography-snippets-from-videos/"><u>[Updated] Implementing Photography Snippets From Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-companies-pioneering-vr-technology/"><u>2024 Approved Foremost Companies Pioneering VR Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-comparison-the-finest-streaming-tv-platforms/"><u>2024 Approved In-Depth Comparison The Finest Streaming TV Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unleash-the-power-of-natural-and-artificentic-lights-on-iphone/"><u>In 2024, Unleash the Power of Natural and Artificentic Lights on iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-8-cameras-transforming-online-broadcasting-for-2024/"><u>Innovative 8 Cameras Transforming Online Broadcasting for 2024</u></a></li>
 </ul></div>
 

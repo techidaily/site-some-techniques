@@ -1,7 +1,7 @@
 ---
 title: Efficiently Refresh Your Ubuntu's DNS Cache - A Comprehensive Tutorial
-date: 2025-02-06T18:18:18.233Z
-updated: 2025-02-09T18:50:03.478Z
+date: 2025-02-13T17:32:57.711Z
+updated: 2025-02-19T19:34:50.298Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Flushing the DNS Cache on Ubuntu](https://vimeo-videos.techidaily.com/updated-in-2024-the-complete-guide-to-earnings-via-vimeo-ads/)
 * [Don’t Forget Your Browser's Cache](https://youtube-tips.techidaily.com/ed-2024-approved-brightening-up-your-youtube-pixels/)
 * [Remember to Flush Your DNS Cache](https://some-knowledge.techidaily.com/new-full-exploration-of-picsarts-new-features/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -49,6 +53,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Over time, your DNS cache will be populated by new entries, some of which are likely to be updated versions of older, stale cache entries. It’s an easy and safe operation. If you ever experience networking or internet flakiness, flushing your DNS cache is a good first step in troubleshooting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Flushing the DNS Cache on Ubuntu
 
  On Ubuntu, the DNS service is on by default. If it’s your computer, and you know you haven’t turned the resolved daemon off, then DNS will be on. It’s easy to check, which is handy if you need to work on someone else’s computer, and they can't tell you whether DNS is on or off.
@@ -68,7 +76,7 @@ resolvectl statistics
 ![Checking the size of the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-15.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Because this is a fresh installation of Ubuntu, there are relatively few entries in the cache. Regardless, when we flush the DNS buffers we expect to see that number drop to zero.
@@ -78,7 +86,7 @@ resolvectl flush-caches
 ![Flushing the DNS cache on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-14.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We’re silently returned to the command line. No output means everything went well. Let’s see what our cache size is now.
@@ -88,10 +96,6 @@ resolvectl statistics
 ![Verifying the DNS cache is empty on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-13.png) 
 
  Our cache size is zero, just as we predicted.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Don’t Forget Your Browser's Cache
 
@@ -113,10 +117,6 @@ about:networking
 
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-11.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Flushing the DNS Cache in Google Chrome
 
  To do the same operation in Google Chrome, enter this in the URL address bar and hit the Enter key:
@@ -126,13 +126,13 @@ chrome://net-internals/#dns
 ![The Firefox DNS page with no entries, showing the cache has been purged](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-10.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the “Clear Host Cache” button. There’s no visible feedback to let you know anything has actually happened, but behind the scenes it has. Google Chrome’s DNS cache has been emptied.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Remember to Flush Your DNS Cache
@@ -156,20 +156,18 @@ chrome://net-internals/#dns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-elevating-video-visibility-through-thumbnails/"><u>[New] 2024 Approved Elevating Video Visibility Through Thumbnails</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-drone-visuals-free-luts-for-dji-drones/"><u>[New] Exclusive Drone Visuals Free LUTS for DJI Drones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hasten-your-windows-doc-analysis-process/"><u>[New] Hasten Your Windows Doc Analysis Process</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-speedy-tactics-for-disorganized-youtube-song-listings/"><u>[New] In 2024, Speedy Tactics for Disorganized YouTube Song Listings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-infuse-satire-and-smiles-kapwings-meme-builder/"><u>[New] Infuse Satire & Smiles - Kapwing's Meme Builder</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-save-and-play-gifs-on-an-iphone/"><u>2024 Approved How to Save and Play GIFs on An iPhone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-your-favorite-tunes-the-best-spotify-playlists-tools-for-youtube/"><u>2024 Approved Transforming Your Favorite Tunes The Best Spotify Playlists Tools for YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-for-2024/"><u>Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertise-in-iphones-macro-photography-secrets-revealed-for-2024/"><u>Expertise in iPhone's Macro Photography Secrets Revealed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-analysis-samsungs-immersive-sphere-technology/"><u>In 2024, Extensive Analysis Samsung's Immersive Sphere Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-seamless-transitions-in-song-production-crossfade/"><u>In 2024, Illuminating Seamless Transitions in Song Production (Crossfade)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-your-task-list-proven-strategies-to-streamline-workday-processes-tips/"><u>Master Your Task List: Proven Strategies to Streamline Workday Processes - Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/redefining-the-zombie-genre-in-depth-analysis-of-7-days-to-die-adventure/"><u>Redefining the Zombie Genre - In-Depth Analysis of '7 Days to Die' Adventure</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-showdown-assessing-chatgpt-plus-against-perplexity-for-ideal-chatbot-experience/"><u>Ultimate Showdown: Assessing ChatGPT Plus Against Perplexity for Ideal Chatbot Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-engaging-everyone-quickly-which-platform-triumphs-for-shorter-videos/"><u>[Updated] 2024 Approved Engaging Everyone Quickly Which Platform Triumphs for Shorter Videos?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-expert-guide-to-instantaneous-deletion-of-youtube-posts/"><u>[Updated] 2024 Approved Expert Guide to Instantaneous Deletion of Youtube Posts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-peepcapture-snapshot-scrutiny-and-choices/"><u>[Updated] 2024 Approved PeepCapture Snapshot Scrutiny & Choices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-android-your-companion-for-vr-and-360-videos/"><u>[Updated] Explore Android Your Companion for VR & 360 Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-persistent-display-transcription/"><u>[Updated] Persistent Display Transcription</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-most-innovative-5k-screens-ranked-8/"><u>[Updated] The Most Innovative 5K Screens Ranked #8</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-ultimate-guide-resolving-youtube-error-messages-comprehensive-troubleshooting-techniques/"><u>1. Ultimate Guide: Resolving YouTube Error Messages - Comprehensive Troubleshooting Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-raw-footage-to-high-quality-mpeg-youtube-conversion-techniques/"><u>2024 Approved From Raw Footage to High-Quality MPEG YouTube Conversion Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/access-the-newest-amd-hardware-drivers-for-optimal-windows-operation-free-download/"><u>Access the Newest AMD Hardware Drivers for Optimal Windows Operation – Free Download</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/beyond-basiccams-prospects-of-elevated-performance-for-2024/"><u>Beyond BasicCams Prospects of Elevated Performance for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insight-using-live-photos-effectively/"><u>In 2024, Expert Insight Using Live Photos Effectively</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-lava-yuva-2-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Lava Yuva 2 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-indispensable-top-vr-movie-adventures/"><u>In 2024, Indispensable Top VR Movie Adventures</u></a></li>
 </ul></div>
 

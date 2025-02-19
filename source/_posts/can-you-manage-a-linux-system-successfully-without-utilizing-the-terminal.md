@@ -1,7 +1,7 @@
 ---
 title: Can You Manage a Linux System Successfully Without Utilizing The Terminal?
-date: 2025-02-02T16:46:23.192Z
-updated: 2025-02-09T19:11:58.158Z
+date: 2025-02-15T18:20:46.640Z
+updated: 2025-02-19T19:11:45.750Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Can You Manage a Linux System Successfully Without Utilizing The Terminal?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,15 +39,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The homepage of the Software Manager on Linux Mint displaying different kinds of software](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/software-manager-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Dealing with software is likely the biggest use of the command line. By issuing simple commands, you can install, update, and delete any software from your system. But it's not the only way to deal with software. Popular Linux distros like Ubuntu, Linux Mint, Fedora, and Pop!\_OS come with a dedicated software center (similar to the [Microsoft Store](https://on-screen-recording.techidaily.com/new-elevate-meeting-experience-with-zooms-camera-snaps/)). On Linux Mint, it's known as Software Manager.
 
  Suppose I want to install VLC media player. I will search for it using the search bar and simply press the "Install" button to install it. Sometimes, you might be prompted to install some dependencies. But that's about it. Your software should be installed in no time. If I want to uninstall it, I can do so from the same place in Software Manager or the start menu.
 
 ![An instance of Installing VLC on Linux Mint using Software Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installing-vlc-on-linux-mint-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  But what if you need to update some software? There's an update manager too. You can open it from time to time and see what packages have updates available. Then you can press the "Install Updates" button to update selected software or all of them.
 
@@ -64,6 +60,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Here's an example command:
 
 sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Changing System Settings
 
@@ -78,16 +78,12 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
  Then again, casual users won't be doing any of these tasks. And power users who do these don't do them every day. So even without the terminal, you can change basic and some intermediate system settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Managing Your Files and Folders
 
 ![An instance of the Linux File Manager Nemo on Linux Mint Cinnamon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/linux-file-manager-nemo-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Commands like mkdir, cd, [rm](https://instagram-video-recordings.techidaily.com/new-avoiding-instagrams-false-facade-for-a-solid-stature/), [ls](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/), cp, mv, and [chmod](https://extra-guidance.techidaily.com/new-perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp/) are mostly used for managing your files and directories. However, just like Windows, Linux distros also have GUI file managers that can perform almost any task that these commands can.
 
@@ -99,9 +95,17 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
  You can use commands such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/), [sed](https://visual-screen-recording.techidaily.com/new-in-2024-forward-thinking-ios-for-ps2-emulation/), and [awk](https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/) to search for specific text patterns within files and make changes based on the search results. If you want to go further, you can use regular expressions for more powerful filtering. Wildcards enable you to perform mass operations on multiple files across multiple directories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Text Editing
 
 ![An instance of a configuration file opened in the nano text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/nano-text-editor-on-linux-mint.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Have you ever heard a joke about [exiting from Vim](https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/) on Linux? Vim is a popular terminal-based text editor that comes preinstalled on all Linux distros. It's notoriously known for its steep learning curve. Now, the idea of learning "how to use a text editor" may sound surprising to you. But once you learn it, you can save dozens of hours thanks to its useful shortcuts and powerful capabilities.
 
@@ -112,7 +116,7 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 ![An instance of a text document opened in the xed text editor on Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/xed-text-editor-on-linux-mint.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Programming and Development
@@ -123,10 +127,6 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 ![An example of compiling a C program using the Linux terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/compiling-a-c-program-using-linux-terminal.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There are many terminal-based development tools such as make, gcc, cmake, and autotools that developers use regularly. Compiling code from various programming languages often relies on tools like gcc and javac. These tools offer better control over the compilation process than a simple Build button on an IDE.
 
  As a developer, you'll have to use many tools that don't have any graphical interface. You'll need to install many dependencies. You may have to [connect to remote servers via SSH](https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/). You'll likely have to automate many repetitive and complex tasks to save time and energy. All of these, if not most, are done using the terminal. For any professional developer, the command line can feel necessary rather than a choice.
@@ -136,6 +136,10 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 ##  Customizing Your Linux Desktop
 
 ![An instance of the Qt5 customizer tool opened in Linux Mint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/linux-mint-customization.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Linux is known for its customization abilities. You can find a good number of both GUI tools and command line tools for customizing Linux to your heart's content.
 
@@ -148,10 +152,6 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
  When it comes to advanced tasks, the command line mostly reigns supreme. Some of these include system administration, network configuration, system monitoring, troubleshooting, disk management and partitioning, user and group management, and system security maintenance, among other things.
 
  You may find a few GUI tools, either built-in or from third parties. However, most of these activities require basic to intermediate knowledge of the Linux system, commands, and Bash scripting. So if you're planning to use Linux for any of these works, the terminal would be your daily companion.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  No Command Line, No Problem!
 
@@ -174,19 +174,22 @@ sudo apt install vlc steam-installer skypeforlinux telegram-desktop...
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-coping-with-youtube-copyright-claims-a-step-by-step-guide/"><u>[New] Coping with YouTube Copyright Claims A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-groundbreaking-footage-starts-here-basics-for-novice-filmmakers/"><u>[New] Groundbreaking Footage Starts Here Basics for Novice Filmmakers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-screen-grab-analysis-a-comparative-look-at-leading-software-for-2024/"><u>[New] Screen Grab Analysis A Comparative Look at Leading Software for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-a-practical-guide-to-managing-twitter-archives-for-2024/"><u>[Updated] A Practical Guide to Managing Twitter Archives for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-turn-on-and-use-automatic-hdr-high-dynamic-range-in-windows-11/"><u>[Updated] How to Turn On and Use Automatic HDR (High Dynamic Range) in Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovate-in-note-taking-with-mematic-platform/"><u>[Updated] Innovate in Note-Taking with Mematic Platform</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-for-xbox-one-zooming-pros/"><u>2024 Approved Expert Advice for Xbox One Zooming Pros</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-for-winning-website-conversion/"><u>A Step-by-Step for Winning Website Conversion</u></a></li>
-<li><a href="https://win-blog.techidaily.com/chivalry-ii-bug-fixed-no-more-game-crashes/"><u>Chivalry II Bug Fixed: No More Game Crashes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-nonstop-fitness-monitoring-with-the-fitbit-inspire-hr-an-expert-review-guide/"><u>Experience Nonstop Fitness Monitoring with the Fitbit Inspire HR: An Expert Review Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-strategies-to-elevate-your-gopro-footage-for-2024/"><u>Expert Strategies to Elevate Your GoPro Footage for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/extensive-look-at-djis-inspire-1-drone-for-2024/"><u>Extensive Look at DJI's Inspire 1 Drone for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-entry-editor-for-diverse-tech-landscape-of-2023/"><u>The Ultimate Entry Editor for Diverse Tech Landscape of 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ghostly-journey-droning-slick-action-recorder/"><u>[New] Ghostly Journey Droning Slick Action Recorder</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-boost-engagement-using-obs-for-youtube-and-twitch-audiences/"><u>[New] In 2024, Boost Engagement Using OBS for YouTube & Twitch Audiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-choice-webcams-ready-for-zoom-mastery/"><u>[Updated] First Choice Webcams, Ready for Zoom Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-ordinary-to-extraordinary-creating-hdr-in-lightroom/"><u>[Updated] From Ordinary to Extraordinary Creating HDR in Lightroom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-words-to-voices-scriptwriting-for-successful-podcasts/"><u>[Updated] From Words to Voices Scriptwriting for Successful Podcasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-expert-techniques-for-capturing-and-recording-streamed-content/"><u>[Updated] In 2024, Expert Techniques for Capturing & Recording Streamed Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-look-at-facetune-complete-app-revision/"><u>[Updated] In-Depth Look at Facetune Complete App Revision</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-superior-streaming-recorders-for-youtube-vloggers/"><u>[Updated] Superior Streaming Recorders for YouTube Vloggers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-vlc-guide-setting-up-screen-recordings-for-2024/"><u>[Updated] VLC Guide Setting Up Screen Recordings for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-android-technique-transpose-digital-media-order/"><u>2024 Approved Android Technique Transpose Digital Media Order</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-guide-to-youtube-time-tracking/"><u>2024 Approved The Essential Guide to YouTube Time Tracking</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-gopro-professionals-a-filmmaking-guide/"><u>Crafting GoPro Professionals A Filmmaking Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-sustainable-scenes-for-filmmakers-for-2024/"><u>Free Sustainable Scenes for Filmmakers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminate-photos-10-premium-luts-revealed-for-2024/"><u>Illuminate Photos 10 Premium LUTs Revealed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-optimize-your-video-storage-on-64128gb-devices/"><u>In 2024, How to Optimize Your Video Storage on 64/128GB Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

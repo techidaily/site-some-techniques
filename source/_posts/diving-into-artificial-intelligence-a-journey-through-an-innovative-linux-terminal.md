@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Artificial Intelligence: A Journey Through an Innovative Linux Terminal"
-date: 2025-02-06T20:27:53.706Z
-updated: 2025-02-09T16:42:43.522Z
+date: 2025-02-16T17:44:43.391Z
+updated: 2025-02-19T17:12:17.928Z
 tags:
   - desktop
 categories:
@@ -24,19 +24,11 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
  As a Linux enthusiast, I'm always looking for new and cool terminal apps. Out of the many apps I've tried in the past, the Warp terminal impressed me to quite an extent. But not all is rosy, you know. So here's my overall experience with Warp as my daily driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is the Warp Terminal?
 
  Warp is a modern AI-powered terminal emulator built with Rust. It's available for both macOS and Linux and is coming soon to Windows. It's currently a closed-source tool and requires an account to use it.
 
  Warp offers tons of customization, AI, productivity, and collaboration features that will fully transform how you use the command line. If you're a developer, system administrator, or an advanced Linux user, Warp is worth giving a shot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Setting Up Warp for the First Time
 
@@ -45,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 ![Warp terminal home page with download options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/download-the-deb-package-of-warp-terminal.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the download is complete, go to the directory where it was downloaded. For me, it's the "\~/Downloads" directory. Open the directory in your terminal using [the cd command](https://audio-shaping.techidaily.com/updated-decoding-vimeos-video-dimensions-a-complete-perspective-on-aspect-ratios-for-2024/) or by right-clicking on the screen and hitting "Open in Terminal" from the context menu.
@@ -58,10 +50,6 @@ sudo apt install warp-terminal_*.deb
 
 ![The Linux terminal showing the process of installing Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/installing-warp-terminal-on-linux.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After installing, open the application from the app drawer or run this command:
 
 warp-terminal
@@ -69,10 +57,6 @@ warp-terminal
  You should see an authentication window appear. Since we haven't signed up for the service yet, we'll do that now. Press the "Cancel" button.
 
 ![Warp terminal authentication window being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-authentication-window.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you should see a sign-up option. Click the "Sign Up" button.
 
@@ -83,16 +67,12 @@ warp-terminal
 ![Warp terminal sign up page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-terminal-sign-up-page-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll be sent an email. Open that email and click the link to sign in successfully. You should also get a prompt to open a link in the Warp terminal. Click the "Open Link" button.
 
 ![A prompt on the browser to open a link in the Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/open-link-in-the-warp-terminal.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll be returned to the Warp terminal window with a thanks message. Now, Warp will ask a few questions about your terminal usage. You can feel free to skip them by pressing the "Remind me later" option. For your convenience, I'll go through the survey and answer the questions.
 
@@ -105,7 +85,7 @@ Close
  Looks cool to me. But how will it stand as a Linux terminal? Let's find out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It's a Powerful Editor
@@ -134,6 +114,10 @@ Close
 
 ![Asking Warp AI how to do a specific task](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/asking-warp-ai-how-to-do-a-specific-task.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If I don't understand a command, I can ask Warp AI to explain it. If there's an output I don't understand, I can ask for clarification.
 
  Debugging errors and writing Bash scripts are also useful. You could do any of these using any other AI tools on the web. However, that means you have to open a browser, go to that website, type in your problem, copy-paste the solution to your terminal, then go back to the AI tool for more questions, and so on. Having an integrated AI saves you from that. Other than that, you can also type "#" into the terminal prompt to get AI command suggestions.
@@ -145,6 +129,10 @@ Close
  Warp comes with Warp Drive, a vault for saving your most used commands, workflows, and notebooks. You can access it by clicking the icon in the top left corner of the terminal or hitting Ctrl+Shift+\\.
 
 ![The Warp Drive is being pointed on the terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-drive.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can save your frequently used commands with a description of what they do so that you don't have to remember and type them every time. You can simply click on the workflow and the command will be copied to the prompt. Not only that, you can save parameterized commands. So if a command takes arguments, you can write that parameter inside double curly braces to indicate it's an argument.
 
@@ -165,7 +153,7 @@ Close
 ![An instance of using split windows in Warp terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/warp-notebooks-feature.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Can Collaborate in the Terminal
@@ -174,7 +162,15 @@ Close
 
 ![Creating a team on the Warp Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/creating-a-team-on-the-warp-terminal.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once created, you can invite others via email or a custom link. Your team members can access workflows and notebooks you share with the team. On the free plan, you can have up to three members, and share up to three notebooks and 10 workflows. Moreover, you can share sessions, command-line controls, and terminal input-output blocks with members.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  There Are Some Catches
 
@@ -187,6 +183,10 @@ Close
  There's also telemetry fitted into the tool. It collects your analytics and crash reports. You can turn these off from settings, but they're turned on by default. Warp does claim they don't collect your terminal input and output data. You can learn more from their [privacy policy](https://www.warp.dev/privacy/overview). Furthermore, they do plan on making their client-side code open-source in the future.
 
  This might be nitpicking. By default, the prompt panel is stuck to the bottom of the terminal, which, in my opinion, is a bad position. When you're accustomed to regular terminals, you need to look down a lot when typing the commands on Warp. Of course, you can change this easily from the settings and make it stick to the top.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Rocking Linux With a Powerful Terminal
 
@@ -207,20 +207,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-initiate-your-own-blog-product-analysis-edition/"><u>[New] How to Initiate Your Own Blog Product Analysis Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incremental-sound-diminishment-guidebook/"><u>[New] Incremental Sound Diminishment Guidebook</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-communication-microsoft-azure-speech-to-text-explained/"><u>[New] Innovating Communication Microsoft Azure Speech to Text Explained</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rreversible-termination-of-youtubes-brevity-mode/"><u>[New] Irreversible Termination of YouTube’s Brevity Mode</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-showdown-xsplits-efficacy-versus-obs/"><u>[Updated] The Ultimate Showdown XSplit's Efficacy Versus OBS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-stills-extraction-in-windows-11-photos/"><u>2024 Approved Mastering Stills Extraction in Windows 11 Photos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-review-of-wirecast-and-similar-programs/"><u>2024 Approved The Ultimate Review of WireCast & Similar Programs</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/amplify-your-shorts-impact-with-bespoke-thumbnails/"><u>Amplify Your Shorts' Impact with Bespoke Thumbnails</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertly-blending-tracks-using-audacity-crossfade-tools-for-2024/"><u>Expertly Blending Tracks Using Audacity Crossfade Tools for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-tecno-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Tecno FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x7-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X7 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-title-generators-for-youtube-visionaries/"><u>In 2024, Innovative Title Generators for YouTube Visionaries</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-mastering-your-content-delivery-insights-on-igtv-and-youtube/"><u>In 2024, Mastering Your Content Delivery Insights on IGTV and YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovation-in-action-sonys-s6500-player-redefined-for-2024/"><u>Innovation in Action Sony's S6500 Player Redefined for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-premier-websites-revealed-acquiring-personalized-youtube-ringtones/"><u>[New] 2024 Approved Premier Websites Revealed Acquiring Personalized YouTube Ringtones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-a-way-to-download-fcp-free-of-charge/"><u>[New] Finding a Way to Download FCP Free-Of-Charge</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-top-7-action-cams-to-capture-ski-trips/"><u>[New] In 2024, Top 7 Action Cams to Capture Ski Trips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-photos-for-every-project-an-exclusive-list-of-top-12-online-sources/"><u>[Updated] Free Photos for Every Project - An Exclusive List of Top 12 Online Sources</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-halls-of-fame-on-reddit-celebrating-best-rated-threads/"><u>[Updated] Halls of Fame on Reddit Celebrating Best-Rated Threads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-fidelity-on-the-big-screen-the-4k-monitor-tale-of-lgs-31mu97-b-for-2024/"><u>High Fidelity on the Big Screen The 4K Monitor Tale of LG's 31MU97-B for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-image-editing-on-ios-best-tools-to-erase-objects-from-photos/"><u>In 2024, Innovative Image Editing on iOS Best Tools to Erase Objects From Photos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/maximizing-meeting-impact-with-effective-snap-usage/"><u>Maximizing Meeting Impact with Effective Snap Usage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-modern-technology-on-toms-hardware-blog/"><u>Navigating Modern Technology on Tom's Hardware Blog</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-diagnosing-and-repairing-sound-errors-on-windows-10/"><u>Step-by-Step Guide to Diagnosing & Repairing Sound Errors on Windows 10</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/step-by-step-guide-transforming-videos-into-a-series-of-images/"><u>Step-by-Step Guide: Transforming Videos Into a Series of Images</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-for-restarting-non-functional-hp-photo-units/"><u>Tips for Restarting Non-Functional HP Photo Units</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-itel-a60s-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Itel A60s Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
 

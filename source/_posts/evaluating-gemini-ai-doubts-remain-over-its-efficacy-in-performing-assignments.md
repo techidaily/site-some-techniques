@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Gemini AI: Doubts Remain Over Its Efficacy in Performing Assignments"
-date: 2025-01-24T01:14:35.843Z
-updated: 2025-01-29T11:08:18.825Z
+date: 2025-02-17T21:22:26.500Z
+updated: 2025-02-19T20:01:17.179Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 ## Evaluating Gemini AI: Doubts Remain Over Its Efficacy in Performing Assignments
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
  Google is now trying to push generative AI as a more complete virtual assistant, capable of completing some tasks with minimal or no human intervention. Google Assistant, Siri, and other earlier virtual assistants could handle some basic tasks, like finding a nearby restaurant and starting navigation directions. Google wants to push that even further with its Gemini AI technology, taking over tasks that would normally require human overview and logic processing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  When Summaries Go Wrong
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 ![Conversation with Gemini summarizing 3 different bids for home repair.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-05-14-2024-135913.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Google
@@ -56,7 +56,7 @@ Google
  There have been other attempts at using generative AI to accomplish real-life tasks. OpenTable was one of the first plugins for ChatGPT, potentially allowing you to book dinner reservations through the AI chatbot. You can find [a few reports](https://www.reddit.com/r/ChatGPT/comments/14rn74v/opentable%5Fplugin%5Fproblem/) of that not working, though it’s unclear if the AI or the underlying API integrations are to blame.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Don’t Trust It
@@ -80,16 +80,16 @@ Google
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-overwatch-gameplay-recording-made-easy/"><u>[New] 2024 Approved Overwatch Gameplay Recording Made Easy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-corrected-clandestine-miniature-video-absence-for-2024/"><u>[New] Corrected Clandestine Miniature Video Absence for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>[New] Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-srt-to-sub-transforming-playback-sequences/"><u>[New] From SRT to SUB Transforming Playback Sequences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gamers-pot-review-a-deep-dive/"><u>[New] GAMER'S POT REVIEW A Deep Dive</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hours-of-videography-expected-gb-usage/"><u>[New] Hours of Videography Expected GB Usage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-eyemosaic-the-essential-photo-patcher/"><u>[Updated] EyeMosaic The Essential Photo Patcher</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-why-integrate-hdr-into-your-film-and-video-workflow-for-2024/"><u>[Updated] Why Integrate HDR Into Your Film and Video Workflow for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-deleting-memory-dump-files-in-windows-10/"><u>Comprehensive Tutorial on Deleting Memory Dump Files in Windows 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphone-email-updates-with-these-simple-fixes/"><u>Revive Your iPhone Email Updates with These Simple Fixes</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-premier-vhs-inspired-tricks-for-editing-excellence-for-2024/"><u>[New] Premier VHS-Inspired Tricks for Editing Excellence for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-leading-cloud-services-with-best-price/"><u>[Updated] 2024 Approved The Leading Cloud Services with Best Price</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-the-art-of-fbx-based-gaming-archiving/"><u>[Updated] Mastering the Art of FBX-Based Gaming Archiving</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extract-srt-from-zip-simple-subtitle-file-creation-tips/"><u>2024 Approved Extract SRT From ZIP Simple Subtitle File Creation Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-online-subtitle-converters-our-recommended-10/"><u>2024 Approved Free Online Subtitle Converters Our Recommended 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gif-genius-unleashed-the-best-tools-and-methods-of-memetic-artistry/"><u>2024 Approved GIF Genius Unleashed The Best Tools and Methods of Memetic Artistry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-inexpensive-mirrorless-and-dslr-options/"><u>2024 Approved Inexpensive Mirrorless & DSLR Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-guide-to-mastering-zero-cost-timer-functionality-for-2024/"><u>Expert Guide to Mastering Zero Cost Timer Functionality for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/track-it-like-that-essential-tiktok-raps-you-cant-ignore-for-2024/"><u>Track It Like That Essential TikTok Raps You Can't Ignore for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-fixing-the-slowdown-of-spotifys-online-player/"><u>Ultimate Guide: Fixing the Slowdown of Spotify's Online Player</u></a></li>
 </ul></div>
 

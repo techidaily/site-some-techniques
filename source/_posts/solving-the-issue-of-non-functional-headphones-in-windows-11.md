@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Non-Functional Headphones in Windows 11
-date: 2025-02-03T20:03:58.043Z
-updated: 2025-02-09T16:53:25.485Z
+date: 2025-02-18T20:00:44.949Z
+updated: 2025-02-19T18:07:19.562Z
 tags:
   - desktop
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Run the Audio Troubleshooter](https://vp-tips.techidaily.com/updated-first-flight-fun-best-easy-to-use-drones-for-2024/)
 * [Update Your Audio Drivers](https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-effective-virtual-meetings-with-zoom-win10/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Ensure your headphone's volume is not muted. If the speaker icon in your system tray has a cross next to it, click it, then click the icon beside the volume slider to unmute.
@@ -34,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Run the audio troubleshooter (Settings > System > Troubleshoot > Other trouble-shooters > Audio).
 
  Getting ready to watch a video or listen to your favorite song, only to discover that your headphones aren't working, can be quite frustrating. Various factors can contribute to this problem on Windows 11, such as a different audio output device set as default, an app taking exclusive control of your headphones, outdated drivers, and more. Thankfully, it's usually straightforward to fix your headphones not working on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Perform Some Preliminary Checks
 
@@ -50,11 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Unmuting the volume in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-unmuting-the-volume-in-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Check for Hardware Issues
@@ -64,7 +60,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  However, if your headphones work fine elsewhere, the issue is device-specific. So, keep applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Rule Out Bluetooth Interference (for Bluetooth Headphones)
@@ -89,6 +85,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the more sound settings from the settings app on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-the-more-sound-settings-from-the-settings-app-on-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Sound window, go to the "Playback" tab. If a different device is selected as default here, right-click on your headphones and select "Set as Default Device."
 
 ![Selecting the headphones as default in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-selecting-the-headphones-as-default-in-sound-settings-on-windows.jpg) 
@@ -102,7 +102,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Opening properties of a headphone on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-opening-properties-of-a-headphone-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, go to the "Advanced" tab and uncheck the boxes beside "Allow applications to take exclusive control of this device" and "Enable Audio Enhancements." Finally, click "OK."
@@ -110,7 +110,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Disabling exclusive mode and audio enhacements in sound settings on windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-disabling-exclusive-mode-and-audio-enhacements-in-sound-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  8\. Run the Audio Troubleshooter
@@ -118,6 +118,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The Windows audio troubleshooter automatically scans for and fixes audio issues. If the above solutions are ineffective, this troubleshooter might do the job. To run the troubleshooter, right-click the Start button and choose "Settings." Then, navigate to the "System" tab and go to Troubleshoot > Other trouble-shooters.
 
 ![Opening other troubleshooters settings on windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-opening-other-troubleshooters-settings-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, click "Run" next to "Audio," and the Get Help app opens, seeking your permission to diagnose the issue. Click "Yes," and the troubleshooter begins. Allow the scan to complete, and follow the on-screen instructions provided during the diagnosis.
 
@@ -130,10 +134,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  For drivers requiring manual installation, use Device Manager. Right-click on the Start button and open "Device Manager." In Device Manager, expand the "Sound, video, and game controllers" category, right-click on your audio device, and select "Update driver."
 
 ![Updating the sound driver in Windows Device Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-updating-the-sound-driver-in-windows-device-manager.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Select "Browse my computer for drivers," locate the downloaded files, and follow the on-screen instructions. Repeat these steps to update Bluetooth drivers.
 
@@ -156,22 +156,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tech-insight-pulling-and-keeping-twitters-vids-in-phone/"><u>[New] 2024 Approved Tech Insight Pulling and Keeping Twitters Vids in Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-steadicams-to-enhance-dslr-video-production-quality/"><u>[New] Ideal Steadicams to Enhance DSLR Video Production Quality</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-handheld-stabilizers-to-elevate-your-vlogging-game/"><u>[Updated] In 2024, Top Handheld Stabilizers to Elevate Your Vlogging Game</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-manual-for-stunning-slow-motion-with-gopro-hero-10/"><u>2024 Approved A Step-by-Step Manual for Stunning Slow Motion with GoPro Hero 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-lgs-new-tech-horizon-in-bp550/"><u>2024 Approved Exploring LG's New Tech Horizon in BP550</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-the-perfect-compact-aerial-photographer-the-dji-spark-breakdown/"><u>2024 Approved Unveiling the Perfect Compact Aerial Photographer The DJI Spark Breakdown</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-guide-to-overcome-installation-setbacks-solving-error-1603/"><u>Complete Guide to Overcome Installation Setbacks: Solving Error 1603</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-nvidia-graphics-drivers-compatible-versions-for-windows-10-11-7-and-8/"><u>Download NVIDIA Graphics Drivers: Compatible Versions for Windows 10, 11, 7 & 8</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fixing-face-to-face-freeze-in-fir-chrome-safari-9-essential-tricks-for-2024/"><u>Fixing Face-to-Face Freeze in Fir, Chrome, Safari – 9 Essential Tricks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-circle-camera-unboxing-and-tests-for-2024/"><u>Full Circle Camera Unboxing & Tests for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/getting-acquainted-with-quantum-hdr-techniques-for-2024/"><u>Getting Acquainted with Quantum HDR Techniques for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/how-to-make-a-video-call-in-whatsapp-web-in-laptop/"><u>How to Make a Video Call in WhatsApp Web in Laptop</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-catching-life-in-motion-iphones-burst-capability/"><u>In 2024, Catching Life in Motion IPhone's Burst Capability</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommendations-the-highest-rated-18-video-recorders-now/"><u>In 2024, Expert Recommendations The Highest-Rated 18 Video Recorders Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-popularity-stock-images-meme-journey/"><u>In 2024, Exploring Popularity Stock Images' Meme Journey</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-video-opening-line-template-packs/"><u>In 2024, Free Video Opening Line Template Packs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-essential-gif-creation-best-tools-reviewed-and-compared-for-2024/"><u>[Updated] Essential GIF Creation Best Tools Reviewed & Compared for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-xsplit-vault-expert-gaming-split-analysis/"><u>[Updated] XSplit Vault Expert Gaming Split Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-hush-for-restfulness-top-asmr-picks/"><u>2024 Approved Harmonious Hush for Restfulness Top ASMR Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-horizons-in-hand-drawn-harmony/"><u>2024 Approved Hidden Horizons in Hand-Drawn Harmony</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dominate-youtube-with-effective-content-strategies/"><u>Dominate YouTube with Effective Content Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-computer-knowledge-with-toms-hardware-wisdom/"><u>Elevate Your Computer Knowledge with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-lineup-all-angle-recorders-for-2024/"><u>Exclusive Lineup All-Angle Recorders for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/htc-vive-the-pinnacle-of-immersive-3d-playing-experiences-for-2024/"><u>HTC Vive The Pinnacle of Immersive 3D Playing Experiences for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-camera-roll-to-feed-adding-photos-on-instagram/"><u>In 2024, From Camera Roll to Feed Adding Photos on Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unveiling-the-secrets-to-verified-instagram-images/"><u>In 2024, Unveiling the Secrets to Verified Instagram Images</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-truthgpt-revelations-and-insights-authorities-investigate-mullvad-vpn-top-no-cost-gaming-for-computers-demystifying-mechanical-keyboard-designs/"><u>Inside TruthGPT: Revelations & Insights | Authorities Investigate Mullvad VPN | Top No-Cost Gaming for Computers | Demystifying Mechanical Keyboard Designs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-file-sharing-windows-best-5-choices/"><u>Navigating File Sharing: Windows' Best 5 Choices</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-xiaomi-civi-3-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi Civi 3? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

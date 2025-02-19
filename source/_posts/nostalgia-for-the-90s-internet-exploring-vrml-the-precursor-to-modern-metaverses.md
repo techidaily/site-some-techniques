@@ -1,7 +1,7 @@
 ---
 title: "Nostalgia for the '90S Internet: Exploring VRML, the Precursor to Modern Metaverses"
-date: 2025-01-28T03:55:26.394Z
-updated: 2025-01-29T04:27:45.918Z
+date: 2025-02-17T20:47:45.084Z
+updated: 2025-02-19T18:53:44.011Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ---
 
 ## Nostalgia for the '90S Internet: Exploring VRML, the Precursor to Modern Metaverses
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,11 +21,19 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  In the early 1990s, futurists and corporations combined forces to create [VRML](https://en.wikipedia.org/wiki/VRML), a Virtual Reality Modeling Language that promised to bring 3D graphics and virtual worlds to the web, heralding the dawn of [the metaverse](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/). Here's what it was---and why it didn't work out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When 3D Was the Future
 
  At a time when real-time 3D computer graphics were out of reach for the average person, [3D interfaces](https://en.wikipedia.org/wiki/Fsn%5F%28file%5Fmanager%29) seemed like the next step forward in the evolution of computers---and maybe [even humanity itself](http://hyperreal.org/~mpesce/interview.html). The primary driver of the 3D buzz at the time was [virtual reality](https://en.wikipedia.org/wiki/Virtual%5Freality) (VR), which promised bodily immersion into simulated 3D worlds.
 
 ![People demonstrating VPL virtual reality in the late 1980s.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nasa_vr.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _NASA_
 
@@ -40,7 +44,7 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
  In 1992, Neil Stephenson [coined the term "metaverse"](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) in his sci-fi novel Snow Crash. It crystallized ideas about the alternate realities in worldwide computer networks that originated from various sources, including William Gibson's [Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441007465/?tag=htg-v2-1o0vieq-20&ascsubtag=UUhtgUeUpU207342&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778554%2Fremembering-vrml-the-metaverse-of-1995%2F&asc%5Fcampaign=Short-Term) (1984), another influential cyberpunk novel. Without much delay or hesitation, computer engineers who read these books [set out](http://hyperreal.org/~mpesce/interview.html) to turn these dystopian cyberpunk visions into reality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enter VRML
@@ -55,10 +59,6 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 
 ![A vintage VRML logo circa 1995-96](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/vrml_logo.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After picking up support from other developers, the VRML standard debuted in November 1994\. At first, VRML only supported 3D static objects, but over time the standard grew to encompass avatars, animations, pulling in multimedia, and more. Early on, VRML [drew support](https://www.cnet.com/tech/services-and-software/vrml-support-building/) from major corporations such as Microsoft, Netscape, Silicon Graphics, and dozens of others. For a short time, its future seemed pretty solid.
 
  VRML files (which usually use the .WRL file extension), store three-dimensional geometric shapes using a text-based language that describes the geometrical properties of the objects. Much like a [2D vector graphics file](https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-g22-drfone-by-drfone-virtual-android/) that contains instructions on how to draw an image, VRML files include instructions needed to render a 3D scene, which makes the format relatively compact, data-wise.
@@ -69,10 +69,6 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 
 ![A VRML Alice in Wonderland Scene](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/vrml_alice.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Lunatic Interactive](https://web.archive.org/web/20090226193316/http://www.x-3-x.net/vrml/worlds.htm)
 
  In 1995, a German company called Black Sun Interactive (later changed to "Blaxxun Interactive") developed multi-user server software that utilized VRML for graphics and allowed more complex interactions to take place than simply viewing 3D objects. Blaxxun's software laid the foundation for what was one of the first 3D "metaverses" on the Internet, [CyberTown](https://en.wikipedia.org/wiki/CyberTown), launched in April 1995\. VRML also powered experiments such as a [3D site created by the Atlanta Braves](https://www.cnet.com/tech/services-and-software/short-atlanta-braves-3d-site-launched/) and a [prototype virtual clothing store from The Gap](https://www.wired.com/1997/02/the-gap-tries-on-vrml-will-it-fit/), among others. [OZ Virtual](https://www.digitalspace.com/avatars/book/fullbook/choz/choz1.htm) and several other firms did similar work in creating 3D chat worlds with VRML.
@@ -82,6 +78,10 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 Sony
 
  Sony also ran a popular VRML-powered world in Japan called [SAPARi](https://web.archive.org/web/20021213091644/http://vrml.sony.co.jp/sapari/index.htm), which ran through a client [distributed on its VAIO computers](https://en.wikipedia.org/wiki/SAPARi) between 1997 and 2001\. The story doesn't end there, but VRML's fragmented past is currently scattered between the couch cushions of the internet, waiting for someone to pick up the pieces and reassemble the entire puzzle of this lost chapter of online history.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Happened to VRML?
 
@@ -112,7 +112,7 @@ Related: [There Is No Metaverse (Yet)](https://extra-guidance.techidaily.com/new
 ![Viewing a VRML file using view3dscene in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/vrml_modern_windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Also, the [X\_ITE X3D Browser's website](https://create3000.github.io/x%5Fite/), which uses a JavaScript library for rendering Web3D and VRML has a gallery of VRML and similar X3D content examples that you can view in any modern web browser, no plugins required.
@@ -138,16 +138,16 @@ Related: [What Is the Metaverse? Is It Just Virtual Reality, or Something More?]
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-infusing-life-into-ig-story-posts-a-guide-to-dynamic-animated-text/"><u>[New] Infusing Life Into IG Story Posts A Guide to Dynamic, Animated Text</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertly-designed-batteries-for-gopro-hero5-black/"><u>[Updated] Expertly Designed Batteries for GoPro Hero5 Black</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonious-blends-using-fades-in-logic-pro-x/"><u>[Updated] Harmonious Blends Using Fades in Logic Pro X</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-digital-dreams-unite-conference/"><u>[Updated] In 2024, Digital Dreams Unite Conference</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-brother-mfc-7860dw-printer-drivers-latest-version-available-now/"><u>Free Brother MFC-7860DW Printer Drivers - Latest Version Available Now!</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y55s-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guia-facil-de-edicao-de-videos-no-mac-com-a-ferramenta-creator-da-moveave/"><u>Guia Fácil De Edição De Vídeos No Mac Com a Ferramenta Creator Da Moveave</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humor-harmony-optimal-websites-for-fun-ringtones/"><u>In 2024, Humor Harmony Optimal Websites for Fun Ringtones</u></a></li>
-<li><a href="https://win-news.techidaily.com/solve-your-pcs-registry-damage-post-software-setup-tips-and-tricks-yl-tech-advice/"><u>Solve Your PC's Registry Damage Post-Software Setup: Tips & Tricks - YL Tech Advice</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/solving-handbrake-dvd-burning-problems-on-windows-11/"><u>Solving Handbrake DVD Burning Problems on Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-first-steps-in-digital-content-top-10-easy-to-make-youtube-projects/"><u>[New] First Steps in Digital Content Top 10 Easy-to-Make YouTube Projects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-retrieve-flawless-copyright-free-images/"><u>[New] How to Retrieve Flawless, Copyright-Free Images</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-photoshop-techniques-for-dynamic-realistic-text/"><u>[New] In 2024, Photoshop Techniques for Dynamic, Realistic Text</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-jumpstart-your-snapchat-learn-to-create-top-boomers-for-2024/"><u>[New] Jumpstart Your Snapchat Learn to Create Top Boomers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-google-chromes-advanced-multiscreen-capabilities/"><u>[Updated] Explore Google Chrome's Advanced Multiscreen Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-video-workflow-youtube-to-mpeg-essentials/"><u>2024 Approved Streamline Your Video Workflow YouTube-to-MPEG Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software-for-2024/"><u>From Novice to Expert A Comprehensive Guide to Mac's Preview Software for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range-for-2024/"><u>From Standard to Spectacular The Transformative Power of High Dynamic Range for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-movies-for-free-simple-video-player-software/"><u>In 2024, Explore Movies for Free Simple VIDEO Player Software</u></a></li>
+<li><a href="https://win-best.techidaily.com/titre-sauvegarde-et-configuration-des-postes-de-bureau-microsoft-windows-pour-un-travail-efficient/"><u>Titre: Sauvegarde Et Configuration Des Postes De Bureau Microsoft Windows Pour Un Travail Efficient</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repair-for-device-not-found-code-24-in-windows-operating-systems/"><u>Troubleshooting and Repair for 'Device Not Found' (Code 24) in Windows Operating Systems</u></a></li>
 </ul></div>
 

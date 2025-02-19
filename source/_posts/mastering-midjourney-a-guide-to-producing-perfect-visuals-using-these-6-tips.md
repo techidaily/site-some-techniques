@@ -1,7 +1,7 @@
 ---
 title: "Mastering MidJourney: A Guide to Producing Perfect Visuals Using These 6 Tips"
-date: 2025-01-25T23:22:13.847Z
-updated: 2025-01-29T00:57:54.756Z
+date: 2025-02-16T19:40:35.571Z
+updated: 2025-02-19T17:15:21.957Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  The latest version of MidJourney is pretty great at understanding what you want and giving it to you, but if the AI is being a little stubborn, there are a few ways you can increase the chances of getting exactly what you wanted from the imagination of the machine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Iterate Your Prompts
 
  MidJourney V6 and later has changed how it interprets prompts drastically from before. It now understands natural language much better, so you can give it long and elaborate prompts, and it will generally give you something that has all the elements that you asked for, but have you thought it through?
@@ -29,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
  With each iteration, as you think of more elements to add, you'll get a feel for when you're putting too much in, or when a single element in the prompt is causing chaos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Be Specific About Composition
 
  MidJourney V6 represent a major leap when it comes to prompt adherence—how well it sticks to the instructions in the prompt. In the past, you'd get a variety of compositions, and then choose which you liked, but now you can take much more control if you take the time to describe what the image layout should be.
@@ -41,21 +41,17 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
 ![An example of MidJourney sticking correctly to a prompt with a man and woman smiling at each other in a garden.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-26-at-23-21-12.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can see MidJourney pretty much nailed it with all four images generated from the prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use the Right Style Modifier
 
  Nothing will create bigger headaches for you than giving MidJourney a prompt without some sort of indication of the style you want. A huge part of an image's appeal or final result is the style that it's mimicking. This is like saying you want to watch a movie, but you don't specify whether it should be a romance or a horror film—you'll probably get something you dislike!
 
  I've written about some of my [favorite Midjourney style modifiers](https://extra-lessons.techidaily.com/in-2024-compact-movie-story-proposal/) before, but these are just examples to get you thinking about style. It's definitely worth doing some research on the various art styles, or to find out what the art style is called for your favorite pieces. It's quite often the missing ingredient in a prompt that makes all the difference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Negative Prompts
 
@@ -69,15 +65,15 @@ Sydney Louw Butler/How-To Geek/Midjourney
 
  The power of negative prompts can't be overstated, and it's a good way to take control of what's in your image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Let ChatGPT Write or Polish Your Prompt
 
  Most people probably underestimate the length of prompt that Midjourney can process, and humans are a little lazy by nature, so you're probably not writing whole paragraphs of imaginative visual text. However, chatbots like ChatGPT have no problem with verbosity and can often come up with details you may not have thought of.
 
  It's as simple as asking ChatGPT for a prompt based on your needs, but I've created a short guide to help you [combine ChatGPT and Midjourney](https://facebook-video-footage.techidaily.com/updated-in-2024-downloader-essentials-the-best-tools-for-offline-viewing/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use "Vary Region" and Other Advanced Tools
 
@@ -85,21 +81,25 @@ Sydney Louw Butler/How-To Geek/Midjourney
 
 ![A Midjourney image in Discord with the modification buttons visible beneath it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-27-at-09-53-22.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler/How-To Geek/Midjourney
 
  This is what they look like in the Alpha web interface that's only open to users with more than 1000 images under the belt as of this writing.
 
 ![The advanced tweaking buttons in Midjourney's web alpha interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-27-at-09-57-44.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Sydney Louw Butler/How-To Geek/Midjourney
 
  One of the best is "Vary Region", which is Midjourney's name for its inpainting feature. This allows you to make parts of the image you're not happy with, and re-generate those portions without affecting the rest of the picture.
 
 ![A MidJourney image marked with the  Vary Region function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/midjourney-vary-region.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The [panning and zooming tools](https://some-skills.techidaily.com/2024-approved-total-insight-into-vscos-photography-ecosystem/) are also invaluable, especially if something in your image has been cut off, or the framing is too close. None of these tools alter your original image, so it's perfectly safe to experiment with them.
 
@@ -122,22 +122,22 @@ Sydney Louw Butler/How-To Geek/Midjourney
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/oosting-engagement-from-the-start-premium-paid-free-intra-creators-for-2024/"><u>[New] Boosting Engagement From the Start Premium, Paid-Free Intra Creators for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ffmpeg-and-its-proficiency-in-original-audio-extraction/"><u>[New] FFmpeg and Its Proficiency in Original Audio Extraction</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-perfect-inversion-youtube-reverse-guidebook/"><u>[New] The Perfect Inversion YouTube Reverse Guidebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-the-complete-breakdown-of-facebooks-changes/"><u>[Updated] 2024 Approved The Complete Breakdown of Facebook's Changes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-video-player-face-off-vlc-against-mpc/"><u>[Updated] Free Video Player Face-Off VLC Against MPC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-vision-and-voice-the-ultimate-guide/"><u>[Updated] Harmonizing Vision and Voice The Ultimate Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-nifty-steps-to-generate-timely-captions-and-text-for-fb-video-uploads/"><u>2024 Approved Nifty Steps to Generate Timely Captions and Text for FB Video Uploads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/faces-in-flux-perfecting-motion-blur-on-human-figures-in-photos-for-2024/"><u>Faces in Flux Perfecting Motion Blur on Human Figures in Photos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guidance-best-websites-to-find-google-pixel-ringtones-and-how-to-customize-google-pixel-ringtones-for-2024/"><u>Guidance Best Websites To Find Google Pixel Ringtones & How To Customize Google Pixel Ringtones for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-channel-control-center-creator-studio-essentials/"><u>In 2024, Channel Control Center Creator Studio Essentials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-wirecast-other-options-to-consider/"><u>In 2024, Evaluating WireCast Other Options To Consider</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-drone-racing-enthusiasts-and-premium-fpv-units/"><u>In 2024, Expert Tips for Drone Racing Enthusiasts & Premium FPV Units</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-film-visionarys-hub-the-definitive-15-luts-for-gopro-cinematic-use/"><u>In 2024, Film Visionary's Hub The Definitive 15 LUTs for GOPRO Cinematic Use</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphone-cinematography-guide-8-insider-secrets-to-professional-video-creation/"><u>In 2024, IPhone Cinematography Guide 8 Insider Secrets to Professional Video Creation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-depth-look-at-fraps-screen-capture/"><u>In-Depth Look at Fraps Screen Capture</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-is-now-deciphering-the-complete-picture-of-apples-ai-developments-from-wwdc-2024/"><u>The Future Is Now: Deciphering the Complete Picture of Apple's AI Developments From WWDC 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/troubleshooting-understanding-why-your-pc-ignores-the-external-hard-drive-yl-computing-expertise/"><u>Troubleshooting: Understanding Why Your PC Ignores the External Hard Drive (YL Computing Expertise)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-explore-the-finest-moba-games-for-android/"><u>[New] Explore the Finest MOBA Games for Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-cutting-edge-identifying-instagram-leavers/"><u>[Updated] In 2024, Cutting Edge Identifying Instagram Leavers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-virtual-wit-wizardry/"><u>[Updated] Virtual Wit Wizardry</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-framework-for-visual-storytelling/"><u>2024 Approved Framework for Visual Storytelling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-flat-panes-to-360-viewing-a-vr-comparison/"><u>2024 Approved From Flat Panes to 360 Viewing A VR Comparison</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-to-know-the-pros-of-engaging-with-asmr/"><u>2024 Approved Get to Know the Pros of Engaging with ASMR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-hush-techniques-for-quieting-tunes/"><u>2024 Approved Harmonious Hush Techniques for QUIETing Tunes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-fade-music-on-windowsmac/"><u>2024 Approved How to Fade Music on Windows/Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-at-facetune-complete-app-revision/"><u>2024 Approved In-Depth Look at Facetune Complete App Revision</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-action-into-photos-using-illustrators-features/"><u>2024 Approved Infusing Action Into Photos Using Illustrator's Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cross-platform-capture-made-simple-for-pc-mac-and-ios/"><u>Cross-Platform Capture Made Simple for PC, Mac & iOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-nvidia-rtx-2060-super-drivers-on-windows-11-devices/"><u>Download & Install NVIDIA RTX 2060 Super Drivers on Windows 11 Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-conceptualization-to-connection-stream-your-video-now-for-2024/"><u>From Conceptualization to Connection Stream Your Video Now for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/full-analysis-navigating-the-depths-of-adobes-data-safekeeping-and-competitor-highlights/"><u>Full Analysis Navigating the Depths of Adobe's Data Safekeeping and Competitor Highlights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-iphone-16-rumors-unveiled-expect-ultra-thin-edges-and-revolutionary-spatial-capture-across-every-model-tech-insights/"><u>New iPhone 16 Rumors Unveiled: Expect Ultra-Thin Edges & Revolutionary Spatial Capture Across Every Model | Tech Insights</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-14-plus-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone 14 Plus with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor 90 GT | Dr.fone</u></a></li>
 </ul></div>
 

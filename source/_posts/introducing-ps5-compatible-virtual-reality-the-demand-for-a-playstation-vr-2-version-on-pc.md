@@ -1,7 +1,7 @@
 ---
 title: "Introducing PS5 Compatible Virtual Reality: The Demand for a PlayStation VR 2 Version on PC"
-date: 2025-01-23T02:33:36.247Z
-updated: 2025-01-29T02:24:06.020Z
+date: 2025-02-18T16:13:58.537Z
+updated: 2025-02-19T20:14:09.906Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 ---
 
 ## Introducing PS5 Compatible Virtual Reality: The Demand for a PlayStation VR 2 Version on PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,15 +26,15 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
  Sony's next-generation [PlayStation VR 2 headset](https://blog.playstation.com/2022/01/04/playstation-vr2-and-playstation-vr2-sense-controller-the-next-generation-of-vr-gaming-on-ps5/) is truly impressive. That makes it a real shame to limit it to the [PlayStation 5](https://www.amazon.com/stores/page/07A20468-F527-4562-8FB4-23F8ACBCD3A8?tag=htg-v2-ug34g4t-20&ascsubtag=UUhtgUeUpU207332&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778792%2Fhey-sony-we-want-the-playstation-vr-2-for-pc-vr-too%2F&asc%5Fcampaign=Short-Term) alone. We think Sony has much to gain by opening the PSVR 2 to PC users, too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is PlayStation VR 2?
 
  The PlayStation VR 2 is the successor to the [PlayStation VR headset](https://www.amazon.com/PlayStation-VR-4/dp/B01DE9DY8S?tag=htg-v2-ug34g4t-20&ascsubtag=UUhtgUeUpU207332&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778792%2Fhey-sony-we-want-the-playstation-vr-2-for-pc-vr-too%2F&asc%5Fcampaign=Short-Term) released for use with the Sony PlayStation 4\. The PSVR re-used the PlayStation 4 camera and the Move controllers from the PlayStation 3 along with a special processing unit to make high-end VR possible on Sony's $399 console.
 
 ![A child using a Sony PS VR headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/shutterstock_1375053872.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Lutsenko\_Oleksandr/Shutterstock.com](https://www.shutterstock.com/image-photo/kyiv-ukraine-april-12-2019-boy-1375053872)
 
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
  According to the official specifications released by Sony, the PlayStation VR 2 uses a single [USB-C connection](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/), [inside-out tracking](https://tech-savvy.techidaily.com/windows-10-visual-recall-a-step-by-step-screenshot-tutorial/), [foveated rendering](https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-13-mini-drfone-by-drfone-ios-data-recovery-ios-data-recovery/), and a 110-degree field of view. It also comes with the same next-generation haptic feedback found in the PlayStation 5's DualSense controllers. While we don't know the price of the headset at the time of writing, it's far likelier to fall somewhere between the $299 [Quest 2](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) and the $599 (often $399) [HP Reverb G2](https://www.amazon.com/Headset-Controller-Adjustable-Speakers-Ergonomic-Compatible/dp/B08TB5J7KY?tag=htg-v2-ug34g4t-20&ascsubtag=UUhtgUeUpU207332&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F778792%2Fhey-sony-we-want-the-playstation-vr-2-for-pc-vr-too%2F&asc%5Fcampaign=Short-Term) than the $999 [Valve Index](https://store.steampowered.com/valveindex).
 
 ![31NLGzA5upL._SL500_-7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31nlgza5upl-_sl500_-7.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 A Great VR Experience
 
@@ -64,30 +64,26 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
 
  We think that making this technology a standard feature will motivate developers to use it and so PC ports of VR games are more likely to support it. Obviously, it would be ideal if the actual hardware could also work on PC and this is a prime reason to want the PlayStation VR 2 on PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Is PC Gaming Competing With the PS5
 
  It's safe to assume that Sony hopes its headset will sell more PlayStation 5 consoles and there will undoubtedly be exclusive VR games for which you must own a PlayStation 5 and PlayStation VR 2 to enjoy.
 
  The question is whether opening the PlayStation VR 2 to PC will affect that goal in any way. PC users who have no interest in PlayStation 5 may still buy the headset and we don't see that hurting sales of PlayStation VR 2 headsets to PlayStation 5 owners. In fact, PC gamers may be more likely to buy a PlayStation 5 in the future knowing that their single headset investment will cover both platforms.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sony Games Are Entering the PC Space
 
 ![Horizon Zero Dawn PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/Horizon-Zero-Dawn-PC.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Sony has slowly started releasing PC ports of some formerly exclusive games like Horizon: Zero Dawn. This has yet to happen with VR games or with PlayStation 5 exclusive games, but we can foresee a future where PC versions of PlayStation VR 2 games come to PC. If those games can only be fully experienced with the Sony headset, it does make sense to allow PC users access.
 
  There is some precedent for this. The DualSense controller works as a standard controller on PC and mobile devices, albeit without the full haptic experience. Some specific games, such as Metro Exodus, do support the full DualSense experience on something that isn't a PlayStation. So we know Sony isn't entirely averse to the idea.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Hard Would PC Compatibility Be?
@@ -97,6 +93,10 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
  There are various projects to "hack" the PSVR for PC use, but without proper camera tracking solutions, they are largely curiosities.
 
  The PlayStation VR 2 uses a standard USB-C connection, so we don't foresee any fundamental hardware issues. Getting the PlayStation VR 2 to work with a PC is likely down to software drivers. We have no doubt that enterprising hackers will eventually produce a third-party driver for the PlayStation VR 2, which is even more reason for Sony to step in and make that move itself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Will PlayStation VR 2 Be a Loss-leader?
 
@@ -121,22 +121,24 @@ The Oculus Quest 2 does it all, no matter what kind of VR you're looking to expe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-best-mac-video-captures-compilation-under-156-characters-for-2024/"><u>[New] Best Mac Video Captures Compilation (Under 156 Characters) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-end-photo-overlays-for-creative-texting/"><u>[New] High-End Photo Overlays for Creative Texting</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-3-part-blueprint-to-monitor-and-maximize-your-youtube-profits/"><u>[Updated] 2024 Approved 3-Part Blueprint to Monitor and Maximize Your YouTube Profits</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-complete-blueprint-adding-professional-effects-to-your-videos/"><u>[Updated] 2024 Approved The Complete Blueprint Adding Professional Effects to Your Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-srt-conversion-uncover-top-8-online-options/"><u>[Updated] Free SRT Conversion Uncover Top 8 Online Options</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fundamental-techniques-from-video-links-to-downloaded-audios/"><u>[Updated] Fundamental Techniques From Video Links to Downloaded Audios</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-audio-and-visuals-in-win11/"><u>2024 Approved Harmonizing Audio and Visuals in Win11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hustle-humor-fast-track-funny-with-kapwing/"><u>2024 Approved Hustle Humor Fast-Track Funny with Kapwing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-uncovering-your-individual-playlist-sanctuary-on-youtube/"><u>2024 Approved Uncovering Your Individual Playlist Sanctuary on Youtube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/4-routes-to-confirm-gpt-functionality-now/"><u>4 Routes to Confirm GPT Functionality Now</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/comment-corriger-les-desordres-visuels-sur-une-video-traitee-par-handbrake-apres-extraction-de-dvd-sous-windows-11/"><u>Comment Corriger Les Désordres Visuels Sur Une Vidéo Traitée Par HandBrake Après Extraction De DVD Sous Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filmmaking-basics-top-action-cameras-reviewed-in-23-for-2024/"><u>Filmmaking Basics Top Action Cameras Reviewed in '23 for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-city-escapades-games-paralleling-gta-v-adventure/"><u>In 2024, City Escapades Games Paralleling GTA V Adventure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-editing-merging-storyremix-with-windows-photos-for-professional-results/"><u>In 2024, Excellence in Editing Merging StoryRemix with Windows Photos for Professional Results</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-top-notch-gif-utilities-on-ios-devices/"><u>In 2024, Exploring Top-Notch GIF Utilities on iOS Devices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/perfect-your-presence-advanced-tactics-for-youtube-live-visuals/"><u>Perfect Your Presence Advanced Tactics for YouTube Live Visuals</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-master-higher-rankings-on-yt-the-best-seo-tips-and-tricks-1-11/"><u>[New] 2024 Approved Master Higher Rankings on YT The Best SEO Tips and Tricks (1-11)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-diverse-devices-no-problem-record-youtube-livestream-easily/"><u>[New] Diverse Devices? No Problem! Record YouTube Livestream Easily</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-pictorial-narration-framework/"><u>[Updated] 2024 Approved Pictorial Narration Framework</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-advanced-mac-screen-plus-sound-capturer-extraordinaire/"><u>[Updated] In 2024, Advanced Mac Screen + Sound Capturer Extraordinaire</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-websites-for-3d-metallic-type-imagery/"><u>2024 Approved Excellent Websites for 3D Metallic Type Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-list-of-e-commerce-sites-for-one-of-a-kind-boxed-gifts/"><u>2024 Approved Exclusive List of E-Commerce Sites for One-of-a-Kind Boxed Gifts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tuning-soundtracks-with-garageband-expertise/"><u>2024 Approved Fine-Tuning Soundtracks with GarageBand Expertise</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focus-on-details-masterful-close-up-techniques-for-gaming/"><u>2024 Approved Focus on Details Masterful Close-Up Techniques for Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-forge-partnerships-from-initial-contact-to-final-deal-on-youtube/"><u>2024 Approved Forge Partnerships From Initial Contact to Final Deal on Youtube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>2024 Approved From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-hp-pagewide-pro-477dw-drivers-for-latest-windows-versions-including-11-10-and-8/"><u>Download HP PageWide Pro 477DW Drivers for Latest Windows Versions Including 11, 10 & 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-websites-for-ultimate-vector-clarity-for-2024/"><u>Exclusive Websites for Ultimate Vector Clarity for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ffmpeg-and-its-role-in-preserving-natural-auditory-formats-for-2024/"><u>FFmpeg and Its Role in Preserving Natural Auditory Formats for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-visuals-galore-top-10-sites-to-explore-for-2024/"><u>Free Visuals Galore – Top 10 Sites to Explore for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-xiaomi-mix-fold-3-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Xiaomi Mix Fold 3 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insta-twist-techniques-crafting-compelling-content-with-camera-angles-for-2024/"><u>Insta Twist Techniques Crafting Compelling Content with Camera Angles for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-list-of-mp4-video-tag-editors-for-2024/"><u>New The Ultimate List of MP4 Video Tag Editors for 2024</u></a></li>
 </ul></div>
 

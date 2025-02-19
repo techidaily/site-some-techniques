@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work"
-date: 2025-02-04T19:34:47.620Z
-updated: 2025-02-09T19:43:22.179Z
+date: 2025-02-12T16:32:29.309Z
+updated: 2025-02-19T16:07:39.849Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ## Boost Productivity: Essential Mac Keyboard Shortcut for an Improved Daily Start at Work
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,22 +90,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-engagement-top-hashtags-for-gameplay-vids/"><u>[New] 2024 Approved Elevate Engagement Top Hashtags for Gameplay Vids</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-gameplay-a-sims-4-tutorial/"><u>[New] Capturing Gameplay A Sims 4 Tutorial</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-picks-15-innovative-mounts-to-elevate-your-gopro/"><u>[New] Expert Picks 15 Innovative Mounts to Elevate Your GoPro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-future-frames-the-years-top-cinematographic-innovations-2024/"><u>[New] Future Frames The Year's Top Cinematographic Innovations - 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-independent-filming-freedoms-agreement/"><u>[New] Independent Filming Freedoms Agreement</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-revolutionizing-your-webinar-recordings-a-blueprint-for-2024/"><u>[New] Revolutionizing Your Webinar Recordings A Blueprint for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-muddled-to-clear-mastering-photo-bg-removal/"><u>[Updated] From Muddled to Clear Mastering Photo Bg Removal</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guffaw-generator-pictorial-editor/"><u>[Updated] Guffaw Generator Pictorial Editor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hubs-for-high-quality-vr-watching/"><u>[Updated] Hubs for High-Quality VR Watching</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-seamless-wireless-media-casting-how-to-enable-airplay-like-features-on-your-windows-pc/"><u>1. Seamless Wireless Media Casting: How to Enable AirPlay-Like Features on Your Windows PC</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/belly-laughs-ledger-no-fee-funny-templates/"><u>Belly Laughs Ledger No-Fee Funny Templates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-to-know-the-pros-of-engaging-with-asmr/"><u>In 2024, Get to Know the Pros of Engaging with ASMR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-distortion-effects-in-photoshop/"><u>In 2024, How to Create Distortion Effects in Photoshop</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-securing-your-snapshots-premium-and-budget-friendly-cloud-options/"><u>In 2024, Securing Your Snapshots Premium and Budget-Friendly Cloud Options</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-ultimate-playbook-youtube-gaming-success/"><u>The Ultimate Playbook YouTube Gaming Success</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/top-iphones-and-android-premium-coverage-for-your-ig-highlights/"><u>Top iPhones & Android Premium Coverage for Your IG Highlights</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-now-the-latest-version-of-brother-scanning-software-for-windows-computers/"><u>Update Now: The Latest Version of Brother Scanning Software for Windows Computers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-fidelity-performance-desktops/"><u>[New] High Fidelity Performance Desktops</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-mkv-player-suite-mobile-and-desktop/"><u>[New] Ideal MKV Player Suite (Mobile & Desktop)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-seamless-integration-using-your-switch-pro-controller-to-dominate-on-steam-for-2024/"><u>[New] Seamless Integration Using Your Switch Pro Controller to Dominate on Steam for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-streaming-stakes-pewdiepies-earnings-examination-for-2024/"><u>[New] Streaming Stakes PewDiePie’s Earnings Examination for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funnyfaces-forum-jokeye-imagez/"><u>[Updated] FunnyFaces Forum Jokeye Imagez</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-select-a-premium-360-camera-today/"><u>2024 Approved How to Select a Premium 360 Camera Today</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-affordable-video-effecting-sites-online/"><u>2024 Approved Top 5 Affordable Video Effecting Sites Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-ambiguity-clear-dating-of-digital-pics/"><u>Avoiding Ambiguity Clear Dating of Digital Pics</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-poco-f5-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Poco F5 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tless-youtube-live-with-step-by-step-obs-guide-for-beginners-for-2024/"><u>Effortless YouTube Live with Step-by-Step OBS Guide for Beginners for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fabletellers-fellowship-esteemed-ensemble-for-2024/"><u>Fabletellers Fellowship – Esteemed Ensemble for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fast-forward-features-unveiled-the-editors-guidebook-for-2024/"><u>Fast-Forward Features Unveiled The Editor's Guidebook for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/how-to-select-a-premium-360-camera-today-for-2024/"><u>How to Select a Premium 360 Camera Today for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-chromecast-with-google-tv-a-new-contender-against-amazons-firetv/"><u>Review of Chromecast with Google TV - A New Contender Against Amazon's FireTV</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-12-tycoons-a-gamers-dream-achieving-business-brilliance-on-screen/"><u>Top 12 Tycoons A Gamer's Dream, Achieving Business Brilliance on Screen</u></a></li>
 </ul></div>
 

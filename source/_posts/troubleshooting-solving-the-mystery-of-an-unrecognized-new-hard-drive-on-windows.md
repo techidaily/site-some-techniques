@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Solving the Mystery of an Unrecognized New Hard Drive on Windows"
-date: 2025-02-08T19:33:35.589Z
-updated: 2025-02-09T19:43:22.370Z
+date: 2025-02-16T16:07:04.960Z
+updated: 2025-02-19T20:35:05.443Z
 tags:
   - deals
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 * [The Most Common Reason Your Disk Is Missing](https://fox-links.techidaily.com/new-2024-approved-essential-steps-to-prep-your-oculus-rift-zone/)
 * [How to Bring Your Missing Drive Online](https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-13-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Hard drives you purchase aren't usually preformatted, so Windows waits for you to decide what to do with the drive.
@@ -23,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 * After you initialize the drive, you must format it before you can store anything on it. Use NTFS if the drive will only be used in a Windows PC.
 
  You installed a new hard drive in your computer and, to your dismay, it's nowhere to be found. Don't panic, you just need to give Windows a little nudge to bring it online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Most Common Reason Your Disk Is Missing
 
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
  As such, when you put the drive in your system, Windows simply waits for you to decide what to do with the drive instead of automatically formatting and adding it to the drive list. If you've never added a hard drive to your computer before, however, it can be pretty disconcerting when it appears like the drive is missing (or, worse, dead). Have no fear, though! It's easy to bring your hard drive out of hiding.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Bring Your Missing Drive Online
 
  Assuming that the hard drive is installed properly, and is not, (by some horrible dumb luck) defective out of the gate, bringing it online is a very simple process. To do so, you first need to pull up the Windows Disk Management tool.
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c452aa264cd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c452aa264cd.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before we proceed, we want to appropriately warn you: Do not play around in Disk Management. Although the task we're about to perform is very straightforward and simple to do, if you muck around with this tool you will have a very bad time. Double check every step. Make sure you're selecting the correct disk, or you can lose lots of data.
 
  Disk Management will likely detect that you have a new drive and prompt you to initialize it. You should pick GPT if this option appears, then click "OK." 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 ![Select 'GPT (GUID Partition Table),' then click 'OK.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-hdd-auto-detected.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it doesn't show up, you just need to initialize it manually. In Disk Management, scroll down through the list of disks in the bottom pane. These disks will be labeled "Disk 1" through however many disks you have. Windows assigns a number to all hard disks, solid state disks, USB drives, and card readers, so don't be surprised if you have to scroll down a bit—in our case the new drive was "Disk 10" as seen below.
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c457c7c1208](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c457c7c1208.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the first step of the initilization process, you'll be prompted to choose whether you want to use a Master Boot Record (MBR) or a GUID Partition Table (GPT) for the partition style of your disk. If you want to do some in depth reading before making a choice, you can [check out our explainer here](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/). In short, unless you have a pressing reason to use MBR, use GPT instead—it's newer, more efficient, and offers more robust protection against corruptions of the boot record.
 
 ![img_57c45b8a5fff8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45b8a5fff8.png) 
@@ -78,16 +82,12 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 ![img_57c45c0ad925a](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45c0ad925a.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will launch the New Simple Volume Wizard to guide you through the process of setting up the disk. In the first step, select how much space you want to include in the volume. By default the number is the full amount of available disk space--unless you're planning on reserving space for additional partitions, there's no reason to change this. Click "Next".
 
 ![img_57c45c8fc3c3e](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/img_57c45c8fc3c3e.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the second step, assign a drive letter. The default is probably fine.
@@ -119,22 +119,22 @@ thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fast-track-converting-your-srt-files-to-text-format-today/"><u>[New] Fast Track Converting Your SRT Files to Text Format Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-fledged-vsco-editing-encyclopedia/"><u>[New] Full Fledged VSCO Editing Encyclopedia</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-methods-for-effective-image-pairing/"><u>[New] Innovative Methods for Effective Image Pairing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-launch-day-calculus-for-successful-podcasts/"><u>[Updated] Launch Day Calculus for Successful Podcasts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mastering-twitter-videos-a-beginners-tutorial-for-2024/"><u>[Updated] Mastering Twitter Videos A Beginner's Tutorial for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquering-monster-hunters-stealthy-foes-eradicating-the-dark-screen-malfunction-when-initiating-gameplay/"><u>Conquering Monster Hunter's Stealthy Foes: Eradicating the Dark Screen Malfunction When Initiating Gameplay</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flight-friendly-robot-categories-for-2024/"><u>Flight-Friendly Robot Categories for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-def-camera-the-top-audio-mics-guide-for-2024/"><u>High-Def Camera The Top Audio Mics Guide for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-dynamic-igtv-covers-design-and-update-strategies/"><u>In 2024, Dynamic IGTV Covers Design & Update Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-financial-arrangements-in-buying-guides-online/"><u>In 2024, Financial Arrangements in Buying Guides Online?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>In 2024, From Sound to Web Crafting a Standout Podcast RSS Feed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-navigate-the-treasure-trove-of-pexels-picture-paradise/"><u>In 2024, How to Navigate the Treasure Trove of Pexels' Picture Paradise</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-repairing-pixel-damage-discoloration-and-image-skewing-in-computers/"><u>Step-by-Step Guide: Repairing Pixel Damage, Discoloration & Image Skewing in Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-convenient-way-to-load-apk-files-on-windows-11/"><u>The Convenient Way to Load APK Files on Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-meaning-behind-your-ps4-controllers-colorful-lights-blue-white-red-and-orange-signals-explained/"><u>Understanding the Meaning Behind Your PS4 Controller's Colorful Lights: Blue, White, Red, and Orange Signals Explained</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/yogic-pathways-youtubes-top-10-wellness-vloggers/"><u>Yogic Pathways – YouTube's Top 10 Wellness Vloggers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-comprehensive-look-at-quantum-hdr/"><u>[New] A Comprehensive Look at Quantum HDR</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-best-in-class-elite-4k-televisions-for-2024/"><u>[New] Best in Class Elite 4K Televisions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero4-vs-gopro-hero5-showdown/"><u>[New] GoPro Hero4 vs GoPro Hero5 Showdown</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highlighting-excellence-in-8-3d-websites-with-gold-effects/"><u>[New] Highlighting Excellence in 8 3D Websites with Gold Effects</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-elevating-gameplay-streaming-mastery-for-youtubers-for-2024/"><u>[Updated] Elevating Gameplay Streaming Mastery for YouTubers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-film-talents-unleashed-downloadable-content-pass/"><u>[Updated] Film Talents Unleashed Downloadable Content Pass</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-a-way-to-download-fcp-free-of-charge/"><u>[Updated] Finding a Way to Download FCP Free-Of-Charge</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-stop-motion-cinema-ranking-the-best-15/"><u>[Updated] Innovative Stop-Motion Cinema Ranking the Best 15</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-nailing-your-live-on-facebook-a-recorders-manual-for-2024/"><u>[Updated] Nailing Your Live on Facebook A Recorder's Manual for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-eye-of-excellence-a-comprehensive-list-of-8k-cameras/"><u>2024 Approved Eye of Excellence A Comprehensive List of 8K Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos/"><u>2024 Approved Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dissecting-the-specifications-apples-m1-pro-versus-m1-max/"><u>Dissecting the Specifications Apple’s M1 Pro Versus M1 Max</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone 14</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-approaches-to-nba-game-broadcasting-for-2024/"><u>Innovative Approaches to NBA Game Broadcasting for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/no-video-paths-in-modern-education-systems-for-2024/"><u>No-Video Paths in Modern Education Systems for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-hyperx-cloud-alpha-s-mic-expert-tips/"><u>Troubleshoot and Repair Your HyperX Cloud Alpha S Mic - Expert Tips</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/windows-phone-7-assessments-insights-into-its-unique-operating-environment/"><u>Windows Phone 7 Assessments: Insights Into Its Unique Operating Environment</u></a></li>
 </ul></div>
 
